@@ -4,6 +4,7 @@ on:
   schedule:
     # 03:30 UTC = 06:30 Israel Daylight Time (05:30 in winter).
     - cron: "30 3 * * *"
+    - cron: "0 14 * * *"
   workflow_dispatch: {}   # lets you run it manually from the Actions tab
 
 permissions:
