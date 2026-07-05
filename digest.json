@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-05T15:59:51.870792+00:00",
- "generated_display": "Sunday, 05 July 2026 · 18:59",
+ "generated_at": "2026-07-05T16:14:43.039797+00:00",
+ "generated_display": "Sunday, 05 July 2026 · 19:14",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -113,16 +113,6 @@
    "published": "2026-07-05T15:38:17+00:00"
   },
   {
-   "title": "שר החינוך יואב קיש: \"אדלשטיין סטה מקווי הליכוד, מצפה שיחזיר את המנדט\"",
-   "link": "https://www.israelhayom.co.il/news/politics/article/20913569",
-   "summary": "קיש טען בוועידה השנתית של \"ישראל היום\" כי הבחירות הקרובות יוכרעו לפי שיעור ההצבעה בימין, והזהיר מפני ממשלת מיעוט של איזנקוט \"שנשענת על הערבים\" • לדבריו, הליכוד שואף ל\"ממשלת ימין לאומית רחבה\" שתישען על קווי היסוד של המחנה • במשרד החינוך הוא מבקש להמשיך את מהלכי הזהות היהודית, צמצום הכיתות ושילוב AI בלמידה",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-07-05T12:53:19+00:00"
-  },
-  {
    "title": "What We Saw at Ayatollah Khamenei’s Funeral",
    "link": "https://www.nytimes.com/video/world/middleeast/100000011011151/what-we-saw-at-ayatollah-khameneis-funeral.html",
    "summary": "Our Middle East correspondent Abdi Latif Dahir attended the first day of funeral ceremonies for Ayatollah Ali Khamenei, the former supreme leader of Iran who was killed by U.S. and Israeli air strikes in February.",
@@ -131,6 +121,16 @@
    "topic": "world",
    "rtl": false,
    "published": "2026-07-05T14:58:10+00:00"
+  },
+  {
+   "title": "הסחורה הראשית של נתניהו לבחירות: הפרת פסיקת ביהמ\"ש כאחרון העבריינים",
+   "link": "https://www.haaretz.co.il/digital/daily/2026-07-05/ty-article/.premium/0000019f-32b6-dd48-a3df-73b799ca0000",
+   "summary": "לממשלה הנוראית בתולדות ישראל לא נותר מה להציע מלבד כאוס. וגם: אדלשטיין בדרכו למקום הנחשק ביותר על המפה האלקטורלית, טיילור סוויפט נישאה בחתונה מלכותית ושיאנית הזכיות במונדיאל מקווה לשרוד נגד אחד החלוצים הטובים בעולם | היום ביומית",
+   "source": "הארץ",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-07-05T16:03:25+00:00"
   },
   {
    "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
@@ -165,7 +165,7 @@
   {
    "title": "הסיכון שבהחלטת הריבית מחר, והמניות שיובילו את מרוץ ה-AI בשנה הבאה",
    "link": "https://www.globes.co.il/news/article.aspx?did=1001547856#utm_source=RSS",
-   "summary": "זרם הכותרות מהזירה הגאופוליטית נחלש, ומיקוד המשקיעים עובר לנתונים היסודיים של השוק ולעונת הדוחות שבפתח • מדד הביטחוניות בת\"א רשם את השבוע החזק ביותר שלו מאז \"שאגת הארי\" • ריבית בנק ישראל צפויה לרדת מחר, אך איזה מסר יעביר הנגיד לגבי ההמשך? • וגם: בעיצומה של התנודתיות בתחום ה-AI, ב-UBS מסמנים את חמש המניות שיובילו ב-2027 • כל מה שכדאי לדעת לקראת שבוע המסחר",
+   "summary": "זרם הכותרות מהזירה הגאו-פוליטית נחלש, ומיקוד המשקיעים עובר לנתונים היסודיים של השוק ולעונת הדוחות שבפתח • מדד הביטחוניות בת\"א רשם את השבוע החזק ביותר שלו מאז \"שאגת הארי\" • ריבית בנק ישראל צפויה לרדת מחר, אך איזה מסר יעביר הנגיד לגבי ההמשך? • וגם: בעיצומה של התנודתיות בתחום ה-AI, ב-UBS מסמנים את חמש המניות שיובילו ב-2027 • כל מה שכדאי לדעת לקראת שבוע המסחר",
    "source": "גלובס",
    "lang": "he",
    "topic": "business",
@@ -193,6 +193,16 @@
    "published": "2026-07-05T11:01:00+00:00"
   },
   {
+   "title": "Where to preorder Grand Theft Auto VI",
+   "link": "https://www.theverge.com/gadgets/960838/grand-theft-auto-gta-6-vi-preorder-editions-buy",
+   "summary": "Rockstar's long-awaited Grand Theft Auto VI is launching November 19th, 2026 for PlayStation 5 and Xbox Series S/X consoles. The game will be available digitally at launch, with physical cases containing codes, not discs, so your options for preordering are straightforward. The preloading phase for the game begins on November 12th, which should give you […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-07-05T16:00:00+00:00"
+  },
+  {
    "title": "Coal is back in AustralianSuper’s portfolio. What happened to that net zero pledge?",
    "link": "https://www.theguardian.com/australia-news/2026/jul/06/australiansuper-coal-investment-superannuation-net-zero-pledge-climate",
    "summary": "In 2020 Australia’s biggest super fund dumped its Whitehaven shares. Fast forward to 2026 and it is now the coalminer’s single biggest investor Get our breaking news email , free app or daily news podcast Almost six years ago, the country’s biggest superannuation fund announced a major policy update: AustralianSuper’s investment portfolio would be subject to a net zero carbon emissions target in l",
@@ -211,16 +221,6 @@
    "topic": "world",
    "rtl": false,
    "published": "2026-07-05T15:00:30+00:00"
-  },
-  {
-   "title": "How Keurig saved — and ruined — your coffee",
-   "link": "https://www.theverge.com/podcast/961470/keurig-coffee-k-up-version-history",
-   "summary": "Before Keurig, the coffee in your office was almost certainly terrible. Old, burned, made by someone who would rather poorly eyeball than properly measure. Just altogether gross. After Keurig? You could make your own coffee, a cup at a time, exactly when you needed it. The single-cup brewer was an elegant solution to an extremely […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-07-05T13:51:56+00:00"
   },
   {
    "title": "המרוץ נגד רחפני הנפץ: מי יהיה הראשון שימצא את הפתרון?",
