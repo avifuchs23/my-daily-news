@@ -1,44 +1,322 @@
 {
-  "site_title": "The Morning \u05d4\u05d1\u05d5\u05e7\u05e8",
+  "site_title": "The Morning הבוקר",
   "timezone": "Asia/Jerusalem",
-  "max_stories": 22,
-  "max_per_topic": 7,
-  "max_per_source": 5,
+  "max_stories": 26,
+  "max_per_topic": 8,
+  "max_per_source": 2,
   "freshness_hours": 36,
-
   "topics": {
-    "israel":   { "label_en": "Israel",           "label_he": "\u05d9\u05e9\u05e8\u05d0\u05dc",              "weight": 1.0 },
-    "world":    { "label_en": "World & Politics", "label_he": "\u05e2\u05d5\u05dc\u05dd \u05d5\u05e4\u05d5\u05dc\u05d9\u05d8\u05d9\u05e7\u05d4", "weight": 0.9 },
-    "tech":     { "label_en": "Tech & AI",        "label_he": "\u05d8\u05db\u05e0\u05d5\u05dc\u05d5\u05d2\u05d9\u05d4 \u05d5-AI",  "weight": 0.9 },
-    "business": { "label_en": "Business",         "label_he": "\u05db\u05dc\u05db\u05dc\u05d4",              "weight": 0.85 }
+    "israel": {
+      "label_en": "Israel",
+      "label_he": "ישראל",
+      "weight": 1.0
+    },
+    "world": {
+      "label_en": "World & Politics",
+      "label_he": "עולם ופוליטיקה",
+      "weight": 0.9
+    },
+    "tech": {
+      "label_en": "Tech & AI",
+      "label_he": "טכנולוגיה ו-AI",
+      "weight": 0.9
+    },
+    "business": {
+      "label_en": "Business",
+      "label_he": "כלכלה",
+      "weight": 0.85
+    }
   },
-
   "boost_keywords": {
-    "tech": ["AI", "artificial intelligence", "OpenAI", "Anthropic", "Claude", "GPT", "Gemini", "Nvidia", "startup", "cyber", "\u05d1\u05d9\u05e0\u05d4 \u05de\u05dc\u05d0\u05db\u05d5\u05ea\u05d9\u05ea", "\u05e1\u05d9\u05d9\u05d1\u05e8", "\u05e1\u05d8\u05d0\u05e8\u05d8\u05d0\u05e4"],
-    "israel": ["\u05d9\u05e9\u05e8\u05d0\u05dc", "Israel", "Knesset", "\u05db\u05e0\u05e1\u05ea", "IDF", "\u05e6\u05d4\"\u05dc", "Jerusalem", "Tel Aviv", "\u05e0\u05e6\u05e8\u05ea", "Galilee"],
-    "world": ["election", "summit", "UN", "NATO", "ceasefire", "sanctions", "\u05d1\u05d7\u05d9\u05e8\u05d5\u05ea", "\u05e4\u05e1\u05d2\u05d4"],
-    "business": ["shekel", "\u05e9\u05e7\u05dc", "inflation", "\u05d0\u05d9\u05e0\u05e4\u05dc\u05e6\u05d9\u05d4", "\u05d1\u05d5\u05e8\u05e1\u05d4", "Nasdaq", "interest rate", "\u05e8\u05d9\u05d1\u05d9\u05ea", "exit", "\u05d0\u05e7\u05d6\u05d9\u05d8"]
+    "tech": [
+      "AI",
+      "artificial intelligence",
+      "OpenAI",
+      "Anthropic",
+      "Claude",
+      "GPT",
+      "Gemini",
+      "Nvidia",
+      "startup",
+      "cyber",
+      "בינה מלאכותית",
+      "סייבר",
+      "סטארטאפ"
+    ],
+    "israel": [
+      "ישראל",
+      "Israel",
+      "Knesset",
+      "כנסת",
+      "IDF",
+      "צה\"ל",
+      "Jerusalem",
+      "Tel Aviv",
+      "נצרת",
+      "Galilee"
+    ],
+    "world": [
+      "election",
+      "summit",
+      "UN",
+      "NATO",
+      "ceasefire",
+      "sanctions",
+      "בחירות",
+      "פסגה"
+    ],
+    "business": [
+      "shekel",
+      "שקל",
+      "inflation",
+      "אינפלציה",
+      "בורסה",
+      "Nasdaq",
+      "interest rate",
+      "ריבית",
+      "exit",
+      "אקזיט"
+    ]
   },
-
   "muted_keywords": [],
-
   "feeds": [
-    { "name": "Ynet \u05d7\u05d3\u05e9\u05d5\u05ea",   "url": "https://www.ynet.co.il/Integration/StoryRss2.xml",   "lang": "he", "topics": ["israel", "world"], "source_weight": 1.0 },
-    { "name": "Ynet \u05db\u05dc\u05db\u05dc\u05d4",   "url": "https://www.ynet.co.il/Integration/StoryRss6.xml",   "lang": "he", "topics": ["business"],        "source_weight": 0.9 },
-    { "name": "Ynet \u05d8\u05db\u05e0\u05d5\u05dc\u05d5\u05d2\u05d9\u05d4", "url": "https://www.ynet.co.il/Integration/StoryRss544.xml", "lang": "he", "topics": ["tech"],            "source_weight": 0.85 },
-    { "name": "\u05db\u05dc\u05db\u05dc\u05d9\u05e1\u05d8",  "url": "https://www.calcalist.co.il/GeneralRSS/0,16335,L-8,00.xml", "lang": "he", "topics": ["business", "tech"], "source_weight": 0.95 },
-    { "name": "\u05d2\u05dc\u05d5\u05d1\u05e1",      "url": "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=2", "lang": "he", "topics": ["business"], "source_weight": 0.95 },
-    { "name": "BBC World",       "url": "http://feeds.bbci.co.uk/news/world/rss.xml",      "lang": "en", "topics": ["world"],    "source_weight": 1.0 },
-    { "name": "The Guardian",    "url": "https://www.theguardian.com/world/rss",           "lang": "en", "topics": ["world"],    "source_weight": 0.9 },
-    { "name": "Times of Israel", "url": "https://www.timesofisrael.com/feed/",             "lang": "en", "topics": ["israel"],   "source_weight": 0.95 },
-    { "name": "BBC Business",    "url": "http://feeds.bbci.co.uk/news/business/rss.xml",   "lang": "en", "topics": ["business"], "source_weight": 0.9 },
-    { "name": "TechCrunch",      "url": "https://techcrunch.com/feed/",                    "lang": "en", "topics": ["tech"],     "source_weight": 1.0 },
-    { "name": "The Verge",       "url": "https://www.theverge.com/rss/index.xml",          "lang": "en", "topics": ["tech"],     "source_weight": 0.9 }
+    {
+      "name": "Ynet חדשות",
+      "url": "https://www.ynet.co.il/Integration/StoryRss2.xml",
+      "lang": "he",
+      "topics": [
+        "israel",
+        "world"
+      ],
+      "source_weight": 0.95,
+      "lean": "center"
+    },
+    {
+      "name": "Ynet כלכלה",
+      "url": "https://www.ynet.co.il/Integration/StoryRss6.xml",
+      "lang": "he",
+      "topics": [
+        "business"
+      ],
+      "source_weight": 0.9,
+      "lean": "center"
+    },
+    {
+      "name": "Ynet טכנולוגיה",
+      "url": "https://www.ynet.co.il/Integration/StoryRss544.xml",
+      "lang": "he",
+      "topics": [
+        "tech"
+      ],
+      "source_weight": 0.85,
+      "lean": "center"
+    },
+    {
+      "name": "וואלה",
+      "url": "https://rss.walla.co.il/feed/1",
+      "lang": "he",
+      "topics": [
+        "israel"
+      ],
+      "source_weight": 0.9,
+      "lean": "center-left"
+    },
+    {
+      "name": "מעריב",
+      "url": "https://www.maariv.co.il/Rss/RssFeedsMivzakiChadashot",
+      "lang": "he",
+      "topics": [
+        "israel"
+      ],
+      "source_weight": 0.85,
+      "lean": "center"
+    },
+    {
+      "name": "ישראל היום",
+      "url": "https://www.israelhayom.co.il/rss.xml",
+      "lang": "he",
+      "topics": [
+        "israel"
+      ],
+      "source_weight": 0.9,
+      "lean": "right"
+    },
+    {
+      "name": "ערוץ 7",
+      "url": "https://www.inn.co.il/Rss.aspx",
+      "lang": "he",
+      "topics": [
+        "israel"
+      ],
+      "source_weight": 0.8,
+      "lean": "right"
+    },
+    {
+      "name": "הארץ",
+      "url": "https://www.haaretz.co.il/srv/htz---all-articles",
+      "lang": "he",
+      "topics": [
+        "israel"
+      ],
+      "source_weight": 0.9,
+      "lean": "left"
+    },
+    {
+      "name": "כלכליסט",
+      "url": "https://www.calcalist.co.il/GeneralRSS/0,16335,L-8,00.xml",
+      "lang": "he",
+      "topics": [
+        "business",
+        "tech"
+      ],
+      "source_weight": 0.95,
+      "lean": "center"
+    },
+    {
+      "name": "גלובס",
+      "url": "https://www.globes.co.il/webservice/rss/rssfeeder.asmx/FeederNode?iID=2",
+      "lang": "he",
+      "topics": [
+        "business"
+      ],
+      "source_weight": 0.95,
+      "lean": "center"
+    },
+    {
+      "name": "Times of Israel",
+      "url": "https://www.timesofisrael.com/feed/",
+      "lang": "en",
+      "topics": [
+        "israel"
+      ],
+      "source_weight": 0.9,
+      "lean": "center-left"
+    },
+    {
+      "name": "Jerusalem Post",
+      "url": "https://www.jpost.com/rss/rssfeedsfrontpage.aspx",
+      "lang": "en",
+      "topics": [
+        "israel"
+      ],
+      "source_weight": 0.9,
+      "lean": "center-right"
+    },
+    {
+      "name": "BBC World",
+      "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "lang": "en",
+      "topics": [
+        "world"
+      ],
+      "source_weight": 1.0,
+      "lean": "center"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/rss",
+      "lang": "en",
+      "topics": [
+        "world"
+      ],
+      "source_weight": 0.9,
+      "lean": "left"
+    },
+    {
+      "name": "NY Times World",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "lang": "en",
+      "topics": [
+        "world"
+      ],
+      "source_weight": 0.95,
+      "lean": "center-left"
+    },
+    {
+      "name": "Fox News World",
+      "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+      "lang": "en",
+      "topics": [
+        "world"
+      ],
+      "source_weight": 0.85,
+      "lean": "right"
+    },
+    {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "lang": "en",
+      "topics": [
+        "world"
+      ],
+      "source_weight": 0.8,
+      "lean": "center-left"
+    },
+    {
+      "name": "NPR News",
+      "url": "https://feeds.npr.org/1004/rss.xml",
+      "lang": "en",
+      "topics": [
+        "world"
+      ],
+      "source_weight": 0.85,
+      "lean": "center-left"
+    },
+    {
+      "name": "BBC Business",
+      "url": "http://feeds.bbci.co.uk/news/business/rss.xml",
+      "lang": "en",
+      "topics": [
+        "business"
+      ],
+      "source_weight": 0.9,
+      "lean": "center"
+    },
+    {
+      "name": "WSJ Markets",
+      "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+      "lang": "en",
+      "topics": [
+        "business"
+      ],
+      "source_weight": 0.9,
+      "lean": "center-right"
+    },
+    {
+      "name": "TechCrunch",
+      "url": "https://techcrunch.com/feed/",
+      "lang": "en",
+      "topics": [
+        "tech"
+      ],
+      "source_weight": 1.0,
+      "lean": "center"
+    },
+    {
+      "name": "The Verge",
+      "url": "https://www.theverge.com/rss/index.xml",
+      "lang": "en",
+      "topics": [
+        "tech"
+      ],
+      "source_weight": 0.9,
+      "lean": "center"
+    },
+    {
+      "name": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/index",
+      "lang": "en",
+      "topics": [
+        "tech"
+      ],
+      "source_weight": 0.85,
+      "lean": "center"
+    }
   ],
-
   "ai": {
     "enabled_when_key_present": true,
     "model": "claude-haiku-4-5",
     "summary_instruction": "Write a crisp 1-2 sentence summary of this news item IN THE SAME LANGUAGE as the headline (Hebrew stays Hebrew, English stays English). Neutral tone, no opinion."
-  }
+  },
+  "min_per_topic": 5
 }

@@ -51,7 +51,11 @@ def fetch_feed(feed_cfg):
             if not title or not link:
                 continue
             summary = html.unescape(re.sub(r"<[^>]+>", " ", getattr(entry, "summary", "") or "")).strip()
-            summary = re.sub(r"\s+", " ", summary)[:400]
+            summary = re.sub(r"\s+", " ", summary)
+            # Strip common feed boilerplate that pollutes summaries.
+            summary = re.sub(r"The post .{0,160}? appeared first on .{0,80}?\s*\.?\s*$", "", summary)
+            summary = re.sub(r"(Continue reading|Read more|Read the full article).{0,80}$", "", summary, flags=re.I)
+            summary = summary.strip()[:400]
             ts = None
             for key in ("published_parsed", "updated_parsed"):
                 t = getattr(entry, key, None)
@@ -137,16 +141,38 @@ def select(articles, now):
     pool.sort(key=lambda a: -a["score"])
 
     chosen, per_topic, per_source = [], {}, {}
+
+    def take(a):
+        chosen.append(a)
+        per_topic[a["topic"]] = per_topic.get(a["topic"], 0) + 1
+        per_source[a["source"]] = per_source.get(a["source"], 0) + 1
+
+    # Pass 1 — topic guarantee: every topic gets at least min_per_topic
+    # stories (best-ranked first), source cap respected.
+    min_pt = CONFIG.get("min_per_topic", 0)
+    for topic in CONFIG["topics"]:
+        for a in pool:
+            if per_topic.get(topic, 0) >= min_pt:
+                break
+            if a["topic"] != topic or a in chosen:
+                continue
+            if per_source.get(a["source"], 0) >= CONFIG["max_per_source"]:
+                continue
+            take(a)
+
+    # Pass 2 — fill remaining slots globally by score, all caps respected.
     for a in pool:
         if len(chosen) >= CONFIG["max_stories"]:
             break
+        if a in chosen:
+            continue
         if per_topic.get(a["topic"], 0) >= CONFIG["max_per_topic"]:
             continue
         if per_source.get(a["source"], 0) >= CONFIG["max_per_source"]:
             continue
-        chosen.append(a)
-        per_topic[a["topic"]] = per_topic.get(a["topic"], 0) + 1
-        per_source[a["source"]] = per_source.get(a["source"], 0) + 1
+        take(a)
+
+    chosen.sort(key=lambda a: -a["score"])
     return chosen
 
 
