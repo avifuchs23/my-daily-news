@@ -1,0 +1,126 @@
+{
+ "generated_at": "2026-07-05T14:11:11.370187+00:00",
+ "generated_display": "Sunday, 05 July 2026 · 17:11",
+ "site_title": "The Morning הבוקר",
+ "demo": true,
+ "topics": {
+  "israel": {
+   "en": "Israel",
+   "he": "ישראל"
+  },
+  "world": {
+   "en": "World & Politics",
+   "he": "עולם ופוליטיקה"
+  },
+  "tech": {
+   "en": "Tech & AI",
+   "he": "טכנולוגיה ו-AI"
+  },
+  "business": {
+   "en": "Business",
+   "he": "כלכלה"
+  }
+ },
+ "stories": [
+  {
+   "title": "Nazareth tech hub doubles in size as Galilee startups draw record funding",
+   "link": "https://www.timesofisrael.com",
+   "summary": "Investment in northern Israel's tech corridor hit an all-time high this quarter, led by AI and medical-device firms.",
+   "source": "Times of Israel",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-07-05T08:11:11.370187+00:00"
+  },
+  {
+   "title": "Anthropic and OpenAI race to ship agentic browsers as AI moves past chat",
+   "link": "https://techcrunch.com",
+   "summary": "Both labs previewed agents that navigate the web on a user's behalf, marking the biggest interface shift since the chatbot era began.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-07-05T10:11:11.370187+00:00"
+  },
+  {
+   "title": "השקל מתחזק לשיא של שנתיים; הבורסה בת\"א ננעלה בעליות חדות",
+   "link": "https://www.calcalist.co.il",
+   "summary": "מדד ת\"א 35 עלה ב-1.4% על רקע נתוני אינפלציה נמוכים מהצפוי והערכות להורדת ריבית.",
+   "source": "כלכליסט",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-07-05T09:11:11.370187+00:00"
+  },
+  {
+   "title": "EU leaders reach landmark climate financing deal after marathon summit",
+   "link": "https://www.bbc.com/news/world",
+   "summary": "The agreement commits member states to a joint fund, ending months of deadlock between northern and southern blocs.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-05T11:11:11.370187+00:00"
+  },
+  {
+   "title": "מהפכת ה-AI מגיעה לבתי החולים בישראל: כך זה ייראה",
+   "link": "https://www.ynet.co.il/digital",
+   "summary": "מערכת חדשה מבוססת בינה מלאכותית תסייע לרופאים באבחון מוקדם, בפיילוט שיחל בשלושה מרכזים רפואיים.",
+   "source": "Ynet טכנולוגיה",
+   "lang": "he",
+   "topic": "tech",
+   "rtl": true,
+   "published": "2026-07-05T06:11:11.370187+00:00"
+  },
+  {
+   "title": "ראש הממשלה יכריז הערב על מתווה חדש: כל הפרטים",
+   "link": "https://www.ynet.co.il",
+   "summary": "בכירים בירושלים אישרו כי ההצהרה צפויה בשעות הערב, לאחר סבב התייעצויות שנמשך כל הלילה.",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-07-05T12:11:11.370187+00:00"
+  },
+  {
+   "title": "אקזיט ענק בהייטק: חברה ישראלית נמכרת ב-2.1 מיליארד דולר",
+   "link": "https://www.globes.co.il",
+   "summary": "העסקה, הגדולה השנה, צפויה להזרים מאות מיליוני שקלים לקופת המדינה ממסים.",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-07-05T03:11:11.370187+00:00"
+  },
+  {
+   "title": "The best laptops of 2026 so far — and what to wait for",
+   "link": "https://www.theverge.com",
+   "summary": "Our mid-year roundup covers the machines that actually earned a recommendation, from ultralights to workstations.",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-07-05T01:11:11.370187+00:00"
+  },
+  {
+   "title": "פסגה היסטורית: מנהיגי המזרח התיכון ייפגשו בקהיר בשבוע הבא",
+   "link": "https://www.ynet.co.il",
+   "summary": "גורמים דיפלומטיים העריכו כי הפגישה עשויה להוביל לפריצת דרך אזורית.",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "world",
+   "rtl": true,
+   "published": "2026-07-05T00:11:11.370187+00:00"
+  },
+  {
+   "title": "Global markets steady as central banks signal coordinated rate path",
+   "link": "https://www.theguardian.com/world",
+   "summary": "Investors welcomed rare alignment between the Fed, ECB and Bank of England on the timing of cuts.",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-05T05:11:11.370187+00:00"
+  }
+ ]
+}

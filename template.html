@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Morning · הבוקר</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@500;700;900&family=Heebo:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#F3F5F2; --card:#FFFFFF; --ink:#24313B; --muted:#6E7B84;
+    --hairline:#E1E6E0; --amber:#C98F2B; --amber-soft:#F4E8D2;
+    --olive:#5E7255; --sky:#5B7E9C; --clay:#A9603F;
+    --shadow:0 1px 2px rgba(36,49,59,.05),0 6px 18px rgba(36,49,59,.06);
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --bg:#141B20; --card:#1D262D; --ink:#E9EDEB; --muted:#93A0A8;
+      --hairline:#2A353D; --amber:#E0B160; --amber-soft:#3A3021;
+      --olive:#8FA383; --sky:#84A6C2; --clay:#C98A6B;
+      --shadow:0 1px 2px rgba(0,0,0,.3),0 6px 18px rgba(0,0,0,.25);
+    }
+  }
+  *{box-sizing:border-box;margin:0}
+  body{
+    background:var(--bg); color:var(--ink);
+    font-family:'Heebo',system-ui,sans-serif;
+    font-size:16px; line-height:1.55;
+    padding:0 20px 60px;
+  }
+  .wrap{max-width:980px;margin:0 auto}
+
+  /* Masthead */
+  header{padding:34px 0 18px;text-align:center}
+  .masthead{
+    font-family:'Frank Ruhl Libre',serif; font-weight:900;
+    font-size:clamp(2rem,6vw,3.2rem); letter-spacing:.01em;
+  }
+  .masthead .he{color:var(--amber)}
+  .dawn-line{
+    height:3px; max-width:420px; margin:14px auto 12px; border-radius:2px;
+    background:linear-gradient(90deg,transparent,var(--amber) 30%,var(--clay) 55%,var(--sky) 80%,transparent);
+  }
+  .dateline{color:var(--muted);font-size:.92rem}
+  .dateline b{color:var(--ink);font-weight:500}
+
+  #stale{
+    display:none; max-width:640px; margin:14px auto 0; padding:10px 16px;
+    background:var(--amber-soft); border:1px solid var(--amber);
+    border-radius:10px; font-size:.9rem; text-align:center;
+  }
+  .demo-note{color:var(--muted);font-size:.85rem;margin-top:8px}
+
+  /* Topic chips */
+  nav{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;padding:16px 0 26px}
+  .chip{
+    border:1px solid var(--hairline); background:var(--card); color:var(--muted);
+    padding:6px 15px; border-radius:999px; cursor:pointer;
+    font:inherit; font-size:.88rem; font-weight:500; transition:.15s;
+  }
+  .chip:hover{border-color:var(--amber);color:var(--ink)}
+  .chip.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+  .chip:focus-visible{outline:2px solid var(--amber);outline-offset:2px}
+
+  /* Stories */
+  #stories{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:16px}
+  .card{
+    background:var(--card); border:1px solid var(--hairline); border-radius:14px;
+    padding:20px 22px; box-shadow:var(--shadow);
+    display:flex; flex-direction:column; gap:9px;
+  }
+  .card.lead{grid-column:1/-1;padding:28px 30px}
+  .meta{display:flex;align-items:center;gap:10px;font-size:.78rem;color:var(--muted)}
+  .tag{
+    font-weight:700; letter-spacing:.04em; padding:2px 9px; border-radius:6px; font-size:.72rem;
+  }
+  .tag.israel{background:color-mix(in srgb,var(--amber) 16%,transparent);color:var(--amber)}
+  .tag.world{background:color-mix(in srgb,var(--sky) 16%,transparent);color:var(--sky)}
+  .tag.tech{background:color-mix(in srgb,var(--clay) 16%,transparent);color:var(--clay)}
+  .tag.business{background:color-mix(in srgb,var(--olive) 18%,transparent);color:var(--olive)}
+  .card h2{
+    font-family:'Frank Ruhl Libre',serif; font-weight:700;
+    font-size:1.18rem; line-height:1.32;
+  }
+  .card.lead h2{font-size:clamp(1.5rem,3.4vw,2rem)}
+  .card h2 a{color:var(--ink);text-decoration:none}
+  .card h2 a:hover{text-decoration:underline;text-decoration-color:var(--amber);text-underline-offset:4px}
+  .card p{
+    color:var(--muted); font-size:.93rem;
+    display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;
+  }
+  .card.lead p{-webkit-line-clamp:4;font-size:1rem}
+  .card[dir=rtl] .meta{flex-direction:row}
+
+  footer{
+    margin-top:44px; padding-top:18px; border-top:1px solid var(--hairline);
+    color:var(--muted); font-size:.83rem; text-align:center;
+  }
+  @media (prefers-reduced-motion:no-preference){
+    .card{animation:rise .4s ease both}
+    @keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1}}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="masthead">The Morning · <span class="he">הבוקר</span></div>
+    <div class="dawn-line" aria-hidden="true"></div>
+    <div class="dateline" id="dateline"></div>
+    <div id="stale">⏳ This digest hasn't refreshed in over a day — showing the most recent edition. · העמוד לא התעדכן ביממה האחרונה</div>
+    <div class="demo-note" id="demoNote" style="display:none">Preview with sample stories — the real digest appears after the first daily run.</div>
+  </header>
+
+  <nav id="chips" aria-label="Topic filter"></nav>
+  <main id="stories"></main>
+
+  <footer id="foot"></footer>
+</div>
+
+<script id="digest-data" type="application/json">/*__DIGEST__*/null</script>
+<script>
+const digest = JSON.parse(document.getElementById('digest-data').textContent.replace('/*__DIGEST__*/',''));
+
+function timeAgo(iso, rtl){
+  if(!iso) return '';
+  const h = Math.max(0, (Date.now() - new Date(iso)) / 36e5);
+  if(rtl){
+    if(h < 1) return 'לפני פחות משעה';
+    if(h < 2) return 'לפני שעה';
+    if(h < 24) return `לפני ${Math.round(h)} שעות`;
+    return `לפני ${Math.round(h/24)} ימים`;
+  }
+  if(h < 1) return 'just now';
+  if(h < 24) return `${Math.round(h)}h ago`;
+  return `${Math.round(h/24)}d ago`;
+}
+
+function init(){
+  if(!digest || !digest.stories){ return; }
+
+  // Dateline + read-time budget (≈25s per story)
+  const mins = Math.max(1, Math.round(digest.stories.length * 25 / 60));
+  document.getElementById('dateline').innerHTML =
+    `<b>${digest.generated_display}</b> · ${digest.stories.length} stories · ~${mins} min read`;
+
+  // Stale banner (>30h since generation)
+  if(Date.now() - new Date(digest.generated_at) > 30 * 36e5)
+    document.getElementById('stale').style.display = 'block';
+  if(digest.demo) document.getElementById('demoNote').style.display = 'block';
+
+  // Topic chips
+  const chips = document.getElementById('chips');
+  const mk = (key, label) => {
+    const b = document.createElement('button');
+    b.className = 'chip'; b.textContent = label; b.dataset.topic = key;
+    b.onclick = () => { chips.querySelectorAll('.chip').forEach(c => c.classList.remove('on'));
+                        b.classList.add('on'); renderStories(key); };
+    chips.appendChild(b);
+  };
+  mk('all', 'All · הכל');
+  for(const [key, l] of Object.entries(digest.topics)) mk(key, `${l.en} · ${l.he}`);
+  chips.firstChild.classList.add('on');
+
+  renderStories('all');
+  document.getElementById('foot').textContent =
+    `Generated automatically by your news agent · נבנה אוטומטית על ידי סוכן החדשות שלך`;
+}
+
+function renderStories(topic){
+  const box = document.getElementById('stories');
+  box.innerHTML = '';
+  const list = digest.stories.filter(s => topic === 'all' || s.topic === topic);
+  list.forEach((s, i) => {
+    const card = document.createElement('article');
+    card.className = 'card' + (i === 0 && topic === 'all' ? ' lead' : '');
+    card.dir = s.rtl ? 'rtl' : 'ltr';
+    card.style.animationDelay = Math.min(i * 40, 400) + 'ms';
+    const t = digest.topics[s.topic] || {en: s.topic, he: ''};
+    card.innerHTML = `
+      <div class="meta">
+        <span class="tag ${s.topic}">${s.rtl ? t.he : t.en}</span>
+        <span>${esc(s.source)}</span><span>·</span><span>${timeAgo(s.published, s.rtl)}</span>
+      </div>
+      <h2><a href="${esc(s.link)}" target="_blank" rel="noopener">${esc(s.title)}</a></h2>
+      ${s.summary ? `<p>${esc(s.summary)}</p>` : ''}`;
+    box.appendChild(card);
+  });
+}
+
+const esc = s => String(s).replace(/[&<>"']/g, c =>
+  ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+
+init();
+</script>
+</body>
+</html>
