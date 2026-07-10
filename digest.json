@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-09T16:21:24.542476+00:00",
- "generated_display": "Thursday, 09 July 2026 · 19:21",
+ "generated_at": "2026-07-10T06:59:55.606971+00:00",
+ "generated_display": "Friday, 10 July 2026 · 09:59",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,94 +23,184 @@
  },
  "stories": [
   {
-   "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
-   "link": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
-   "summary": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-07-09T14:51:00+00:00"
-  },
-  {
-   "title": "Anthropic’s new Claude feature is quietly selling you on AI",
-   "link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
-   "summary": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-07-09T14:53:09+00:00"
-  },
-  {
-   "title": "במיקום מפתיע: כפר התיירות הישראלי שנבנה בהשקעה של 40 מיליון שקלים",
-   "link": "https://www.israelhayom.co.il/travel/tourism-news/article/20948640",
-   "summary": "\"כפר קצרין\" המחודש צפוי להפוך למוקד מרכזי של תיירות, מורשת ותרבות • המקום כולל מתחם גלמפינג, אמפיתיאטרון, בריכות שכשוך, בית כנסת עתיק ושלל אטרקציות לכל המשפחה",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-07-09T15:21:11+00:00"
-  },
-  {
-   "title": "'Release the emails': Danon challenges UN over Israel blacklisting, calls for Patten to resign",
-   "link": "https://www.jpost.com/diaspora/article-902046",
-   "summary": "Israel alleged that heavy pressure was exerted on UN Secretary-General Antonio Guterres to include Israel on the list following Hamas’s inclusion.",
+   "title": "Israeli startup raises $36 million to build world's first ‘Iron Dome for drone swarms’",
+   "link": "https://www.jpost.com/defense-and-tech/article-902100",
+   "summary": "The round will accelerate Skapion’s development and hiring as it builds a mobile end-to-end system designed for the scale, cost, and simultaneity of drone-swarm warfare",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-07-09T16:56:07+00:00"
+   "published": "2026-07-10T08:22:42+00:00"
   },
   {
-   "title": "Say hello to Claude Wrapped",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
-   "summary": "The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced a \"reflect\" feature for its Claude chatbot, allowing users to see an analysis of their usage data over the past month, […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-07-09T13:30:00+00:00"
-  },
-  {
-   "title": "\"המדינות התורמות הטילו וטו\" - ואבו מאזן הודיע על בחירות לפרלמנט הפלסטיני",
-   "link": "https://www.ynet.co.il/news/article/sj8cjmt7me",
-   "summary": "מחמוד עבאס הודיע שהבחירות למועצה המחוקקת יתקיימו ב-28 בנובמבר, ולנשיאות - בתחילת 2027. מספר המושבים בפרלמנט יעלה מ-132 ל-200, במטרה לייצר הנהגה חדשה. תומכיו של מרואן ברגותי נערכים - למרות שהוא עדיין בכלא. וגם: מה מתכננים בחמאס מול סכנת מעצר של כל מועמד רשמי בידי ישראל",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-07-09T15:39:04+00:00"
-  },
-  {
-   "title": "IDF combat engineer who broke marathon records while battling cancer dies at 29",
-   "link": "https://www.jpost.com/israel-news/article-901981",
-   "summary": "Yoav Shriker had previously broken Israeli records by running a half marathon carrying 35 kg. and a full marathon carrying 32 kg.",
-   "source": "Jerusalem Post",
-   "lang": "en",
-   "topic": "israel",
-   "rtl": false,
-   "published": "2026-07-09T13:26:55+00:00"
-  },
-  {
-   "title": "Daily Briefing July 9 – On razor’s edge: Iran and US continue strikes",
-   "link": "https://www.timesofisrael.com/daily-briefing-july-9-on-razors-edge-iran-and-us-continue-strikes/",
-   "summary": "Diplomatic correspondent Lazar Berman with news out of the NATO summit in Ankara and the fraying Israel-Jordan relationship",
+   "title": "6 said killed by IDF in Gaza; Israel tries, fails to assassinate Hamas spokesman",
+   "link": "https://www.timesofisrael.com/6-said-killed-by-idf-in-gaza-israel-tries-fails-to-assassinate-hamas-spokesman/",
+   "summary": "Gaza source says Hassem Qassem was not in vehicle when it was struck by drone, bodyguard slain; IDF says strikes this week killed Islamic Jihad commander, Hamas sniper, Oct. 7 terrorist",
    "source": "Times of Israel",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-07-09T10:33:36+00:00"
+   "published": "2026-07-10T05:39:30+00:00"
   },
   {
-   "title": "Iran launches more strikes after reports of US attack near nuclear plant – Middle East crisis live",
-   "link": "https://www.theguardian.com/world/live/2026/jul/09/iran-us-middle-east-strikes-centcom-bahrain-kuwait-qatar-strait-of-hormuz-latest-news-updates",
-   "summary": "Jordan says they have intercepted missiles from Tehran, with US attack reported near nuclear facility in Iranian city of Bushehr US and Iran trade most intense strikes since ceasefire extended Iranians recall 48 hours of terror after US attack on port cities Kuwait’s foreign ministry has issued a statement condemning the Iranian attacks against the country. It reads almost identical to the stateme",
+   "title": "Withdrawal cannot be a gesture of faith: US, Israel must align on Lebanon - editorial",
+   "link": "https://www.jpost.com/opinion/article-902073",
+   "summary": "“We did not ask anyone’s permission to enter Lebanon, and we do not need permission to stay in Lebanon,” Israel Katz said, adding that Israeli forces would remain until Hezbollah is disarmed.",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-07-10T06:00:20+00:00"
+  },
+  {
+   "title": "OpenAI launches its new family of models with GPT-5.6",
+   "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+   "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-07-09T22:24:24+00:00"
+  },
+  {
+   "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+   "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+   "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-07-10T00:16:54+00:00"
+  },
+  {
+   "title": "‘Modern palace’ seeks billionaire: Inside Israel’s highest-priced, $210m mansion",
+   "link": "https://www.timesofisrael.com/modern-palace-seeks-billionaire-inside-israels-highest-priced-210m-mansion/",
+   "summary": "With gold-plated fountains, imported stone and nearly 74,000 square feet of interior space, the Versailles-inspired estate embodies a level of wealth once unimaginable in Israel",
+   "source": "Times of Israel",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-07-10T02:24:04+00:00"
+  },
+  {
+   "title": "הכנסות החברה הסרבית של איינהורן ירדו משני מיליון דולר לאפס לאחר הפסקת הקמפיין למען קטאר",
+   "link": "https://www.haaretz.co.il/news/politics/2026-07-10/ty-article/.premium/0000019f-46f5-d4a4-afff-e7ffbfc10000",
+   "summary": "פרטי החקירה חושפים את מעורבותם העמוקה של אנשי העסקים גיל בירגר ודוד סאיג בקמפיין ההשפעה שנוהל על אזרחי ישראל לטובת קטאר ונגד מצרים. במערכת אכיפת החוק מעריכים כי הלוביסט האמריקאי פוטליק העביר מיליוני שקלים לטובת הקמפיין",
+   "source": "הארץ",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-07-10T03:00:34+00:00"
+  },
+  {
+   "title": "The ChatGPT browser is already dead",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+   "summary": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of news about ChatGPT Work today, the company confirmed that it will be \"sunsetting\" Atlas and is targeting an […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-07-09T20:34:05+00:00"
+  },
+  {
+   "title": "בשומרון מנסים לקבוע עובדות בשטח ולאכלס יישובים לפני הבחירות",
+   "link": "https://www.israelhayom.co.il/news/local/article/20950578",
+   "summary": "יותר מ־3,000 משפחות הביעו עניין להתגורר ב־18 היישובים שיוקמו במסגרת \"תוכנית ההתחברות\" • בין המתעניינות גם משפחות ממרכז הארץ ומחוץ לגבולות ישראל",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-07-10T02:00:54+00:00"
+  },
+  {
+   "title": "תפיסת הגנה מרחבית ישראלית חדשה",
+   "link": "https://www.ynet.co.il/news/article/bksham6xzx",
+   "summary": "אי אפשר יותר להשעין את הביטחון על קהילות אנושיות בלבד - יש ליצור אזורי חיץ עם פיקוח צבאי הדוק במטרה ליצור ביטחון אמיתי, שיצור חוסר גישה גיאוגרפי לאויב ויוציא את תושבי יישובי הגבולות מכלל הסכנה היומיומית",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-07-10T03:29:00+00:00"
+  },
+  {
+   "title": "המטבע מתחת לפנס",
+   "link": "https://www.ynet.co.il/news/article/sjb3n7t7mg",
+   "summary": "הוויכוח הלוהט והמוצדק מול החרדים גורם לנו לזנוח את משרתי המילואים הקיימים. הזרקור מופנה באופן בלעדי למחסור בכוח אדם הנובע מהשתמטות החרדית, ובחסות הרעש הזה, החברה הישראלית מסרבת לבחון האם המערכת עושה הכל כדי למקסם את שורת המשרתים מתוך המאגר הקיים",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-07-10T03:22:00+00:00"
+  },
+  {
+   "title": "Police discover body of teenage girl in Victorian bushland after 13-year-old vanished on weekend",
+   "link": "https://www.theguardian.com/australia-news/2026/jul/10/layla-jeffery-police-discover-body-of-teenage-girl-in-victoria-bushland-donald-ntwnfb",
+   "summary": "Police say death of Layla Jeffery ‘suspicious’ after remains found in town of Donald in western Victoria Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The body of a 13-year-old girl who went missing on the weekend has been found in bushland in regional Victoria after an extensive search, with police saying they are treating the ",
    "source": "The Guardian",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-07-09T16:06:25+00:00"
+   "published": "2026-07-10T06:20:11+00:00"
+  },
+  {
+   "title": "Beatles mentor Lord Woodbine to feature in new BBC drama",
+   "link": "https://www.theguardian.com/music/2026/jul/10/lord-woodbine-beatles-bbc-drama-harold-phillips",
+   "summary": "Six-part series will explore the band’s years in Hamburg, including the overlooked influence of Harold Phillips In 1960, the Beatles arrived in the German port city of Hamburg. Inexperienced, keen and – in the case of George Harrison – underage, they were at the start of a two-year spell that would become a key part of Beatles lore, a time when the band honed their skills while entertaining rowdy ",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-10T06:00:13+00:00"
+  },
+  {
+   "title": "Chip giant SK Hynix raises $26.5bn in mega US share sale",
+   "link": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
+   "summary": "The shares are set to start trading on the Nasdaq on Friday in what will be the largest ever debut by a foreign firm.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-10T02:48:18+00:00"
+  },
+  {
+   "title": "U.S. and Iran exchange intensifying fire across Mideast, threatening ceasefire deal",
+   "link": "https://www.npr.org/2026/07/10/g-s1-132927/us-iran-war",
+   "summary": "Back-and-forth attacks have repeatedly threatened the ceasefire, but Thursday's appeared bigger all around.",
+   "source": "NPR News",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-10T06:12:36+00:00"
+  },
+  {
+   "title": "At least 11 die in Spain wildfire as heatwave continues in Southern Europe",
+   "link": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss",
+   "summary": "Six people were injured in the blaze in Los Gallardos, in the province of Almería.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-10T06:32:08+00:00"
+  },
+  {
+   "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+   "summary": "OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a \"part-time advisor,\" she said on X. The news follows Simo's original announcement in April that she would take a few weeks of medical leave due to a neuroimmune condition, shortly after she had taken on the […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-07-09T23:24:04+00:00"
+  },
+  {
+   "title": "Where are Iran and Ukraine wars headed after NATO summit?",
+   "link": "https://www.npr.org/2026/07/09/nx-s1-5886200/where-are-iran-and-ukraine-wars-headed-after-nato-summit",
+   "summary": "Fresh strikes between Iran and the United States and a tense ceasefire scrapped — Is the war with Iran back on?",
+   "source": "NPR News",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-09T20:01:45+00:00"
   },
   {
    "title": "Gaza Aid Worker on His Way to Watch World Cup Killed by Israeli Strike",
@@ -120,167 +210,77 @@
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-07-09T15:24:45+00:00"
+   "published": "2026-07-09T22:11:13+00:00"
   },
   {
-   "title": "Farage launches preemptive attack on Commons standards committee, claiming it won’t judge him fairly – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/jul/09/andy-burnham-keir-starmer-labour-nigel-farage-binface-reform-latest-news-updates",
-   "summary": "Reform UK leader also tells the Daily Mail he did not anticipate main parties would not stand candidates in Clacton byelection Reform activists urged to switch focus from Manchester to Farage’s Clacton contest The untold story of why Reform figures face NCA scrutiny Andy Burnham has posted a video on social media confirming that he has nominated himself for Labour leader. Nominations opened this m",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-07-09T16:03:28+00:00"
-  },
-  {
-   "title": "הרמטכ\"ל במסדר הכנפיים: \"מבחנים ומבצעים גדולים עוד לפנינו - היו ערוכים\"",
-   "link": "https://www.israelhayom.co.il/news/defense/article/20947802",
-   "summary": "השר כ\"ץ: \"צה\"ל דרוך לחידוש המערכה בפעם השלישית - בעוצמה גדולה יותר\" • נתניהו: \"אם חיל האוויר לא היה פועל בזמן שפעל - ישראל והעולם המערבי היו בסכנה\" • הרצוג: \"מעולם בהיסטוריה של ישראל לא היה קורס טיס שכולו נערך במלחמה\"",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-07-09T14:45:13+00:00"
-  },
-  {
-   "title": "תמורת 8,000 שקלים: הנאשם הצטייד בסכין וגז פלפל, והגיע לביתו של חבר הכנסת לשעבר",
-   "link": "https://news.walla.co.il/item/3852138",
-   "summary": "פרקליטות המדינה הגישה היום (חמישי) כתב אישום נגד אסף ישראל אריה, בן 28 מבאר שבע, שלפי החשד הסכים תמורת תשלום לתקוף את חבר הכנסת לשעבר מוסי רז, הצטייד בסכין ובתרסיס גז פלפל והגיע עד לביתו. בהמשך התבקש גם להעביר את כתובתו של ראש השב\"כ לשעבר רונן בר. מכתב האישום שהגישה עורכת הדין אורעד שלוו מפרקליטות מחוז מרכז עולה כי אריה פנה באמצעות אינסטגרם לאדם בשם אבי, שהציג את עצמו כפעיל בארגון ימין המחפש פעילי",
-   "source": "וואלה",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-07-09T09:53:00+00:00"
-  },
-  {
-   "title": "דיווח בעזה: דובר חמאס ברצועה ניצל מניסיון חיסול ישראלי",
-   "link": "https://www.ynet.co.il/news/article/b1jat4pmme",
-   "summary": "לפי דיווחים פלסטיניים ניסיון החיסול של חאזם קאסם היה בתקיפה מהאוויר על רכב - ובה נהרג אחד ממלוויו. לעת עתה לא ברור מה מצבו",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-07-09T15:29:40+00:00"
-  },
-  {
-   "title": "Erdogan gifts NATO leaders engraved revolvers with live ammunition",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/erdogan-gifts-nato-leaders-engraved-revolvers-with-live-ammunition?traffic_source=rss",
-   "summary": "NATO’s leaders left the Ankara summit with guns and live ammunition gifted to them by Turkiye’s President.",
+   "title": "Venezuela’s turn to Israel is about survival, not conviction",
+   "link": "https://www.aljazeera.com/opinions/2026/7/10/venezuelas-turn-to-israel-is-about-survival-not-conviction?traffic_source=rss",
+   "summary": "Delcy Rodriguez is courting Israel only to secure Washington’s support and undercut her main rival.",
    "source": "Al Jazeera",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-07-09T15:21:39+00:00"
+   "published": "2026-07-10T04:36:35+00:00"
   },
   {
-   "title": "Trump’s NATO Summit, and Everyone Else’s",
-   "link": "https://www.nytimes.com/2026/07/09/world/europe/nato-trump-turkey-summit.html",
-   "summary": "While President Trump insulted allies and demanded loyalty, the military alliance moved quietly closer to accepting more European responsibility for defense.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-07-09T13:42:07+00:00"
-  },
-  {
-   "title": "במקום לריב עם סירי: OpenAI השיקה שיחה קולית חיה ב-ChatGPT",
-   "link": "https://www.ynet.co.il/digital/technews/article/h1ewjzt7zg",
-   "summary": "השקת שירות השיחה הרציפה GPT-Live מבוסס GPT-5.6 מסמנת מהפכה טכנולוגית. לאחר שממשל טראמפ הסיר מגבלות ביטחוניות מחשש מהמתחרות מסין, המערכת הדו-כיוונית זמינה כעת ומאפשרת שיחה אנושית וטבעית לחלוטין ללא שיהוי",
-   "source": "Ynet טכנולוגיה",
-   "lang": "he",
-   "topic": "tech",
-   "rtl": true,
-   "published": "2026-07-09T12:19:58+00:00"
-  },
-  {
-   "title": "Schlage’s Sense Pro unlocks the door so I don’t have to",
-   "link": "https://www.theverge.com/tech/963100/schlage-sense-pro-review-apple-home-key-uwb-handsfree-unlock",
-   "summary": "The Schlage Sense Pro is a beautiful smart lock. Sleek, discreet, and simple to use, it's Schlage's smartest lock to date. Thanks to ultra-wideband (UWB), it unlocks as I walk up to my front door; I don't need to enter a code or tap my phone or press my finger against it. I've tested several […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-07-09T15:45:46+00:00"
-  },
-  {
-   "title": "דרמה בענף האופנה: עונות וג'אמפ בחוב של 37 מיליון שקל ומבקשות הקפאת הליכים",
-   "link": "https://www.ynet.co.il/economy/article/bko6b467gl",
-   "summary": "מלחמת \"חרבות ברזל\", עליית הריבית והתייקרות השילוח והשכירות שחקו את רווחיות הרשתות וגרמו להן להיקלע לקשיים. הבקשה להקפאת הליכים מוגשת חודשים ספורים לאחר מותו הטרגי של יואב שמע, מייסד \"עונות\" ובעל השליטה בחברה",
+   "title": "היצירתיות של המשתמטים החרדים מגיעה לדיור, והנתון המדאיג על עובדי ההייטק",
+   "link": "https://www.ynet.co.il/economy/article/rymfrihxgx",
+   "summary": "בעפולה מצאו מסלול \"עוקף בג\"ץ\" למשתמטים לקניית דירות מוזלות, וה-AI פוגע לא רק בג'וניורים – אלא בעיקר בעובדים ותיקים. וגם: הקריסה הכלכלית של אימפריית ה-Airbnb, ההזנחה הממשלתית שתאפשר העלאות חריגות בארנונה – והורדת ריבית שנייה ברציפות | הצמרת הכלכלית – הכתבות הנצפות של השבוע",
    "source": "Ynet כלכלה",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-07-09T16:15:20+00:00"
+   "published": "2026-07-10T04:10:09+00:00"
   },
   {
-   "title": "57 אלף שקל ברוטו בחודש: מחקר חדש מסמן את המקצועות הלוהטים של ההייטק",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001548033#utm_source=RSS",
-   "summary": "הכתבה הזו הייתה הנצפית ביותר השבוע בגלובס ועל כן אנחנו מפרסמים אותה מחדש כשירות לקוראינו • לפי מחקר חדש של חברת ההשמה GotFriends, חוקרי סייבר הם בעלי השכר הגבוה ביותר בענף • עוד עולה כי תל אביב מאבדת את הבכורה לטובת מוקדי ההייטק בשרון ובפתח תקווה - שם המשכורת הממוצעת היא כ־44 אלף • וגם: האם הצליחו להחזיר את ההייטקיסיטים למשרד?",
+   "title": "ענקית חדשה מהמזרח בהופעת בכורה בוול סטריט. איך יגיבו מניות השבבים בת״א?",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001548880#utm_source=RSS",
+   "summary": "המסחר בת\"א יפתח ברקע לילה שקט בין איראן לארה\"ב ופיילוט ראשון להסכם עם לבנון • מניות השבבים הדואליות יתמכו בפתיחה, טבע תעיב • SK Hynix, ענקית השבבים הדרום קוריאנית תחל להיסחר היום בוול סטריט • השפל בתביעות האבטלה עשוי להקשות על הפד להוריד ריבית • UBS: שימו לב לאירופה, העלייה בהוצאות הצבאיות תספק תמיכה למגזר הביטחוני ולמגזר התשתיות • גלובס עושה סדר לקראת פתיחת המסחר",
    "source": "גלובס",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-07-09T14:30:00+00:00"
+   "published": "2026-07-10T06:09:00+00:00"
   },
   {
-   "title": "Trump targets Spain, NATO backs Ukraine: Is the alliance still united?",
-   "link": "https://www.aljazeera.com/news/2026/7/9/trump-targets-spain-nato-backs-ukraine-is-the-alliance-still-united?traffic_source=rss",
-   "summary": "While NATO members have agreed to boost defence spending, Trump's attacks on Spain and Greenland have threatened unity.",
-   "source": "Al Jazeera",
+   "title": "השקעתם בבורסה? כך המס על הרווחים יכול לרדת אפילו לאפס",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001548930#utm_source=RSS",
+   "summary": "אם חציתם את גיל 60, ייתכן שאתם זכאים לשלם רק 10% על הרווחים בחשבון המסחר שלכם • גם במוצרים פיננסים אחרים מסתתרות הטבות שעשויות לחסוך סכומים גבוהים • ומהן הטעויות הנפוצות לקראת הפרישה? • מומחי פרישה עונים במדור חדש על השאלות הקריטיות כשיוצאים לפנסיה",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-07-10T05:19:00+00:00"
+  },
+  {
+   "title": "OpenAI wants its new tool to do your work for you and with you",
+   "link": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
+   "summary": "Rebranded Codex promises independent workflows that can run \"for hours if needed.\"",
+   "source": "Ars Technica",
    "lang": "en",
-   "topic": "world",
+   "topic": "tech",
    "rtl": false,
-   "published": "2026-07-09T13:02:47+00:00"
+   "published": "2026-07-09T21:25:55+00:00"
   },
   {
-   "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
-   "link": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
-   "summary": "The attacks appear to be the latest phase of Ukraine's bid to choke off supplies and routes into and out of occupied Crimea.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-07-09T15:21:17+00:00"
-  },
-  {
-   "title": "Tehran launches more strikes after explosions reported in southern Iran",
-   "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
-   "summary": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-07-09T13:29:56+00:00"
-  },
-  {
-   "title": "פרופ' אסף רזין, מבכירי הכלכלנים בישראל, נפטר בגיל 85",
-   "link": "https://www.ynet.co.il/economy/article/ryixn46qfx",
-   "summary": "רזין שלימד באוניברסיטת תל אביב ובקורנל היה יועץ למספר בנקים לאומיים. בשנות ה-70 היה יועץ כלכלי ראשי לממשלה ופוטר לאחר שהתריע על משבר האינפלציה",
+   "title": "מפת הדרכים לתעסוקה בעידן הבינה המלאכותית במרכז הארץ",
+   "link": "https://www.ynet.co.il/economy/article/r19qq5pmfl",
+   "summary": "מהפכת ה־AI משנה את חוקי המשחק בשוק העבודה. מדוע דווקא עורכי הדין, רואי החשבון ואנשי השירות בגוש דן והשפלה נמצאים בקו האש הראשון? אילו מקצועות יפרחו? וכיצד ישתנה הלב הכלכלי של ישראל ללא היכר?",
    "source": "Ynet כלכלה",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-07-09T14:47:23+00:00"
+   "published": "2026-07-10T04:00:00+00:00"
   },
   {
-   "title": "השוק התקרר: אורדע החליטה לבטל את ההנפקה",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001548929#utm_source=RSS",
-   "summary": "חברת ההדפסות שבשליטת משפחת ונגרובסקי והפניקס, החליטה לסגת ממהלך ההנפקה • ככל הנראה בעקבות ההתקררות בשוק, בצל ירידות השערים האחרונות, והאקזיט של חברת הביטוח ידחה",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-07-09T14:36:00+00:00"
-  },
-  {
-   "title": "Porn site company fined £630,000 over failed age checks",
-   "link": "https://www.bbc.co.uk/news/articles/c07ylddnvmyo?at_medium=RSS&at_campaign=rss",
-   "summary": "Ofcom has fined a slew of sites it says are failing to prevent children accessing their adult content.",
+   "title": "EasyJet agrees in principle to rival £5.7bn takeover bid",
+   "link": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss",
+   "summary": "The airline says a bid from US firm Apollo has trumped a previous potential takeover offer from Castlelake.",
    "source": "BBC Business",
    "lang": "en",
    "topic": "business",
    "rtl": false,
-   "published": "2026-07-09T11:29:31+00:00"
+   "published": "2026-07-10T06:55:17+00:00"
   }
  ]
 }
