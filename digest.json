@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-12T06:17:05.488332+00:00",
- "generated_display": "Sunday, 12 July 2026 · 09:17",
+ "generated_at": "2026-07-12T14:46:29.284504+00:00",
+ "generated_display": "Sunday, 12 July 2026 · 17:46",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,124 +23,224 @@
  },
  "stories": [
   {
-   "title": "United in art: Jerusalem's Manofim Festival returns with art, music, and performance",
-   "link": "https://www.jpost.com/israel-news/culture/article-902022",
-   "summary": "The 18th edition of the Manofim arts festival maintains its inclusive take on local life.",
+   "title": "Speaker Amir Ohana reduces Knesset budget by NIS 50 mil. to support Israel's economy",
+   "link": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-902251",
+   "summary": "Knesset Speaker Ohana said he had informed Finance Minister Bezalel Smotrich of his budget-reduction initiative and that the funds are expected to be deposited in the treasury.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-07-12T05:50:15+00:00"
+   "published": "2026-07-12T16:35:11+00:00"
   },
   {
-   "title": "\"הרבה חילונים לא ראו עתיד בירושלים. עכשיו הם לא רואים אותו בישראל\"",
-   "link": "https://www.ynet.co.il/news/article/yokra14826710",
-   "summary": "הדיונים בכנסת על הסדרת השתמטות חרדים ופיזור הטבות כלכליות הם משל על הנעשה בעיר שמחוץ למשכן | זה ניכר בהיטפלות לעסקים שפתוחים בשבת, בהפרעה אלימה לעבודות הרכבת הקלה ובתחושת החרדה של הציבור הליברלי | \"רק רצינו לבנות קהילה ולחזק אותה\", אומר יואל בן דוד מ\"קפה בסמטה\", שהותקף בסוף השבוע האחרון | וסגן ראש העיר אדיר שוורץ מזהיר: \"תל–אביבי שחושב שיוכל להמשיך להסתגר בגטו החילוני שלו ‑ חי בסרט\"",
+   "title": "יש תאריך רשמי: הבחירות יתקיימו ב-27 באוקטובר",
+   "link": "https://www.ynet.co.il/news/article/bj4s2gwnfx",
+   "summary": "בוועדת הכנסת נקבע רשמית שמועד פיזור המשכן יהיה בסוף השבוע הקרוב. בעקבות ההחלטה, שהתקבלה במהלך הדיונים על חוק מימון מפלגות, אזרחי ישראל יילכו לקלפיות בסוף חודש אוקטובר. עוד לפני כן, הדיל הפוליטי בין נתניהו והמפלגות החרדיות יקודם בשבוע הקרוב",
    "source": "Ynet חדשות",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-07-12T03:54:32+00:00"
+   "published": "2026-07-12T13:58:45+00:00"
   },
   {
-   "title": "Twenty years on: IDF reveals orders to begin Second Lebanon War, expand operations towards Litani",
-   "link": "https://www.jpost.com/middle-east/article-902189",
-   "summary": "The 34-day war followed a combined Hezbollah attack on northern Israel on the morning of July 12, 2006, targeting both IDF soldiers and Israeli civilians.",
+   "title": "Turkey's Fidan tones down Israel rhetoric, says 'no reason for open conflict' amid F-35 push",
+   "link": "https://www.jpost.com/middle-east/article-902242",
+   "summary": "Complaining of the alleged anti-Ankara rhetoric coming from Jerusalem, Fidan directed criticism at Prime Minister Benjamin Netanyahu’s coalition and select members of the opposition.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-07-12T08:22:15+00:00"
+   "published": "2026-07-12T15:27:45+00:00"
   },
   {
-   "title": "US strikes Iran again, after IRGC attacks ship in Hormuz and declares strait closed until further notice",
-   "link": "https://www.timesofisrael.com/us-strikes-iran-again-after-irgc-attacks-ship-in-hormuz-and-declares-strait-closed-until-further-notice/",
-   "summary": "Tehran attacks American base in Jordan, appears to also target Gulf states in response to US targeting coastal areas near the waterway; Iran has previous threatened to attack Israel too if US strikes persist",
+   "title": "Israel’s leaders mourn passing of Lindsey Graham, ‘one of its greatest friends’",
+   "link": "https://www.timesofisrael.com/israels-leaders-mourn-passing-of-lindsey-graham-one-of-its-greatest-friends/",
+   "summary": "GOP senator lauded as American patriot, defender of free world and US-Israel relationship; Netanyahu said to consider attending funeral",
    "source": "Times of Israel",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-07-12T03:52:57+00:00"
+   "published": "2026-07-12T10:39:53+00:00"
   },
   {
-   "title": "לכונן עמוד שדרה אידיאולוגי מחודש",
-   "link": "https://www.ynet.co.il/news/article/yokra14829054",
-   "summary": "ארדן החל את הקדנציה הנוכחית כשגריר ישראל באו\"ם, בניסיון להבין אם יש טעם לפרוש ולהתמודד בפריימריז. אדלשטיין לא הצליח יותר מדי בפריימריז, אך בתור יו\"ר ועדת החוץ והביטחון ניצב לעימות פעם אחר פעם מול השותפים הקואליציוניים. שקד התמודדה בבחירות האחרונות וזכתה לתמיכה של עשרות אלפים, אך לא די כדי להיבחר לכנסת",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-07-11T21:03:00+00:00"
-  },
-  {
-   "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
-   "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-   "summary": "The strikes follow an attack on a Cyprus -flagged vessel travelling through the critical waterway.",
-   "source": "BBC World",
+   "title": "Israel’s under-20 women’s basketball team makes history with first European final",
+   "link": "https://www.timesofisrael.com/israels-under-20-womens-basketball-team-makes-history-with-first-european-final/",
+   "summary": "EuroBasket squad already notched a first by reaching semis; 78-69 victory over Belgium sets up squad for championship game against France on Sunday",
+   "source": "Times of Israel",
    "lang": "en",
-   "topic": "world",
+   "topic": "israel",
    "rtl": false,
-   "published": "2026-07-12T04:39:18+00:00"
+   "published": "2026-07-12T13:05:13+00:00"
   },
   {
-   "title": "שבוע ההכרעות של הקואליציה: החוקים שעלולים לפלג עוד יותר את ישראל",
-   "link": "https://www.israelhayom.co.il/news/politics/article/20958023",
-   "summary": "חמשת ימי העבודה האחרונים של הכנסת לפני פיזורה: על הפרק ארבעה חוקים שיפצלו עוד יותר את החברה הישראלית • מאחורי הקלעים: מאבקים פוליטיים ומשפטיים על כל סעיף, קרעים בתוך הקואליציה עצמה - וזעקת הלומי הקרב",
+   "title": "אלוהים מחוץ למערכת: כך ChatGPT מוחק את הדת מחיינו",
+   "link": "https://www.israelhayom.co.il/tech/tech-news/article/20965222",
+   "summary": "מתוך 12,000 מחקרי הטיות בבינה מלאכותית, רק 0.2% עסקו בדת • מחקר אקדמי חסר תקדים חושף את \"הטיית ההשמטה\" של ה-AI • המערכות לא תוקפות את האמונה - הן פשוט מוחקות אותה מהתשובות • נשיא ישיבה יוניברסיטי, הרב ד\"ר ברמן, מזהיר: \"בורות דיגיטלית היא קרקע פורייה לאנטישמיות - אסור שה-AI יהפוך ממנוע חיפוש למקור למשמעות\"",
    "source": "ישראל היום",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-07-12T02:50:16+00:00"
+   "published": "2026-07-12T14:24:37+00:00"
   },
   {
-   "title": "השבוע האחרון לכנסת ה־25: מרוץ להשלמת הדיל השתמטות–הפיכה",
-   "link": "https://www.haaretz.co.il/news/politi/2026-07-12/ty-article/.premium/0000019f-5298-d7c8-a3df-5f9e2aea0000",
-   "summary": "על הפרק מונחים החלשת היועץ המשפטי, רפורמת התקשורת, חוק יסוד לימוד התורה, החוק שימנע מעצר עריקים חרדים וחוקים נוספים – אבל לא ברור כמה מהם ניתן לאשר עד לפגרת הבחירות בסוף השבוע",
-   "source": "הארץ",
+   "title": "התסיסה לפני הדיון בפריימריז: \"לא יכול להיות שליברמן ובנט קובעים רשימה - וביבי לא\"",
+   "link": "https://www.ynet.co.il/news/article/bjhpbtlngx",
+   "summary": "ראש עיריית דימונה בני ביטון, חבר הצוות שמגבש עם נתניהו את מתווה השיריונים ועיצוב רשימת הליכוד לכנסת הבאה, אמר בריאיון לאולפן ynet: \"תנו לו את כל הסמכויות. אחרי הבחירות תקום ועדה שתבחן אם פריימריז זה עדיין אקטואלי\". ח\"כ גוטליב: \"מאחורי רעיון ביטול הפריימריז - ישראל כ\"ץ ויריב לוין הפחדנים\"",
+   "source": "Ynet חדשות",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-07-12T03:01:19+00:00"
+   "published": "2026-07-12T07:53:30+00:00"
   },
   {
-   "title": "Iran attacks Jordan, Gulf neighbors and targets 2 ships in Hormuz as US hits 140 Iranian military targets",
-   "link": "https://www.timesofisrael.com/liveblog-july-12-2026/",
-   "summary": "Oman, Qatar, UAE, Bahrain and Kuwait come under attack * US military says Iranian sites targeted include missile and drone sites, naval capabilities, ammunition depots, communication networks, coastal surveillance locations",
-   "source": "Times of Israel",
-   "lang": "en",
+   "title": "כישלון מפואר: OpenAI סוגרת את פרויקט הדגל",
+   "link": "https://www.israelhayom.co.il/tech/tech-news/article/20965010",
+   "summary": "הוא היה אמור לשבור את המונופול של גוגל כרום, אך יורד מהבמה אחרי תשעה חודשים בלבד • יצרנית ChatGPT הודיעה על סגירתו הרשמית של דפדפן ה-AI שלה, חודשים ספורים בלבד לאחר שחיסלה גם את פרויקט הווידאו המבטיח Sora • עם זאת, בחברה מבהירים כי יכולות ה\"סוכנים\" לא ייעלמו, אלא יפוזרו בתוך כרום ובאפליקציית הדסקטופ",
+   "source": "ישראל היום",
+   "lang": "he",
    "topic": "israel",
-   "rtl": false,
-   "published": "2026-07-12T03:57:21+00:00"
+   "rtl": true,
+   "published": "2026-07-12T13:45:28+00:00"
   },
   {
-   "title": "Missing woman’s former partner charged with murder after remains found in Queensland bushland",
-   "link": "https://www.theguardian.com/australia-news/2026/jul/12/missing-woman-jana-armstrong-queensland-man-charged-murder-ntwnfb",
-   "summary": "Toowoomba woman Jana Armstrong, mother of a four-month-old baby, was last seen on Tuesday Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Queensland police have charged a former partner of a missing woman with murder, after a body believed to be hers was discovered in bushland by a group of hunters. As of Sunday, the remains were ",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-07-12T05:49:28+00:00"
+   "title": "למשקיעים הייתה יממה להתקרר אחרי החדשות האלה. איך הם יגיבו מחר?",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001548996#utm_source=RSS",
+   "summary": "המתיחות הגאו־פוליטית בין ארה\"ב ואיראן חוזרת לקדמת הבמה, בעוד התנועה בהורמוז נעצרה כמעט לחלוטין • מיקוד המשקיעים יתחלק בין ההסלמה לנתוני האינפלציה החשובים שיפורסמו בישראל ובארה\"ב • מיטב: פוטנציאל ההתחזקות של השקל יהיה מוגבל בטווח הקרוב • וגם: במורגן סטנלי מסמנים שלושה מכשולים שיכולים לפגוע בעונה החזקה של השנה בוול סטריט • כל מה שכדאי לדעת לקראת שבוע המסחר",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-07-12T13:29:00+00:00"
   },
   {
-   "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
-   "link": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
-   "summary": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?",
+   "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+   "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+   "summary": "Donald Trump paid tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
    "source": "BBC World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-07-12T05:00:15+00:00"
+   "published": "2026-07-12T14:18:45+00:00"
   },
   {
-   "title": "US and Iran exchange strikes as Tehran again says strait of Hormuz is closed",
-   "link": "https://www.theguardian.com/world/2026/jul/12/us-and-iran-exchange-strikes-as-tehran-again-says-strait-of-hormuz-is-closed",
-   "summary": "Tehran says vessel using unapproved route in strait was struck, drawing strikes from US forces to ‘degrade Iran’s ability to attack civilian mariners’ Iran and the US exchanged fresh strikes early on Sunday over what Tehran said was unauthorised use of the strait of Hormuz by a container ship, raising further doubts about the prospects of talks to agree a way forward for the vital waterway. The la",
+   "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
+   "link": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
+   "summary": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, local media reports.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-12T13:35:01+00:00"
+  },
+  {
+   "title": "Green MP Hannah Spencer to introduce bill on maximum workplace temperatures",
+   "link": "https://www.theguardian.com/politics/2026/jul/12/green-mp-hannah-spencer-aims-to-pass-law-on-maximum-workplace-temperatures",
+   "summary": "Byelection winner says heatwaves are causing ‘absolute chaos’ and workers need protection from unsafe conditions The Green MP Hannah Spencer is to introduce a bill in parliament that would pave the way for a maximum workplace temperature in the UK, as the country grapples with increasingly frequent heatwaves. If passed, the legislation will create an independent body to recommend maximum safe work",
    "source": "The Guardian",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-07-12T05:27:38+00:00"
+   "published": "2026-07-12T13:56:27+00:00"
+  },
+  {
+   "title": "Trump Sought an Iran War Exit. Putin Pushed On in Ukraine. Now Both Are Stuck.",
+   "link": "https://www.nytimes.com/2026/07/12/world/europe/trump-putin-war-iran-ukraine.html",
+   "summary": "The Iran and Ukraine wars underline the common limits of military force in achieving political ends, but also the differences between a dug-in Russian president and a vacillating American one.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-12T09:01:28+00:00"
+  },
+  {
+   "title": "UK couple found burned and semi-conscious in Almería amid Spanish wildfires",
+   "link": "https://www.theguardian.com/world/2026/jul/12/uk-couple-burned-semi-conscious-almeria-spanish-wildfires",
+   "summary": "Pair airlifted to hospital in two-hour rescue operation after Guardia Civil searched area for survivors A British couple have been found badly burned and semi-conscious in a Spanish ravine amid deadly wildfires that have swept through the country’s Almería province, according to local media reports. The couple were on holiday in the region and were thought to be out hiking when they were caught up",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-12T14:26:34+00:00"
+  },
+  {
+   "title": "Hard-Liners in Iran Want to Keep Fighting America",
+   "link": "https://www.nytimes.com/2026/07/12/world/middleeast/iran-united-states-hard-liners.html",
+   "summary": "With much of their leadership killed in the war, Iran’s conservatives have sought to fill the void and intensify the fight against the United States.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-12T11:24:54+00:00"
+  },
+  {
+   "title": "The fight against AI data centers is just beginning",
+   "link": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+   "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Years before the AI boom threatened local power […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-07-12T12:00:00+00:00"
+  },
+  {
+   "title": "92 מיליון שקל פחות: הממשלה תקצץ בתוכנית שילוב ערבים בתעסוקה",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001549034#utm_source=RSS",
+   "summary": "תוכנית \"ריאן\", שהעבירה הכשרות תעסוקתיות למעל 160 אלף משתתפים מהחברה הערבית, נמצאת בסכנת סגירה • הסיבה: יוזמה של השרים מאי גולן ואיתמר בן גביר להעביר כסף מתוכנית החומש לחברה הערבית לתקציבי משטרה למלחמה בפשיעה",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-07-12T14:30:00+00:00"
+  },
+  {
+   "title": "Blue Prince became a bonding — and learning — experience for my family",
+   "link": "https://www.theverge.com/games/964262/blue-prince-family-bonding",
+   "summary": "I've always been the gamer in the family. When my son was born nearly 11 years ago, gaming was one of the things I looked forward to sharing with him. Pulling up a chair next to me, he would watch as I played Sea of Thieves with friends, often wearing the too-big-for-his-head headset to talk […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-07-12T13:00:00+00:00"
+  },
+  {
+   "title": "Ukraine’s Zelenskyy announces cabinet reshuffle, replaces PM Svyrydenko",
+   "link": "https://www.aljazeera.com/news/2026/7/12/ukraines-zelenskyy-announces-cabinet-reshuffle-replaces-pm-svyrydenko?traffic_source=rss",
+   "summary": "Yulia Svyrydenko to step down amid government shake-up aimed at prioritising foreign policy and security goals.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-12T13:28:53+00:00"
+  },
+  {
+   "title": "למה רדיט יוצאת למלחמה במניפולציות ה-AI?",
+   "link": "https://www.ynet.co.il/economy/interactive/wallstreet/article/56a1679nw",
+   "summary": "עידן הבינה המלאכותית יוצר חזית חדשה במלחמה על המידע ברשת, עם השלכות ישירות גם על שוק ההון. אם בעבר חברות השקיעו מאמצים בקידום אתרים במנועי חיפוש (SEO), כיום הן מנסות להשפיע על התשובות שמספקים צ'אטבוטים כמו Chat GPT, Gemini ו-Claude. אחת הזירות המרכזיות בקרב הזה היא רדיט (RDDT), שנחשבת למקור אמין של דעות אותנטיות, המלצות וחוויות משתמשים. כעת החברה מודיעה כי היא מגבירה את המאבק בתופעה חדשה - תוכן שי",
+   "source": "Ynet כלכלה",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-07-12T08:03:42+00:00"
+  },
+  {
+   "title": "השקעות בחו\"ל ופיזור סיכונים: איך עושים את זה בצורה פשוטה יותר?",
+   "link": "https://www.ynet.co.il/economy/interactive/wallstreet/article/utdj5a8oe",
+   "summary": "בתקופה שבה השוק המקומי מושפע מאי-ודאות ביטחונית, פוליטית וכלכלית, יותר ישראלים מבינים את החשיבות של פיזור השקעות מחוץ לישראל. השקעה בחו\"ל מאפשרת להיחשף לחברות הגדולות בעולם, לסקטורים מגוונים ולכלכלות שונות - ולא להישאר תלויים רק במה שקורה בבורסה המקומית. באמצעות אינטראקטיב ישראל, המעניקה גישה ניתן להשקיע בבורסות המובילות בעולם דרך חשבון אחד, בצורה נגישה, יעילה וגמישה יותר.",
+   "source": "Ynet כלכלה",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-07-12T08:13:16+00:00"
+  },
+  {
+   "title": "The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail east?",
+   "link": "https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/",
+   "summary": "New climate evidence adds context to these long voyages.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-07-12T11:12:19+00:00"
   },
   {
    "title": "Reed Jobs would rather talk about curing cancer than his last name",
@@ -153,124 +253,24 @@
    "published": "2026-07-12T00:16:06+00:00"
   },
   {
-   "title": "After Being Delayed by Trump, a Canada-U.S. Bridge Is Set to Open",
-   "link": "https://www.nytimes.com/2026/07/10/world/canada/gordie-howe-bridge-canada-us-michigan.html",
-   "summary": "A deal ended the Trump administration’s blocking of a new bridge that will ease congestion at the busiest trade corridor between the United States and Canada.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-07-12T04:36:30+00:00"
-  },
-  {
-   "title": "אל תעשו את הטעות הזו בימים של הורדת ריבית",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001548927#utm_source=RSS",
-   "summary": "מניות הנדל\"ן אולי מנצחות לאורך זמן את העלייה במחירי הדיור בישראל, אך לאחרונה הן הציגו תשואות חסר משמעותית בת\"א • האם ירידת הריבית, שנחשבת לגורם העיקרי שמזיז את הענף, מבשרת על שינוי במגמה? \"אחת הטעויות הנפוצות היא להתייחס לכל מניות הנדל\"ן כמקשה אחת\" • אנליסטים מסמנים: החברות שצפויות ליהנות מהריבית היורדת ומאילו עדיף בינתיים לשמור מרחק",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-07-12T02:47:00+00:00"
-  },
-  {
-   "title": "How Putin Turned Japan Into a Den of Spies",
-   "link": "https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html",
-   "summary": "Operating out of a Tokyo high-rise, a military intelligence unit finds the high-tech equipment that Russia needs to wage war.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-07-12T04:01:11+00:00"
-  },
-  {
-   "title": "שני עורכי דין הגישו כמעט 100 תביעות ייצוגיות בשנתיים - בנושא אחד ויחיד",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001548910#utm_source=RSS",
-   "summary": "עוה\"ד ערן פלסר ושלומי אבני הגישו בקשות לייצוגיות נגד עסקים על היעדר מערכות עזר לשמיעה • התביעות שהוכרעו הסתיימו בשכר טרחה של אלפי שקלים לשניים, אבל גם בהנגשת בתי העסק - ומכאן הדילמה לגבי השימוש בכלי המשפטי",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-07-12T06:00:00+00:00"
-  },
-  {
-   "title": "Whistleblower claims Kennedy Center ‘rushed’ renovations to please Trump",
-   "link": "https://www.aljazeera.com/news/2026/7/11/whistleblower-claims-kennedy-center-rushed-renovations-to-please-trump?traffic_source=rss",
-   "summary": "Democratic Senator Sheldon Whitehouse details rusting columns, uneven paint and unnecessary demolition under Trump.",
+   "title": "Republican Lindsey Graham dies at 71: World leaders, US politicians react",
+   "link": "https://www.aljazeera.com/news/2026/7/12/republican-lindsey-graham-dies-at-71-world-leaders-us-politicians-react?traffic_source=rss",
+   "summary": "The longtime US senator, an ally of President Trump, was an advocate for using US military force overseas.",
    "source": "Al Jazeera",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-07-11T23:31:23+00:00"
+   "published": "2026-07-12T13:08:55+00:00"
   },
   {
-   "title": "US forces launch new strikes on Iran; Tehran closes Strait of Hormuz",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/us-forces-launch-new-strikes-on-iran-tehran-closes-strait-of-hormuz?traffic_source=rss",
-   "summary": "US forces have launched a third round of strikes on Iran in a week.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-07-12T05:07:10+00:00"
-  },
-  {
-   "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-   "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-   "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-07-11T14:13:00+00:00"
-  },
-  {
-   "title": "עם מגרש וגינה בשטח של 400 מ\"ר: איפה נמכר קוטג' עם 5 חדרים ב-1.61 מיליון שקל",
-   "link": "https://www.ynet.co.il/economy/article/b1femyxnfx",
-   "summary": "וגם: איזה סכום שולם על דירת 2 חדרים בב\"ש, בכמה נמכרה דירת 3.5 חדרים בחיפה ומה היה המחיר של דירת 5 חדרים בחולון? סקירת עסקאות יד שנייה",
-   "source": "Ynet כלכלה",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-07-12T04:19:48+00:00"
-  },
-  {
-   "title": "הקרב על התוספת האחידה: ערעור לעליון על פסק הדין שטלטל את ענף הנדל\"ן",
-   "link": "https://www.ynet.co.il/economy/article/syiuhoxeze",
-   "summary": "בעלי דירות בפרויקט המיועד לפינוי בינוי ברמת גן הגישו ערעור לבית המשפט העליון נגד פסק הדין התקדימי שעורר סערה בענף ההתחדשות העירונית וקבע כי תוספת שטח אחידה לכלל בעלי הדירות מהווה אפליה פסולה. בערעור נטען כי פסק הדין מנוגד לדין ומהווה איום ממשי על שוק ההתחדשות העירונית בישראל",
-   "source": "Ynet כלכלה",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-07-12T06:01:26+00:00"
-  },
-  {
-   "title": "After years of teasing, the viral Nopia synth is ‘basically finished’",
-   "link": "https://www.theverge.com/gadgets/964499/nopia-viral-synth-finished-price-release-demo",
-   "summary": "After setting the music gear corner of the internet on fire back in 2023 with the first glimpse at the Nopia, creators Martin Grieco and Rocío Gal are almost ready to bring it to market. The duo brought it to the MusicRadar offices for an in-depth first look and revealed that it will be launching […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-07-11T20:57:42+00:00"
-  },
-  {
-   "title": "FL Studio head Constantin Koehncke turns to Reddit for feedback and fun",
-   "link": "https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview",
-   "summary": "If you're a music maker of a certain age, then you probably once dabbled with a pirated copy of a little app called Fruity Loops. These days it's called FL Studio, and Constantin Koehncke, is the man responsible for shepherding the pioneering digital audio workstation (DAW) through the modern age. As CEO of Image Line, […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-07-11T15:00:00+00:00"
-  },
-  {
-   "title": "חסר תקדים: אפל מאשימה את OpenAI בגניבת סודות מסחריים",
-   "link": "https://www.ynet.co.il/digital/technews/article/sju0yuyefl",
-   "summary": "השותפות בין שתי ענקיות הטכנולוגיה התחלפה במאבק חזיתי בבית המשפט. יצרנית האייפון מאשימה את מפתחת ChatGPT בגניבת סודות מסחריים, בגיוס עובדים ובשימוש במידע מסווג לפיתוח מכשירי AI חדשים. OpenAI: \"אין לנו עניין בסודות של חברות אחרות\"",
+   "title": "שכחו מטינדר: הפלטפורמה המפתיעה שבה אנשים מוצאים אהבה",
+   "link": "https://www.ynet.co.il/digital/technews/article/sjpofg11ezx",
+   "summary": "סקר חדש מגלה כי אחד מכל שמונה עובדים בארה\"ב ניהל קשר רומנטי שהחל בלינקדאין, ואחד מכל חמישה השתמש ברשת החברתית-עסקית כדי לבדוק בן או בת זוג פוטנציאליים. כמעט מחצית סבורים: המידע בה אמין יותר מזה שבאפליקציות היכרויות",
    "source": "Ynet טכנולוגיה",
    "lang": "he",
    "topic": "tech",
    "rtl": true,
-   "published": "2026-07-11T08:55:08+00:00"
+   "published": "2026-07-12T11:09:06+00:00"
   },
   {
    "title": "Will Trump Accounts deliver for American children?",
