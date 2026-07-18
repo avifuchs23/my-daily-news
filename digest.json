@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-17T15:04:27.993274+00:00",
- "generated_display": "Friday, 17 July 2026 · 18:04",
+ "generated_at": "2026-07-18T05:41:45.339756+00:00",
+ "generated_display": "Saturday, 18 July 2026 · 08:41",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,104 +23,254 @@
  },
  "stories": [
   {
-   "title": "'Ecology of healing': Israel's October 7 trauma victims say the system is failing them",
-   "link": "https://www.jpost.com/health-and-wellness/mind-and-spirit/article-902787",
-   "summary": "DOMESTIC AFFAIRS: Experts say Israel’s war-trauma system must evolve from disability ratings to rehabilitation. Will the next Knesset prioritize reform?",
+   "title": "IDF detains Israeli civilians who crossed into Syria, others who attempted to breach border",
+   "link": "https://www.jpost.com/israel-news/defense-news/article-902858",
+   "summary": "The IDF noted that it has identified a recent increase in illegal border crossing attempts into Syria, both successful and unsuccessful.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-07-17T15:39:25+00:00"
+   "published": "2026-07-18T00:28:01+00:00"
   },
   {
-   "title": "No product? No problem. This Disrupt 2026 session shows how to get pre-seed funding with conviction, storytelling",
-   "link": "https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/",
-   "summary": "It’s not just you: AI startups are taking in a huge amount of seed funding, and in the process making things harder for anyone looking for funding even at a pre-seed stage. We’ve covered the trend in detail, and at this year’s TechCrunch Disrupt event, we want to help pre-seed founders now being held to seed-stage […]",
+   "title": "Israel's loneliness is impossible to ignore: Lessons from University of Haifa conference - opinion",
+   "link": "https://www.jpost.com/opinion/article-902674",
+   "summary": "I recalled, of course – as had all those who spoke before me – the unprecedented wave of hatred that has swept across the world since October 7. But I also insisted that the battle is far from lost.",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-07-18T01:46:34+00:00"
+  },
+  {
+   "title": "Neil Rimer thinks the AI money is coming back out",
+   "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+   "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
    "source": "TechCrunch",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-07-17T14:30:00+00:00"
+   "published": "2026-07-18T04:47:25+00:00"
   },
   {
-   "title": "Middle Israel: How Jews and Palestinians became masters of historical denial",
-   "link": "https://www.jpost.com/opinion/article-902790",
-   "summary": "Had the Jews studied their history impartially, they would've understood centuries before Herzl that regaining their land and restoring their power is their task, not God's.",
-   "source": "Jerusalem Post",
-   "lang": "en",
+   "title": "ארה\"ב תקפה, איראן טוענת: \"ירינו לאוקיינוס ההודי, השמדנו מרכז AI\"",
+   "link": "https://www.ynet.co.il/news/article/rjwkowd4zx",
+   "summary": "לילה שביעי ברצף של חילופי מהלומות במפרץ: ארה\"ב יצאה לגל תקיפות נוסף, ובאיראן טענו מנגד ששיגרו טיל שיוט על ספינה בצפון האוקיינוס ההודי, השמידו מרכז בינה מלאכותית בבחריין - ותקפו בסיסים ומחנות אמריקנים באזור. ירדן: יירטנו 10 טילים ששוגרו לשטחנו. ארה\"ב חידשה את אזהרת המסע לישראל ולאזור",
+   "source": "Ynet חדשות",
+   "lang": "he",
    "topic": "israel",
-   "rtl": false,
-   "published": "2026-07-17T14:46:20+00:00"
+   "rtl": true,
+   "published": "2026-07-17T21:21:29+00:00"
   },
   {
-   "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
-   "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
-   "summary": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
+   "title": "He made history in Congress - then the Supreme Court changed its mind",
+   "link": "https://www.bbc.co.uk/news/articles/cn949jvjxplo?at_medium=RSS&at_campaign=rss",
+   "summary": "Residents say they're afraid that if Shomari Figures loses his seat, their federal-funding could disappear with him.",
    "source": "BBC World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-07-17T11:37:00+00:00"
+   "published": "2026-07-18T01:35:33+00:00"
   },
   {
-   "title": "Israeli Government Pushes Through Divisive Laws Before Election",
-   "link": "https://www.nytimes.com/2026/07/16/world/middleeast/israel-divisive-new-laws.html",
-   "summary": "Prime Minister Benjamin Netanyahu backed a series of laws undermining legal oversight of the government, benefiting allied media outlets and aiming to shore up ultra-Orthodox political support.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-07-17T07:22:36+00:00"
-  },
-  {
-   "title": "Iran War Live Updates: U.S. Hits Bridges and a Port in Country’s South, Iranian Media says",
-   "link": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz",
-   "summary": "The U.S. military’s Central Command said the latest round of attacks had “hit dozens of Iranian military targets” but made no mention of civilian infrastructure.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-07-17T14:57:05+00:00"
-  },
-  {
-   "title": "ראש הממשלה הבריטי השביעי תוך עשור: ברנהאם הוכתר כמנהיג הלייבור - ושובר שמאלה",
-   "link": "https://www.ynet.co.il/news/article/hjov6cw4fx",
-   "summary": "\"מלך הצפון\" נבחר ליורשו של קיר סטרמר בלי שאיש התמודד מולו - וביום שני ייכנס לתפקיד ראש ממשלת בריטניה. בנאום ההכתרה הוא אותת על כוונתו לשנות את המדיניות, בעיקר בנושאים כלכליים - ולאחר שכבר רמז כי ינקוט קו קשוח יותר נגד ישראל: \"בריטניה קיבלה שורה של החלטות שגויות בשנות השמונים\"",
+   "title": "ממדאני: גם נלסון מנדלה הואשם באנטישמיות בגלל ביקורת על ישראל",
+   "link": "https://www.ynet.co.il/news/article/bjrtrro4me",
+   "summary": "ראש העיר ניו יורק טען כי בדומה לנלסון מנדלה - גם הוא מתמודד עם האשמות, לפיהן הוא מלבה אנטישמיות בגלל ביקורת שמתח על מדיניותה של ישראל. \"למה עלינו לחכות עד שאלפים נוספים יאבדו ילדים, גפיים ובתים כדי לדרוש את חירות הפלסטינים?\", אמר",
    "source": "Ynet חדשות",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-07-17T13:47:06+00:00"
+   "published": "2026-07-18T02:42:19+00:00"
   },
   {
-   "title": "לא סתם יום שלישי: הסיפור שמאחורי תאריך הבחירות הקרובות",
-   "link": "https://www.ynet.co.il/news/article/sk0rfaleme",
-   "summary": "הבחירות לכנסת ה-26 יתקיימו ב-27/10 - התאריך החוקי המקורי, ולא תוצאה של עוד משבר פוליטי. למה דווקא יום שלישי? מה מיוחד בחשוון? אילו בחירות נדחו בגלל מלחמה? איזו מערכת בחירות התקיימה בקיץ? ומתי בפעם האחרונה ישראל הלכה לקלפיות במועד? מסע בין התאריכים שעיצבו את הפוליטיקה הישראלית",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-07-17T03:56:03+00:00"
+   "title": "Control, threats, disfiguring surgery: My life inside Jeffrey Epstein's 'cult'",
+   "link": "https://www.bbc.co.uk/news/articles/czek5wl6p2go?at_medium=RSS&at_campaign=rss",
+   "summary": "\"Anya\" gives the BBC a rare account of how sex-criminal financier Epstein lured and abused his “assistants”.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-18T05:10:44+00:00"
   },
   {
-   "title": "רפורמת הייבוא - השלב הבא: המהלך שמתיימר להוזיל את סל הקניות שלכם",
-   "link": "https://www.israelhayom.co.il/business/article/21003473",
-   "summary": "הכנסת אישרה את רפורמת \"מה שטוב לאמריקה - טוב לישראל\" שלמעשה מסירה את החסמים לייבוא חופשי מארה\"ב • \"המהלך הזה לא רק יקדם את הסחר עם שותפתנו הגדולה ארצות הברית, אלא יביא בשורה ישירה לציבור הצרכנים\"",
+   "title": "עמנואל שארפ הוביל את סקרמנטו ל-90:92 על שארלוט",
+   "link": "https://www.israelhayom.co.il/sport/article/21005898",
+   "summary": "הישראלי החדש ב-NBA המשיך להרשים גם במשחק הפרידה מליגת הקיץ, כאשר הלילה סיפק 16 נקודות, 3 אסיסטים, 3 חטיפות, 2 ריבאונדים וחסימה והוביל את הקינגס לניצחון דחוק על ההורנטס",
    "source": "ישראל היום",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-07-17T10:32:47+00:00"
+   "published": "2026-07-18T04:22:01+00:00"
   },
   {
-   "title": "Burnham calls for party unity and ‘new politics’ in first speech as Labour leader – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/jul/17/andy-burnham-labour-leader-speech-latest-news-updates",
-   "summary": "Burnham criticises ‘decades of neoliberalism’ and says he wants to give people ‘hope back’ When Andy Burnham first tried to return to the Commons, by applying to be Labour’s candidate in the Gorton and Denton byelection, Labour’s national executive committee blocked him – in part because, they argued, Labour might find it hard to hold the Greater Manchester mayoralty in the byelection caused by hi",
+   "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
+   "link": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
+   "summary": "The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-07-17T19:22:00+00:00"
+  },
+  {
+   "title": "Iran War Updates: Bridges and Water Plants Hit as Strikes Stretch to 7th Straight Day",
+   "link": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz",
+   "summary": "Overnight and into Friday, Iran reported U.S. strikes on infrastructure that can serve civilian purposes and has targeted similar sites in Gulf countries that host American bases. In the afternoon, the U.S. military announced a new round of attacks on Iran.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-18T02:01:48+00:00"
+  },
+  {
+   "title": "הנקמה של איפא\"ק בדמוקרטים שהצביעו נגד הסיוע לישראל",
+   "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21005855",
+   "summary": "השדולה הפרו-ישראלית חסמה את האפשרות להעביר תרומות דרך הפורטל שלה למחוקקים דמוקרטים שתמכו בביטול הסיוע לישראל • בין הנפגעים: 15 מועמדים שאיפא\"ק כבר הודיעה שתתמוך בבחירתם מחדש בנובמבר • גם הודעת התודה לננסי פלוסי ולפורשים נוספים נעלמה מהאתר",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-07-18T03:35:16+00:00"
+  },
+  {
+   "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
+   "link": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
+   "summary": "Hand-painted works are often wildly unfaithful to the movies they portray – reinterpretations that sometimes resulted in threats, insults and even physical attacks from viewers who felt duped Sitting on his porch in Teshie near Accra, Heavy J dipped a brush into red oil paint and dabbed it carefully on to his canvas – a flour sack – adding blood to a knife being wielded by a man. Higher on the can",
    "source": "The Guardian",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-07-17T14:53:51+00:00"
+   "published": "2026-07-18T04:00:47+00:00"
+  },
+  {
+   "title": "אחרי ההתקדמות במו\"מ עם ישראל: נשיא לבנון בדרך לוושינגטון",
+   "link": "https://www.maariv.co.il/breaking-news/article-1345785",
+   "summary": "",
+   "source": "מעריב",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-07-18T04:24:55+00:00"
+  },
+  {
+   "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
+   "link": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
+   "summary": "The Israeli military said the attack targeted members of the second-biggest militant group in Gaza. It also said it was “aware of the claims that several uninvolved individuals” had been harmed.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-17T19:52:28+00:00"
+  },
+  {
+   "title": "‘It’s only going to get worse’: wildfires forcing firefighters to make impossible choices",
+   "link": "https://www.theguardian.com/news/ng-interactive/2026/jul/18/the-impossible-choices-of-a-deadly-wildfire-season",
+   "summary": "As the climate crisis fuels more intense blazes, pushing them to new parts of the world, those tackling them are forced to ration resources and decide which to fight César Alcaraz had only just become a firefighter in the late 1990s when he found himself ambushed by a fast-moving blaze. Barely able to breathe and with no more water left in his truck, he and his colleagues fled an inferno ravaging ",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-18T05:00:50+00:00"
+  },
+  {
+   "title": "בעקבות המצב הביטחוני: שגרירות ארצות הברית מחדשת את אזהרת המסע לישראל",
+   "link": "https://www.maariv.co.il/breaking-news/article-1345779",
+   "summary": "",
+   "source": "מעריב",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-07-18T02:35:33+00:00"
+  },
+  {
+   "title": "Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank",
+   "link": "https://www.aljazeera.com/features/2026/7/18/israels-crimson-thread-military-barrier-is-strangling-the-west-bank?traffic_source=rss",
+   "summary": "A new military barrier in the West Bank's Jordan Valley is cutting off Palestinian communities from their land.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-18T05:15:11+00:00"
+  },
+  {
+   "title": "רכש את נכסי פישמן, והפך את הסטוק לענקית קמעונאות",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001549316#utm_source=RSS",
+   "summary": "עופר ברק הפך בשנתיים האחרונות מבעלי רשת הדיסקאונט הסטוק לרוכש הסדרתי של נכסי משפחת פישמן • עם טויס אר אס, הפיראט האדום ו־35% מהום סנטר - קבוצת הקמעונאות שהוא עומד בראשה מגלגלת היום 1.6 מיליארד שקל בשנה • עכשיו הוא פותח מותג אקספרס וגם מתכנן את ההנפקה • ראיון",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-07-18T04:46:00+00:00"
+  },
+  {
+   "title": "בלילה השביעי ברציפות: גל תקיפות נוסף באיראן",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001549727#utm_source=RSS",
+   "summary": "שגרירות ארה\"ב חידשה את אזהרת המסע לישראל ולמזרח התיכון • בכיר באיראן מאיים: אם ארה\"ב תמשיך במלחמה - לא נסתפק בתגובה מידתית • באיראן טוענים: שתי מכליות נפט הותקפו בהורמוז - בארה\"ב מכחישים • לראשונה מאז חידוש הלחימה: איראן תקפה מתקני התפלת מים וייצור חשמל בכווית ושיגרה טיל בליסטי לעבר בסיס אמריקני בסעודיה • עדכונים שוטפים",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-07-18T05:22:00+00:00"
+  },
+  {
+   "title": "At least 14 dead after minibus rolls off mountain road in Peru",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/at-least-14-dead-after-minibus-rolls-off-mountain-road-in-peru?traffic_source=rss",
+   "summary": "At least 14 people have been killed and five injured after a minibus in the Peruvian Andes lost control on a curve.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-18T03:49:08+00:00"
+  },
+  {
+   "title": "\"זה לא תחום לאקזיט ואני בהשלמה שאי אפשר להתעשר\"",
+   "link": "https://www.ynet.co.il/economy/article/vzputc6fl",
+   "summary": "חני נולד בדרום ת\"א ומגיל צעיר התאהב בים. הוא החל לעבוד במפעל לייצור גלשנים כדי ללמוד את המלאכה: \"הייתי 'ילד כאפות' - מנקה, מטאטא, מסדר\". בהמשך עבר לקליפורניה והתקדם. היום הוא מייצר גלשנים בשיטה הישנה: \"זה נשמע שאני מחרטט, אבל אני לא יכול לקבל הזמנה בטלפון. אני צריך לראות אותך ולהרגיש מי אתה\". משפחת עובדיה על הספה",
+   "source": "Ynet כלכלה",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-07-18T04:57:17+00:00"
+  },
+  {
+   "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
+   "link": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
+   "summary": "The company has unveiled a massive new artificial intelligence model it says can take on top American firms.",
+   "source": "BBC Business",
+   "lang": "en",
+   "topic": "business",
+   "rtl": false,
+   "published": "2026-07-17T16:53:04+00:00"
+  },
+  {
+   "title": "'I'd rather not leave the house so I don't get into more debt'",
+   "link": "https://www.bbc.co.uk/news/articles/cy8d1zm01k0o?at_medium=RSS&at_campaign=rss",
+   "summary": "Great Yarmouth has some of the highest levels of problem debt in the country, but help is at hand.",
+   "source": "BBC Business",
+   "lang": "en",
+   "topic": "business",
+   "rtl": false,
+   "published": "2026-07-18T05:23:28+00:00"
+  },
+  {
+   "title": "Apple’s plot to crush OpenAI",
+   "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+   "summary": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, and why is it picking such a public fight with OpenAI? On this episode of The […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-07-17T17:41:32+00:00"
+  },
+  {
+   "title": "Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak",
+   "link": "https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce",
+   "summary": "Food producer Taylor Farms released a statement on the Cyclospora outbreak Friday, confirming that it's \"voluntarily removing all iceberg lettuce sourced from central Mexico from the US market.\" Reuters reports that, according to a source, Taylor Farms told customers like Yum Brands owner Taco Bell and the food distributor Sysco on Thursday to pull shredded […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-07-17T22:09:47+00:00"
   },
   {
    "title": "חופשת החלומות: כלי ה-AI שיחסכו לכם מאות שקלים בנסיעה הקרובה",
@@ -131,156 +281,6 @@
    "topic": "tech",
    "rtl": true,
    "published": "2026-07-17T08:25:58+00:00"
-  },
-  {
-   "title": "Bodycam footage shows airlift of girl stranded by Texas floods",
-   "link": "https://www.bbc.co.uk/news/videos/c36d1n6g3x9o?at_medium=RSS&at_campaign=rss",
-   "summary": "Footage shows a rescuer reaching a family of three stranded by floods that destroyed their house in Uvalde county.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-07-17T10:51:40+00:00"
-  },
-  {
-   "title": "אירוע חריג בגוש עציון: ישראלי תיעד את המקום, התעמת עם אישה ונער - ודרס אותם | חשד",
-   "link": "https://news.walla.co.il/item/3854245",
-   "summary": "על פי החשד, החשוד בן ה-90 צילם בחוות תומר, כשלאחר מכן התעמת עם השניים המתגוררים באזור. רכבו של החשוד נתפס, והחשוד עוכב ע\"י השוטרים והועבר להמשך חקירת נסיבות המקרה",
-   "source": "וואלה",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-07-17T15:32:00+00:00"
-  },
-  {
-   "title": "Iran proves it can still inflict damage despite waves of US attacks",
-   "link": "https://www.theguardian.com/world/2026/jul/17/iran-inflict-damage-us-attacks",
-   "summary": "Leaked US intelligence report concluded Iran retained 70% of missiles and launchers after 38-day spring campaign Iran and the US have been trading blows for six consecutive nights and there are no shortage of signs that the renewed fighting will worsen further. Tehran and Washington remain far apart diplomatically , and though the US retains a significant military overmatch, Iran has more than eno",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-07-17T14:52:10+00:00"
-  },
-  {
-   "title": "ישראל גנץ בעקבות העימות: \"חציית קו אדום שאסור להשלים איתה\"",
-   "link": "https://www.inn.co.il/flashes/1122908",
-   "summary": "<p>ראש המועצה האזורית בנימין ויו\"ר מועצת יש\"ע, ישראל גנץ, הגיב לעימות שאירע בצהריים בין פעילי שמאל קיצוני ליהודים.</p><p>באירוע נפצעה אישה יהודייה שמאושפזת בבית החולים.</p><p>לדבריו, מדובר ב\"מציאות בלתי נתפסת\" וב\"חציית קו אדום שאסור להשלים איתה\".</p><p>גנץ הוסיף כי \"פעם אחר פעם אנחנו מתמודדים עם אנרכיסטים שמטרידים את חיילי צה\"ל, תוקפים יהודים ומחוללים פרובוקציות ברחבי יהודה ושומרון\", וקרא לכוחות ה",
-   "source": "ערוץ 7",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-07-17T12:43:04+00:00"
-  },
-  {
-   "title": "השרה אורית סטרוק נפרדת: אנחנו בתקופה של נס",
-   "link": "https://www.inn.co.il/flashes/1122907",
-   "summary": "במאמר פרידה עם נעילת הכנסת ה־25 מסכמת השרה אורית סטרוק את שנות כהונתה, מודה לסיעת הציונות הדתית, לפעילים, למתפללים ולעם ישראל, ומדגישה כי למרות הקשיים והכאבים: \"אנחנו בתקופה של נס\".",
-   "source": "ערוץ 7",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-07-17T12:39:57+00:00"
-  },
-  {
-   "title": "Did China steal 2020 US election data, as Trump claims?",
-   "link": "https://www.aljazeera.com/news/2026/7/17/did-china-steal-2020-us-election-data-as-trump-claims?traffic_source=rss",
-   "summary": "Trump revived long-debunked theories regarding the 2020 elections in a primetime speech.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-07-17T12:10:39+00:00"
-  },
-  {
-   "title": "אחרי אקזיט ביוטק ענק, הישראלית הבכירה מסתערת על שוק התרופות לדיכאון",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001549629#utm_source=RSS",
-   "summary": "דפנה זוהר, מייסדת קרן הביוטק PureTech, רשמה בשנתיים האחרונות אקזיט של 14 מיליארד דולר והנפקה לוהטת בנאסד\"ק • בראיון לגלובס היא מספרת על ההשראה מאביה, החוקר פרופ' דוד אלמלא, חושפת את העניין האישי שלה בפיתוח תרופות חדשות לדיכאון ומגלה ממה אסור ליזמים להתעלם בדרך לשוק",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-07-17T12:58:00+00:00"
-  },
-  {
-   "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-   "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-   "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-07-17T12:00:00+00:00"
-  },
-  {
-   "title": "הבורסה בתל אביב ננעלה בירידות; השקל נחלש בצל ההסלמה במזרח התיכון",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001549672#utm_source=RSS",
-   "summary": "מדד ת\"א 35 ירד בכ-0.4% • המסחר התנהל בצל הירידות החדות במניות השבבים ברחבי העולם, ובצל הסלמה נוספת של תקיפות ארה\"ב באיראן • שער הדולר-שקל נעמד על 3.04 שקלים • ישראמקו קפצה לאחר שחתמה על מזכר הבנות ליצוא גז למצרים • מדד הבנקים הפגינו חוסן • וגם: בבנק אוף אמריקה ממליצים להפחית חשיפה לסיכון - אלו הסיבות",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-07-17T10:53:00+00:00"
-  },
-  {
-   "title": "Why are UK fuel prices rising again?",
-   "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-   "summary": "UK fuel prices are going up again after the collapse of peace talks to end the US-Israel war with Iran.",
-   "source": "BBC Business",
-   "lang": "en",
-   "topic": "business",
-   "rtl": false,
-   "published": "2026-07-17T14:09:45+00:00"
-  },
-  {
-   "title": "Knesset dissolves: How will Israel vote in October’s general election?",
-   "link": "https://www.aljazeera.com/news/2026/7/17/knesset-dissolves-how-will-israel-vote-in-octobers-general-election?traffic_source=rss",
-   "summary": "Knesset dissolves after first full term since 1988, with Israel heading towards crucial elections on October 27, 2026.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-07-17T10:10:25+00:00"
-  },
-  {
-   "title": "Even Microsoft couldn’t make Windows 11 work well on 8GB of RAM",
-   "link": "https://www.theverge.com/tech/966937/microsoft-surface-laptop-13-inch-8gb-ram-2026-review",
-   "summary": "Last year, Microsoft's 13-inch Surface Laptop quickly became one of my favorite thin-and-light Windows notebooks. At $900, it was easy to recommend to anyone wanting MacBook Air-like build quality and battery life on Windows - I even convinced my sister to buy one on sale. But that was last year. This year, thanks to RAMageddon, […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-07-17T13:30:00+00:00"
-  },
-  {
-   "title": "FCC took pricey gifts from Paramount as the company needed approval for deals",
-   "link": "https://arstechnica.com/tech-policy/2026/07/fcc-took-pricey-gifts-from-paramount-as-the-company-needed-approval-for-deals/",
-   "summary": "FCC chair has been gifted at least $63,000 worth of tickets by CBS or its parent company.",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-07-17T11:15:55+00:00"
-  },
-  {
-   "title": "עסקים יחויבו להקליט שיחת מכירה בעסקה מעל 750 שקל ולמסור לצרכן",
-   "link": "https://www.ynet.co.il/economy/article/bjdrhdw4fx",
-   "summary": "הכנסת אישרה תיקון לחוק שיזמה ח\"כ מירב כהן, שמחייב עסקים להקליט כל שיחת מכירה טלפונית בעסקה מעל 750 שקל למסור אותה לצרכן תוך 10 ימי עסקים ולשמור אותה שנתיים. אם עוסק לא ימסור את ההקלטה: לפי החוק גרסת הצרכן תיחשב כנכונה",
-   "source": "Ynet כלכלה",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-07-17T08:28:09+00:00"
-  },
-  {
-   "title": "Why has British Steel been nationalised?",
-   "link": "https://www.bbc.co.uk/news/articles/c5y66y40kgpo?at_medium=RSS&at_campaign=rss",
-   "summary": "The UK's only remaining plant making virgin steel has been taken into public ownership after years of uncertainty over its future.",
-   "source": "BBC Business",
-   "lang": "en",
-   "topic": "business",
-   "rtl": false,
-   "published": "2026-07-17T09:57:02+00:00"
   }
  ]
 }
