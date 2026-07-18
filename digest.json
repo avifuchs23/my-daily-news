@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-18T05:41:45.339756+00:00",
- "generated_display": "Saturday, 18 July 2026 · 08:41",
+ "generated_at": "2026-07-18T14:43:09.866004+00:00",
+ "generated_display": "Saturday, 18 July 2026 · 17:43",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,24 +23,164 @@
  },
  "stories": [
   {
-   "title": "IDF detains Israeli civilians who crossed into Syria, others who attempted to breach border",
-   "link": "https://www.jpost.com/israel-news/defense-news/article-902858",
-   "summary": "The IDF noted that it has identified a recent increase in illegal border crossing attempts into Syria, both successful and unsuccessful.",
+   "title": "Will Mahmoud Abbas actually let Palestinians vote? Critics say he's testing the waters first",
+   "link": "https://www.jpost.com/middle-east/article-902794",
+   "summary": "PALESTINIAN AFFAIRS: The PA president wants to remove any Israeli claim that Palestinians are not a partner for peace,’ said one Palestinian analyst, after the election announcement.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-07-18T00:28:01+00:00"
+   "published": "2026-07-18T11:49:55+00:00"
   },
   {
-   "title": "Israel's loneliness is impossible to ignore: Lessons from University of Haifa conference - opinion",
-   "link": "https://www.jpost.com/opinion/article-902674",
-   "summary": "I recalled, of course – as had all those who spoke before me – the unprecedented wave of hatred that has swept across the world since October 7. But I also insisted that the battle is far from lost.",
+   "title": "Hiking in the Holy Land: Ein Haniya, an easy water outing outside Jerusalem",
+   "link": "https://www.jpost.com/travel/article-902871",
+   "summary": "A Roman fountain and Byzantine pools, hiding in plain sight on the outskirts of the capital.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-07-18T01:46:34+00:00"
+   "published": "2026-07-18T15:32:44+00:00"
+  },
+  {
+   "title": "Israel Counters Iranian Spying by Warning Against Recruitment",
+   "link": "https://www.nytimes.com/2026/07/18/world/middleeast/israel-recruits-rabbis-iran.html",
+   "summary": "The Israeli authorities have enacted a broad array of countermeasures to contain what they describe as online recruiting efforts by Iranian agents.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-18T13:09:16+00:00"
+  },
+  {
+   "title": "בצה\"ל מאשרים: מטוסי תדלוק אמריקניים יחנו בבסיסי חיל האוויר",
+   "link": "https://www.ynet.co.il/news/article/rjtg4t00vgx",
+   "summary": "בעקבות ההסלמה במפרץ הפרסי, ארה\"ב תתגבר את מערך המטוסים שלה בישראל - אך הפעם הם לא ייתמקמו בנתב\"ג. בצבא נימקו את ההחלטה מרצון \"לצמצם את הפגיעה בעורקי התחבורה האזרחיים ומשיקולים מבצעיים\". ההודעה מגיעה על רקע אזהרת רשות שדות התעופה מביטול מאות אלפי כרטיסי טיסה בחודשי הקיץ",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-07-18T10:03:43+00:00"
+  },
+  {
+   "title": "מי עקף את גל גדות: 10 הסרטים המובילים בישראל בנטפליקס",
+   "link": "https://www.israelhayom.co.il/culture/tv/article/21007108",
+   "summary": "במקום לבזבז זמן על גלילה חסרת תכלית, אלו הסרטים שכולם חורשים עליהם עכשיו • דרמת מתח יצרית כובשת את הפסגה, גל גדות מככבת בתעלומת רצח נוצצת, קומדיית אקשן אהובה רושמת נוכחות כפולה וגם דוקו מצמרר אחד - הרשימה המעודכנת שתסגור לכם את הפינה",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-07-18T13:04:05+00:00"
+  },
+  {
+   "title": "\"לפנינו בחירות גורליות\": השרה לשעבר הודיעה על חזרתה לישראל ביתנו",
+   "link": "https://www.israelhayom.co.il/news/politics/article/21006899",
+   "summary": "סופה לנדבר שכיהנה כשרת העלייה והקליטה בממשלת ישראל ה-34 פרסמה הודעה בה הכריזה על החלטתה לשוב לרשימה בראשותו של אביגדור ליברמן • היא מציינת כי הצעד מגיע על רקע פניות שקיבלה לאחרונה מצד המפלגה, אליהן היא נענתה \"מתוך רצון לעבוד ביושר ובמסירות\"",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-07-18T12:05:38+00:00"
+  },
+  {
+   "title": "למה הדרוזים בסוריה מסרבים לתוכנית ההצלה הסודית של ישראל?",
+   "link": "https://news.walla.co.il/item/3853728",
+   "summary": "בזמן שבישראל מבטיחים \"תוכנית הצלה גדולה\", בעיירה הדרוזית ח'דר שבסוריה נשמעת מחאה חריפה נגד נוכחות צה\"ל, מגדירים אותה כ\"תוקפנות\" ואף מאיימים כי אם היא תימשך היא תיתקל ב\"הגנה עיקשת\". מבט אל תוך המלכוד הקיומי של העדה שרוצה לשרוד, אך מסרבת להפוך לבת חסות",
+   "source": "וואלה",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-07-18T10:31:00+00:00"
+  },
+  {
+   "title": "Why is Trump risking midterm disaster by resuming an already unpopular war with Iran?",
+   "link": "https://www.theguardian.com/world/2026/jul/18/trump-iran-war-political-midterm-risk",
+   "summary": "Less than a month after hailing a ceasefire, Trump resumed strikes on Iran, a move experts warn could prolong the war and hurt Republicans ahead of midterms For half a century, Donald Trump has performed a public high-wire act based on high-stakes risks and shattering time-honored norms to get what he wants. The approach has paid off handsomely, helping him survive multiple bankruptcies to reach b",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-18T09:00:02+00:00"
+  },
+  {
+   "title": "Air quality warnings remain in place across US as wildfire smoke continues to swathe country",
+   "link": "https://www.theguardian.com/world/2026/jul/18/air-quality-warnings-canada-wildfires",
+   "summary": "Rain could alleviate conditions in mid-Atlantic and north-east, with World Cup final expected to go ahead on Sunday Warnings of dangerous conditions are expected to remain in place on Saturday across swathes of the US, amid uncertainty about where the heavy wildfire smoke swirling from the Canadian province of Ontario and the US state of Minnesota will head next. Some parts of the US mid-Atlantic ",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-18T14:13:36+00:00"
+  },
+  {
+   "title": "Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar",
+   "link": "https://www.nytimes.com/2026/07/18/us/politics/russia-bill-sanctions-trump.html",
+   "summary": "The Trump administration has recently sought to scale back sanctions as adversaries develop workarounds that some believe could erode the U.S. dollar’s supremacy.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-18T09:01:37+00:00"
+  },
+  {
+   "title": "More games should be on rails (literally)",
+   "link": "https://www.theverge.com/games/961152/denshattack-review",
+   "summary": "It's been a good few weeks for games on rails. Nintendo's Star Fox remake wisely kept the tightly scripted, action-packed levels from Star Fox 64 largely the same, and they're still fun to fly through nearly 20 years later. Denshattack!, a new game from Undercoders, similarly features levels packed with carefully orchestrated sequences to great […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-07-18T12:00:00+00:00"
+  },
+  {
+   "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
+   "link": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
+   "summary": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-18T13:06:25+00:00"
+  },
+  {
+   "title": "תשכחו מקפריסין ויוון: יש עיר בישראל שהפכה ליעד הרותח של הקיץ",
+   "link": "https://www.maariv.co.il/breaking-news/article-1345905",
+   "summary": "",
+   "source": "מעריב",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-07-18T13:35:32+00:00"
+  },
+  {
+   "title": "איראן מאיימת בעונש מוות על 300 עיתונאים ויורש העצר \"הישראלי\"",
+   "link": "https://www.maariv.co.il/breaking-news/article-1345903",
+   "summary": "",
+   "source": "מעריב",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-07-18T13:35:09+00:00"
+  },
+  {
+   "title": "US strikes hit Iran for seventh consecutive night",
+   "link": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+   "summary": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-18T11:48:44+00:00"
+  },
+  {
+   "title": "היציאה בשאלה, הטרגדיה ואקזיטים בחצי מיליארד: הדרך של יזם ההייטק",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001549304#utm_source=RSS",
+   "summary": "את הסטארט־אפ הראשון שהקים עם בוגרי 8200 הוא נאלץ לסגור ברקע משבר 2008 • אלא שמאז עשה אקזיטים לענקיות כמו מלאנוקס ופאלו אלטו וגם השקיע ב־20 חברות • היום הוא מתכנן לשבור את השיא של Wiz • שיחה קצרה עם שי מורג, יזם ומייסד סטארט-אפ הסייבר Oak",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-07-18T10:30:00+00:00"
   },
   {
    "title": "Neil Rimer thinks the AI money is coming back out",
@@ -53,174 +193,84 @@
    "published": "2026-07-18T04:47:25+00:00"
   },
   {
-   "title": "ארה\"ב תקפה, איראן טוענת: \"ירינו לאוקיינוס ההודי, השמדנו מרכז AI\"",
-   "link": "https://www.ynet.co.il/news/article/rjwkowd4zx",
-   "summary": "לילה שביעי ברצף של חילופי מהלומות במפרץ: ארה\"ב יצאה לגל תקיפות נוסף, ובאיראן טענו מנגד ששיגרו טיל שיוט על ספינה בצפון האוקיינוס ההודי, השמידו מרכז בינה מלאכותית בבחריין - ותקפו בסיסים ומחנות אמריקנים באזור. ירדן: יירטנו 10 טילים ששוגרו לשטחנו. ארה\"ב חידשה את אזהרת המסע לישראל ולאזור",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-07-17T21:21:29+00:00"
-  },
-  {
-   "title": "He made history in Congress - then the Supreme Court changed its mind",
-   "link": "https://www.bbc.co.uk/news/articles/cn949jvjxplo?at_medium=RSS&at_campaign=rss",
-   "summary": "Residents say they're afraid that if Shomari Figures loses his seat, their federal-funding could disappear with him.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-07-18T01:35:33+00:00"
-  },
-  {
-   "title": "ממדאני: גם נלסון מנדלה הואשם באנטישמיות בגלל ביקורת על ישראל",
-   "link": "https://www.ynet.co.il/news/article/bjrtrro4me",
-   "summary": "ראש העיר ניו יורק טען כי בדומה לנלסון מנדלה - גם הוא מתמודד עם האשמות, לפיהן הוא מלבה אנטישמיות בגלל ביקורת שמתח על מדיניותה של ישראל. \"למה עלינו לחכות עד שאלפים נוספים יאבדו ילדים, גפיים ובתים כדי לדרוש את חירות הפלסטינים?\", אמר",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-07-18T02:42:19+00:00"
-  },
-  {
-   "title": "Control, threats, disfiguring surgery: My life inside Jeffrey Epstein's 'cult'",
-   "link": "https://www.bbc.co.uk/news/articles/czek5wl6p2go?at_medium=RSS&at_campaign=rss",
-   "summary": "\"Anya\" gives the BBC a rare account of how sex-criminal financier Epstein lured and abused his “assistants”.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-07-18T05:10:44+00:00"
-  },
-  {
-   "title": "עמנואל שארפ הוביל את סקרמנטו ל-90:92 על שארלוט",
-   "link": "https://www.israelhayom.co.il/sport/article/21005898",
-   "summary": "הישראלי החדש ב-NBA המשיך להרשים גם במשחק הפרידה מליגת הקיץ, כאשר הלילה סיפק 16 נקודות, 3 אסיסטים, 3 חטיפות, 2 ריבאונדים וחסימה והוביל את הקינגס לניצחון דחוק על ההורנטס",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-07-18T04:22:01+00:00"
-  },
-  {
-   "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
-   "link": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
-   "summary": "The potential deal highlights a growing trend of complex, multi-stage funding rounds that mask true entry prices.",
+   "title": "A 600-mile road trip (and data) proves EV charging doesn’t suck anymore",
+   "link": "https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/",
+   "summary": "A recent road trip in an EV revealed just how much faster and more reliable DC Fast charging has become in the U.S.",
    "source": "TechCrunch",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-07-17T19:22:00+00:00"
+   "published": "2026-07-18T14:32:00+00:00"
   },
   {
-   "title": "Iran War Updates: Bridges and Water Plants Hit as Strikes Stretch to 7th Straight Day",
-   "link": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz",
-   "summary": "Overnight and into Friday, Iran reported U.S. strikes on infrastructure that can serve civilian purposes and has targeted similar sites in Gulf countries that host American bases. In the afternoon, the U.S. military announced a new round of attacks on Iran.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-07-18T02:01:48+00:00"
-  },
-  {
-   "title": "הנקמה של איפא\"ק בדמוקרטים שהצביעו נגד הסיוע לישראל",
-   "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21005855",
-   "summary": "השדולה הפרו-ישראלית חסמה את האפשרות להעביר תרומות דרך הפורטל שלה למחוקקים דמוקרטים שתמכו בביטול הסיוע לישראל • בין הנפגעים: 15 מועמדים שאיפא\"ק כבר הודיעה שתתמוך בבחירתם מחדש בנובמבר • גם הודעת התודה לננסי פלוסי ולפורשים נוספים נעלמה מהאתר",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-07-18T03:35:16+00:00"
-  },
-  {
-   "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
-   "link": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
-   "summary": "Hand-painted works are often wildly unfaithful to the movies they portray – reinterpretations that sometimes resulted in threats, insults and even physical attacks from viewers who felt duped Sitting on his porch in Teshie near Accra, Heavy J dipped a brush into red oil paint and dabbed it carefully on to his canvas – a flour sack – adding blood to a knife being wielded by a man. Higher on the can",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-07-18T04:00:47+00:00"
-  },
-  {
-   "title": "אחרי ההתקדמות במו\"מ עם ישראל: נשיא לבנון בדרך לוושינגטון",
-   "link": "https://www.maariv.co.il/breaking-news/article-1345785",
-   "summary": "",
-   "source": "מעריב",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-07-18T04:24:55+00:00"
-  },
-  {
-   "title": "Israeli Strike in Gaza Kills Seven People, Health Officials Say",
-   "link": "https://www.nytimes.com/2026/07/17/world/middleeast/israeli-strike-gaza-kills-eight.html",
-   "summary": "The Israeli military said the attack targeted members of the second-biggest militant group in Gaza. It also said it was “aware of the claims that several uninvolved individuals” had been harmed.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-07-17T19:52:28+00:00"
-  },
-  {
-   "title": "‘It’s only going to get worse’: wildfires forcing firefighters to make impossible choices",
-   "link": "https://www.theguardian.com/news/ng-interactive/2026/jul/18/the-impossible-choices-of-a-deadly-wildfire-season",
-   "summary": "As the climate crisis fuels more intense blazes, pushing them to new parts of the world, those tackling them are forced to ration resources and decide which to fight César Alcaraz had only just become a firefighter in the late 1990s when he found himself ambushed by a fast-moving blaze. Barely able to breathe and with no more water left in his truck, he and his colleagues fled an inferno ravaging ",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-07-18T05:00:50+00:00"
-  },
-  {
-   "title": "בעקבות המצב הביטחוני: שגרירות ארצות הברית מחדשת את אזהרת המסע לישראל",
-   "link": "https://www.maariv.co.il/breaking-news/article-1345779",
-   "summary": "",
-   "source": "מעריב",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-07-18T02:35:33+00:00"
-  },
-  {
-   "title": "Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank",
-   "link": "https://www.aljazeera.com/features/2026/7/18/israels-crimson-thread-military-barrier-is-strangling-the-west-bank?traffic_source=rss",
-   "summary": "A new military barrier in the West Bank's Jordan Valley is cutting off Palestinian communities from their land.",
+   "title": "FIFA World Cup: Spain vs Argentina – What to know ahead of the final",
+   "link": "https://www.aljazeera.com/sports/2026/7/18/spain-argentina-fifa-world-cup-final-prediction-head-to-head-messi-yamal-prediction-venue?traffic_source=rss",
+   "summary": "Lamine Yamal and Lionel Messi meet in a clash of generations in Sunday's blockbuster Spain vs Argentina World Cup final.",
    "source": "Al Jazeera",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-07-18T05:15:11+00:00"
+   "published": "2026-07-18T13:46:26+00:00"
   },
   {
-   "title": "רכש את נכסי פישמן, והפך את הסטוק לענקית קמעונאות",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001549316#utm_source=RSS",
-   "summary": "עופר ברק הפך בשנתיים האחרונות מבעלי רשת הדיסקאונט הסטוק לרוכש הסדרתי של נכסי משפחת פישמן • עם טויס אר אס, הפיראט האדום ו־35% מהום סנטר - קבוצת הקמעונאות שהוא עומד בראשה מגלגלת היום 1.6 מיליארד שקל בשנה • עכשיו הוא פותח מותג אקספרס וגם מתכנן את ההנפקה • ראיון",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-07-18T04:46:00+00:00"
+   "title": "8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions",
+   "link": "https://www.npr.org/2026/07/18/nx-s1-5898963/8-killed-and-more-than-60-wounded-in-ukrainian-drone-attack-on-russian-regions",
+   "summary": "Kyiv's forces are continuing their aerial campaign against energy infrastructure and military targets inside Russia, aiming to undermine Moscow's war effort.",
+   "source": "NPR News",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-18T10:45:43+00:00"
   },
   {
-   "title": "בלילה השביעי ברציפות: גל תקיפות נוסף באיראן",
+   "title": "Surprise! Facial recognition smart locks are actually good",
+   "link": "https://www.theverge.com/tech/967183/best-facial-recognition-smart-locks-review",
+   "summary": "Hands-free unlocking is the future of smart locks. The best smart home tech removes friction, and having your door unlock for you as you walk up is as frictionless as it gets - no passcodes to remember, no need to have a free hand to wave, press, or poke at the lock. One way to […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-07-18T14:00:00+00:00"
+  },
+  {
+   "title": "ארה\"ב תקפה שוב באיראן - ירדן הודיעה שיירטה 10 טילים",
    "link": "https://www.globes.co.il/news/article.aspx?did=1001549727#utm_source=RSS",
    "summary": "שגרירות ארה\"ב חידשה את אזהרת המסע לישראל ולמזרח התיכון • בכיר באיראן מאיים: אם ארה\"ב תמשיך במלחמה - לא נסתפק בתגובה מידתית • באיראן טוענים: שתי מכליות נפט הותקפו בהורמוז - בארה\"ב מכחישים • לראשונה מאז חידוש הלחימה: איראן תקפה מתקני התפלת מים וייצור חשמל בכווית ושיגרה טיל בליסטי לעבר בסיס אמריקני בסעודיה • עדכונים שוטפים",
    "source": "גלובס",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-07-18T05:22:00+00:00"
+   "published": "2026-07-18T14:03:00+00:00"
   },
   {
-   "title": "At least 14 dead after minibus rolls off mountain road in Peru",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/at-least-14-dead-after-minibus-rolls-off-mountain-road-in-peru?traffic_source=rss",
-   "summary": "At least 14 people have been killed and five injured after a minibus in the Peruvian Andes lost control on a curve.",
-   "source": "Al Jazeera",
+   "title": "Will AI fix prior authorization—or make it worse?",
+   "link": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
+   "summary": "The government is piloting a program that uses AI for insurance-coverage decisions.",
+   "source": "Ars Technica",
    "lang": "en",
-   "topic": "world",
+   "topic": "tech",
    "rtl": false,
-   "published": "2026-07-18T03:49:08+00:00"
+   "published": "2026-07-18T11:18:25+00:00"
+  },
+  {
+   "title": "SpaceX חזרה לכן השיגור: טריליון דולר עפו לחלל בתוך חודש",
+   "link": "https://www.ynet.co.il/economy/article/hkecopdvgx",
+   "summary": "חברת החלל וה-AI שבשליטת אלון מאסק נסקה בימים הראשונים שלאחר ההנפקה ההיסטורית ביוני לשווי של 2.6 טריליון דולר; ואולם מאז איבדה המניה גובה, וירדה מתחת למחיר ההנפקה; עם זאת רוב האנליסטים עדיין אופטימים",
+   "source": "Ynet כלכלה",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-07-18T09:55:55+00:00"
+  },
+  {
+   "title": "Guidance needed for families reclaiming childcare",
+   "link": "https://www.bbc.co.uk/news/articles/cx2d5yxpry0o?at_medium=RSS&at_campaign=rss",
+   "summary": "Some families have had problems claiming back cash as part of the pilot scheme.",
+   "source": "BBC Business",
+   "lang": "en",
+   "topic": "business",
+   "rtl": false,
+   "published": "2026-07-18T07:34:39+00:00"
   },
   {
    "title": "\"זה לא תחום לאקזיט ואני בהשלמה שאי אפשר להתעשר\"",
@@ -231,56 +281,6 @@
    "topic": "business",
    "rtl": true,
    "published": "2026-07-18T04:57:17+00:00"
-  },
-  {
-   "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
-   "link": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss",
-   "summary": "The company has unveiled a massive new artificial intelligence model it says can take on top American firms.",
-   "source": "BBC Business",
-   "lang": "en",
-   "topic": "business",
-   "rtl": false,
-   "published": "2026-07-17T16:53:04+00:00"
-  },
-  {
-   "title": "'I'd rather not leave the house so I don't get into more debt'",
-   "link": "https://www.bbc.co.uk/news/articles/cy8d1zm01k0o?at_medium=RSS&at_campaign=rss",
-   "summary": "Great Yarmouth has some of the highest levels of problem debt in the country, but help is at hand.",
-   "source": "BBC Business",
-   "lang": "en",
-   "topic": "business",
-   "rtl": false,
-   "published": "2026-07-18T05:23:28+00:00"
-  },
-  {
-   "title": "Apple’s plot to crush OpenAI",
-   "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-   "summary": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple really want here, and why is it picking such a public fight with OpenAI? On this episode of The […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-07-17T17:41:32+00:00"
-  },
-  {
-   "title": "Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak",
-   "link": "https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce",
-   "summary": "Food producer Taylor Farms released a statement on the Cyclospora outbreak Friday, confirming that it's \"voluntarily removing all iceberg lettuce sourced from central Mexico from the US market.\" Reuters reports that, according to a source, Taylor Farms told customers like Yum Brands owner Taco Bell and the food distributor Sysco on Thursday to pull shredded […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-07-17T22:09:47+00:00"
-  },
-  {
-   "title": "חופשת החלומות: כלי ה-AI שיחסכו לכם מאות שקלים בנסיעה הקרובה",
-   "link": "https://www.ynet.co.il/digital/technology/article/rkxrf8dvgx",
-   "summary": "יותר מ-90% מהמטיילים כבר משתמשים בבינה מלאכותית כדי לתכנן את החופשה הבאה שלהם, ולא בכדי. בדקנו אילו כלי AI באמת עובדים בישראל, מה כל אחד יודע לעשות, ואיך הם יכולים לחסוך לכם זמן, כסף ולא מעט כאב ראש",
-   "source": "Ynet טכנולוגיה",
-   "lang": "he",
-   "topic": "tech",
-   "rtl": true,
-   "published": "2026-07-17T08:25:58+00:00"
   }
  ]
 }
