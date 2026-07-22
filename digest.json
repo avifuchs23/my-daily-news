@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-21T15:27:52.143682+00:00",
- "generated_display": "Tuesday, 21 July 2026 · 18:27",
+ "generated_at": "2026-07-22T06:09:19.975575+00:00",
+ "generated_display": "Wednesday, 22 July 2026 · 09:09",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,264 +23,264 @@
  },
  "stories": [
   {
-   "title": "Google launches a cheaper alternative to large AI security models like Mythos",
-   "link": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
-   "summary": "Google is launching Gemini 3.6 Flash alongside a new security model dedicated to quickly finding and patching security vulnerabilities. In a blog post on Tuesday, Google describes Gemini 3.5 Flash Cyber as a \"cost-efficient and highly capable alternative\" to larger, more expensive AI systems, such as the one offered by Anthropic's Mythos. The cybersecurity model […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-07-21T15:00:00+00:00"
-  },
-  {
-   "title": "Iran avoiding attack on Israel over fears of IDF strikes on regime leaders, expert says",
-   "link": "https://www.jpost.com/middle-east/iran-news/article-903184",
-   "summary": "Sabti, an Iran researcher at the Institute for National Security Studies, spoke following an Al Hadath report which said that Iranian Supreme Leader Mojtaba Khamenei was not in the Islamic Republic.",
-   "source": "Jerusalem Post",
-   "lang": "en",
-   "topic": "israel",
-   "rtl": false,
-   "published": "2026-07-21T13:55:10+00:00"
-  },
-  {
-   "title": "Bluecore Energy raises $10M to build portable nuclear reactors on barges",
-   "link": "https://techcrunch.com/2026/07/21/this-uber-alumn-just-raised-a-10m-pre-seed-to-build-portable-nuclear-enegry/",
-   "summary": "Maritime nuclear energy startup Bluecore Energy has raised $10 million in a pre-seed funding round led by Slauson & Co.",
+   "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+   "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+   "summary": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
    "source": "TechCrunch",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-07-21T13:20:00+00:00"
+   "published": "2026-07-22T03:20:57+00:00"
   },
   {
-   "title": "Israeli authorities, IDF complete talks on Ben-Gurion Airport operations under future missile fire",
-   "link": "https://www.jpost.com/israel-news/defense-news/article-903143",
-   "summary": "Military officials said that Israel has developed a unique operational capability that enables precise windows for takeoffs and landings.",
+   "title": "בעזרת שוברי תשלום: נעצרו חשודים בהלבנת הון בהיקף חצי מיליארד שקלים",
+   "link": "https://www.ynet.co.il/news/article/hylhottnfe",
+   "summary": "בתום חקירה סמויה שנמשכה יותר משנה, המשטרה ורשות המיסים חשפו את מנגנון הלבנת ההון. החשודים הפעילו רשת עמותות פיקטיביות, הלבינו הון עבור חברות מקומיות לצד הברחת כספים מחו\"ל והחדרתם לישראל. מתוך 16 עצורים, הוארך מעצר שני החשודים המרכזיים",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-07-22T04:51:51+00:00"
+  },
+  {
+   "title": "Iran’s foreign minister describes moment of attack that killed Khamenei",
+   "link": "https://www.theguardian.com/world/2026/jul/22/iran-foreign-minister-abbas-aragchi-attack-killed-khamenei",
+   "summary": "Abbas Araghchi says he has kept on the move since being pulled from rubble after strike on first day of war Iran’s foreign minister, Abbas Araghchi, has described how he was pulled from the rubble of a leadership compound after the US-Israeli airstrike that killed the country’s supreme leader, Ali Khamenei, on the first day of the war, and has survived since by constantly moving around the capital",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-22T05:00:07+00:00"
+  },
+  {
+   "title": "הסא\"ל ששירת ב-8200 והודח בשל תלונה על הטרדה מינית - שב לפקד על חיילים",
+   "link": "https://www.ynet.co.il/news/article/yokra14840157",
+   "summary": "פרסום ראשון: בצה\"ל אמנם טענו שהבכיר הורחק בעקבות התכתבות בעלת אופי מיני עם קצין אחר ומפגש למטרות אינטימיות - אלא של-ynet נודע שהוא דווקא קודם לתפקיד משמעותי באמ\"ן - שבמסגרתו ישוב לפקד על חיילים. גורמי ביטחון: \"הוא הורחק מתפקיד ספציפי\". צה\"ל: \"גורמי הסיוע עומדים לרשות הנפגעים\"",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-07-22T06:02:47+00:00"
+  },
+  {
+   "title": "Japan Is Startled by Prime Minister’s Grueling Sleep Schedule",
+   "link": "https://www.nytimes.com/2026/07/22/world/asia/japan-takaichi-sleep-schedule.html",
+   "summary": "Sanae Takaichi has said she gets just “zero to three hours” of sleep a night, prompting a debate in the country over work-life balance.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-22T06:03:37+00:00"
+  },
+  {
+   "title": "Inside IDF's naval operations: Israel, US repeatedly hunted Iran's navy chief before succeeding",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-903217",
+   "summary": "Israel, US repeatedly failed to kill Iran's Alireza Tangsiri before successful strike • New details reveal Israeli naval attacks on Hezbollah commanders at Beirut's Ramada Hotel and a mobile HQ",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-07-21T09:16:31+00:00"
+   "published": "2026-07-21T19:17:18+00:00"
   },
   {
-   "title": "עשרות אלפי רישיונות נשק ללא הסמכה: ראש אגף כלי ירייה שהתפטר יואשם בכפוף לשימוע",
-   "link": "https://www.ynet.co.il/news/article/skgifganfx",
-   "summary": "החשד - מרמה והפרת אמונים בהנפקת עשרות אלפי רישיונות נשק: הפרקליטות הודיעה לישראל אבישר שנשקל להעמידו לדין, בחשד שהתיר לגורמים לא מוסמכים לנפק כ-38 אלף אישורים שונים. אבישר התפטר מתפקידו כחודשיים אחרי פרוץ המלחמה, לאחר שהתריע על כשלים חמורים. בן גביר תקף אז: נלחץ מהשמאל\"",
-   "source": "Ynet חדשות",
+   "title": "המניה צנחה והחברה חזרה בה. איך יגיבו המשקיעים היום: חמישה דברים שכדאי לדעת לקראת יום המסחר",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001550052#utm_source=RSS",
+   "summary": "המסחר בשווקים ייפתח היום ברקע לילה נוסף של תקיפות אמריקאיות באיראן ודיווח על הסכם גרעין בין ארה\"ב וסעודיה • אתמול, הבורסה ננעלה ביום ירוק בהובלת מדד הביטחוניות שתפס תנופה לקראת הנעילה • אלקטרה נדל\"ן מתקפלת: בוטל המכרז למוסדיים ברקע צניחת המנייה • קרב על האנרגיה: מחירי הנפט נקרעים בין הדיווחים על הפסקת אש להסלמה צבאית • חוסר ודאות בפד: האם קווין וורש בדרך להפתיע את השווקים בהעלאת ריבית? • וגם: האם ",
+   "source": "גלובס",
    "lang": "he",
-   "topic": "israel",
+   "topic": "business",
    "rtl": true,
-   "published": "2026-07-21T14:51:34+00:00"
+   "published": "2026-07-22T05:31:00+00:00"
   },
   {
-   "title": "Spanish hotel chain ceases operations in Cuba under pressure from Washington",
-   "link": "https://www.theguardian.com/world/2026/jul/21/spanish-hotel-chain-ceases-operations-cuba-sanctions-trump",
-   "summary": "Meliá group says Donald Trump’s sanctions make it ‘impossible’ to keep any of its 34 sites open A Spanish hotel chain is to cease all operations in Cuba at the end of the week due to “major difficulties” in doing business on the island under growing pressure from Washington. The latest US sanctions make it “impossible, de facto and de jure, to maintain even minimal operational stability”, the Meli",
-   "source": "The Guardian",
+   "title": "A Wartime Rift in Ukraine",
+   "link": "https://www.nytimes.com/2026/07/21/world/ukraine-general-fired-india-protests.html",
+   "summary": "President Volodymyr Zelensky fired his top general after a feud between old-school officers and younger innovators spilled into the streets.",
+   "source": "NY Times World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-07-21T15:10:35+00:00"
+   "published": "2026-07-22T04:31:56+00:00"
   },
   {
-   "title": "Light made a flip phone. It’s colorful and it’s cheap.",
-   "link": "https://techcrunch.com/2026/07/21/light-is-modernizing-the-flip-phone-with-light-flip/",
-   "summary": "Light co-founder Kaiwei Tang helped create the Motorola Razr, and he's as surprised as anyone that over twenty years later, the flip phone is relevant again.",
+   "title": "Police seize 8,600 eggs allegedly smuggled from West Bank",
+   "link": "https://www.jpost.com/israel-news/crime-in-israel/article-903252",
+   "summary": "Border Police officers arrested a Jerusalem resident after finding 8,600 eggs allegedly smuggled from the West Bank without proper oversight or sanitary controls.",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-07-22T06:15:07+00:00"
+  },
+  {
+   "title": "These are the countries moving to ban social media for children",
+   "link": "https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/",
+   "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
    "source": "TechCrunch",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-07-21T15:00:00+00:00"
+   "published": "2026-07-21T20:57:35+00:00"
   },
   {
-   "title": "מכתב האזהרה לסמוטריץ': \"הכסף מהאוצר לא הגיע - וכשירות צה\"ל בסכנה\"",
-   "link": "https://www.israelhayom.co.il/news/defense/article/21031221",
-   "summary": "יו\"ר ועדת חוץ וביטחון בועז ביסמוט במכתב חריף לשר האוצר בצלאל סמוטריץ': משרד האוצר מעכב מיליארדי שקלים שהובטחו לביטחון • ביסמוט מזהיר: \"פגיעה ממשית בכשירות צה\"ל, בהשלמת המלאים ואיבוד מקום בפסי ייצור קריטיים\" • הרקע: פער של 40 מיליארד שקלים בעקבות מבצע \"שאגת הארי\" שראש הממשלה כבר הורו להעביר - אך הכסף נתקע באוצר",
+   "title": "הכוכב העולה של ה-NBA שיתף: \"הכי הייתי רוצה להתאמן עם דני אבדיה\"",
+   "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21033869",
+   "summary": "מחמאה גדולה: מטאס בוזליס בן ה-21, שנחשב לאחד הכישרונות הגדולים בליגה, התארח בפודקאסט \"ballinthefampod\" לצד לונזו בול ובחר בכוכב הישראלי לפני קווין דוראנט ופרנץ ואגנר • טיאגו ספליטר יאמן אותו בשיקגו העונה, והוא כבר הושווה ל\"דני אבדיה הבא\"",
    "source": "ישראל היום",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-07-21T14:49:22+00:00"
+   "published": "2026-07-22T05:51:12+00:00"
   },
   {
-   "title": "RBA now twice as likely to hike interest rate as US-Iran war drives fuel prices higher",
-   "link": "https://www.theguardian.com/australia-news/2026/jul/22/rba-interest-rate-rise-likely-us-iran-war-markets-forecast",
-   "summary": "Experts warn global energy market at a ‘critical juncture’ with escalating Middle East crisis expected to further drag on a slowing Australian economy Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The likelihood of a Reserve Bank interest rate hike has doubled according to market forecasts, as the escalating Middle East crisis o",
+   "title": "‘Unprecedented’: OpenAI says AI models autonomously hacked another company",
+   "link": "https://www.aljazeera.com/news/2026/7/22/unprecedented-openai-says-ai-models-autonomously-hacked-another-company?traffic_source=rss",
+   "summary": "OpenAI says an autonomous agent bypassed controls and hacked Hugging Face servers during a cybersecurity test.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-22T02:36:55+00:00"
+  },
+  {
+   "title": "ברקת על ההסכם האמריקני-סעודי: נתניהו וטראמפ ידעו לתמרן ללא לקיחת סיכונים",
+   "link": "https://www.inn.co.il/flashes/1123562",
+   "summary": "<p>שר הכלכלה והתעשייה, ניר ברקת, להתייחס בריאיון לגלי צה\"ל לדיווח ב\"וול סטריט ג'ורנל\" שלפיו נשיא ארצות הברית, דונלד טראמפ, אישר הסכם למתן תוכנית גרעין אזרחית לסעודיה.</p><p>\"אם הם רוצים את זה לצורכי שלום - נוכל לנהל את זה. האמריקאים לא רוצים לסכן את ישראל, נתניהו וטראמפ ידעו לתמרן ללא לקיחת סיכונים\", אמר ברקת.</p>",
+   "source": "ערוץ 7",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-07-22T04:58:08+00:00"
+  },
+  {
+   "title": "Rebel Wilson cleared in defamation case brought by actress in her own film",
+   "link": "https://www.bbc.co.uk/news/articles/c80nv4eevero?at_medium=RSS&at_campaign=rss",
+   "summary": "Wilson was accused of defaming young Australian actress Charlotte MacInnes, but cleared by a Sydney court.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-22T05:33:04+00:00"
+  },
+  {
+   "title": "Australia news live: Origin Energy investigating potential data breach that could affect millions",
+   "link": "https://www.theguardian.com/australia-news/live/2026/jul/22/australia-news-live-penny-wong-asean-pacific-missile-pauline-hanson-one-nation-labor-conference-tax-anthony-albanese-antisemitism-royal-commission-ntwnfb",
+   "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast The New South Wales premier, Chris Minns , says the state’s Labor party is under threat from One Nation and “we’ve got to fight for those votes”. Appearing on ABC Radio National this morning, Minns was asked if One Nation was a “racist party”. He said people who had concerns about the levels of immigration weren’",
    "source": "The Guardian",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-07-21T15:00:51+00:00"
+   "published": "2026-07-22T05:58:13+00:00"
   },
   {
-   "title": "צבא לבנון: צה\"ל ירה לעבר חיילינו בזמן שנפרסנו באחד מאזורי הפיילוט",
-   "link": "https://www.haaretz.co.il/news/politics/2026-07-21/ty-article/.premium/0000019f-84ae-d316-a9df-a6ef32bd0000",
-   "summary": "הצבא הלבנוני הזהירו מפגיעה בהסכמות עם ישראל בעקבות התקרית, שהתרחשה בכפר זוטר אל־גרביה. בצה\"ל אומרים כי הכוחות הלבנוניים נכנסו לאזור שבשליטת ישראל, וכי הירי נועד להרחיק אותם",
-   "source": "הארץ",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-07-21T12:39:59+00:00"
-  },
-  {
-   "title": "חשד: 15 אלף רישיונות נשק הונפקו ללא סמכות - ראש האגף יזומן לשימוע",
-   "link": "https://www.israelhayom.co.il/news/law/article/21030769",
-   "summary": "המחלקה הכלכלית בפרקליטות המדינה הודיעה לראש האגף לרישוי כלי ירייה לשעבר, ישראל אבישר, כי נשקלת העמדתו לדין בכפוף לשימוע בגין מרמה והפרת אמונים • לפי החשד, לאחר פרוץ מלחמת \"חרבות ברזל\" התיר אבישר לגורמים לא מוסמכים להנפיק עשרות אלפי אישורים ורישיונות נשק • התיק נחקר ביאח\"ה",
+   "title": "מכמעט עיוורון לחיים חדשים: הניתוח שהחזיר למורה מירושלים את האור",
+   "link": "https://www.israelhayom.co.il/health/article/21033678",
+   "summary": "איה בת ה־38 כמעט איבדה את ראייתה בעקבות מחלת קרנית קשה • ניתוח חדשני בהדסה, שבוצע לראשונה בישראל, השיב לה את היכולת לנהוג, ללמד ולחיות באופן עצמאי",
    "source": "ישראל היום",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-07-21T13:58:18+00:00"
+   "published": "2026-07-22T05:09:07+00:00"
   },
   {
-   "title": "תושב נצרת יואשם בניסיון להתגייס לחמאס ולפגוע בבן גביר",
-   "link": "https://www.haaretz.co.il/news/law/2026-07-21/ty-article/.premium/0000019f-8456-de59-a5bf-feffc9a20000",
-   "summary": "לפי הודעת שב\"כ ומשטרת ישראל, מוחמד עוואד יצר קשר עם ארגון הטרור ותכנן לפגוע בשר. לאחר הפרסום הודיע השר לביטחון לאומי שהוא היה היעד",
-   "source": "הארץ",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-07-21T12:15:30+00:00"
-  },
-  {
-   "title": "הקומבינות, השריונים של נתניהו והמאבק המשפטי: התסבוכות של הפריימריז בליכוד",
-   "link": "https://www.ynet.co.il/news/article/rktupnnege",
-   "summary": "העתירות מונעות שוב ושוב את כינוס ועידת הליכוד, אחרי שנתניהו ביקש \"לרענן\" את הרשימה - ולרוץ לבחירות עם מועמדים חדשים. מתי יתקיימו הבחירות הפנימיות, איך נולד רעיון הוועדה המסדרת, למה לנתניהו חשוב לקבוע כל כך הרבה שריונים - והאם המצב הביטחוני יכול להביא לביטול הפריימריז? ynet מסביר",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-07-21T14:57:53+00:00"
-  },
-  {
-   "title": "Israeli air strike in Gaza City kills family of six, medics say",
-   "link": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
-   "summary": "Firas al-Masri, his wife and their four children died in the attack, which the Israeli military says targeted a Hamas operative.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-07-21T14:47:41+00:00"
-  },
-  {
-   "title": "Aiming for My Fastest Marathon, I Turned to Distance Running’s Mecca",
-   "link": "https://www.nytimes.com/2026/07/20/world/africa/kenya-iten-marathon-training.html",
-   "summary": "A New York Times reporter’s quest to beat the personal best he set 14 years ago took him to a Kenyan village, where the biggest benefit he got was not what he expected.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-07-21T15:18:27+00:00"
-  },
-  {
-   "title": "Dozens hurt in Bologna protests after man dies while being restrained by police",
-   "link": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
-   "summary": "Thousands of people took to the streets demanding justice for a Moroccan-born man who died on Sunday.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-07-21T12:48:37+00:00"
-  },
-  {
-   "title": "Lebanese Army Accuses Israeli Troops of Firing as Its Forces Deploy in ‘Pilot Zone’",
-   "link": "https://www.nytimes.com/2026/07/21/world/middleeast/lebanon-israel-ceasefire-plan.html",
-   "summary": "The Israeli military was withdrawing from a village under a U.S.-brokered deal to transfer control of occupied areas to Lebanon after months of war. The Israeli military did not immediately comment.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-07-21T14:28:51+00:00"
-  },
-  {
-   "title": "יום ירוק בבורסה: ת\"א 35 טיפס בהובלת הביטחוניות והביטוח; הנדל\"ן ירד",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001549935#utm_source=RSS",
-   "summary": "ת\"א 35 ננעל בעלייה של 1.4% • מדד הביטחוניות זינק בסיום, הביומד והנדל\"ן ננעלו באדום במוקד המניות: איי.סי.אל וקמטק קפצו מעל 4% • נופר אנרגיה עלתה ברקע השקעה של 200 מיליון שקל ממיטב • ישפרו-תנופורט הצטרפה לארי נדל\"ן ברכישת 26% מג'י סיטי והמניות זינקו • אלקטרה נדל\"ן נפלה בשל תכנון הנפקה • קבוצת לוזון צנחה לאחר שרשות החשמל פסלה את דוראד 2 • בעולם - ארה\"ב תקפה באיראן, מחירי הנפט עולים",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-07-21T14:40:00+00:00"
-  },
-  {
-   "title": "OpenAI מגיעה לישראל: כך היא מתכננת לכבוש את ההייטק המקומי",
-   "link": "https://www.ynet.co.il/digital/technews/article/r1ksd534gx",
-   "summary": "ענקית הבינה המלאכותית גייסה בכיר ישראלי מאמזון לפיתוח עסקי באירופה, המזרח התיכון ואפריקה, מתכננת אירוע לסטארטאפים שבו תציג שירותים לשוק הארגוני ומחפשת מנהלי לקוחות בישראל. זאת בניסיון לצמצם את הפער מול אנת'רופיק וגוגל בעזרת תעשיית ההייטק הישראלית שבה אימוץ כלי ה-AI הוא מהגבוהים בעולם",
-   "source": "Ynet טכנולוגיה",
-   "lang": "he",
-   "topic": "tech",
-   "rtl": true,
-   "published": "2026-07-21T07:03:51+00:00"
-  },
-  {
-   "title": "‘There is ‌no safe place’: Israeli attack kills family of six in Gaza",
-   "link": "https://www.aljazeera.com/news/2026/7/21/there-is-no-safe-place-israeli-attack-kills-family-of-six-in-gaza?traffic_source=rss",
-   "summary": "Israeli forces launch regular attacks on Gaza despite a US-backed 'ceasefire' agreed in October.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-07-21T13:26:40+00:00"
-  },
-  {
-   "title": "מרחיבים את המלון בצפון, ומכריזים: \"המטרה היא להחזיר את המבקרים לאזור\"",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001550014#utm_source=RSS",
-   "summary": "רשת מלונות מטיילים השקיעה 20 מיליון שקל במבנה חדש במלון וילג' על הירדן, כחלק מהרחבת הפעילות בצפון ומהמאמץ להחזיר את המבקרים לאזור • וגם: עשרות ראשי רשויות התכנסו במשרדי Meta ישראל לדיון על חיזוק המוגנות של בני נוער במרחב הדיגיטלי • אירועים ומינויים",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-07-21T14:16:00+00:00"
-  },
-  {
-   "title": "A touchscreen and light make the new X4 Pro the best version of Xteink’s tiny e-readers",
-   "link": "https://www.theverge.com/tech/966560/xteink-e-ink-e-reader-x4-pro-touchscreen-light-hands-on",
-   "summary": "The familiar story with Xteink’s tiny e-readers plays out once again with its new X4 Pro: upgraded hardware held back by frustrating software. The company’s latest tiny e-reader adds a touchscreen and lighting, so choosing it over a Kindle or a Kobo feels like less of a compromise — until you use it. The new […]",
+   "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+   "summary": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-release model\" discovered vulnerabilities within their sandboxed testing environment, allowing them to gain access to the internet and target Hugging Face. On July 16th, […]",
    "source": "The Verge",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-07-21T14:00:00+00:00"
+   "published": "2026-07-21T21:48:54+00:00"
   },
   {
-   "title": "Ozempic-maker accuses rival of false advertising",
-   "link": "https://www.bbc.co.uk/news/articles/c3v0rzd2l17o?at_medium=RSS&at_campaign=rss",
-   "summary": "Novo Nordisk has launched legal action accusing Eli Lilly of creating \"misleading\" ads, a claim its rival denies.",
-   "source": "BBC Business",
-   "lang": "en",
-   "topic": "business",
-   "rtl": false,
-   "published": "2026-07-21T15:20:10+00:00"
-  },
-  {
-   "title": "B&M fined £2m over serious food hygiene failings at Birmingham shops",
-   "link": "https://www.bbc.co.uk/news/articles/cvgvxm1n3keo?at_medium=RSS&at_campaign=rss",
-   "summary": "Mouse droppings and gnawed food are found after inspections at three stores in the city.",
-   "source": "BBC Business",
-   "lang": "en",
-   "topic": "business",
-   "rtl": false,
-   "published": "2026-07-21T15:19:30+00:00"
-  },
-  {
-   "title": "Japan’s AI gamble: Can technology offset the cost of an ageing society?",
-   "link": "https://www.aljazeera.com/features/2026/7/21/japan-ai-gamble-can-technology-offset-the-cost-of-an-ageing-society?traffic_source=rss",
-   "summary": "From underground networks to emerging AI start-ups, Japan is testing whether its greatest issue can be an opportunity.",
-   "source": "Al Jazeera",
+   "title": "France passes law banning under-15s from social media",
+   "link": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss",
+   "summary": "The law will require social media platforms in France to verify all users age from January.",
+   "source": "BBC World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-07-21T14:06:44+00:00"
+   "published": "2026-07-22T03:50:55+00:00"
   },
   {
-   "title": "חברת הספורט-טק WSC Sports תפטר כ-70 עובדים, מרביתם בישראל",
-   "link": "https://www.ynet.co.il/economy/article/bjyzhlpegg",
-   "summary": "היום החלה החברה בהליכי שימוע במסגרתם על פי הערכה יפוטרו כ-10% מהעובדים. החברה גייסה מאז הקמתה ב-2011 כ-150 מיליון דולר. היא מעסיקה 680 עובדים במשרדיה ברמת גן, ניו יורק, לונדון, סידני, תאילנד, סין ויפן, כאשר כ-550 מהם מועסקים במטה החברה בישראל",
+   "title": "נוסד ז'אנר חדש של ישראלים, ולא ברור מה יקרה לו אם תיגמר מלחמת הנצח",
+   "link": "https://www.haaretz.co.il/gallery/television/tv-review/2026-07-22/ty-article/.premium/0000019f-85d2-d6fb-abff-8df774880000",
+   "summary": "בנימיני וגואטה, 17:00, כאן 11",
+   "source": "הארץ",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-07-22T03:18:42+00:00"
+  },
+  {
+   "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
+   "link": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+   "summary": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The short comes from Blomkamp's new AI startup / production company, Barley Studios, and features characters whose voices and faces are modeled after human actors. But […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-07-21T22:06:43+00:00"
+  },
+  {
+   "title": "הכנסת בפגרה? לא כשמדובר בהעברת מיליונים למשרדי ההתיישבות והמורשת",
+   "link": "https://www.ynet.co.il/economy/article/rjmjb634gg",
+   "summary": "ועדת הכספים קבעה דיון פגרה מיוחד ל-29 בחודש, שבו יאושרו מאות מיליוני שקלים בהעברות תקציביות. בין היתר יועברו כ-202 מיליון שקל להתיישבות ביו\"ש",
    "source": "Ynet כלכלה",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-07-21T14:10:39+00:00"
+   "published": "2026-07-22T03:58:32+00:00"
+  },
+  {
+   "title": "$290M cocaine haul found ‘skillfully concealed’ in massive banana shipment",
+   "link": "https://www.foxnews.com/world/290-million-cocaine-haul-skillfully-concealed-massive-banana-shipment",
+   "summary": "Italian officials said the 1,700-pound haul of cocaine, hidden among banana pallets, could have generated roughly $290 million on the street.",
+   "source": "Fox News World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-22T03:56:30+00:00"
+  },
+  {
+   "title": "העליות בקוספי נבלמו ברקע חשש ממכסי טראמפ החדשים; הנפט מזנק",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001550096#utm_source=RSS",
+   "summary": "גל התקיפות האמריקאי באיראן והאיום החות'י על מכליות הנפט דוחפים את מחירי האנרגיה מעלה • טסלה ואלפאבית ידווחו הלילה, ברקע חשש מאי-וודאות מוניטרית לקראת החלטת הריבית • טראמפ אישר הסכם גרעין אזרחי עם סעודיה ומקדם מכסים על תרופות גנריות • מגמה מעורבת באסיה, החוזים בניו יורק בירידות קלות • בשוקי האג\"ח חוששים מהעלאת ריבית תחת יו\"ר הפד החדש, קווין וורש",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-07-22T05:57:00+00:00"
+  },
+  {
+   "title": "האמת מאחורי הניסוי שהבהיל את כל גוש דן",
+   "link": "https://www.ynet.co.il/economy/article/yokra14831264",
+   "summary": "הזמנות של יותר מ–3 מיליארד שקל, מאות עובדים חדשים ותוכנית להכפיל את המכירות עד סוף העשור: הביקוש האדיר לטילים הופך את \"תומר\" לאחת החברות הצומחות במשק • בריאיון ראשון מספר המנכ\"ל, עו\"ד דותן גבאי, מה באמת קרה בניסוי שהסעיר את המדינה לפני חודשיים, חושף כיצד מרוץ החימושים בעולם מאלץ את המפעל לעבוד סביב השעון ומסביר איך נערכים בישראל למלחמה הבאה",
+   "source": "Ynet כלכלה",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-07-22T03:39:20+00:00"
+  },
+  {
+   "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
+   "link": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+   "summary": "There are new 3.6 and 3.5 models today, but Google is already training Gemini 4.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-07-21T16:58:25+00:00"
+  },
+  {
+   "title": "Inflation falls slightly to 2.6%",
+   "link": "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo?at_medium=RSS&at_campaign=rss",
+   "summary": "Economists had expected inflation to fall slightly.",
+   "source": "BBC Business",
+   "lang": "en",
+   "topic": "business",
+   "rtl": false,
+   "published": "2026-07-22T06:07:47+00:00"
   }
  ]
 }
