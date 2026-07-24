@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-24T06:08:15.526995+00:00",
- "generated_display": "Friday, 24 July 2026 · 09:08",
+ "generated_at": "2026-07-24T15:19:41.932542+00:00",
+ "generated_display": "Friday, 24 July 2026 · 18:19",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,164 +23,114 @@
  },
  "stories": [
   {
-   "title": "Jerusalem cafe became symbol of secular defiance, until Israelis learned it's run by Jews for Jesus",
-   "link": "https://www.jpost.com/israel-news/article-903532",
-   "summary": "“Everyone accuses us of that,” Ben David, the cafe owner, said about proselytizing. “The Jesus goal is not completely out, but it’s not front and center.”",
+   "title": "Defense Ministry, FIDF to establish new brain injury rehabilitation center for wounded soldiers",
+   "link": "https://www.jpost.com/health-and-wellness/article-903519",
+   "summary": "It will be located in Tel Aviv, serving as the only center in Israel dedicated exclusively to the rehabilitation of IDF veterans with brain trauma. It is expected to be completed in 2030.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-07-24T05:39:49+00:00"
+   "published": "2026-07-24T14:30:00+00:00"
   },
   {
-   "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-   "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-   "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+   "title": "Netanyahu orders West Bank crackdown after two Israelis killed in terror shooting amid clashes",
+   "link": "https://www.jpost.com/israel-news/article-903568",
+   "summary": "PM, Defense Minister Katz announce increased troop deployments, new checkpoints, expanded counterterrorism measures • Terror shooting followed confrontation involving settlers, IDF, and Palestinians",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-07-24T16:09:04+00:00"
+  },
+  {
+   "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+   "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+   "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
    "source": "TechCrunch",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-07-24T01:00:00+00:00"
+   "published": "2026-07-24T13:36:42+00:00"
   },
   {
-   "title": "Malaysia amb. to US summoned by State Department over country's Israel policy",
-   "link": "https://www.jpost.com/international/article-903536",
-   "summary": "Malaysian Foreign Minister Mohamad Hasan said that the ambassador told the US State Department that Malaysia's longstanding policy of not recognising Israel was not new",
-   "source": "Jerusalem Post",
+   "title": "Middle East crisis latest: US carries out strikes across Iran as Tehran targets American bases in region",
+   "link": "https://www.theguardian.com/world/live/2026/jul/24/us-iran-donald-trump-iraq-bahrain-kuwait-jordan-latest-news-updates",
+   "summary": "Latest attacks come after Trump vowed ‘major military punishment’ for Tehran and its Houthi allies Benjamin Netanyahu will meet Donald Trump at the White House on Tuesday, the Israeli prime minister’s office said. “As part of the visit, the prime minister will meet with President Trump at the White House on Tuesday and attend the funeral service for Senator Lindsey Graham , a friend of Israel,” Ne",
+   "source": "The Guardian",
    "lang": "en",
-   "topic": "israel",
+   "topic": "world",
    "rtl": false,
-   "published": "2026-07-24T07:51:39+00:00"
+   "published": "2026-07-24T14:52:24+00:00"
   },
   {
-   "title": "בעודו שוקע עמוק בגדה, צה\"ל השיק תג יחידה שעליו מפת ארץ ישראל השלמה",
-   "link": "https://www.haaretz.co.il/news/politics/2026-07-24/ty-article/.highlight/0000019f-908d-d114-a59f-dc9da1620000",
-   "summary": "דווקא מול המחלוקת הפוליטית בעניין, מוזרה עמדת אלוף פיקוד המרכז שמתעקש להגדיר את הקמת החוות מהלך ביטחוני אפקטיבי. מג\"ד אף כתב כי הגנה על ההתנחלויות בצפון הגדה נועדה \"לייצר רצף טריטוריאלי שיאפשר הגנה\"",
-   "source": "הארץ",
+   "title": "בלי ששמתם לב: ChatGPT משתנה",
+   "link": "https://www.israelhayom.co.il/tech/tech-news/article/21051734",
+   "summary": "השדרוג השבועי של OpenAI ואנתרופיק מוכיח שהקול הופך לממשק הראשי • עם מודלי GPT-Live החדשים והגישה לקוד המקור, אפליקציית הדיגיטל של ChatGPT כבר לא רק מדברת • כך תוכלו לנהל קוד, לפתור באגים ולערוך ב-Canva בלי לגעת במקלדת • כל הפרטים",
+   "source": "ישראל היום",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-07-24T03:00:24+00:00"
+   "published": "2026-07-24T15:08:41+00:00"
   },
   {
-   "title": "מתנחלים שטיילו באזור שכם סיפרו שפלסטיני חטף נשק של איש ביטחון: כמה פצועי ירי במקום",
-   "link": "https://www.ynet.co.il/news/article/skzecdxsml",
-   "summary": "המתנחלים סיפרו כי לירי קדם עימות אלים ליד מסגר בכפר תל, של. לדבריהם, כשאיש הביטחון של חוות גלעד הגיע למקום, חטף פלסטיני את נשקו וירה לעבר הישראלים. צוותי מד\"א מטפלים בפצועים. כתר הוטל על הכפר והעיר שכם",
+   "title": "הותר לפרסום: רס\"ן יובל עזרא, מ\"פ בתותחנים, נהרג בפיגוע בשומרון",
+   "link": "https://www.ynet.co.il/news/article/byayr0xbzx",
+   "summary": "רס\"ן עזרא, בן 27 מהרצליה, נפל בפיגוע הירי ליד חוות גלעד, שבו נרצח איש כיתת הכוננות בניהו מלט. הם הגיעו לסייע לישראלים שטיילו סמוך לכפר תל, ללא התיאום הנדרש עם צה\"ל, ונורו למוות לאחר שמחבל חטף את הנשק של אחד מאנשי הביטחון. שני מחבלים שלקחו חלק בפיגוע נעצרו בבית חולים בשכם",
    "source": "Ynet חדשות",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-07-24T05:46:07+00:00"
+   "published": "2026-07-24T12:51:17+00:00"
   },
   {
-   "title": "Modi Caught Off Guard as India’s Economic Failings Inflame Young People",
-   "link": "https://www.nytimes.com/2026/07/23/world/asia/india-modi-protests-economy-cockroach-party.html",
-   "summary": "Prime Minister Narendra Modi was busy trying to put out other fires when a student movement suddenly exploded. There are no easy solutions to the problems behind it.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-07-24T04:52:34+00:00"
+   "title": "לצד מודל סייבר: גוגל מציגה את הדור הבא של ג'מיני",
+   "link": "https://www.israelhayom.co.il/tech/tech-news/article/21050925",
+   "summary": "גוגל הכריזה על Gemini 3.6 Flash ודגמים ייעודיים נוספים, במטרה לאפשר הרצת סוכני AI בקנה מידה רחב • לצד חיסכון משמעותי בעלויות וקצב פלט יוצא דופן, החברה מאשרת: האימון המוקדם של Gemini 4 כבר יצא לדרך",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-07-24T13:18:58+00:00"
   },
   {
-   "title": "OpenAI makes ChatGPT Health available to all US users",
-   "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-   "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
+   "title": "Rivian sues the US government for ‘full refund’ of Trump tariffs",
+   "link": "https://techcrunch.com/2026/07/24/rivian-sues-the-us-government-for-full-refund-of-trump-tariffs/",
+   "summary": "The carmaker has said it's owed a refund in the \"tens of millions of dollars.\"",
    "source": "TechCrunch",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-07-23T17:00:00+00:00"
+   "published": "2026-07-24T15:16:31+00:00"
   },
   {
-   "title": "פיגוע ירי בשומרון: פלסטיני גנב את נשקו של איש הביטחון של חוות גלעד - 4 פצועים במקום",
-   "link": "https://news.walla.co.il/item/3855876",
-   "summary": "4 פצועים, בהם 1 מחוסר הכרה בפיגוע הירי בסמוך לחוות גלעד שבשומרון. על פי פרטים ראשוניים, קבוצת מטיילים ותיקה טיילה באזור כאשר מספר מחבלים תקפו אותם, גנבו מהם את נשקם וירו לעברם. צה\"ל הטיל כתר על הכפר תל ועל העיר שכם במספר כניסות | כל העדכונים",
-   "source": "וואלה",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-07-24T08:26:00+00:00"
+   "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+   "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+   "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-24T14:41:32+00:00"
   },
   {
-   "title": "מד\"א: ארבעה פצועים מירי באזור שכם; לפי צה\"ל, פלסטיני חטף נשק מאיש ביטחון",
-   "link": "https://www.haaretz.co.il/news/politics/2026-07-24/ty-article/0000019f-9299-df92-a7ff-b69b2b940000",
-   "summary": "",
-   "source": "הארץ",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-07-24T05:48:09+00:00"
-  },
-  {
-   "title": "דיווח: ההסכם שנחתם - ומה עמד מאחורי ההתניה הפתאומית של טראמפ?",
-   "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21049274",
-   "summary": "הסכם הגרעין שנחתם בין ארה\"ב לסעודיה הוקפא בעקבות ציוץ של הנשיא טראמפ לצירוף ריאד להסכמי אברהם • דוברת הבית הלבן: \"טראמפ הוא סוגר העסקאות\" • מקורות ישראליים ל-CNN: \"נתניהו רצה ללחוץ על טראמפ לכלול את הנורמליזציה עם ריאד כחלק מההסכם\"",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-07-24T05:46:54+00:00"
-  },
-  {
-   "title": "דיווח: פלסטיני חטף נשק וירה לעבר מטיילים בחוות גלעד",
-   "link": "https://www.israelhayom.co.il/news/defense/article/21049276",
-   "summary": "התקרית התרחשה לאחר שהמטיילים הגיעו לקרבת הכפר תל בשומרון • על פי עדותם, מתפללים ששהו במסגד בכפר יצאו ותקפו אותם • רבש\"צ היישוב חוות גלעד הוקפץ לאזור, והתוקפים גנבו את נשקו והשתמשו בו כדי לירות לעבר הישראלים • מסוק הוזעק כדי לסייע בפינוי של אחד מארבעת הפצועים באירוע",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-07-24T05:39:34+00:00"
-  },
-  {
-   "title": "Australia news live: Julian Leeser says his son no longer feels safe at Jewish events; Barnaby Joyce’s wife bans ABC’s 7.30 from farm",
-   "link": "https://www.theguardian.com/australia-news/live/2026/jul/24/australia-news-live-jim-chalmers-anthony-albanese-labor-conference-gas-tax-gambling-reform-one-nation-pauline-hanson-ntwnfb",
-   "summary": "Liberal MP tells royal commission he remembers his son’s fear when the news broke of the Bondi terror attack. Follow today’s news live Get our breaking news email , free app or daily news podcast Australian exports sent to the US will be hit with a 12.5% tariff as the US president imposes levies on more than 80 nations. The Trump administration unveiled the latest tranche of tariffs for countries ",
+   "title": "Burnham urged to lobby EU leaders directly to waive EES border controls",
+   "link": "https://www.theguardian.com/business/2026/jul/24/burnham-urged-to-lobby-eu-leaders-directly-to-waive-ees-border-controls",
+   "summary": "Lib Dems call on PM to push for suspension of ‘bungled, malfunctioning’ system as overseas holiday travel peaks Andy Burnham has been urged to lobby EU leaders directly to suspend the new entry-exit system, EES, as the peak weekend for overseas holidays begins. About 2.2 million British holidaymakers are expected to head abroad between Friday and Monday, the majority to Europe, with all schools in",
    "source": "The Guardian",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-07-24T05:57:21+00:00"
+   "published": "2026-07-24T15:03:20+00:00"
   },
   {
-   "title": "Israel carries out blasts across south Lebanon despite ‘ceasefire’ deal",
-   "link": "https://www.aljazeera.com/news/2026/7/24/israel-carries-out-blasts-across-south-lebanon-despite-ceasefire-deal?traffic_source=rss",
-   "summary": "Israeli attacks come amid ongoing talks with Lebanese officials to implement framework for peace between two countries.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-07-24T04:39:50+00:00"
-  },
-  {
-   "title": "Claude’s voice mode is now available for Opus and Sonnet",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
-   "summary": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice mode last year, it was primarily focused on delivering […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-07-23T19:00:00+00:00"
-  },
-  {
-   "title": "Senators Ask Hegseth to Fully Account for U.S. Troops Killed or Wounded in Iran",
-   "link": "https://www.nytimes.com/2026/07/23/world/middleeast/iran-war-us-troops-hegseth-casualties.html",
-   "summary": "The 12 Democratic senators on the Armed Services Committee said Defense Secretary Pete Hegseth’s department had not provided “timely and comprehensive” reporting on casualties during the war.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-07-23T21:16:10+00:00"
-  },
-  {
-   "title": "India ‘cockroach’ activist Sonam Wangchuk ends hunger strike as protests spread",
-   "link": "https://www.theguardian.com/world/2026/jul/24/india-cockroach-protest-sonam-wangchuk-ends-hunger-strike",
-   "summary": "Sonam Wangchuk halted strike amid concerns about ‘possible violence’ in India as protest movement urges demonstrations across country on Friday over police brutality The Indian “cockroach” activist Sonam Wangchuk has ended a 26-day hunger strike over an exam paper scandal that has spiralled into a wide ranging, youth-led wave of demonstrations against Narendra Modi’s government. Supporters meanwhi",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-07-24T04:22:42+00:00"
+   "title": "העימות, הכאוס - וחטיפת הנשק: תיעוד הפיגוע בשומרון",
+   "link": "https://www.ynet.co.il/news/article/ry66gnghfl",
+   "summary": "ישראלים הגיעו לטייל באזור כפר פלסטיני עם קבוצת ילדים, ובצה\"ל לא הכירו את הטיול. במקום התפתחה מהומה בינם לפלסטינים מהאזור. אחד הישראלים נראה בועט בפלסטיני וצועק עליו להתרחק - כשבמקום כוח צה\"ל שלא מצליח להפריד. אז חטף הפלסטיני את הנשק מידי הישראלי, ירה בבניהו מלט שנרצח - וחוסל בידי קצין בצה\"ל. את הכאוס תיעדו הילדים שצעקו: \"פצוע ערבי, יש! היידה נקמה!\"",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-07-24T09:43:44+00:00"
   },
   {
    "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
@@ -190,97 +140,147 @@
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-07-23T23:19:58+00:00"
+   "published": "2026-07-24T13:33:06+00:00"
   },
   {
-   "title": "US imposes tariffs on dozens of trade partners, citing forced labour concerns",
-   "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-   "summary": "The tariffs target 60 trading partners over claims they failed to properly stop forced labour.",
-   "source": "BBC World",
+   "title": "Iran War Live Updates: Strikes Persist After Iran Is Said to Reject U.S. Proposal",
+   "link": "https://www.nytimes.com/live/2026/07/24/world/iran-war-us-strikes-trump-oil",
+   "summary": "American forces conducted another round of attacks on Iran, which launched drone strikes at U.S. targets in the Gulf. Iran was said to have rejected a cease-fire proposal from President Trump.",
+   "source": "NY Times World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-07-24T04:27:15+00:00"
+   "published": "2026-07-24T15:15:18+00:00"
   },
   {
-   "title": "Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead",
-   "link": "https://www.npr.org/2026/07/24/g-s1-135405/rubio-ukraine-russia-war",
-   "summary": "Secretary of State Marco Rubio, who met with his Russian counterpart Sergey Lavrov, said that President Trump was committed to the work \"if conditions and factors have changed to make that possible.\"",
-   "source": "NPR News",
+   "title": "5 Killed in West Bank Shooting, Officials Say, Among the Deadliest in Months",
+   "link": "https://www.nytimes.com/2026/07/24/world/middleeast/west-bank-shooting-tell-israelis-palestinians.html",
+   "summary": "The authorities said four Palestinians and an Israeli were killed in the incident. The details of events remain unclear, with officials offering differing accounts.",
+   "source": "NY Times World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-07-24T05:45:47+00:00"
+   "published": "2026-07-24T11:02:08+00:00"
   },
   {
-   "title": "הרפורמות הכלכליות החשובות שטורפדו – והקורבן השבועי של מהפכת ה-AI",
-   "link": "https://www.ynet.co.il/economy/article/rk3dcyjrzx",
-   "summary": "באוצר זועמים על דחיית רפורמות מבניות כמו חוק הרשויות המטרופוליניות, מאנדיי חותכת 20% מכוח האדם, תעשיית הלבנת ההון ברשת שמפתה צעירים, סופרגז תפצה ב-36 מיליון שקל לקוחות, אחרי שאחת מהם קופחה בחשבון הגז והסיבה האמיתית שמאחורי המחסור בקוטג' | הצמרת הכלכלית – הכתבות הנצפות של השבוע",
-   "source": "Ynet כלכלה",
+   "title": "צה\"ל: מעבירים כוחות מעזה ולבנון לגדה המערבית, נערכים למבצע באזור שכם",
+   "link": "https://www.haaretz.co.il/news/politics/2026-07-24/ty-article/0000019f-9393-dd92-adff-9bb3061a0000",
+   "summary": "כתר הוטל על העיר שכם ועוצר על הכפרים תל ובורין. בצה\"ל הוחלט לצאת למבצע נרחב באזור לאחר תקרית הירי בכפר תל בה נהרגו ארבעה פלסטינים ושני ישראלים. נתניהו וכץ: הנחינו את צה\"ל להאיץ את הסדרת החוות ולהקים חדשות",
+   "source": "הארץ",
    "lang": "he",
-   "topic": "business",
+   "topic": "israel",
    "rtl": true,
-   "published": "2026-07-24T05:26:51+00:00"
+   "published": "2026-07-24T10:28:57+00:00"
   },
   {
-   "title": "חמישה דברים שכדאי לדעת לקראת פתיחת המסחר בבורסה",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001550327#utm_source=RSS",
-   "summary": "המסחר בת\"א ייפתח הבוקר על רקע ההסלמה בין ארה\"ב לאיראן • הבוקר ירידות חדות באסיה • היום תפוג הבלעדיות של קרן ג'נריישן לרכישת זרוע האנרגיה של שיכון ובינוי • כמה חברות נדל\"ן יהיו היום במוקד לאחר חשיפת זיהום מגרשים • מלחמת הסחר חוזרת: טראמפ הטיל מכסים על 60 מדינות • בנק אוף אמריקה: חברות קטנות ובינוניות בתחום ציוד השבבים נסחרות בדיסקאונט • גלובס עושה סדר לקראת פתיחת המסחר",
-   "source": "גלובס",
+   "title": "צה\"ל ושב\"כ תקפו והשמידו תשתיות טרור של חמאס ברצועת עזה",
+   "link": "https://www.inn.co.il/flashes/1124088",
+   "summary": "<p>צה\"ל ושב\"כ תקפו במספר מרחבים ברצועת עזה תשתיות של חמאס ובהן מחסני נשק, תשתית ייצור ותשתית תת-קרקעית. בצה\"ל אומרים כי אמצעי הלחימה נועדו לפגוע בכוחות ובאזרחי ישראל.</p>",
+   "source": "ערוץ 7",
    "lang": "he",
-   "topic": "business",
+   "topic": "israel",
    "rtl": true,
-   "published": "2026-07-24T05:01:00+00:00"
+   "published": "2026-07-24T14:34:08+00:00"
   },
   {
-   "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-   "summary": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of health product, says the company's models \"are now capable of reasoning at levels that are better than clinician level.\" […]",
+   "title": "One of the best 2-in-1 Chromebooks is almost $200 off for today only",
+   "link": "https://www.theverge.com/gadgets/970559/acer-chromebook-spin-anker-charger-nintendo-logitech-deal-sale",
+   "summary": "Most Chromebooks ship with only 8GB of RAM, which is enough for some people, but certainly not enough for me. Multitaskers who want more memory in their next Chromebook should check out Best Buy, which is discounting Acer’s Chromebook Plus Spin 514 for the remainder of the day. Originally $749 for the configuration with 12GB […]",
    "source": "The Verge",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-07-23T17:00:00+00:00"
+   "published": "2026-07-24T15:11:03+00:00"
   },
   {
-   "title": "תקדים: חילוט ערבויות בנקאיות בשל קריסת קבלן מזכה בהחזרי מע\"מ במיליוני שקלים",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001549234#utm_source=RSS",
-   "summary": "ביהמ\"ש המחוזי בת\"א קיבל את ערעורן של חברות הבנייה בפירוק \"אורתם סהר\" ו\"מליבו\", וקבע כי חילוט ערבויות ביצוע ובדק מפחית את מחיר העסקה המקורי לצורכי מס • השופטת דחתה את עמדת רשות המסים, הזהירה מפני גביית כפל מס וחייבה את המדינה ב-75,000 שקל הוצאות",
+   "title": "The tech-broification of American science has officially begun",
+   "link": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
+   "summary": "The Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as \"comparable in urgency and ambition to the Manhattan Project.\" At roughly the same time, Trump's science adviser Michael Kratsios was on Capitol Hill selling lawmakers on […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-07-24T14:43:55+00:00"
+  },
+  {
+   "title": "World Cup hero Rodri to undergo back surgery before Man City’s new season",
+   "link": "https://www.aljazeera.com/sports/2026/7/24/world-cup-hero-rodri-to-undergo-back-surgery-before-man-citys-new-season?traffic_source=rss",
+   "summary": "Spain and Man City midfielder Rodri will need surgery and rest before returning to the club, new coach Maresca said.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-24T14:16:27+00:00"
+  },
+  {
+   "title": "הותר לפרסום: רס\"ן יובל עזרא הוא הנרצח השני בפיגוע",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001550386#utm_source=RSS",
+   "summary": "שניים נוספים נפצעו בחוות גלעד, המחבל חוסל על ידי כוחות צה\"ל • דיווח: מערכות ההגנה האווירית פעלו בטהרן נגד מטרות עוינות • דיווח: איראן דחתה הצעה להפסקת אש שהוגשה על ידי ראש ממשלת עיראק • חשד לפיגוע אנטישמי במנהטן: אדם דקר שני גברים מחוץ לבית כנסת • טראמפ לאיראנים: \"כל נזק לאנייה או מטען - ישולם מהכסף שלכם שנמצא בידינו\" • עדכונים שוטפים",
    "source": "גלובס",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-07-24T03:44:00+00:00"
+   "published": "2026-07-24T14:29:00+00:00"
   },
   {
-   "title": "מועדון החשפנות שלו נסגר – אז הוא החליט להפוך למלך חוות השרתים של קליפורניה",
-   "link": "https://www.ynet.co.il/economy/article/b1m6vx0vzg",
-   "summary": "סבסטיאן רוצ'י למד על מרכזי נתונים מיוטיוב, ואז טס לעמק הסיליקון כדי לבקר באחד כזה. כעת הוא מבטיח למחוז אימפריאל העני בדרום קליפורניה רנסנס כלכלי: כ-1,700 משרות בנייה, יותר מ-100 משרות קבועות בהנדסה ואבטחת סייבר וכמעט 30 מיליון דולר ממיסים. התושבים מתרשמים הרבה פחות",
-   "source": "Ynet כלכלה",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-07-24T05:26:37+00:00"
-  },
-  {
-   "title": "China's Moonshot AI stole from Anthropic, Trump tech adviser says",
-   "link": "https://www.bbc.co.uk/news/articles/c5ye2gyz0x4o?at_medium=RSS&at_campaign=rss",
-   "summary": "The allegations come as Chinese AI companies are facing increased US government scrutiny.",
+   "title": "Faisal Islam: The UK's Trump trade deal no longer looks world-beating",
+   "link": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&at_campaign=rss",
+   "summary": "While the US tariffs imposed on the UK are effectively unchanged, other countries now have a better deal.",
    "source": "BBC Business",
    "lang": "en",
    "topic": "business",
    "rtl": false,
-   "published": "2026-07-23T23:50:38+00:00"
+   "published": "2026-07-24T14:02:26+00:00"
   },
   {
-   "title": "Forgot your Google password? Now you can log in with a selfie.",
-   "link": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
-   "summary": "Google's selfie videos can be used for account access, AI Avatars, and age verification.",
-   "source": "Ars Technica",
-   "lang": "en",
+   "title": "\"גם אפל נכנסת - וזה מוכיח שצדקנו\": ההימור הגדול של סמסונג",
+   "link": "https://www.ynet.co.il/digital/technology/article/skibesesml",
+   "summary": "אחרי שבע שנים של פיתוח מכשירים מתקפלים, סמסונג משיקה את גלקסי Z פולד 8 - דגם בגודל חדש שמזכיר דרכון, ומקווה להפוך אותו ללהיט עולמי. ראיין צ'וי, המנכ\"ל הקוריאני של סמסונג ישראל, מספר בראיון מיוחד על המכשיר שמחירו מתחיל ב–6,100 שקלים, על הישראלים שאוהבים טכנולוגיה יקרה אבל בודקים היטב אם היא שווה את הכסף, ועל התחרות מול אפל והמותגים הסיניים",
+   "source": "Ynet טכנולוגיה",
+   "lang": "he",
    "topic": "tech",
+   "rtl": true,
+   "published": "2026-07-24T09:06:34+00:00"
+  },
+  {
+   "title": "Trump threatens a major escalation in Iran as the war nears the end of Month 5",
+   "link": "https://www.npr.org/2026/07/24/g-s1-135417/us-iran-war-updates",
+   "summary": "The U.S. continued airstrikes in Iran while Tehran launched retaliatory attacks on U.S. targets in the Gulf, as President Trump said he was close to deciding whether to launch \"a massive attack.\"",
+   "source": "NPR News",
+   "lang": "en",
+   "topic": "world",
    "rtl": false,
-   "published": "2026-07-23T19:14:25+00:00"
+   "published": "2026-07-24T11:30:08+00:00"
+  },
+  {
+   "title": "אחרי כיממה של חיפושים: אותר יובל קוגן בן ה-4 שנעלם באשקלון",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001550387#utm_source=RSS",
+   "summary": "יובל נעלם בטיול משפחתי בחוף אשקלון ואותר באזור ניצנים אחרי חיפושים נרחבים • כוחות הביטחון חידשו הבוקר את החיפושים אחריו, שבסופם אותר • \"הילד עמד פה מתחת לעץ, הסתכל עלינו\", אמר אחד האנשים שאיתרו אותו",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-07-24T13:15:00+00:00"
+  },
+  {
+   "title": "Why are UK fuel prices rising again?",
+   "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+   "summary": "UK petrol and diesel prices are going up again as the price of oil returns to around $100 a barrel.",
+   "source": "BBC Business",
+   "lang": "en",
+   "topic": "business",
+   "rtl": false,
+   "published": "2026-07-24T10:45:41+00:00"
+  },
+  {
+   "title": "בניסיון לבלום את מכסי טראמפ: הממשלה תאסור יבוא מוצרים שיוצרו בעבודת כפייה",
+   "link": "https://www.ynet.co.il/economy/article/b100wtgwrfl",
+   "summary": "לכלכליסט נודע כי היועץ הכלכלי לראש הממשלה, פרופ' אבי שמחון, מוביל את המגעים מול הממשל האמריקאי ובמקביל מגבש הצעת מחליטים שתובא לישיבת הממשלה ביום ראשון. המטרה: לשכנע את וושינגטון להסיר את ישראל מרשימת המדינות שעליהן צפוי להיות מוטל מכס של 12.5% במסגרת מדיניות הסחר החדשה של טראמפ",
+   "source": "Ynet כלכלה",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-07-24T14:59:46+00:00"
   }
  ]
 }
