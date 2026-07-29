@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-28T15:57:20.423733+00:00",
- "generated_display": "Tuesday, 28 July 2026 · 18:57",
+ "generated_at": "2026-07-29T06:13:03.314649+00:00",
+ "generated_display": "Wednesday, 29 July 2026 · 09:13",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,264 +23,264 @@
  },
  "stories": [
   {
-   "title": "אקזיט נוסף: החברה הישראלית שנמכרת במיליארד דולר",
-   "link": "https://www.israelhayom.co.il/business/article/21078189",
-   "summary": "חברת הסייבר הישראלית סייארה מבצעת רכישה של חברת אואזיס • הרכישה צפויה להגביר את פעילות הסייבר מבוססת ai • בחודש הקודם השלימה סייארה סבב גיוס בגובה 600 מיליון דולר לפי שווי חברה של 12 מיליארד דולר",
-   "source": "ישראל היום",
+   "title": "בין וושינגטון למצודת זאב",
+   "link": "https://www.ynet.co.il/news/article/yokra14848192",
+   "summary": "שלושה חודשים לפני הבחירות, נאלץ נתניהו לתמרן בין הטיפול בשלל הזירות ובאיום קיומי על ישראל, לבין הישרדות פוליטית אישית. מה ינצח? אין לדעת, לפחות לא עכשיו",
+   "source": "Ynet חדשות",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-07-28T12:48:37+00:00"
+   "published": "2026-07-29T03:57:04+00:00"
   },
   {
-   "title": "Trump threatens to strike Pickaxe Mountain, says he does not need Israeli intelligence",
-   "link": "https://www.jpost.com/middle-east/iran-news/article-903915",
-   "summary": "US President Donald Trump told Fox News that the US has been surveilling Pickaxe Mountain with \"the greatest cameras in the world\" and that \"it was not a big problem.\"",
+   "title": "כוח צה\"ל השתלט על בית של פלסטיני - אך נסוג לאחר שהתברר כי הוא אזרח אמריקני",
+   "link": "https://www.ynet.co.il/news/article/hk93xxwrml",
+   "summary": "במסגרת פעילות מבצעית באזור רמאללה כוחות צה\"ל הגישו לפלסטיני צו בנוגע לכוונתם להשתלט זמנית על ביתו, אך חזרו בהם עקב זעם מצד שגרירות ארה\"ב בישראל. גורם צבאי הדגיש: \"הכוחות לא ביקשו מהדיירים להתפנות, ובחרו במבנה חלופי לצורך הפעילות. לכל אורך הדרך הם פעלו כשורה\"",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-07-29T03:47:26+00:00"
+  },
+  {
+   "title": "‘Dodged a bullet’: inflation eases to 3.8%, reducing chances of interest rate rise for Australia’s mortgage holders",
+   "link": "https://www.theguardian.com/business/2026/jul/29/cpi-rate-inflation-rba-reserve-bank-australia-interest-rates",
+   "summary": "ABS data shows inflation still too high but tracking lower than anticipated Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Australian mortgage-holders have “dodged a bullet’, with the Reserve Bank now less likely to hike rates next month after new data showed inflation unexpectedly eased to 3.8%, in the year to June, from 4%. The",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-29T04:21:32+00:00"
+  },
+  {
+   "title": "Tel Aviv municipal parking fees to rise 20% starting August 1",
+   "link": "https://www.jpost.com/israel-news/article-903956",
+   "summary": "Tel Aviv residents will retain discounted parking, but hourly and evening rates will rise, and some resident benefits will be scaled back.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-07-28T16:15:49+00:00"
-  },
-  {
-   "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-   "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-   "summary": "Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-07-28T14:00:00+00:00"
-  },
-  {
-   "title": "IPS officer arrested for allegedly aiding fugitive in Jerusalem murder case",
-   "link": "https://www.jpost.com/israel-news/crime-in-israel/article-903897",
-   "summary": "The 34-year-old officer from Hod Hasharon is suspected of maintaining a personal relationship with an inmate held at the central Israel prison where she serves.",
-   "source": "Jerusalem Post",
-   "lang": "en",
-   "topic": "israel",
-   "rtl": false,
-   "published": "2026-07-28T13:15:18+00:00"
+   "published": "2026-07-29T03:39:33+00:00"
   },
   {
    "title": "Zelensky and Trump Meet at the White House. Has Their Relationship Thawed?",
    "link": "https://www.nytimes.com/2026/07/28/world/europe/zelensky-trump-meeting-ukraine-war-russia.html",
-   "summary": "President Trump meets his Ukrainian counterpart in Washington this week. President Volodymyr Zelensky will also attend the funeral of Senator Lindsey Graham.",
+   "summary": "President Trump meets his Ukrainian counterpart in Washington this week. President Volodymyr Zelensky also attended the funeral of Senator Lindsey Graham.",
    "source": "NY Times World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-07-28T15:06:26+00:00"
+   "published": "2026-07-29T03:26:59+00:00"
   },
   {
-   "title": "Royal commission into Victorian construction sector could boost Labor’s chances at state election, expert says",
-   "link": "https://www.theguardian.com/australia-news/2026/jul/29/royal-commission-into-victorian-construction-sector-could-boost-labors-chances-at-state-election-expert-says",
-   "summary": "Commission promised by new premier would be an ‘important signal’ for voters that the government was acting on alleged corruption Get our breaking news email , free app or daily news podcast Victorian voters heading to the polls will probably get a taste of the evidence heard by a royal commission – including how taxpayer funds were used on Big Build projects – but it could actually help Labor’s s",
-   "source": "The Guardian",
+   "title": "IDF officers tell Trump: 'Settler violence' claims ignore West Bank terrorism -exclusive",
+   "link": "https://www.jpost.com/israel-news/article-903945",
+   "summary": "In a letter to Trump, the IDSF accused international organizations and Israeli rights groups of inflating reports of settler violence to undermine Jewish communities in the West Bank.",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-07-28T21:22:46+00:00"
+  },
+  {
+   "title": "עלייה של 109% בחמישה חודשים: מי הרוויחו מהקפיצה של פאלו אלטו בת\"א",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001550691#utm_source=RSS",
+   "summary": "עוד בטרם כניסתה למדדים בשבוע הבא ריכזה מניית הסייבר עניין רב בת\"א, עם מחזור יומי ממוצע של 8.5 מיליון שקל, הכפלת מחיר המניה מאז נרשמה למסחר ושווי המהווה 30% משוק המניות כולו • הבורסה: \"הכניסה למדדים תציב אותה בליגה אחרת מבחינת ביקושים וסחירות\"",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-07-29T02:47:00+00:00"
+  },
+  {
+   "title": "Clashes Erupt in Pakistani Kashmir as Voting in Local Election Begins",
+   "link": "https://www.nytimes.com/2026/07/28/world/asia/pakistan-kashmir-election-violence.html",
+   "summary": "Dozens have died in recent weeks ahead of a weekslong regional election, officials said. A banned civil rights group said supporters died in conflicts with the police.",
+   "source": "NY Times World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-07-28T15:00:09+00:00"
+   "published": "2026-07-29T05:04:49+00:00"
   },
   {
-   "title": "Anger at Labor as Rex Patrick faces potential six-figure legal fee if he loses Aukus documents battle",
-   "link": "https://www.theguardian.com/australia-news/2026/jul/29/anger-at-labor-as-rex-patrick-faces-potential-six-figure-legal-fee-if-he-loses-aukus-documents-battle",
-   "summary": "Australian government insists legal costs should be paid by former senator as FoI fight escalates Get our breaking news email , free app or daily news podcast The government will insist Rex Patrick pays up to $150,000 to cover its legal costs if he loses a fight to access documents about the Aukus agreement, escalating a battle in which several crossbench MPs have swung behind the former senator. ",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-07-28T15:00:08+00:00"
-  },
-  {
-   "title": "חמ\"ל עם מערך הסייבר - וחשש למעורבות איראנית: כך שב\"כ נערך לבחירות",
-   "link": "https://www.ynet.co.il/news/article/bj8nq11usfl",
-   "summary": "שב\"כ הקים צוות ייעודי לשמירה על טוהר הבחירות לקראת 27 באוקטובר, וקיים דיון חסוי בוועדה לענייני מודיעין. על הפרק: היתכנות לפיגועים סביב תקופת הבחירות וחשש לניסיונות איראן, רוסיה וסין להשפיע על ההליך. ל-ynet נודע שהארגון בראשות זיני פועל לסכל איומים על מועמדים",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-07-28T12:57:06+00:00"
-  },
-  {
-   "title": "תגידו תודה לקלוד: אפל הוציאה עדכון גרסה דחוף",
-   "link": "https://www.israelhayom.co.il/tech/tech-news/article/21078401",
-   "summary": "ברשימת הקרדיטים הרשמית לעדכון iOS 26.6 מופיעות לראשונה ענקיות ה-AI כמו אנתרופיק, OpenAI ואנבידיה • המודלים הדיגיטליים כבר לא רק עוזרים להאקרים - אלא הפכו לקו ההגנה הראשון של מעבדות הסייבר המתקדמות בעולם",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-07-28T12:57:00+00:00"
-  },
-  {
-   "title": "PayPal leaves the door open to a higher takeover offer following earnings beat",
-   "link": "https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/",
-   "summary": "After reporting better-than-expected Q2 results, PayPal said it remains focused on its AI-driven turnaround, but would consider a deal that creates more value for shareholders.",
+   "title": "Bot-detection startup Spur nabs $200M from Insight",
+   "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+   "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
    "source": "TechCrunch",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-07-28T15:10:10+00:00"
+   "published": "2026-07-28T21:29:34+00:00"
   },
   {
-   "title": "כדי למנוע מניפולציות: הדרישה של ועדת הבחירות בנוגע לסקרי המנדטים",
-   "link": "https://www.ynet.co.il/news/article/rkmfabirml",
-   "summary": "פרסום ראשון: מ\"מ מנכ\"ל ועדת הבחירות המרכזית הזכיר במכתב למכוני הסקרים ולגופי התקשורת את החוק שלפיו ממחר הם נדרשים להעביר לוועדה את התוצאות והשאלות של כל סקר שמוצג לציבור - כדי לבחון שלא נעשות הטעיות",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-07-28T15:52:48+00:00"
-  },
-  {
-   "title": "צפו: צה\"ל חיסל מפקד מחלקה שחטפה ישראלים ב-7 באוקטובר",
-   "link": "https://www.maariv.co.il/breaking-news/article-1349734",
-   "summary": "",
-   "source": "מעריב",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-07-28T14:51:11+00:00"
-  },
-  {
-   "title": "גורמים בצה\"ל: ישראל כ\"ץ פועל בניגוד לצרכים של מערכת הביטחון באיו\"ש",
-   "link": "https://www.maariv.co.il/breaking-news/article-1349710",
-   "summary": "",
-   "source": "מעריב",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-07-28T14:02:12+00:00"
-  },
-  {
-   "title": "France and Spain Race to Contain Fires Before Some Areas Reach 104 Degrees",
-   "link": "https://www.nytimes.com/2026/07/28/world/europe/wildfires-france-spain.html",
-   "summary": "Faced with massive blazes, firefighters in both countries are using a brief window of opportunity to bring the flames under control before temperatures spike.",
-   "source": "NY Times World",
+   "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
+   "link": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
+   "summary": "The two leaders sound encouraged after holding back-to-back bilaterals at the White House.",
+   "source": "BBC World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-07-28T15:19:20+00:00"
+   "published": "2026-07-29T02:24:03+00:00"
   },
   {
-   "title": "כפי שנחשף בגלובס: סייארה רוכשת את אואזיס סקיוריטי במיליארד דולר",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001550632#utm_source=RSS",
-   "summary": "שתי חברות הסייבר הישראליות חתמו על הצהרת כוונות לקראת עסקת רכישה, שבמסגרתה צפויה סייארה לצרף אליה את אואזיס סקיוריטי • המהלך נועד לשלב אבטחת מידע, זהויות לא־אנושיות וסוכני AI בפלטפורמה אחת, על רקע העלייה בשימוש בסוכני בינה מלאכותית בארגונים",
+   "title": "הדיפנס-טק פורח: מספר המשרות זינק ב-20%, השכר קפץ מעל 50 אלף שקל",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001550681#utm_source=RSS",
+   "summary": "בזמן שחברות ההייטק הישראליות מצטמצמות בעקבות מהפכת ה־AI, דוח חדש של חברת ההשמה GotFriends חושף כי הסטארט־אפים הביטחוניים דווקא מגדילים גיוסים ומעלים את השכר • הגורם העיקרי: שינוי עולמי בתחום על רקע המלחמות באוקראינה ובמזרח התיכון",
    "source": "גלובס",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-07-28T11:11:00+00:00"
+   "published": "2026-07-29T02:48:00+00:00"
   },
   {
-   "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
-   "link": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
-   "summary": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
+   "title": "תועד תוקף פלסטינים במדי צה\"ל - ונעצר לאחר חודש במנוסה",
+   "link": "https://www.israelhayom.co.il/news/crime/article/21082246",
+   "summary": "החשוד, חבר כיתת כוננות בשנות ה-20 לחייו, תועד חמוש ב-M16 ובאקדח במהלך התקיפה בחווארה • כמה מהפלסטינים שנפגעו נזקקו לטיפול רפואי • כלי הנשק שברשותו נתפסו",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-07-29T05:54:22+00:00"
+  },
+  {
+   "title": "צפו: הכנסת ספר תורה למוצב בכתר החרמון",
+   "link": "https://www.inn.co.il/flashes/1124747",
+   "summary": "רגע מרגש במוצב צה\"ל שהוקם 40 ק\"מ בתוך שטח סוריה: ספר תורה חדש הוכנס אליו באירוע חגיגי שערכו הלוחמים",
+   "source": "ערוץ 7",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-07-29T05:02:56+00:00"
+  },
+  {
+   "title": "בכוננות שיא: התנאי שהציבה הפועל באר שבע להחתמת השחקן החדש",
+   "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21082283",
+   "summary": "פדרו אמאדור נחת בישראל וצפוי לעבור בדיקות רפואיות מקיפות, בסופן ייקבע האם הוא כשיר להיות המגן השמאלי החדש של המועדון • רן קוז'וך מתכנן שינוי בהתקפה לקראת ויקינגור, האוהדים שהגיעו להונגריה מבקשים: \"הגענו עד לכאן, תנו לנו קצת נחת\"",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-07-29T05:40:26+00:00"
+  },
+  {
+   "title": "Daniel Andrews says Ben Carroll ‘can win’ Victoria election in rare public statement",
+   "link": "https://www.theguardian.com/australia-news/2026/jul/29/daniel-andrews-statement-ben-carroll-victoria-state-election-ntwnfb",
+   "summary": "Former leader shows support for new Victorian premier while paying tribute to Jacinta Allan Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Daniel Andrews has thrown his support behind Victoria’s new premier, Ben Carroll, saying he has what it takes to win November’s state election. In a rare public statement on Wednesday, the for",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-29T05:52:02+00:00"
+  },
+  {
+   "title": "גנבה כרטיס אשראי של ניצולת שואה, התחזתה לאחות - וגנבה רכוש באלפי שקלים | חשד",
+   "link": "https://news.walla.co.il/item/3856936",
+   "summary": "את הכרטיס גנבה במהלך נסיעה משותפת, ולאחר מכן התחזתה לאחות קופת חולים כדי להיכנס לביתה של ניצולת השואה. משנכנסה לביתה, גנבה רכוש נוסף וביצעה רכישות באלפי שקלים, בזמן שהייתה משוחררת בתנאים מגבילים בגין עבירות דומות",
+   "source": "וואלה",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-07-29T07:55:00+00:00"
+  },
+  {
+   "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
+   "link": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
+   "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.",
    "source": "BBC World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-07-28T12:31:45+00:00"
+   "published": "2026-07-29T04:43:36+00:00"
   },
   {
-   "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-   "summary": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April, Personal Computer for Windows operates like a \"general-purpose digital worker\" that can access local files and apps to perform […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-07-28T12:30:00+00:00"
-  },
-  {
-   "title": "Apple’s reported ‘HomePad’ may launch as early as October",
-   "link": "https://www.theverge.com/tech/971790/apple-homepad-rumor-launch",
-   "summary": "For years, we've heard rumors of a new home hub device from Apple, meant to take on smart home devices like the Google Nest Hub Mini and Amazon's Echo Show. Besides \"HomePod with a screen,\" details have been sparse. But now, a new report from Bloomberg's Mark Gurman sheds some light on the alleged device, […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-07-28T14:39:42+00:00"
-  },
-  {
-   "title": "Mancini reappointed Italy boss after Pirlo controversy",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c0ly412r412o?at_medium=RSS&at_campaign=rss",
-   "summary": "Roberto Mancini is appointed Italy manager for a second time - just a day after Andrea Pirlo rules himself out of the running for the job and technical director Paolo Maldini resigns.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-07-28T13:54:00+00:00"
-  },
-  {
-   "title": "Photos: Spain and France's battle record wildfires",
-   "link": "https://www.npr.org/2026/07/28/g-s1-135880/photos-spain-france-wildfires-climate-change",
-   "summary": "Hundreds of thousands of people have been forced from their homes as powerful wildfires sweep across Spain and France, revealing the growing scale of a climate crisis already reshaping the continent.",
+   "title": "Trump meets Ukrainian, Israeli leaders as they pay respects to Lindsey Graham",
+   "link": "https://www.npr.org/2026/07/28/nx-s1-5910540/trump-meets-ukrainian-israeli-leaders-as-they-pay-respects-to-lindsey-graham",
+   "summary": "President Trump holds talks with Ukrainian and Israeli leaders on the sidelines of Senator Lindsey Graham's funeral.",
    "source": "NPR News",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-07-28T15:24:07+00:00"
+   "published": "2026-07-28T20:14:24+00:00"
   },
   {
-   "title": "Energy prices rise by 19% in a year -report",
-   "link": "https://www.bbc.co.uk/news/articles/c74gqxz27q0o?at_medium=RSS&at_campaign=rss",
-   "summary": "The Retail Prices Indices and Household Costs Indices inflation statistics have been published.",
+   "title": "Sloppy and clumsy but overwhelming - inside the rogue ChatGPT hack",
+   "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
+   "summary": "Details have been released of an emergency call with hundreds of cyber-security experts after the ChatGPT hack of a tech company.",
    "source": "BBC Business",
    "lang": "en",
    "topic": "business",
    "rtl": false,
-   "published": "2026-07-28T14:52:31+00:00"
+   "published": "2026-07-28T23:00:10+00:00"
   },
   {
-   "title": "Some people's chats with Claude AI found to be publicly available online",
-   "link": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
-   "summary": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
-   "source": "BBC Business",
-   "lang": "en",
-   "topic": "business",
-   "rtl": false,
-   "published": "2026-07-28T07:10:37+00:00"
-  },
-  {
-   "title": "Why London’s Hackney Council wants to repeal its ‘twin’ status with Haifa",
-   "link": "https://www.aljazeera.com/news/2026/7/28/why-londons-hackney-council-wants-to-repeal-its-twin-status-with-haifa?traffic_source=rss",
-   "summary": "Green Party, which took over control of the council from the Labour Party, is opposed to Israel's genocidal war on Gaza.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-07-28T11:14:27+00:00"
-  },
-  {
-   "title": "מניה אחת מושכת מטה: הירידות בת\"א שוב החריפו לקראת הנעילה",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001550578#utm_source=RSS",
-   "summary": "שידור חוזר מאתמול: הירידות בתל אביב החרפו בסיום; ת\"א 35 צנח ב-1.6% • הלחץ בבורסה המקומית גבר עם פתיחת המסחר השלילית בוול סטריט • מדד הקלינטק צלל ב-3.5% ומניות השבבים חטפו מכה קשה, בעוד הביומד בלט לחיוב • אופקו הלת' זינקה בכ-33% לאחר הדו\"חות, והדולר טיפס",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-07-28T14:38:00+00:00"
-  },
-  {
-   "title": "As US measles cases rise, biotech firms start developing new treatments",
-   "link": "https://arstechnica.com/health/2026/07/as-us-measles-cases-rise-biotech-firms-start-developing-new-treatments/",
-   "summary": "The US is making measles great again, so treatment options are needed for the most vulnerable.",
-   "source": "Ars Technica",
+   "title": "AI leaders sign a statement asking the government to do something about automated AI",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+   "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coordinated governance efforts. \"Al could help create a dramatically better […]",
+   "source": "The Verge",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-07-28T13:32:23+00:00"
+   "published": "2026-07-28T19:46:43+00:00"
   },
   {
-   "title": "מאות מיליונים לחרדים ולהתיישבות: הקואליציה ממשיכה לחגוג בפגרת הכנסת",
-   "link": "https://www.ynet.co.il/economy/article/bjhfly4hge",
-   "summary": "ועדת הכספים תתכנס לישיבת פגרה מיוחדת כדי לאשר, בין השאר, העברת 117 מיליון שקל למשרד ההתיישבות ו-16.5 מיליון שקל לחינוך החרדי במסגרת כספים קואליציוניים. חברי האופוזיציה פנו לייעוץ המשפטי בדרישה לעצור חלק מההעברות \"מחשש לניצול פוליטי\" בתקופת הבחירות",
+   "title": "מותג הנעליים הפופולרי סוגר 10 סניפים בישראל - זו רשת האופנה שתיכנס במקומו",
+   "link": "https://www.ynet.co.il/economy/article/yokra14847361",
+   "summary": "הרשת לנעליים מוזלות טו גו, שהייתה בשיאה עם 70 סניפים, ירדה כעת לחצי. הראל ויזל נכנס במקומה לנכסים שעזבה - ויפתח חנויות של מותגי פוקס. וגם: אלדו פותח חנות עודפים יחידה במתחם חוצות המפרץ בהשקעה של כ-800 אלף שקל",
    "source": "Ynet כלכלה",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-07-28T04:00:00+00:00"
+   "published": "2026-07-29T04:07:12+00:00"
+  },
+  {
+   "title": "OpenAI’s rogue agent hacked an account at a second technology firm: Report",
+   "link": "https://www.aljazeera.com/news/2026/7/29/openais-rogue-agent-hacked-an-account-at-a-second-technology-firm-report?traffic_source=rss",
+   "summary": "The latest hack comes after an autonomous agent escaped a controlled test and accessed AI firm Hugging Face’s servers.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-07-29T02:05:41+00:00"
+  },
+  {
+   "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+   "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+   "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-07-28T20:45:12+00:00"
+  },
+  {
+   "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+   "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+   "summary": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-07-28T21:36:39+00:00"
+  },
+  {
+   "title": "eBay’s bizarre cyberstalking saga ends with a $56 million settlement",
+   "link": "https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement",
+   "summary": "eBay and three former executives will pay $55.7 million as part of a settlement with a Massachusetts couple targeted with a bizarre harassment and cyberstalking campaign in 2019, as reported earlier by CNBC. The settlement will resolve a lengthy legal saga that revealed how eBay's former executives sent live insects, a bloody pig mask, a […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-07-28T21:11:11+00:00"
+  },
+  {
+   "title": "הבית נמכר ב-10.5 מיליון ש', המתווך תבע. מה נקבע?",
+   "link": "https://www.ynet.co.il/economy/article/bjvo11mpsfx",
+   "summary": "בעלי נכס ברמת גן חתמו על הסכם תיווך לחצי שנה. המו\"מ עם הרוכשים הופסק וחודש, והסתיים אחרי תום התקופה. בית המשפט פסק למתווך כרבע מיליון שקל",
+   "source": "Ynet כלכלה",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-07-29T05:42:51+00:00"
   }
  ]
 }
