@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-01T06:13:25.641276+00:00",
- "generated_display": "Saturday, 01 August 2026 · 09:13",
+ "generated_at": "2026-08-01T14:51:07.586754+00:00",
+ "generated_display": "Saturday, 01 August 2026 · 17:51",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,114 +23,234 @@
  },
  "stories": [
   {
-   "title": "Israel, US weighing wave of strikes on Iranian energy infrastructure - report",
-   "link": "https://www.jpost.com/middle-east/iran-news/article-904243",
-   "summary": "One Israeli official denied the report, telling CBS that “Israel is unaware of a decision to restart full military operations, nor has it been requested to join any military actions against Iran.\"",
+   "title": "קצין נפצע בינוני בהיתקלות עם מחבלים בדרום לבנון",
+   "link": "https://www.ynet.co.il/news/article/hkgpilibfe",
+   "summary": "בצל הפרת הפסקת האש ע\"י חיזבאללה, והתגובה הישראלית עם פיצוץ המנהרות בבופור, הודיע צה\"ל כי הקצין הלוחם נפצע ב\"פעילות מבצעית\". משפחתו עודכנה",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-01T11:25:36+00:00"
+  },
+  {
+   "title": "צה\"ל: קצין נפגע באורח בינוני בהיתקלות עם חמושים בדרום לבנון",
+   "link": "https://www.haaretz.co.il/news/politics/2026-08-01/ty-article/0000019f-bd34-ded7-adbf-fdbf3f600000",
+   "summary": "שלשום נפגע כלי הנדסי של צה\"ל בדרום לבנון מרחפן נפץ של חיזבאללה, ללא נפגעים. ביום שלישי צפויות ישראל ולבנון לערוך סבב שיחות נוסף ברומא",
+   "source": "הארץ",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-01T13:38:36+00:00"
+  },
+  {
+   "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+   "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+   "summary": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-01T14:11:40+00:00"
+  },
+  {
+   "title": "Spain installs floating barrier in Ceuta after calm night following border rush",
+   "link": "https://www.jpost.com/international/article-904262",
+   "summary": "According to Spanish authorities, about 50,000 people had crossed into Ceuta by land and sea from Morocco in an unprecedented surge at one of the European Union's only land borders with Africa.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-08-01T00:27:57+00:00"
+   "published": "2026-08-01T15:21:55+00:00"
   },
   {
-   "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-   "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-   "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-07-31T22:47:26+00:00"
-  },
-  {
-   "title": "Tu B'Av love story: How two Jerusalem retirees found love after a lifetime apart",
-   "link": "https://www.jpost.com/j-spot/article-904147",
-   "summary": "Barry Halpern, 90, and Rica Cuperman, 80, were not looking for romance when a chance dinner changed their lives and proved that love can arrive at any age.",
+   "title": "Trump walks back agreement to give Ukraine license to produce Patriot missiles",
+   "link": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-904263",
+   "summary": "Despite previously publicly announcing that he would grant Kyiv the license to the surface-to-air interceptor missiles, Trump told the FT that he was “not sure” about the license.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-08-01T03:53:22+00:00"
+   "published": "2026-08-01T16:15:20+00:00"
   },
   {
-   "title": "Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles",
-   "link": "https://www.nytimes.com/2026/07/31/us/politics/trump-ukraine-patriot-missiles.html",
-   "summary": "The president of Ukraine had warned that the country was running out of Patriot interceptors, the most reliable weapon it has to shoot down Russian ballistic missiles.",
+   "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+   "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+   "summary": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-01T12:43:21+00:00"
+  },
+  {
+   "title": "היום שאחרי 700 טונות חומר נפץ: רכס הבופור שינה צבע | תיעוד",
+   "link": "https://www.ynet.co.il/news/article/hj11odjrgg",
+   "summary": "הפיצוץ העז בדרום לבנון, שבוצע בתגובה לשיגור רחפן נפץ של חיזבאללה לעבר כלי הנדסי של צה\"ל, ניכר היטב בשטח. דיווח על 2 פצועים בתקיפת כטב\"ם באזור, כך נראה הרכס ביום שאחרי",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-01T14:15:52+00:00"
+  },
+  {
+   "title": "In Iran, the U.S. Appears Headed for a Strategic Defeat, Allies Fear",
+   "link": "https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html",
+   "summary": "With none of President Trump’s aims accomplished and the Strait of Hormuz closed, U.S. allies see dysfunction and vulnerability from the war.",
    "source": "NY Times World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-01T05:49:43+00:00"
+   "published": "2026-08-01T14:46:19+00:00"
   },
   {
-   "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-   "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
-   "summary": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
-   "source": "BBC World",
+   "title": "Nirmal Purja, Renowned Mountaineer, Is Found Dead After Pakistan Avalanche",
+   "link": "https://www.nytimes.com/2026/08/01/world/asia/nirmal-purja-dead-pakistan-avalanche.html",
+   "summary": "The British-Nepali mountaineer was one of 10 climbers who were struck by an avalanche on Thursday on Broad Peak, one of the world’s highest mountains.",
+   "source": "NY Times World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-01T05:01:56+00:00"
+   "published": "2026-08-01T14:34:53+00:00"
   },
   {
-   "title": "דיווחים: ארה\"ב וישראל דנו בתקיפה משותפת באיראן כבר בסופ\"ש, טראמפ נתן אור ירוק להפצצות",
-   "link": "https://www.ynet.co.il/news/article/sywenycbze",
-   "summary": "לפי CBS, \"תקיפות משמעותיות\" מתוכננות נגד תחנות כוח ובתי זיקוק - ועשויות לקרות כבר היום או מחר. המהלך עלה בדיון הקבינט בקמפ דייוויד וגרר התנגדות מצד חלק מיועצי טראמפ, שלפי \"וול סטריט ג'ורנל\" כבר נתן אישור לתקיפה - אך לא בהכרח נגד מטרות אנרגיה. איראן איימה לפגוע ב\"מתקני האנרגיה החשובים בעולם\" - עם רשימה שכוללת את שדות לווייתן ותמר. מכלית הותקפה בהורמוז",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-01T04:02:55+00:00"
-  },
-  {
-   "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
-   "link": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
-   "summary": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-01T02:21:29+00:00"
-  },
-  {
-   "title": "מפת הדרכים: חמאס יישאר הכוח מאחורי הקלעים ברצועה, וידי צה\"ל יהיו כבולות",
-   "link": "https://www.ynet.co.il/news/article/h1rh0h9rml",
-   "summary": "הצהרת הכוונות העמומה של מועצת השלום משאירה את חמאס כבעל הבית בעזה כמו חיזבאללה בלבנון. חמאס מקבל חסינות מסיכולים והישג תודעתי בדמות \"מסלול אמין למדינה פלסטינית\" - בתמורה לוויתור על נשק שצה\"ל כבר השמיד ממילא. המתווה מציב את ישראל בצד הנותן, ואת ארגון הטרור בצד המרוויח",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-07-31T21:14:03+00:00"
-  },
-  {
-   "title": "‘Who could have done this?’ Mystery over Briton found dead in a suitcase in Athens",
-   "link": "https://www.theguardian.com/world/2026/aug/01/mystery-briton-found-dead-suitcase-athens",
-   "summary": "Greek police throw entire homicide division at trying to explain fate of 38-year-old Elisabeth-Jane Ross Two worlds separated by sheets of corrugated iron: one, a tree-lined road, bordered by a park and the home of Greece’s oldest sports club; the other a wasteland of derelict buildings and graffiti-covered walls in what was once a car park. It is here, on the wrong side of the divide, in Kypseli,",
+   "title": "Spanish PM calls for urgent EU meeting after ‘selfish’ responses to Ceuta crisis",
+   "link": "https://www.theguardian.com/world/2026/aug/01/spain-pedro-sanchez-calls-for-eu-meeting-ceuta-border-crossing",
+   "summary": "Pedro Sánchez hits out at ‘polarising and unlawful reaction’ over mass crossing into Spanish enclave in north Africa Europe live – latest updates Spain’s prime minister, Pedro Sánchez, has called for an urgent meeting of EU interior ministers after what he called some member states’ “selfish, polarising and unlawful reaction” to this week’s mass border crossing into the Spanish enclave of Ceuta, i",
    "source": "The Guardian",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-01T04:00:42+00:00"
+   "published": "2026-08-01T14:36:16+00:00"
   },
   {
-   "title": "Did 75,000 Students Cheat on a College-Entrance Exam in Mexico?",
-   "link": "https://www.nytimes.com/2026/07/31/world/americas/unam-college-entrance-exam-mexico.html",
-   "summary": "The country’s largest public university is requiring all students who passed its entrance exam to take a new test after experts found evidence of widespread cheating, including with A.I.",
-   "source": "NY Times World",
+   "title": "EU offered Spain support ‘from first moment’ of Ceuta crisis, says von der Leyen, after Sánchez hits out – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/aug/01/ukraine-russia-zelenskyy-spain-france-wildfires-climate-heatwave-ceuta-morocco",
+   "summary": "‘Not a single person reached mainland Spain or rest of EU,’ says European Commission president, after Spanish PM condemned ‘selfish, polarising’ reaction of some countries Back to Ukraine, where nine people were killed in Kyiv this morning from a Russian missile and drone attack. Damage was reported in seven districts of the capital, according to Ukrainian officials, with Ukrainian president Volod",
+   "source": "The Guardian",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-01T05:59:04+00:00"
+   "published": "2026-08-01T14:32:59+00:00"
   },
   {
-   "title": "אלי אוחנה לא לבד: גם אופירה אסייג בדרך לפוליטיקה?",
-   "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21101733",
-   "summary": "מגישת קשת 12 ושותפתו לשידור של הסמל הגדול של בית\"ר ירושלים, ומי ששמו הוזכר כמועמד לקבל שריון ברשימת הליכוד, התייחסה בהודעה לכתב חדשות 12 ירון אברהם לאפשרות שתתמודד גם היא בבחירות הקרובות: \"כשאתה תלך, גם אני אשקול\"",
+   "title": "לא איראן: הסיבה המפתיעה שעלולה לדחות את משחק הפועל באר שבע",
+   "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21103363",
+   "summary": "אלופת ישראל עתידה לשחק בשלישי הקרוב מול הכוכב האדום בלגרד במוקדמות ליגת האלופות, אך מועד המפגש עדיין לא ברור • האשמה העיקרית: מזג האוויר • 400 אוהדים סרבים יעשו את דרכם להונגריה",
    "source": "ישראל היום",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-08-01T05:13:07+00:00"
+   "published": "2026-08-01T13:58:47+00:00"
+  },
+  {
+   "title": "צה\"ל: הושמדו חמישה מחסני אמל\"ח של חמאס ברצועת עזה",
+   "link": "https://www.israelhayom.co.il/news/defense/article/21103372",
+   "summary": "בין היעדים - מחסן סמוך לבית חולים בדיר אל-בלח שבמרכז הרצועה • בצה\"ל מדגישים: האמל\"ח יועד לפגיעה בכוחות ובאזרחים, הפעילות תימשך להסרת איומים על אף הפרסומים אמש על ההסכם לפירוק חמאס מנשקו שפרסמה מועצת השלום",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-01T13:35:10+00:00"
+  },
+  {
+   "title": "נבחרת הנוער של ישראל הובסה מול יוון, ואיבדה סיכוי להעפיל לאליפות העולם",
+   "link": "https://www.haaretz.co.il/sport/basketball/2026-08-01/ty-article/0000019f-bd5f-df0b-a1df-ffffcf0a0000",
+   "summary": "יוון הביסה את הנבחרת של נדב זילברשטיין 64:84 במשחק הדירוג על מקומות 5-8 באליפות אירופה. דייויד מוסיס הוביל את ישראל עם 14 נקודות ו-7 ריבאונדים",
+   "source": "הארץ",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-01T13:06:39+00:00"
+  },
+  {
+   "title": "Is Spain being punished?",
+   "link": "https://www.aljazeera.com/opinions/2026/8/1/is-spain-being-punished?traffic_source=rss",
+   "summary": "In the months leading up to the crisis in Ceuta, pro-Israel voices conspicuously raised the issue of the enclave",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-01T13:50:36+00:00"
+  },
+  {
+   "title": "The Mermaid Mask is a perfect vacation murder mystery",
+   "link": "https://www.theverge.com/games/971660/the-mermaid-mask-review",
+   "summary": "The Mermaid Mask, the next point-and-click game from Tangle Tower developer SFB Games, has everything you could ask for in a great murder mystery. It starts with a compelling setup: The captain of a submarine is found dead in a locked room, his body next to a mysterious cauldron with blood trickling across the floor. […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-08-01T13:00:00+00:00"
+  },
+  {
+   "title": "מנהל ההשקעות שבטוח: זה הסקטור החבוט שהפך להזדמנות – ועוד 4 כתבות על המצב בשווקים",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001550894#utm_source=RSS",
+   "summary": "מניות השבבים בוול סטריט השילו ביולי מעל רבע משוויין. האם זה בדיוק הזמן לרכוש? • ענקית הסייבר פאלו אלטו תיכלל בשבוע הבא במדדי הבורסה - אלו המשמעויות • מנהל ההשקעות שמזהה הזדמנות בסקטור חבוט ומציע טיפ מנצח • וגם: המדד למשקיעים שרוצים לחמוק מהריכוזיות של ה-S&P 500",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-08-01T13:00:00+00:00"
+  },
+  {
+   "title": "Apps that help you break free from doomscrolling and get active",
+   "link": "https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/",
+   "summary": "If you’re looking to cut back on screen time and get a little more active, here’s a roundup of the apps that might help.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-08-01T14:00:00+00:00"
+  },
+  {
+   "title": "What’s old is new again: Trump-style conservative is back as PM of European nation",
+   "link": "https://www.foxnews.com/world/whats-old-new-again-trump-style-conservative-back-pm-european-nation",
+   "summary": "Janez Janša formed a coalition government after losing Slovenia's election, reversing Robert Golob's policies on Israel, immigration,and business.",
+   "source": "Fox News World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-01T10:00:20+00:00"
+  },
+  {
+   "title": "פחות מ-90 יום לבחירות, והגורמים האלה עדיין מבלבלים את הסקרים",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001551052#utm_source=RSS",
+   "summary": "מדינת ישראל הולכת לבחירות, והמשרוקית של גלובס מביאה את הסקרים העדכניים ביותר מכל כלי התקשורת • מי מתחזק, מי נחלש ואיך זה משפיע על יחסי הכוחות בין המחנות? • והפעם: המפלגות הקטנות יוצרות פערים גדולים, ולמי יצביעו המתלבטים?",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-08-01T13:33:00+00:00"
+  },
+  {
+   "title": "The Verge’s 2026 back-to-school shopping guide",
+   "link": "https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts",
+   "summary": "Knowing exactly what your student needs for the school year ahead is next to impossible. Sure, you'll probably nail the essentials, but there will likely be a few items you forgot to buy, or didn't think they'd need to have. We're pulling our weight during the back-to-school season with a new shopping guide that's a […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-08-01T14:00:00+00:00"
+  },
+  {
+   "title": "What’s the best handheld mini fan?",
+   "link": "https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/",
+   "summary": "From premium Shark and Dyson offerings to random Amazon devices, these mini fans will make your sweaty summer a little more managable.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-08-01T13:36:54+00:00"
+  },
+  {
+   "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+   "link": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+   "summary": "Reddit may still be considering ending its licensing deal with Google.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-08-01T12:30:36+00:00"
   },
   {
    "title": "מדוכן בשוק להנפקה במיליארדים: האחים שהגיעו לערער את שופרסל וסופר פארם",
@@ -143,144 +263,24 @@
    "published": "2026-08-01T04:40:32+00:00"
   },
   {
-   "title": "Singapore bans Massive Attack for showing Palestinian flag, breaching ban on foreign emblems",
-   "link": "https://www.theguardian.com/music/2026/aug/01/singapore-bans-massive-attack-for-showing-palestinian-flag-breaching-ban-on-foreign-emblems",
-   "summary": "Two members given ‘stern warnings’ after concert and barred from returning, with band also excluded from performing in Singapore again, say authorities British trip-hop band Massive Attack has been barred from performing in Singapore after an investigation found two members unfurled a Palestinian flag during a concert, police said. Singapore, known for its tough laws on public speech and assembly,",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-01T03:51:36+00:00"
-  },
-  {
-   "title": "ישראל לא רצתה להעיר את הדוב האיראני: \"המשאיות העמיסו חומר נפץ בשקט ואז הגיע הרגע הדרמטי\"",
-   "link": "https://www.maariv.co.il/breaking-news/article-1350966",
-   "summary": "",
-   "source": "מעריב",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-01T05:46:06+00:00"
-  },
-  {
-   "title": "בצה\"ל מעדיפים לקבור את הסיפור הזה: \"לא פחות דרמטי מהדאחייה - 700 טונות של חומר נפץ\"",
-   "link": "https://www.maariv.co.il/breaking-news/article-1350964",
-   "summary": "",
-   "source": "מעריב",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-01T05:28:30+00:00"
-  },
-  {
-   "title": "הצעירים יצאו למרד נגד הבינה המלאכותית. יש להם סיבה טובה",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001550748#utm_source=RSS",
-   "summary": "מחקר חדש מראה כי כשליש מבני דור ה־Z חשים \"כעס\" כלפי מהפכת ה־AI, ו־42% סבורים שהיא פוגעת ביכולתם \"לחשוב באופן מעמיק\" • בארה\"ב הצעירים כבר מובילים מחאת נגד עם הפגנות על בסיס שבועי, שבבסיסה תחושת כפייה, חרדה תעסוקתית והחשש מאובדן הקשר האנושי • ומה קורה בישראל?",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-08-01T04:51:00+00:00"
-  },
-  {
-   "title": "Silicon Valley loves young founders. Until it doesn’t.",
-   "link": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
-   "summary": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-07-31T22:00:00+00:00"
-  },
-  {
-   "title": "גנב אמבולנס בקריית ים וטען: \"הוא הפריע לכביש\"",
-   "link": "https://news.walla.co.il/item/3857625",
-   "summary": "מיכאל לוין בן ה-48 ניצל את הרגע שבו הפרמדיק יצא להוריד מטופלת, נכנס לאמבולנס וברח איתו לחוף הים. במשטרה טוענים כי גם גנב מתוכו כסף ורכוש, ומעצרו הוארך ב-3 ימים",
-   "source": "וואלה",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-01T08:00:00+00:00"
-  },
-  {
-   "title": "American climber's remains found after avalanche in Pakistan, other mountaineers still missing",
-   "link": "https://www.foxnews.com/world/american-climber-remains-found-avalanche-pakistan-mountaineers-missing",
-   "summary": "American climber Sarah Mallory Geis was among at least 10 mountaineers caught in a Broad Peak avalanche as rescue teams search for others.",
-   "source": "Fox News World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-01T01:57:36+00:00"
-  },
-  {
-   "title": "Budget to be held in October, Healey announces",
-   "link": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
-   "summary": "The new chancellor pledged to move money and power out of Westminster, and into every postcode around Britain.",
+   "title": "Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up",
+   "link": "https://www.bbc.co.uk/news/articles/clyvd8363wlo?at_medium=RSS&at_campaign=rss",
+   "summary": "The actual presentation of FIFA's plan to part-privatise the World Cup raises many more questions than it answers.",
    "source": "BBC Business",
    "lang": "en",
    "topic": "business",
    "rtl": false,
-   "published": "2026-08-01T03:34:26+00:00"
+   "published": "2026-08-01T12:41:17+00:00"
   },
   {
-   "title": "Israel launches attacks across Gaza one day after Hamas agrees to disarm",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israel-launches-attacks-across-gaza-one-day-after-hamas-agrees-to-disarm?traffic_source=rss",
-   "summary": "Israeli attacks across Gaza have killed at least two Palestinians, hours after Hamas agreed to a draft peace deal.",
-   "source": "Al Jazeera",
+   "title": "Stick to spending limits, PM and chancellor tell ministers in joint memo",
+   "link": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
+   "summary": "The Chancellor said the Budget on 28 October would “meet our fiscal rules” and give families \"stability\" to plan for the future.",
+   "source": "BBC Business",
    "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-01T00:48:37+00:00"
-  },
-  {
-   "title": "Doctors took a look at man's painful shoulder—they found the joint was missing",
-   "link": "https://arstechnica.com/health/2026/07/doctors-took-a-look-at-mans-painful-shoulder-they-found-the-joint-was-missing/",
-   "summary": "The term \"Milwaukee Shoulder Syndrome\" was coined in 1981, based on cases in four women.",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-07-31T21:51:52+00:00"
-  },
-  {
-   "title": "Apple’s new AirTags are back down to their best price",
-   "link": "https://www.theverge.com/gadgets/973973/apple-airtag-second-generation-deal-sale",
-   "summary": "We spotted a great deal on Tile trackers earlier this week that’s still live, but if you’re an iPhone owner, we ultimately recommend Apple’s latest AirTag. Right now, you can pick up a four-pack for $89 ($10 off) at Amazon and Target, matching the bundle’s all-time low price. If you’re a member, Costco also has […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-07-31T19:35:45+00:00"
-  },
-  {
-   "title": "Google Earth’s AI deepfake tool only lasted one day",
-   "link": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-   "summary": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real world using text prompts; Digital Digging's Henk van Ess, for example, intentionally generated images adding things like refugees near the Mexican border […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-07-31T19:13:29+00:00"
-  },
-  {
-   "title": "עד כמה ניתן לתקן את נזקי העישון לאחר גמילה?",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001550884#utm_source=RSS",
-   "summary": "יש צעדים שמעשנים לשעבר יכולים לנקוט כדי לזרז את התאוששות הגוף, אך נראה כי לפחות חלק מהנזק הוא בלתי הפיך",
-   "source": "גלובס",
-   "lang": "he",
    "topic": "business",
-   "rtl": true,
-   "published": "2026-08-01T05:04:00+00:00"
-  },
-  {
-   "title": "״רוב הזמן הוא יחף וחלק מהזמן אופה, אז שילבנו את שני הדברים לעסק״",
-   "link": "https://www.ynet.co.il/economy/article/yanfo4k7o",
-   "summary": "פז ונעמה התפנו עם ילדיהם מיד מרדכי למלון בחוף אולגה אחרי מתקפת הטרור ב-7 באוקטובר והיו מהראשונים לחזור לקיבוץ (\"פחדנו אבל הבנו שזה הבית שלנו, ואם לא נילחם עליו לא נהיה פה\"). כעת פז עושה סדנאות תרפיה באפייה בין היתר בניסיון לעזור לאנשים לחזור לאזור (\"בסדנאות מצליחים להיפתח\"). משפחת רייזל על הספה",
-   "source": "Ynet כלכלה",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-08-01T04:38:14+00:00"
+   "rtl": false,
+   "published": "2026-08-01T07:48:01+00:00"
   }
  ]
 }
