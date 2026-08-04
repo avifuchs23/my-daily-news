@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-03T16:13:04.877923+00:00",
- "generated_display": "Monday, 03 August 2026 · 19:13",
+ "generated_at": "2026-08-04T06:09:05.431275+00:00",
+ "generated_display": "Tuesday, 04 August 2026 · 09:09",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,264 +23,264 @@
  },
  "stories": [
   {
-   "title": "Bogus Amsterdam Pride flyers name Jewish IDF soldiers, urge reports of 'war criminals'",
-   "link": "https://www.jpost.com/diaspora/antisemitism/article-904463",
-   "summary": "A Jewish Israeli participant in the debate told De Telegraaf that the atmosphere was “extremely unsafe.”",
+   "title": "IDF destroys Iran-backed Hezbollah tunnel systems, says more remain in southern Lebanon",
+   "link": "https://www.jpost.com/middle-east/article-904509",
+   "summary": "The tunnel network was intended not just for surveillance, but also to facilitate attacks on Israeli troops and communities near the Lebanon border.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-08-03T18:08:46+00:00"
+   "published": "2026-08-04T08:54:22+00:00"
   },
   {
-   "title": "IDF kills PIJ commander involved in Oct. 7, holding Rom Braslavski hostage",
-   "link": "https://www.jpost.com/israel-news/article-904464",
-   "summary": "Mahmoud Fatair, a PIJ commander accused of participating in the October 7 attack and holding Israeli hostage Rom Braslavski, was killed in an IDF strike in Deir al-Balah, the IDF said.",
-   "source": "Jerusalem Post",
-   "lang": "en",
+   "title": "מאות מיליונים במוקד: ועדת הכספים מתכנסת בפגרה בניגוד לנוהג",
+   "link": "https://www.israelhayom.co.il/news/politics/article/21122642",
+   "summary": "ועדת הכספים צפויה להתכנס הבוקר לדיון חריג בתקופת בחירות, במטרה לאשר שורת העברות תקציביות שנויות במחלוקת • במוקד עומדים מאות מיליוני שקלים המיועדים למשרד ההתיישבות ולישיבות • חברות הכנסת פרקש-הכהן ולזימי פנו לייעוץ המשפטי בדרישה לעצור את הדיון: \"נדרשת הסכמת האופוזיציה\"",
+   "source": "ישראל היום",
+   "lang": "he",
    "topic": "israel",
-   "rtl": false,
-   "published": "2026-08-03T18:21:58+00:00"
+   "rtl": true,
+   "published": "2026-08-04T05:20:54+00:00"
   },
   {
-   "title": "Horizon3 hits $2 billion valuation with $250M Series E as AI threats escalate",
-   "link": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
-   "summary": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pen testing.",
+   "title": "חושבים שאתם מתאימים? ועדת הבחירות מחפשת מזכירי קלפי | זה השכר שתקבלו",
+   "link": "https://www.israelhayom.co.il/news/politics/article/21122603",
+   "summary": "ועדת הבחירות המרכזית פתחה את ההרשמה לתפקיד מזכיר ועדת קלפי בבחירות לכנסת ה-26 • מה כולל התפקיד, מי זכאי להגיש מועמדות, , איך נראה מסלול המיון, ומה השכר שתקבלו? • המדריך המלא",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-04T05:53:28+00:00"
+  },
+  {
+   "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
+   "link": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
+   "summary": "OpenAI and Anthropic admitted that their unreleased AI models escaped their sandboxes and hacked several companies in unprecedented cyberattacks. Who is legally to blame? Should prosecutors charge the two AI frontier labs? Can victims sue them? We spoke to lawyers who specialize in computer hacking laws to find out.",
    "source": "TechCrunch",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-08-03T12:50:46+00:00"
+   "published": "2026-08-03T19:45:35+00:00"
   },
   {
-   "title": "מדוע בכירים בליכוד זוכים להגנת \"אי שפיות מחמת פריימריז\"?",
-   "link": "https://www.ynet.co.il/news/article/bj0e3frhfg",
-   "summary": "ההסתכלות על התנהלותו המחפירה של ישראל כ\"ץ מבעד למשקפי הפריימריז משטיחה את הנזק העצום שאנשים כמותו גורמים לפני, אחרי ותוך כדי הבחירות הפנימיות בליכוד",
-   "source": "Ynet חדשות",
-   "lang": "he",
+   "title": "‘Scott and Damien are afraid’: senior Liberal quizzed at Icac about former staffer’s message",
+   "link": "https://www.theguardian.com/australia-news/2026/aug/04/scott-and-damien-are-afraid-senior-liberal-quizzed-about-former-staffers-message-at-icac-ntwnfb",
+   "summary": "NSW shadow attorney general, Damien Tudehope, tells inquiry Jean-Claude Perrottet had a talent for recruiting A senior New South Wales Liberal says the younger brother of former Liberal premier Dominic Perrottet had a “talent” for recruiting and renewing new members to the party, a corruption inquiry has heard. On Tuesday, NSW shadow attorney general and Liberal leader in the upper house, Damien T",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-04T05:45:53+00:00"
+  },
+  {
+   "title": "Brown University president Christina Paxson to step down after Trump administration clashes",
+   "link": "https://www.jpost.com/american-politics/article-904508",
+   "summary": "Paxson said she planned to leave her job a year earlier, but extended her tenure at the university to \"navigate a federal funding freeze that imperiled our mission.\"",
+   "source": "Jerusalem Post",
+   "lang": "en",
    "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-03T14:26:46+00:00"
+   "rtl": false,
+   "published": "2026-08-04T08:53:42+00:00"
   },
   {
-   "title": "ישראל נסוגה מההסכם? שרים בקבינט: \"ארה\"ב מקימה בעזה ישות שמתגמלת רוצחי יהודים\"",
-   "link": "https://www.ynet.co.il/news/article/hjwahzahzl",
-   "summary": "נתניהו נפגש עם מנכ\"ל \"מועצת השלום\", שדרש מישראל להפסיק לתקוף ברצועת עזה. במקביל, סמוטריץ' וסטרוק טענו שהצביעו בעד התוכנית אחרי שהוצג מידע שגוי בקבינט - וקראו לדחות אותה על הסף. רה\"מ לא השיב להם, אך מ\"גורם מדיני\" נמסר כי צה\"ל לא ייסוג לקו הצהוב - וימשיך לסכל \"כל איום\". בארה\"ב ובמועצת השלום כועסים",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-03T14:01:58+00:00"
+   "title": "US states sue to block Trump tariffs impacting dozens of countries",
+   "link": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+   "summary": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-04T02:53:00+00:00"
   },
   {
-   "title": "משפחות שכולות: \"לקדם 'הגירה מרצון' של המעוניינים לעזוב את הרצועה\"",
-   "link": "https://news.walla.co.il/item/3858167",
-   "summary": "על רקע הדיווחים על התקדמות לשלב נוסף במתווה ברצועת עזה ועל אפשרות להכנסת כוח בינלאומי לרצועה, תנועת \"תקווה לאומית\", המאגדת משפחות שכולות ומשפחות של שורדי שבי, מציגה את התנאים שלטענתה הם \"קריטיים ואינם ניתנים לוויתור\" בכל הסדר עתידי. בין הדרישות שמציגה התנועה: פירוז מוחלט של רצועת עזה עוד לפני כניסת כוח בינלאומי, הבטחת חופש פעולה ביטחוני מלא לישראל ואיסוף כלל אמצעי הלחימה מהרצועה. לדברי התנועה, ישר",
+   "title": "Sequoia’s Shaun Maguire leads $1B round for nuclear startup Valar Atomics",
+   "link": "https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/",
+   "summary": "Valar Atomics raised $1 billion at a $6 billion valuation after signing a development deal with Nvidia in June.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-08-03T17:16:43+00:00"
+  },
+  {
+   "title": "דיווח: קבוצת מתנחלים הציתה רכבים סמוך לשכם והתנכלה לתושבים",
+   "link": "https://news.walla.co.il/item/3858296",
+   "summary": "על פי דיווחים פלסטיניים, המתיישבים הטילו אימה בכפר ג'אלוד שבגוש שילה, כשעברו בין הבתים ודפקו על הדלתות - המשטרה פתחה בחקירת האירוע. זאת, על רקע רצף התקריות בין הניצים ביהודה ושומרון, כשבעקבות כך צה\"ל תגבר את הכוחות כדי למנוע את החיכוכים בשטח",
    "source": "וואלה",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-08-03T15:44:00+00:00"
+   "published": "2026-08-04T08:10:00+00:00"
   },
   {
-   "title": "הסכם - אבל לא בכל מחיר: ישראל מציבה תנאים לסוגיית עזה",
-   "link": "https://www.israelhayom.co.il/news/geopolitics/article/21120548",
-   "summary": "חילוקי הדעות בין ישראל למתווכים מתמקדים בלוחות הזמנים ליישום ההסכם ובסוגיית נסיגת צה\"ל מרצועת עזה • בישראל דורשים להוציא את נשק חמאס מהרצועה, בעוד שבהסכם נקבע כי יאוחסן בשליטת הגוף הטכנוקרטי",
-   "source": "ישראל היום",
+   "title": "כ\"ץ דורש לכבוש מחנה פליטים נוסף; בפיקוד המרכז טוענים: אין בכך צורך מבצעי",
+   "link": "https://www.inn.co.il/flashes/1125636",
+   "summary": "שר הביטחון ישראל כ\"ץ הנחה את צה\"ל להיערך לכיבוש מחנה פליטים נוסף ביהודה ושומרון, אך בפיקוד המרכז סבורים שאין כיום תשתיות טרור המצדיקות מהלך רחב הכולל פינוי תושבים והחזקה קבועה של השטח.",
+   "source": "ערוץ 7",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-08-03T15:24:36+00:00"
+   "published": "2026-08-04T05:20:33+00:00"
   },
   {
-   "title": "Holdouts for Trump’s attorney general pick say they will advance his nomination to the full Senate – US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/aug/03/donald-trump-todd-blanche-anti-weaponization-fund-iran-latest-news-updates",
-   "summary": "Republican senators John Cornyn and Thom Tillis say that formal order withdrawing ‘anti-weaponization fund’ has addressed their concerns Blanche formally rescinds Trump’s $1.8bn ‘anti-weaponization fund’ Sign up for the US Breaking News email On Tuesday, we’ll bring you the latest from Michigan where voters will head to the polls for competitive primaries in Senate and House races. The most closel",
+   "title": "Three lions die of suspected heatstroke at Tokyo zoo as Japan swelters",
+   "link": "https://www.theguardian.com/world/2026/aug/04/three-lions-dead-suspected-heatstroke-japan-zoo-heatwave",
+   "summary": "Most of the zoo’s 16 lions have struggled to cope with high humidity this summer Three lions from a Tokyo zoo have died from suspected heatstroke and others are undergoing treatment, a spokesperson said on Tuesday, as the big cats struggle in Japan’s high levels of humidity. Japan sweltered through its hottest summer on record last year and parts of the country have hit 40C in recent weeks, qualif",
    "source": "The Guardian",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-03T15:42:11+00:00"
+   "published": "2026-08-04T05:46:06+00:00"
   },
   {
-   "title": "צה\"ל חיסל מחבל שלקח חלק בהחזקתו של רום ברסלבסקי בשבי",
-   "link": "https://www.israelhayom.co.il/news/defense/article/21120357",
-   "summary": "לפי צה\"ל, המחבל השתתף בטבח 7 באוקטובר, היה מעורב בהחזקתו של רום ברסלבסקי בשבי והשתתף בטקסי שחרור חטופים של הג'יהאד האסלאמי • בצה\"ל ציינו כי בתקופה האחרונה הוא קידם מתווי טרור נגד כוחות צה\"ל ואזרחי ישראל וחוסל להסרת האיום",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-03T15:07:57+00:00"
-  },
-  {
-   "title": "נתניהו נפגש עם מלדנוב; גורם מדיני: נמשיך לסכל כל איום ברצועת עזה",
-   "link": "https://www.haaretz.co.il/news/politics/2026-08-03/ty-article/0000019f-c7e5-d312-a3ff-efed08c30000",
-   "summary": "הגורם הוסיף כי ישראל לא תיסוג מהקו הנוכחי ברצועה. צה\"ל לא ביצע היום תקיפות אוויריות, לאחר שהנציג העליון של מועצת השלום ביקר את ישראל וקרא לה למלא את חלקה בהסכם. כלי תקשורת פלסטיניים דיווחו על ארבעה פצועים מירי בחאן יונס ובעיר עזה",
-   "source": "הארץ",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-03T13:59:27+00:00"
-  },
-  {
-   "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-   "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-   "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-08-03T10:00:00+00:00"
-  },
-  {
-   "title": "Iran Says No Current Talks With U.S. After Trump Cites Progress on the Strait of Hormuz",
-   "link": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-talks-us-oman-strait-hormuz-trump.html",
-   "summary": "President Trump cited progress in the negotiations when canceling a threatened attack on Iran over the weekend. Iran said there were no current talks with the United States.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-03T16:11:52+00:00"
-  },
-  {
-   "title": "Man Is Jailed for Concealing Mother’s Body in Freezer After Her Death",
-   "link": "https://www.nytimes.com/2026/08/03/world/europe/mother-dead-body-freezer-phillips-uk.html",
-   "summary": "Christopher Phillips, 60, pleaded guilty to several crimes, including fraud, after the police found his mother’s body in a freezer in his home.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-03T16:07:57+00:00"
-  },
-  {
-   "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-   "summary": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba said it was making the model, Qwen3.8-Max, widely available to users in a […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-08-03T11:01:11+00:00"
-  },
-  {
-   "title": "Todd Blanche formally withdraws Trump's 'anti-weaponisation' fund plan",
-   "link": "https://www.bbc.co.uk/news/articles/c3w05gx32d4o?at_medium=RSS&at_campaign=rss",
-   "summary": "Two Republican senators wanted a written guarantee that Trump would not revive a controversial proposal.",
+   "title": "Did Iran hack water systems in seven US states?",
+   "link": "https://www.bbc.co.uk/news/articles/c934dq95zpgo?at_medium=RSS&at_campaign=rss",
+   "summary": "While US President Donald Trump has said Iran is not to blame, cyber experts tell the BBC it likely the attack was at the hands of the Iran.",
    "source": "BBC World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-03T11:07:13+00:00"
+   "published": "2026-08-04T02:29:03+00:00"
   },
   {
-   "title": "Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war",
-   "link": "https://www.bbc.co.uk/news/articles/cdrv6r3xgyeo?at_medium=RSS&at_campaign=rss",
-   "summary": "There are concerns of a full-scale conflict once again as a peace deal has not been fully implemented.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-03T11:49:48+00:00"
-  },
-  {
-   "title": "French boy thrown from Tate balcony has ‘smile back’ after hospital release",
-   "link": "https://www.theguardian.com/uk-news/2026/aug/03/french-boy-thrown-tate-balcony-hospital-release",
-   "summary": "Family update on GoFundMe page says child, who was six when badly injured in 2019 incident, is now back at school A boy thrown from the viewing balcony in the Tate Modern art gallery has a “smile back on his face” after being discharged from hospital, his family have said. The French youngster, who name remains undisclosed for privacy reasons, was six when he was badly hurt in an attack by then te",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-03T15:53:17+00:00"
-  },
-  {
-   "title": "הסיוט של OpenAI ואנת'רופיק רק מתחיל: מי ישלם על מתקפות שביצע AI סורר?",
-   "link": "https://www.ynet.co.il/digital/technews/article/bjag5x0rgl",
-   "summary": "הפריצות שביצעו מודלי הבינה המלאכותית של שתי החברות המובילות בתחום מחוץ לסביבת הבדיקה שלהם מעלות שאלות משפטיות חסרות תקדים. אז האם אפשר להעמיד חברה לדין על נזק שגרם סוכן AI, ומה קובע החוק בישראל?",
-   "source": "Ynet טכנולוגיה",
+   "title": "האם אפשר להאמין לסקרי הבחירות?",
+   "link": "https://www.ynet.co.il/news/theheadline/article/cep1c27wg",
+   "summary": "לקראת הבחירות הקרובות אנחנו מוצפים בסקרי מנדטים, וכל כלי תקשורת מציג תחזית אחרת. מאחורי המספרים מסתתרים מדגמים לא מייצגים, שאלות מוטות וקהלים שלמים שכמעט לא נדגמים. ד״ר נמרוד ניר מהאוניברסיטה העברית מסביר איך לקרוא סקר נכון, מי מייצר את הפערים בין הסקרים לתוצאות בפועל, ולמה חשוב לבדוק קודם כל את האותיות הקטנות",
+   "source": "Ynet חדשות",
    "lang": "he",
-   "topic": "tech",
+   "topic": "israel",
    "rtl": true,
-   "published": "2026-08-03T12:05:56+00:00"
+   "published": "2026-08-04T02:00:00+00:00"
   },
   {
-   "title": "Spider-Man and The Odyssey are splitting up IMAX screens after a record-breaking weekend",
-   "link": "https://www.theverge.com/entertainment/974411/spider-man-the-odyssey-imax",
-   "summary": "Spider-Man: Brand New Day is joining The Odyssey in IMAX theaters after both movies led the biggest weekend in box office history. On Monday, IMAX announced that Spider-Man: Brand New Day will be available in select digital IMAX locations across North America starting Thursday, August 6th. The news comes as The Odyssey's exclusive three-weekend run […]",
+   "title": "Colombia’s Petro repeats vote fraud claims days before handing over power",
+   "link": "https://www.aljazeera.com/news/2026/8/4/colombias-petro-repeats-vote-fraud-claims-days-before-handing-over-power?traffic_source=rss",
+   "summary": "Petro accuses programmers of altering vote counts and claims metadata tied to election results was hidden from review.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-04T03:58:09+00:00"
+  },
+  {
+   "title": "Drone Explodes on Russian Beach, Killing 7, Officials Say",
+   "link": "https://www.nytimes.com/2026/08/03/world/europe/drone-russian-beach-explosion.html",
+   "summary": "It was unclear what the drone was targeting and why it crashed in the crowded resort spot, but it has been a deadly summer for civilians caught up in the Russian-Ukrainian war.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-04T01:55:27+00:00"
+  },
+  {
+   "title": "בשביל כ\"ץ, האמת היא אפילו לא אופציה",
+   "link": "https://www.ynet.co.il/news/article/rk6ughcbze",
+   "summary": "לא הייתה הדחה ולא מרד: רק שר ביטחון שהפך בלבול משפטי של עצמו למופע משילות לקראת הפריימריז. ערוץ 14 הכריז על \"הדחה בשידור חי\" ופתח בקמפיין להאדרת עצמו. אחר כך חזר בו והאשים את התקשורת המקבילה בהפצת עלילה שקרית. דובר שר הביטחון ניסה להסיט את האש עם סרטון בחירות ושיר AI על כמה מפחדים בטהרן מכ\"ץ. השר עצמו שחשב שיוכל לדרוך שוב על הרמטכ\"ל ולהרתיע את אלוף הפיקוד, מצא את עצמו תחת אש צולבת כשהמתנחלים התייצ",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-03T21:15:32+00:00"
+  },
+  {
+   "title": "הריבית ירדה, אבל הבנקים לא ממהרים להוזיל את המשכנתא",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001551195#utm_source=RSS",
+   "summary": "הריבית במשק ירדה בשנה האחרונה באחוז שלם, אבל רק חלק מההקלה הגיעה לציבור • יועצי משכנתאות מדווחים כי הבנקים העלו את המרווחים שלהם, ולפעמים פי שניים, לעומת המצב לפני כמה חודשים • אישוש לכך ניתן למצוא גם בנתוני בנק ישראל",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-08-04T03:02:00+00:00"
+  },
+  {
+   "title": "מנהל ההשקעות שממליץ על מניה שהיא \"כמו לקנות בונקר\"",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001551201#utm_source=RSS",
+   "summary": "איתן עציוני מנהל בית השקעות שמנהל 2.3 מיליארד שקל • פילוסופיית ההשקעות שלו פשוטה: \"השקעות ערך כמו וורן באפט. מותגים חזקים, רווחיות יציבה ומכפילים נמוכים\" • בשוק הישראלי הוא רואה לא מעט הזדמנויות מתחת לרדאר: ממניית פיבי ועד חברת המגורים הזולה",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-08-04T03:01:00+00:00"
+  },
+  {
+   "title": "New Zealand Has Ended Greyhound Racing. Now It Has to Manage the Aftermath.",
+   "link": "https://www.nytimes.com/2026/08/04/world/australia/new-zealand-greyhound-racing-ban.html",
+   "summary": "As the country holds its final greyhound race, the government has committed to finding homes for dogs and supporting people whose livelihoods depended on racing.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-04T04:20:19+00:00"
+  },
+  {
+   "title": "The studio behind Pokémon struggles to find its voice in Beast of Reincarnation",
+   "link": "https://www.theverge.com/entertainment/974505/beast-of-reincarnation-review-ps5-xbox",
+   "summary": "You have to imagine that the team at Game Freak is bursting with ideas. The studio puts out new mainline Pokémon adventures with a machinelike precision. But every so often it launches a curious experiment, whether it's an action title about a militarized elephant or turning horse races into a card game, showing that it's […]",
    "source": "The Verge",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-08-03T14:26:47+00:00"
+   "published": "2026-08-04T00:00:00+00:00"
   },
   {
-   "title": "צבא ארה\"ב מבקש מחיילים: העלו רעיונות לדרכים \"יצירתיות\" להעניש את איראן",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001551134#utm_source=RSS",
-   "summary": "בצה\"ל נערכים לחודשים רבים של מתיחות ביטחונית עם איראן • שר הביטחון ישראל כ\"ץ הודיע בשידור על הדחת אלוף פיקוד המרכז - ללא סמכות • מתקפה אמריקאית חריפה על החיסולים בעזה: \"הורגים חפים מפשע, ישראלים נראים תאבי דם\" • דיווח: מדינות המפרץ מתוסכלות מהיעדר אסטרטגיה אמריקאית מול איראן • עדכונים שוטפים",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-08-03T15:45:00+00:00"
-  },
-  {
-   "title": "אקזיט שני בשנתיים: החברה הישראלית שנמכרת ב-2.4 מיליארד דולר במזומן",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001551159#utm_source=RSS",
-   "summary": "ויזה רוכשת את חברת ביוקאץ', שפיתחה מערכת לזיהוי ומניעה של הונאות במערכת הבנקאית באמצעים ביומטריים והתנהגותיים • רק לפני שנתיים נמכרה ביוקאץ' לקרן פרמירה ב-1.3 מיליארד דולר",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-08-03T12:40:00+00:00"
-  },
-  {
-   "title": "כדי לאשר העברות כספים לחרדים ולהתיישבות: המהלך החריג של אמיר אוחנה",
-   "link": "https://www.ynet.co.il/economy/article/skodt06hgx",
-   "summary": "יו\"ר הכנסת עשה שימוש חריג בתקנון כדי לאפשר לוועדת הכספים להתכנס בעיצומה של פגרת הבחירות, ללא הסכמת האופוזיציה. הוועדה צפויה לאשר מחר העברות תקציביות שנויות במחלוקת - בהן מאות מיליוני שקלים למוסדות תורניים, למשרד ההתיישבות ולמוסדות דת - בטענה שמדובר ב\"דיון המשך\" לישיבה שכבר הסתיימה. ח\"כ לזימי ופרקש-הכהן הודיעו כי יעתרו לבג\"ץ נגד הכינוס",
+   "title": "בת 93 נסוגה ממכירת דירה ונתבעה ב-620 אלף שקל",
+   "link": "https://www.ynet.co.il/economy/article/r1kfwv0bgg",
+   "summary": "שעות לפני החתימה על חוזה למכירת הנכס בירושלים חוותה הקשישה התקף חרדה והודיעה למתעניינים על ביטול העסקה. הם פנו לבית המשפט. מה נקבע?",
    "source": "Ynet כלכלה",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-08-03T09:45:52+00:00"
+   "published": "2026-08-04T05:19:00+00:00"
   },
   {
-   "title": "How Israel and the European far right tried to exploit Ceuta",
-   "link": "https://www.aljazeera.com/opinions/2026/8/3/how-israel-and-the-european-far-right-tried-to-exploit-ceuta?traffic_source=rss",
-   "summary": "A potent narrative is emerging linking migration to anti-Semitism in an effort to undermine pro-Palestinian solidarity.",
+   "title": "US stocks near record high, oil falls as Trump claims Iran talks under way",
+   "link": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss",
+   "summary": "Benchmark S&P 500 approaches all-time peak as Washington, Tehran offer conflicting accounts of status of talks.",
    "source": "Al Jazeera",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-03T15:41:20+00:00"
+   "published": "2026-08-04T02:56:26+00:00"
   },
   {
-   "title": "Australia’s under-16 social media ban failing, study shows: What it means",
-   "link": "https://www.aljazeera.com/news/2026/8/3/australias-under-16-social-media-ban-failing-study-shows-what-it-means?traffic_source=rss",
-   "summary": "Australia's internet regulator revealed in a recent study that teenagers are continuing to use social media despite ban.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-03T15:21:55+00:00"
-  },
-  {
-   "title": "רשות המיסים דורשת מהמיליארדר בני שטיינמץ 4.35 מיליון שקל על מכירת וילה בארסוף",
-   "link": "https://www.ynet.co.il/economy/article/s14z00mabml",
-   "summary": "הנכס נמכר בנובמבר 2024 לבני הזוג פולג תמורת 27 מיליון שקל, כשהוא מוחזק בנאמנות זרה שהנהנים בה הם שטיינמץ ואשתו אגנס; לטענתם מגיע להם \"חישוב לינארי מוטב\" שיעמיד את המס על 222 אלף שקל בלבד, אך רשות המיסים דחתה את הבקשה",
+   "title": "בוטלה עסקת ג׳י סיטי - צחי אבו ושותפיו לא ירכשו את השליטה מכצמן",
+   "link": "https://www.ynet.co.il/economy/article/bykbik1uzl",
+   "summary": "חיים כצמן הודיע אמש לצחי אבו על ביטול העסקה, לאחר שנחשף להסכם בין ארי נדל\"ן לישפרו, שבו נכתב כי בכוונת הרוכשים לפעול במהירות להשגת שליטה בג'י סיטי. בעקבות הביטול צפויים הרוכשים לקבל בחזרה את פיקדון ה-20 מיליון שקל שהפקידו. העסקה הייתה אמורה לכלול רכישת 26% ממניות ג'י סיטי תמורת 661 מיליון שקל, ובהמשך רכישת 7% נוספים",
    "source": "Ynet כלכלה",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-08-03T14:43:16+00:00"
+   "published": "2026-08-04T04:32:17+00:00"
   },
   {
-   "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
-   "link": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&at_campaign=rss",
-   "summary": "Incidents of fuel being taken without payment have risen by a fifth in five months, according to industry analysis.",
+   "title": "Horror bookshop aims to raise £20k to stay open",
+   "link": "https://www.bbc.co.uk/news/articles/c0l57w8ne92o?at_medium=RSS&at_campaign=rss",
+   "summary": "A drop in customers caused by the recent heatwave has increased financial pressures for the owner.",
    "source": "BBC Business",
    "lang": "en",
    "topic": "business",
    "rtl": false,
-   "published": "2026-08-03T11:49:41+00:00"
+   "published": "2026-08-04T05:14:34+00:00"
+  },
+  {
+   "title": "Europe’s AI labeling and transparency rules are now in effect",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+   "summary": "The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc's landmark AI Act came into effect on August 2nd, requiring companies to disclose when people are interacting with AI models, and if content has […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-08-03T17:38:45+00:00"
+  },
+  {
+   "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
+   "link": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+   "summary": "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-08-03T22:11:39+00:00"
   }
  ]
 }
