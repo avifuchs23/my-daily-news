@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-07T05:11:44.785573+00:00",
- "generated_display": "Friday, 07 August 2026 · 08:11",
+ "generated_at": "2026-08-07T14:43:48.998547+00:00",
+ "generated_display": "Friday, 07 August 2026 · 17:43",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,264 +23,264 @@
  },
  "stories": [
   {
-   "title": "MK Yoav Segalovitz announces resignation from Knesset, departure from Yesh Atid party",
-   "link": "https://www.jpost.com/israel-election-2026/article-904829",
-   "summary": "Lapid, following the announcement, praised Segalovitz's \"integrity and professionalism\" during his years of serving Israel as part of Yesh Atid.",
+   "title": "PM Benjamin Netanyahu has an insurance policy - it's called Israel's opposition – opinion",
+   "link": "https://www.jpost.com/opinion/article-904671",
+   "summary": "Whoever succeeds the current prime minister will need to preserve what he helped build, repair what he broke, and govern with a broad understanding of local and global politics",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-08-06T23:57:51+00:00"
+   "published": "2026-08-07T14:32:10+00:00"
   },
   {
-   "title": "Editor's Notes: Documentary filmed weeks before Oct. 7 essential viewing for elections years later",
-   "link": "https://www.jpost.com/opinion/article-904826",
-   "summary": "We know what talking about each other instead of talking to each other costs in a way no generation of Israelis has ever known. We cannot afford to learn it twice.",
+   "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
+   "link": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/",
+   "summary": "In the Kimi test, the sandbox designed to contain the experiment was not properly configured.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-08-07T14:28:31+00:00"
+  },
+  {
+   "title": "25 years after the Sbarro bombing, one family is still fighting to bring Ahlam Tamimi to justice",
+   "link": "https://www.jpost.com/israel-news/defense-news/article-904720",
+   "summary": "A quarter-century after the Jerusalem bombing, Malki Roth's parents are still confronting the decisions, prisoner deals, and international failures they believe allowed Ahlam Tamimi to remain free.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-08-07T05:59:28+00:00"
+   "published": "2026-08-07T16:32:36+00:00"
   },
   {
-   "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-   "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-   "summary": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-08-06T22:43:53+00:00"
-  },
-  {
-   "title": "אבא של שני לוק צעק על רגב - והיא נכנסה לרכב: \"הבת שלי נרצחה בגללכם\"",
-   "link": "https://www.ynet.co.il/news/article/s17rbkmifl",
-   "summary": "ניסים לוק הטיח בשרת התחבורה, שהגיע לביקור קמפיין בשוק מחנה יהודה לרגל הפריימריז בליכוד: \"הבת שלי נרצחה בגללכם, תמשיכו לחייך\". השרה המשיכה להצטלם, ואז נכנסה לרכב הבחירות, בעוד האב מתעמת עם תומכיה בחוץ - שאחד מהם הטיח בו \"אתה מימנת את חמאס\"",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-07T04:53:32+00:00"
-  },
-  {
-   "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
-   "link": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
-   "summary": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco’s Moscone West from October 13-15. That’s exactly what our Exhibit Program offers, and it’s still open to showcase your startup. Here’s what $12,500 buys you: Joining fellow exhibitors is the ",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-08-06T22:00:00+00:00"
-  },
-  {
-   "title": "חמישה דברים שכדאי לדעת לקראת פתיחת המסחר בבורסה",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001551659#utm_source=RSS",
-   "summary": "המסחר בת\"א ייפתח על רקע הירידות בעולם • פאלו אלטו תחל להיסחר הבוקר בתוך המדדים המובילים, משקלה עדיין נמוך • הדואליות: טאואר תזנק בפתיחה, נובה תרד • אחר הצהריים יתפרסם דוח התעסוקה בארה\"ב, בנק אוף אמריקה: הדוח יצביע על שוק עבודה יציב • לפי ג'יי.פי מורגן השוק מתמחר האטה בסקטור השבבים והטכנולוגיה, \"היא לא תתרחש\" • גלובס עושה סדר לקראת פתיחת המסחר",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-08-07T04:45:00+00:00"
-  },
-  {
-   "title": "‘Wiped out’ - BBC reports from Spokane neighbourhood devastated by fires",
-   "link": "https://www.bbc.co.uk/news/videos/cvg01dy7yn9o?at_medium=RSS&at_campaign=rss",
-   "summary": "Officials are still working to contain the blazes that have burned down at least 860 buildings, including hundreds of homes.",
+   "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+   "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+   "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
    "source": "BBC World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-07T01:10:58+00:00"
+   "published": "2026-08-07T14:41:15+00:00"
   },
   {
-   "title": "Trump imposes 15% tariff on key chip material to counter China",
-   "link": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-   "summary": "The move aims to protect US firms as they face increasing competition from China's chip industry.",
-   "source": "BBC World",
+   "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+   "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+   "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
+   "source": "TechCrunch",
    "lang": "en",
-   "topic": "world",
+   "topic": "tech",
    "rtl": false,
-   "published": "2026-08-07T01:03:35+00:00"
+   "published": "2026-08-07T14:22:49+00:00"
   },
   {
-   "title": "מדינת פלסטין כבר כאן",
-   "link": "https://www.ynet.co.il/news/article/b1vibfguzx",
-   "summary": "מדינות רבות מכירות בה ובמובן הזה יש לה יכולת להפעיל עוצמה. ישראל חשה זאת על בשרה. עובדה היא שמדינת פלסטין הצטרפה לאמנה שהקימה את בית הדין הפלילי הבינלאומי. בעקבות זאת הכיר בית הדין הבינלאומי לא רק בקיומה של המדינה הפלסטינית אלא גם בכך שרצועת עזה וגם יהודה ושומרון, שייכים למדינה זו",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-07T02:14:00+00:00"
-  },
-  {
-   "title": "\"לפחות 3 מועדונים מספרד פנו למכבי תל אביב לגבי רוי רביבו\"",
-   "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21147757",
-   "summary": "דיווח: אלצ'ה במו\"מ עם הצהובים על המגן, והיא לא היחידה שמתעניינת בו: \"המאמן מאוד אוהב את הפרופיל של הישראלי\"",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-07T04:32:51+00:00"
-  },
-  {
-   "title": "רבי המכר של ישראל היום: הלהיט המפתיע של עדנא מזי\"א ז\"ל",
-   "link": "https://www.israelhayom.co.il/culture/books/article/21139053",
-   "summary": "יהונתן אדירי מרשים בכוחו וסוגר חודשיים במצעד • \"לחגוג את החיים\" הפך לרב מכר מפתיע בתקופה החמה • \"כראמל\" לא יורד מהחמישייה הראשונה • כל מה שקרה השבוע ברבי המכר",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-07T03:29:11+00:00"
-  },
-  {
-   "title": "Man dies after suspected dog attack at rural property in outer Sydney",
-   "link": "https://www.theguardian.com/australia-news/2026/aug/07/man-dead-suspected-dog-attack-eschol-park-sydney-suburb-ntwnfb",
-   "summary": "Police say body of 23-year-old found at Eschol Park property with significant injuries, indicating he may have been attacked before death Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A young man has died after a suspected dog attack at a rural property, as police begin an investigation. Authorities were alerted to the discovery",
+   "title": "Iran plots to deal Trump a blow in midterms by keeping him entangled in war",
+   "link": "https://www.theguardian.com/world/2026/aug/07/iran-war-trump-midterm-ballot",
+   "summary": "By dragging out talks, Tehran aims to damage the US president politically – but some fear a bruised and weakened Trump could lash back Tehran has set out a protracted negotiating timetable designed to keep Donald Trump embroiled in the Iran conflict until the midterm elections, in the hope of inflicting the same ruinous blow on his presidency as Jimmy Carter suffered over the 1979-81 US embassy ho",
    "source": "The Guardian",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-07T03:53:52+00:00"
+   "published": "2026-08-07T11:47:24+00:00"
   },
   {
-   "title": "השלמת ההסדר בהורמוז עשויה לתת לאיראן פרס שבעבר לא עלה בדעתה",
-   "link": "https://www.haaretz.co.il/news/politics/2026-08-07/ty-article/.highlight/0000019f-d835-d7e2-a39f-fff7153a0000",
-   "summary": "בטהראן (יותר) ובוושינגטון (פחות) יכולים לראות הישגים בהסכם המוצע. בירושלים יראו את חצי הכוס הריקה ■ כץ אינו הנפגע היחיד מפרשת פיטורי אלוף הפיקוד. גם בלוט חטף חבטה ■ ולפני מבצעי השפעה זרים, בישראל צריכים להתמודד עם אחד תוצרת כחול לבן",
-   "source": "הארץ",
+   "title": "הציטוט הדרמטי שלא נאמר, וגלגולו של פייק: \"שוב מישהו עורך מבצע השפעה לא-חוקי, והפעם גם בארה\"ב\"",
+   "link": "https://www.ynet.co.il/news/article/byalerxizl",
+   "summary": "חשיפה: זה החל בחשבון הודי מפוקפק, קיבל חותמת בערוץ 14 והדהוד מיאיר נתניהו - והגיע לנאום של ראש הממשלה בהר הרצל. דבריו המפוברקים של אחמד וחידי, לפיהם \"כל עוד ישראל וארה\"ב מחזיקות בנשק גרעיני, איראן תמשיך לעבוד עליו\", נחתו משם בפוקס ניוז ובחשבונו של שגריר ארה\"ב באו\"ם, ואז חזרו להודו - הפעם עם כשרות של לפי \"התקשורת הישראלית\". כך דברים שלא נאמרו מעולם הפכו ל\"אמת\", במסלול שמזכיר לפי גורמים במערכת הביטח",
+   "source": "Ynet חדשות",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-08-07T03:00:41+00:00"
+   "published": "2026-08-07T13:30:57+00:00"
   },
   {
-   "title": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-   "summary": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark Gurman. The device, expected to launch in 2027 for a price over $300, reportedly \"will have a unique look, […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-08-06T20:55:39+00:00"
-  },
-  {
-   "title": "Foreigners Behaving Badly in Vietnam Challenge Its Communist Justice System",
-   "link": "https://www.nytimes.com/2026/08/07/world/asia/vietnam-tourism-foreigners-crime-law.html",
-   "summary": "Vietnam is grappling with a surge in visitors, testing its Soviet-style criminal justice system as it tries to supercharge its economy through tourism.",
+   "title": "Boy Kills Grandparents and Then Five Teachers, Thai Authorities Say",
+   "link": "https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html",
+   "summary": "A student killed his grandparents before opening fire at his high school and shooting himself, the authorities said. The episode revived a debate about gun laws.",
    "source": "NY Times World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-07T04:02:55+00:00"
+   "published": "2026-08-07T13:47:17+00:00"
   },
   {
-   "title": "בזכות הנשק הישראלי: המדינה שהפכה למובילה בדרום אמריקה",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001551246#utm_source=RSS",
-   "summary": "ארגנטינה מטמיעה חימושים משוטטים ישראליים, שמקדמים אותה למעמד טכנלוגי מוביל בדרום אמריקה • סינגפור שילבה טילי Blue Spear מתוצרת ישראל בספינת מלחמה חדשה ומתקדמת • וטייוואן מפתחת כלי שיט בלתי מאוישים מבוססי בינה מלאכותית של חברה אמריקאית • השבוע בתעשיות הביטחוניות",
-   "source": "גלובס",
+   "title": "אזהרת ראש השב\"כ בקבינט: \"מבחינת חמאס, האירוע של מפת הדרכים הוא 7/10 מדיני\"",
+   "link": "https://www.ynet.co.il/news/article/b1jxeeqiml",
+   "summary": "פרסום ראשון: דוד זיני אמר כי ארגון הטרור רואה במפת הדרכים של מועצת השלום ניסיון למשוך זמן: \"זה הכול הונאה נגדנו, ממחשבה שלא נתקוף אותם עד אחרי הבחירות\". השרים דרשו מנתניהו לא להסכים למתווה, להחזיר את החיסולים בעזה ולדחות את 14 ימי ההפוגה שדרשו ארה\"ב ומועצת השלום",
+   "source": "Ynet חדשות",
    "lang": "he",
-   "topic": "business",
+   "topic": "israel",
    "rtl": true,
-   "published": "2026-08-07T03:56:00+00:00"
+   "published": "2026-08-07T12:33:37+00:00"
   },
   {
-   "title": "Anthropic will design its own hardware to power Claude",
-   "link": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
-   "summary": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
+   "title": "Thailand school shooting: eight killed including suspected attacker, police say",
+   "link": "https://www.theguardian.com/world/2026/aug/07/thailand-school-shooting-debsirin-nonthaburi-bangkok",
+   "summary": "Teenager killed his grandparents ⁠before opening fire at school near Bangkok, where 22 others were wounded A Thai teenager killed his grandparents before opening fire at his school, where he shot five people dead and took his own life, police have said, in an attack that has shaken a country struggling to deal with gun violence. The 14-year-old wounded more than 30 people in the ⁠shooting at the p",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-07T14:16:01+00:00"
+  },
+  {
+   "title": "UN chief condemns both Ukraine and Russia amid escalation in war",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/un-chief-condemns-both-ukraine-and-russia-amid-escalation-in-war?traffic_source=rss",
+   "summary": "UN chief Guterres calls for de-escalation and a ceasefire as Russia-Ukraine attacks intensify.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-07T12:34:13+00:00"
+  },
+  {
+   "title": "הסיוט הגדול של עידן ה-AI מתחיל להתממש: \"אנחנו מתקרבים לנקודה מסוכנת\"",
+   "link": "https://www.ynet.co.il/digital/technology/article/h1kdeqklzx",
+   "summary": "הפגנות, אזהרות וחשש מאובדן שליטה: מחאת ה-AI צוברת תאוצה בעולם. בחברת אירגולר (Irregular), שבודקת את המודלים המתקדמים של OpenAI, אנת'רופיק וגוגל, מסבירים מה באמת קורה מאחורי הקלעים של מהפכת הבינה המלאכותית ולמה אנחנו קרובים לנקודת האל-חזור",
+   "source": "Ynet טכנולוגיה",
+   "lang": "he",
+   "topic": "tech",
+   "rtl": true,
+   "published": "2026-08-07T13:47:33+00:00"
+  },
+  {
+   "title": "יעזבו את אירופה: קורל סימנוביץ' וסרג'י רוברטו עוברים ליעד נוצץ",
+   "link": "https://www.israelhayom.co.il/sport/article/21149568",
+   "summary": "בעלה הכדורגלן של הדוגמנית הישראלית יחל לשחק בארצות הברית • נבחרת הנערות התקרבה למרחק ניצחון מעליית דרג, פתיחה נהדרת לנבחרת הקדטים",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-07T12:29:00+00:00"
+  },
+  {
+   "title": "Seven killed after Thai teen shooter opens fire at home and school",
+   "link": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
+   "summary": "Authorities say the teen killed his grandparents at home before opening fire and killing five teachers at his school.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-07T14:05:47+00:00"
+  },
+  {
+   "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+   "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+   "summary": "TikTok owner training a model with 10 trillion parameters.",
    "source": "Ars Technica",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-08-06T20:03:44+00:00"
+   "published": "2026-08-07T13:29:22+00:00"
   },
   {
-   "title": "How Japan Minimized Deaths from a Major Earthquake",
-   "link": "https://www.nytimes.com/2026/08/07/world/asia/japan-earthquake-kumamoto-preparation.html",
-   "summary": "After deadly tremors a decade ago, Kumamoto built earthquake-resistant buildings and even trained locals in search and rescue.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-07T04:01:15+00:00"
+   "title": "\"אף אחד לא משתמש בזה\": למה לציבור ממש לא אכפת מסוכני ה-AI?",
+   "link": "https://www.israelhayom.co.il/tech/tech-news/article/21149546",
+   "summary": "תעשיית הבינה המלאכותית השקיעה מיליארדים בסוכנים אוטונומיים, אך הציבור הרחב פשוט מתעלם • ג'וש מילר, ממייסדי The Browser Company, מעורר סערה ומסביר ל-WIRED למה המוצר הבא של עולם הטכנולוגיה פשוט נכשל",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-07T13:50:16+00:00"
   },
   {
-   "title": "Israeli raid in West Bank’s Qalandiya injures 51 Palestinians",
-   "link": "https://www.aljazeera.com/news/2026/8/7/israeli-raid-in-west-banks-qalandiya-injures-51-palestinians?traffic_source=rss",
-   "summary": "Israeli forces arrest dozens of Palestinians near Jerusalem amid uptick in military and settler violence in West Bank.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-07T01:51:50+00:00"
+   "title": "על קמפיין הבחירות הזה תתכוננו לשלם הרבה מסים",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001551741#utm_source=RSS",
+   "summary": "לגלובס נודע כי נתניהו רוצה לפרוץ את התקציב כדי להעביר 400 מיליארד שקל למערכת הביטחון, בזמן שהוא שם דגש על הרכש הצבאי בקמפיין הבחירות שלו • אך המהלך, שקשה למצוא לו הצדקה בעת זו, עלול להוביל לפגיעה בדירוג של ישראל ולהעלאת מסים משמעותית בשנה הבאה",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-08-07T08:22:00+00:00"
   },
   {
-   "title": "הסתיים סבב השיחות עם לבנון; ישראל מסרבת להרחיב את אזורי הפיילוט",
-   "link": "https://www.haaretz.co.il/news/politics/2026-08-06/ty-article/.premium/0000019f-d7a4-d315-a1df-ffaefa410000",
-   "summary": "לפי מקור ישראלי, ישראל דורשת בידוק של האזורים מהם צה\"ל נסוג, כדי לוודא שאין במקום נוכחות של חיזבאללה. לדבריו, בשולי המו\"מ נידונה העברת שרידי גופתיהם של רון ארד ושל יהודים לבנונים שנחטפו בידי חיזבאללה בשנות ה־80",
+   "title": "חשיפת גלובס: נתניהו דורש להעביר 400 מיליארד שקל לביטחון בתקופת הבחירות",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001551739#utm_source=RSS",
+   "summary": "לגלובס נודע כי ראש הממשלה הורה אמש בדיון רב משתתפים לכנס את הכנסת כדי להצביע על פריצת התקציב כך שיאפשר תוספת של 400 מיליארד שקל לרכש הצבא, שתיפרס על 13 שנה • הדבר עשוי להוביל לפריצת יעד הגירעון ולערעור אמון השווקים בכלכלה",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-08-07T08:00:00+00:00"
+  },
+  {
+   "title": "ארה\"ב בדרישה מישראל: למנוע את המשך ההסלמה בדרום לבנון",
+   "link": "https://www.maariv.co.il/breaking-news/article-1353373",
+   "summary": "",
+   "source": "מעריב",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-07T12:12:52+00:00"
+  },
+  {
+   "title": "בזמן דיון הקבינט, כץ השתתף באירוע של הרב פינטו לצד ברנע",
+   "link": "https://www.haaretz.co.il/news/elections/2026-08-07/ty-article/.premium/0000019f-db6c-d310-a3df-df6f08510000",
+   "summary": "לפי מקור בקבינט, נתניהו שאל במהלך הישיבה היכן נמצא כץ. באירוע השתתפו גם שר החינוך יואב קיש, השרה להגנת הסביבה עידית סילמן ויו\"ר הכנסת אמיר אוחנה. כץ: לא מתכוון לפרט על פורומים ביטחוניים שבהם אני משתתף",
    "source": "הארץ",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-08-06T17:49:46+00:00"
+   "published": "2026-08-07T09:18:33+00:00"
   },
   {
-   "title": "AI used to create viruses not found in nature for first time",
-   "link": "https://www.aljazeera.com/economy/2026/8/7/ai-used-to-create-viruses-not-found-in-nature-for-first-time?traffic_source=rss",
-   "summary": "US researchers say they created 16 viruses using AI, prompting hopes for medical advances and concerns about misuse.",
+   "title": "The State of Iran’s Three Key Nuclear Sites",
+   "link": "https://www.nytimes.com/2026/08/07/world/middleeast/iran-nuclear-program.html",
+   "summary": "The conflict may have slowed, but not stopped, Iran’s nuclear program, officials and experts said.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-07T13:18:35+00:00"
+  },
+  {
+   "title": "Imade",
+   "link": "https://www.aljazeera.com/video/witness/2026/8/7/imade?traffic_source=rss",
+   "summary": "A young deaf migrant in Spain prepares for an emotional reunion with his family in Morocco after years apart.",
    "source": "Al Jazeera",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-07T03:48:22+00:00"
+   "published": "2026-08-07T14:18:53+00:00"
   },
   {
-   "title": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
-   "link": "https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban",
-   "summary": "Iran's parliament is reviewing a plan to ban ships linked to the U.S., Israel and other \"hostile countries\" from transiting the Strait of Hormuz. The Trump administration has rejected the plan.",
-   "source": "NPR News",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-06T20:58:56+00:00"
-  },
-  {
-   "title": "The AirPods Pro are $60 off, their best price since late June",
-   "link": "https://www.theverge.com/gadgets/976276/apple-airpods-pro-3-best-buy-apple-deal-sale",
-   "summary": "Best Buy kicked off a sale on Apple products with discounts on its latest smartwatches to phones. Another deal that caught our eye is on the latest AirPods Pro, Apple’s flagship wireless earbuds, which are down to $189.99 ($60 off), with retailers like Amazon and Walmart matching the price. That’s their lowest price since Prime […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-08-06T20:00:00+00:00"
-  },
-  {
-   "title": "\"צריך לדבר על האופן שבונים ולא רק כמה בונים\"",
-   "link": "https://www.ynet.co.il/economy/localjerusalem/article/h1xksbprzl",
-   "summary": "משך הבנייה בישראל שובר שיאים – שליליים. בזמן שכולם מבינים את הצורך הדחוף, אין מספיק תמריצים או תשתית אמיתית לשינוי המציאות בשטח. גורמים בענף מסבירים שהטכנולוגיה אומנם קיימת, אבל השילוב איטי וחייבים להגביר קצב. \"לענף הבנייה חסרות ידיים עובדות באופן כרוני, והשאלה הנכונה היא לא מאיפה מביאים עוד עובדים, אלא כמה בונה כל עובד\"",
-   "source": "Ynet כלכלה",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-08-07T04:00:00+00:00"
-  },
-  {
-   "title": "ראשון לציון משקיעה בדור העתיד:  מנהיגות, התנדבות  ועשייה קהילתית",
-   "link": "https://www.ynet.co.il/economy/article/rjsmdddrme",
-   "summary": "העירייה ממשיכה להציב את בני ובנות הנוער במרכז, כאשר לאחרונה חגגו בעיר את הצטרפותם של 100 מתנדבים חדשים לנוער מד\"א, לצד הקמת מרכז הכנה חדש לצה\"ל והרחבה של התוכניות החינוכיות",
-   "source": "Ynet כלכלה",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-08-07T04:00:00+00:00"
-  },
-  {
-   "title": "Argos is getting a makeover - but can it attract new shoppers?",
-   "link": "https://www.bbc.co.uk/news/articles/c2lqvwewgp2o?at_medium=RSS&at_campaign=rss",
-   "summary": "The retailer has been around for 50 years but struggled to compete with newer rivals such as Amazon. Can its new owners turn it around?",
+   "title": "Mums hope school uniform swap will help families",
+   "link": "https://www.bbc.co.uk/news/articles/c5yrqr8npe9o?at_medium=RSS&at_campaign=rss",
+   "summary": "Items were donated to the pair for a swap event held in Tavistock Library.",
    "source": "BBC Business",
    "lang": "en",
    "topic": "business",
    "rtl": false,
-   "published": "2026-08-06T23:03:48+00:00"
+   "published": "2026-08-07T13:23:44+00:00"
+  },
+  {
+   "title": "Werewolf transformed my old gadgets into USB-C powered ones",
+   "link": "https://www.theverge.com/gadgets/975965/werewolf-vflex-usb-c-dc-barrel-jack-preview-hands-on",
+   "summary": "When I haul my 27-inch desktop monitor into the garage to film fun gadget videos… or want to play Japanese SNES games with friends… or lose the AC adapter for my old external hard disk… I can now power them with a USB battery instead. None of them came with USB-C ports; the entire USB […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-08-07T14:05:00+00:00"
+  },
+  {
+   "title": "How a 90-second power outage sparked  chaos for rail commuters",
+   "link": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
+   "summary": "The incident raised questions about how a disrupted power supply can have such a widespread impact.",
+   "source": "BBC Business",
+   "lang": "en",
+   "topic": "business",
+   "rtl": false,
+   "published": "2026-08-07T12:30:07+00:00"
+  },
+  {
+   "title": "ממוכר סירים ל\"איש האפריטיף של ישראל\": סיפור ההצלחה של העולה מצרפת",
+   "link": "https://www.ynet.co.il/economy/article/hk11unoeumg",
+   "summary": "יונתן בן שושן עלה לארץ לבד בגיל 17 כדי להתגייס לצנחנים, והתגלגל בהרבה עבודות עד שמצא את ייעודו. אחרי שהפך לסנסציית רשת עם מאות אלפי עוקבים בזכות סרטונים ויראליים, פתח בראשל\"צ מעדניה שמוכרות דליקטסים לקידוש ואירוח. עכשיו הוא מתרחב גם לי-ם ואשקלון, ובמקביל משיק פודטראק עם מוצר אחד מיוחד. וגם: התגובות הקשות שקיבל אחרי שאירח את ח\"כ בועז ביסמוט",
+   "source": "Ynet כלכלה",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-08-07T05:06:46+00:00"
   }
  ]
 }
