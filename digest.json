@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-12T05:12:20.007227+00:00",
- "generated_display": "Wednesday, 12 August 2026 · 08:12",
+ "generated_at": "2026-08-12T14:49:14.280646+00:00",
+ "generated_display": "Wednesday, 12 August 2026 · 17:49",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,24 +23,124 @@
  },
  "stories": [
   {
-   "title": "Trump says he switched planes after Nato summit because of possible threat",
-   "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
-   "summary": "But the president says the jet he boarded instead was at \"greater risk\" than the decoy Air Force One.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-12T03:44:55+00:00"
+   "title": "ליברמן: \"מחבלי נוחבה תרגלו פשיטה - הממשלה לא אישרה לצה\"ל לתקוף\"",
+   "link": "https://www.ynet.co.il/news/article/rjqmtaf8gg",
+   "summary": "יו\"ר ישראל ביתנו ערך סיור בעוטף עזה לקראת הבחירות, שם נפגש בין היתר עם רבש\"צים מבארי. \"כל משאית שנכנסת - 20% מערך הסחורה הולך לכיס של חמאס\", אמר בסרטון מהמעבר לרצועה - וגם טען: \"צה\"ל זיהה אימון של מחבלי נוחבה שתרגלו פשיטה. הדרג המדיני הנחה 'לא נוגעים'\"",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-12T11:12:06+00:00"
   },
   {
-   "title": "President Aoun: Israel-Lebanon talks progressing, Israel won't remain on a single inch of Lebanon",
-   "link": "https://www.jpost.com/middle-east/article-905256",
-   "summary": "Lebanese President Joseph Aoun said negotiations with Israel were progressing but stressed that a complete Israeli withdrawal from Lebanese territory remained a priority.",
+   "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+   "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+   "summary": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-08-12T14:20:33+00:00"
+  },
+  {
+   "title": "Gazans steal pipes from Yellow Line, IDF reacts too slowly",
+   "link": "https://www.jpost.com/podcast/jpost-headlines/article-905294",
+   "summary": "The Jerusalem Post's must-listen news roundup with Shifra Jacobs - the top stories, clear and concise.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-08-12T04:27:45+00:00"
+   "published": "2026-08-12T13:53:36+00:00"
+  },
+  {
+   "title": "Israel's defense chiefs rethink Gaza, Iran, Lebanon strategy three years into war - exclusive",
+   "link": "https://www.jpost.com/israel-news/defense-news/article-905317",
+   "summary": "Regarding the broader consensus points, from Right to Left, top Israeli defense officials believe the country must maintain some kind of security zone in Gaza, Lebanon, and Syria for years to come.",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-08-12T17:23:47+00:00"
+  },
+  {
+   "title": "Israeli settlers besieging Palestinian families in West Bank village",
+   "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+   "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-12T14:03:48+00:00"
+  },
+  {
+   "title": "92 מיליון שקלים: חברת התקשורת שוברת שיא של 11 שנים",
+   "link": "https://www.israelhayom.co.il/business/article/21183598",
+   "summary": "סלקום מציגה תוצאות טובות במיוחד ברבעון השני של 2026 והיא גם שברה גם שיא של 7 שנים במכירת ציוד • המנכ\"ל, אלי אדדי: ״עסקת נביוס ממקמת אותנו בלב מהפכת ה-AI בישראל וממחישה את הפוטנציאל העצום שטמון בתשתיות של החברה״",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-12T12:40:25+00:00"
+  },
+  {
+   "title": "\"הזמן אוזל\": הצעד הדרמטי של פאלו אלטו ויצרנית ChatGPT",
+   "link": "https://www.israelhayom.co.il/tech/tech-news/article/21182320",
+   "summary": "ענקית הסייבר פאלו אלטו נטוורקס ו-OpenAI מעבירות את ה-AI לצד של המגינים • מודל הסייבר GPT-5.6 Daybreak יורשה לפעול בתוך ארגונים, לתרגל מתקפות אקטיביות ולחשוף נתיבי חדירה בלתי מוכרים לפני שההאקרים ינצלו אותם",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-12T13:58:41+00:00"
+  },
+  {
+   "title": "ח\"כ מישראל ביתנו: \"אנחנו מקום 2 בעולם ביוקר המחיה\". ח\"כ מהליכוד: \"הכלכלה צומחת\"",
+   "link": "https://www.ynet.co.il/news/article/hjtjoyu8ge",
+   "summary": "לקראת בחירות 2026, התארחו באולפן ynet ח\"כ יבגני סובה מ\"ישראל ביתנו\" וח\"כ אביחי בוארון מ\"הליכוד\" והתבקשו להשיב לשאלות על הנושאים החשובים ביותר שמשפיעים על החיים בישראל. ח\"כ בוארון קבע שבעזה הושג \"ניצחון כמעט מוחלט\", ח\"כ סובה השיב ש\"בלי נתניהו התוצאה הייתה טובה יותר\"",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-12T11:13:59+00:00"
+  },
+  {
+   "title": "Google unveils the Pixel Watch 5 with a smarter Gemini and advanced health monitoring",
+   "link": "https://techcrunch.com/2026/08/12/google-unveils-the-pixel-watch-5-with-a-smarter-gemini-and-advanced-health-monitoring/",
+   "summary": "The new smartwatch, which starts at $399, can track blood pressure patterns and insulin resistance, as well as deliver personalized help and better sleep tracking.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-08-12T14:00:00+00:00"
+  },
+  {
+   "title": "ספוטיפיי תסמן ולא תקדם פרופילים שנוצרו על ידי AI",
+   "link": "https://www.haaretz.co.il/gallery/music/2026-08-12/ty-article/0000019f-f653-d929-afff-f6db47b60000",
+   "summary": "\"ספוטיפיי בוחרת לקדם אמנים אותנטיים\", נמסר מהחברה. את הסימון AI Persona, היא תוסיף לפרופילים שנוצרו להערכתה ע\"י בינה מלאכותית. גם משתמשים שיצרו פרופילי AI יוכלו לסמנם ככאלה",
+   "source": "הארץ",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-12T14:41:07+00:00"
+  },
+  {
+   "title": "Live Updates: Europe Counts Down to a Total Solar Eclipse",
+   "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates",
+   "summary": "From Iceland to Spain, people have flocked to places where, briefly, the moon will completely block the sun. It is the continent’s first total eclipse in decades.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-12T14:30:50+00:00"
+  },
+  {
+   "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
+   "link": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
+   "summary": "A remarkably well-preserved motorcycle and identification tags were found alongside the bodies.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-12T11:28:05+00:00"
   },
   {
    "title": "How Nigel Farage Ended Up Running Against Count Binface in Clacton",
@@ -50,237 +150,137 @@
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-12T04:01:06+00:00"
+   "published": "2026-08-12T07:59:50+00:00"
   },
   {
-   "title": "Why Nigel Farage Is Running Against a ‘Trash Can’",
-   "link": "https://www.nytimes.com/video/world/europe/100000011041924/why-nigel-farage-is-running-against-a-trash-can.html",
-   "summary": "Our reporter Amelia Nierenberg describes how the right-wing British political leader Nigel Farage, who is seeking re-election to Parliament, faces an unconventional opponent: Count Binface.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-12T04:00:01+00:00"
-  },
-  {
-   "title": "NYC rabbis ‘hopeful' after telling Mamdani his Israel rhetoric makes Jews feel unsafe - interview",
-   "link": "https://www.jpost.com/diaspora/antisemitism/article-905236",
-   "summary": "Despite past criticisms of Mamdani for choosing to associate with select sects of Judaism, both rabbis told The Jerusalem Post that “there was tremendous diversity around the table.”",
-   "source": "Jerusalem Post",
-   "lang": "en",
-   "topic": "israel",
-   "rtl": false,
-   "published": "2026-08-11T21:06:30+00:00"
-  },
-  {
-   "title": "OpenAI launches ChatGPT desktop app for Linux",
-   "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-   "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-08-11T19:15:35+00:00"
-  },
-  {
-   "title": "פצצת זמן מתחת לאדמה: משבר הפסולת של ישראל",
-   "link": "https://www.ynet.co.il/news/theheadline/article/34bfqossf",
-   "summary": "ישראל מטמינה כ-80% מהפסולת שלה באדמה - כמעט כפול מהממוצע במדינות ה-OECD - וההערכות מדברות על שנים ספורות עד שאתרי ההטמנה הקיימים יתמלאו. במקביל, מיליארדי שקלים שנאספו דרך \"היטל ההטמנה\" יושבים ב\"קרן הניקיון\" והשרה להגנת הסביבה עידית סילמן מתעמתת עם הדרג המקצועי במשרדה סביב הקמת \"רשות פסולת\". פרופ' אופירה אילון מאוניברסיטת חיפה מסבירה מה עומד מאחורי הכשל, ולאן אנחנו צועדים אם לא ישתנה כיוון",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-12T02:00:00+00:00"
-  },
-  {
-   "title": "בעלה נרצח בבארי, בישראל מסרבים לאשר לה לחזור: \"אטימות וחוסר רגישות\"",
-   "link": "https://www.ynet.co.il/news/article/yokra14861989",
-   "summary": "ג'ובל קסטאלבי הייתה בחודש ה-9 להריונה כשבעלה פול נרצח ב-7/10, לצד מטופלו אביתר קיפניס. בהמשך ילדה לבדה, הוכרה כאלמנת נפגע פעולות איבה ועזבה לפיליפינים. מאז שמרה על קשר הדוק עם המשפחה וכעת מבקשת להגיע לחתונת בנו של אביתר - ברשות האוכלוסין מסרבים: \"בקשתה אינה עומדת בנוהל\"",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-12T04:57:07+00:00"
-  },
-  {
-   "title": "לינה ב-55 שקלים: \"זכיתי להגיע לאחד המקומות היותר מיוחדים וזולים\"",
-   "link": "https://www.israelhayom.co.il/travel/travel-abroad/article/21175826",
-   "summary": "עידן גיגי יצא לחבל איסאן בצפון-מזרח תאילנד, מצויד באופנוע ומצלמה, וקבע לעצמו שני חוקים: לא להזמין לינה מראש והשני - להיות גמיש עם המסלול • התמונות שצילם בחלק הפחות מתויר של תאילנד, מדברות בעד עצמן • \"כשעניתי שאני מישראל, קיבלתי שוב ושוב חיוכים\"",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-12T03:05:40+00:00"
-  },
-  {
-   "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
-   "link": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
-   "summary": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-08-11T21:39:58+00:00"
-  },
-  {
-   "title": "Saber denies replacing Rideshare Stimulator’s writers with ChatGPT",
-   "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
-   "summary": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine. The writer, Stella Sacco, says differently, however, posting on Bluesky that \"I was lead writer on this one! […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-08-12T00:39:26+00:00"
-  },
-  {
-   "title": "ChatGPT and Gemini both just passed 1 billion users",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-   "summary": "For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing product ever. A billion users is a huge milestone, but Google isn't the first AI app to hit it. OpenAI's ChatGPT […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-08-11T19:41:42+00:00"
-  },
-  {
-   "title": "נתניהו סירב פומבית לתוכנית עזה - דיפלומטים חוששים מאובדן ההשפעה של טראמפ",
-   "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21179574",
-   "summary": "לפי הדיווח בגוף התקשורת האמריקני \"פוליטיקו\", דיפלומטים מזהירים כי סירובו של ראש ממשלת ישראל למתווה בן 15 הנקודות עלול לפגוע באמון במועצת השלום וביכולת ההשפעה של הנשיא האמריקני • החשש הוא כי ממשל טראמפ איבד מכוחו, וכי אין ביכולתו להשפיע על ישראל ועל שחקנים נוספים במזרח התיכון",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-12T04:37:38+00:00"
-  },
-  {
-   "title": "Australia politics live: Taylor asks PM if he will ‘man up’ and apologise over melon comments; Bragg wishes he’d done more to stop Morrison’s budget ‘madness’",
-   "link": "https://www.theguardian.com/australia-news/live/2026/aug/12/australia-politics-live-question-time-anthony-albanese-angus-taylor-coalition-andrew-bragg-housing-construction-immigration-one-nation-pauline-hanson-gambling-melon-gift-japan-ndis-ntwnfb",
-   "summary": "Follow today’s news live Get our breaking news email , free app or daily news podcast Education minister says funding agreement with Victoria ‘very close’ The education minister, Jason Clare , says a funding deal with Victoria to get public schools funded to Gonski levels over the next decade is “very close”. We’re very close, mate. I know [Victorian premier] Ben Carroll gets this, and I’m optimis",
+   "title": "In Venice, it’s not politics as usual as film-makers aim to recapture our attention",
+   "link": "https://www.theguardian.com/world/2026/aug/12/this-is-europe-venice-film-festival-politics-alex-gibney-sergei-loznitsa",
+   "summary": "As social media shrinks and distorts the EU’s crises, the Venice film festival is delivering politically forthright epics from directors such as Sergei Loznitsa and Alex Gibney • Don’t get This Is Europe delivered to your inbox? Sign up here Europe is in an economic crisis that, unlike the eurozone downturn at the beginning of the millennium, cannot be measured in ratings downgrades and borrowing ",
    "source": "The Guardian",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-12T05:00:29+00:00"
+   "published": "2026-08-12T14:15:57+00:00"
   },
   {
-   "title": "Massive bailout for Australia’s largest aluminium smelter expected to be announced by PM and NSW premier",
+   "title": "The 7 biggest announcements of Google’s Pixel 11 launch",
+   "link": "https://www.theverge.com/tech/978712/google-pixel-11-event-everything-announced",
+   "summary": "Google is hosting a Pixel launch event on Wednesday night where it will show off its latest lineup of devices. But you don't have to wait until then for all the news: We were able to check out the devices ahead of the event and take a look at everything Google's unveiling, including the latest […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-08-12T14:15:00+00:00"
+  },
+  {
+   "title": "צה\"ל: שרידיו של שלמה חיימסון, חלל שנהרג ב־1948, אותרו בבית עלמין בחיפה",
+   "link": "https://www.haaretz.co.il/news/politics/2026-08-12/ty-article/.premium/0000019f-f4ec-d101-a5bf-fffcba780000",
+   "summary": "חיימסון נהרג בניסיון בריחה ממחנה מעצר בקפריסין בספטמבר 1948, ונטמן באי בקבר לא מסומן. בשנות ה־70 הובאו שרידיו ושרידי עוד 160 בני אדם לקבורה בישראל כשזהות רובם אינה ידועה. בתום חקירה שנמשכה שלוש שנים הודיע צה\"ל על זיהוי מקום מנוחתו",
+   "source": "הארץ",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-12T08:03:15+00:00"
+  },
+  {
+   "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
+   "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+   "summary": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly faster Qualcomm processor and an itty-bitty battery bump. There's a $50 price hike from last year, too, because the Pixel […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-08-12T14:00:00+00:00"
+  },
+  {
+   "title": "למרות השפל בשוק הדירות: 2026 בדרך לשבירת שיא המשכנתאות",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001552128#utm_source=RSS",
+   "summary": "שוק הדירות אמנם מצוי בשפל, אך ביולי נלקחו משכנתאות בהיקף של 11.56 מיליארד שקל - החודש השני ברציפות מעל רף ה־10 מיליארד • הממוצע החודשי מתחילת השנה כבר גבוה מזה שנרשם בשנת השיא 2021 • במקביל, שיעור המשכנתאות הצמודות למדד צנח לשפל היסטורי של 10% מהתמהיל, על רקע החשש מאינפלציה וחוסר הוודאות במשק",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-08-12T12:22:00+00:00"
+  },
+  {
+   "title": "Massive bailout for Australia’s largest aluminium smelter to be announced by PM and NSW premier",
    "link": "https://www.theguardian.com/australia-news/2026/aug/12/massive-bailout-for-australias-largest-aluminium-smelter-expected-to-be-announced-by-pm-and-nsw-premier",
-   "summary": "Rio Tinto said in December it may cease operations at the Tomago aluminium smelter at the end of its current electricity supply contract Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Anthony Albanese and the New South Wales premier, Chris Minns, are preparing to mount a major bailout of Australia’s largest aluminium smelter, in ",
+   "summary": "Rio Tinto said in December it may cease operations at the Tomago aluminium smelter at the end of its current electricity supply contract Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Anthony Albanese and the New South Wales premier, Chris Minns, will mount a major bailout of Australia’s largest aluminium smelter, in a deal worth",
    "source": "The Guardian",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-12T04:29:45+00:00"
+   "published": "2026-08-12T12:59:02+00:00"
   },
   {
-   "title": "גבר כבן 60 נורה למוות בשפרעם",
-   "link": "https://www.haaretz.co.il/news/law/2026-08-12/ty-article/0000019f-f3f2-d28e-a3df-f3f228a30000",
-   "summary": "המשטרה מסרה כי הרקע לירי הוא פלילי וכי מתבצעות סריקות לאיתור חשודים. לפי מעקב \"הארץ\", מתחילת השנה נרצחו בישראל 190 אנשים",
-   "source": "הארץ",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-12T03:17:54+00:00"
-  },
-  {
-   "title": "היא הגיעה לפה בלי לדעת מילה בעברית. היום היא אושיית הרשת הראשונה של העובדים הזרים בישראל",
-   "link": "https://www.haaretz.co.il/news/education/2026-08-12/ty-article-magazine/.premium/0000019f-ec0f-d101-a5bf-ef1f7d6e0000",
-   "summary": "שייני באבו השאירה בדרום הודו בעל חולה ושני ילדים ובאה לישראל כדי לפרנסם כמטפלת סיעודית. 16 שנה אחר כך, מתוך דירה קטנה ובסיוע האיש שבו היא מטפלת, היא הפכה לכתובת של עשרות אלפי עובדים זרים שמגיעים לכאן בקצב חסר תקדים ומנסים להבין איך החיים בישראל עובדים",
-   "source": "הארץ",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-12T03:01:07+00:00"
-  },
-  {
-   "title": "Bondi Beach shooting hero's assault charges dropped by police",
-   "link": "https://www.bbc.co.uk/news/articles/crk51ky7xzlo?at_medium=RSS&at_campaign=rss",
-   "summary": "Police charged Ahmed al Ahmed in June after an alleged incident with his father at a Sydney home.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-12T02:59:51+00:00"
-  },
-  {
-   "title": "לפי שווי של כ-240 מיליון שקל: בעלים חדשים לאייס, ביתילי ואוטודיפו",
-   "link": "https://www.ynet.co.il/economy/article/rktetokuze",
-   "summary": "איש העסקים רונן גנון, שמחזיק גם בזול סטוק, רוכש את מלוא האחזקות במולטי ריטייל מקרן קדמה והמנכ\"ל שלה (כ-72%), ומשתלט על שלוש החברות שמוכרות בכל בית בישראל, וכן על אייס אלקטריק, ביתילי, אורבן ואיי.די.דיזיין",
-   "source": "Ynet כלכלה",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-08-12T04:43:26+00:00"
-  },
-  {
-   "title": "Trump says secret plane switch ‘up to the Secret Service’",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/trump-says-secret-plane-switch-up-to-the-secret?traffic_source=rss",
-   "summary": "US President Donald Trump says the decision to make a plane switch in Turkiye after the NATO summit.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-12T04:15:51+00:00"
-  },
-  {
-   "title": "לאומי: רווחי שיא של 2.8 מיליארד שקל - יחס היעילות השתפר דרמטית",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001551982#utm_source=RSS",
-   "summary": "רווח שיא, תשואה על ההון של 16.3% ויחס יעילות מהטובים בעולם: לאומי ממשיך להציג עוצמה, למרות המס המיוחד שהוטל על הבנקים • הרחבה מיד",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-08-12T04:46:00+00:00"
-  },
-  {
-   "title": "בעלי זול סטוק רוכש שליטה ברשתות אייס אוטו דיפו וביתילי",
+   "title": "אקזיט חמוץ מתוק: קרן קדמה הרוויחה פי 3 על השקעתה ברשת אייס, למרות צניחת המניה",
    "link": "https://www.globes.co.il/news/article.aspx?did=1001552076#utm_source=RSS",
-   "summary": "רונן גנון ישלם 173 מיליון שקל עבור מניות השליטה שמחזיקה כיום קרן קדמה – פרמיה של 60% על מחיר השוק",
+   "summary": "לאחר ירידה של 70% במניה מאז ההנפקה: קרן ההשקעות קדמה מוכרת לרונן גנון את השליטה בחברת מולטי ריטיייל, המחזיקה ברשתות אייס, אוטו דיפו וביתילי, לפי שווי של 240 מיליון שקל – פרמיה של 60% על מחיר השוק • הרוכש, מבעלי רשת המוצרים זול סטוק, עשוי לפעול בעתיד למיזוג בין הרשתות",
    "source": "גלובס",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-08-12T03:52:00+00:00"
+   "published": "2026-08-12T11:03:00+00:00"
   },
   {
-   "title": "Iran holds firm on Hormuz conditions as Pakistan’s Naqvi visits Tehran",
-   "link": "https://www.aljazeera.com/news/2026/8/12/iran-holds-firm-on-hormuz-conditions-as-pakistans-naqvi-visits-tehran?traffic_source=rss",
-   "summary": "Iran's top security official says the Strait of Hormuz will not reopen unless the US meets its conditions.",
-   "source": "Al Jazeera",
+   "title": "Greetings from a surreal expanse of sand dunes dotted with freshwater lagoons in Brazil",
+   "link": "https://www.npr.org/2026/08/12/g-s1-138022/brazil-sand-dunes-lagoons-lencois-maranhenses-national-park",
+   "summary": "The pristine white sand dunes of the Lençóis Maranhenses National Park are bordered by thick jungle on one side and the Atlantic Ocean on the other. Thousands of lagoons fill up after the rainy season.",
+   "source": "NPR News",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-12T02:29:30+00:00"
+   "published": "2026-08-12T13:38:58+00:00"
   },
   {
-   "title": "First 'pounds for pylons' energy bill discount sites revealed",
-   "link": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&at_campaign=rss",
-   "summary": "Households living within 1600ft of upgraded pylons will get £250 a year off their electricity bills.",
-   "source": "BBC Business",
-   "lang": "en",
-   "topic": "business",
-   "rtl": false,
-   "published": "2026-08-12T05:04:31+00:00"
-  },
-  {
-   "title": "Russian drones found near vital European offshore gas site, get blown up",
-   "link": "https://arstechnica.com/gadgets/2026/08/romania-destroys-russian-drones-drifting-near-vital-european-offshore-gas-site/",
-   "summary": "This follows many drone incursions into Romania and a failed attack in Germany.",
+   "title": "Researchers found a way to hijack devices through Zoom screen sharing",
+   "link": "https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/",
+   "summary": "A public AI tool found the dangerous Zoom flaw in under 20 prompts.",
    "source": "Ars Technica",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-08-11T21:20:11+00:00"
+   "published": "2026-08-12T13:37:12+00:00"
   },
   {
-   "title": "Tributes to co-founder of John Pye auction house",
-   "link": "https://www.bbc.co.uk/news/articles/c8xn7k2ldzxo?at_medium=RSS&at_campaign=rss",
-   "summary": "A statement issued by the firm said \"John lived a fantastic life full of laughter and hard work\".",
+   "title": "היקף המשכנתאות זינק ביולי, אך בשטח מזהירים: \"אשליה אופטית\"",
+   "link": "https://www.ynet.co.il/economy/article/ryaklj9lfe",
+   "summary": "לפי נתוני בנק ישראל, חרף הקיפאון בשוק הדיור היקף המשכנתאות ביולי האחרון זינק ל-11.56 מיליארד שקל, ומתחילת השנה כבר נלקחו הלוואות לדיור בכ-68.7 מיליארד שקל. בהתאחדות יועצי המשכנתאות מסבירים כי חלק מהזינוק נובע מעסקאות קבלן שנחתמו לפני שנתיים ושלוש - והגיעו רק כעת לשלב התשלום: \"המספרים הגדולים של היום מספרים בעיקר את סיפור העסקאות של אתמול\"",
+   "source": "Ynet כלכלה",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-08-12T12:06:20+00:00"
+  },
+  {
+   "title": "Clacton by-election: Farage may win the town, but can he win the country?",
+   "link": "https://www.aljazeera.com/news/2026/8/12/clacton-reform-farage-elections?traffic_source=rss",
+   "summary": "Reform UK leader is set to claim victory over the seaside town that adores him, but the party's popularity is in doubt.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-12T08:14:07+00:00"
+  },
+  {
+   "title": "לאומי מציג רווח שיא לבנק בישראל: 2.83 מיליארד שקל ברבעון השני",
+   "link": "https://www.ynet.co.il/economy/article/byyewykige",
+   "summary": "הרווח של הבנק עלה ב-8.5% לעומת הרבעון המקביל, והתשואה להון עמדה על 16.3% לעומת 16.2%. לאומי יחלק לבעלי המניות 50% מהרווח, בסכום כולל של 1.4 מיליארד שקל, מהם 1.13 מיליארד שקל בדיבידנד במזומן. תיק האשראי צמח ב-16% ל-567 מיליארד שקל, אבל הכנסות הריבית כמעט לא השתנו",
+   "source": "Ynet כלכלה",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-08-12T05:17:31+00:00"
+  },
+  {
+   "title": "Burnham warned Iran war could hit UK growth next year",
+   "link": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
+   "summary": "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains.",
    "source": "BBC Business",
    "lang": "en",
    "topic": "business",
    "rtl": false,
-   "published": "2026-08-11T20:22:40+00:00"
+   "published": "2026-08-12T14:17:26+00:00"
   }
  ]
 }
