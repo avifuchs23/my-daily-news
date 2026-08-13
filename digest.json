@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-12T14:49:14.280646+00:00",
- "generated_display": "Wednesday, 12 August 2026 · 17:49",
+ "generated_at": "2026-08-13T05:16:31.381559+00:00",
+ "generated_display": "Thursday, 13 August 2026 · 08:16",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,264 +23,264 @@
  },
  "stories": [
   {
-   "title": "ליברמן: \"מחבלי נוחבה תרגלו פשיטה - הממשלה לא אישרה לצה\"ל לתקוף\"",
-   "link": "https://www.ynet.co.il/news/article/rjqmtaf8gg",
-   "summary": "יו\"ר ישראל ביתנו ערך סיור בעוטף עזה לקראת הבחירות, שם נפגש בין היתר עם רבש\"צים מבארי. \"כל משאית שנכנסת - 20% מערך הסחורה הולך לכיס של חמאס\", אמר בסרטון מהמעבר לרצועה - וגם טען: \"צה\"ל זיהה אימון של מחבלי נוחבה שתרגלו פשיטה. הדרג המדיני הנחה 'לא נוגעים'\"",
+   "title": "אקזיט ענק בדרך? אנתרופיק במגעים לרכישת Decart הישראלית",
+   "link": "https://www.israelhayom.co.il/business/article/21187558",
+   "summary": "ענקית ה-AI ומפתחת Claude מנהלת שיחות לרכישת החברה הישראלית, שמפתחת טכנולוגיות לשיפור משמעותי באימון והרצת מודלי בינה מלאכותית • אם העסקה, שמוערכת ב-6 מיליארד דולר, תושלם - היא תהיה הגדולה ביותר שביצעה אנתרופיק עד היום",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-13T04:29:14+00:00"
+  },
+  {
+   "title": "Israeli youth are highly motivated to serve in IDF but don't trust senior leadership, survey finds",
+   "link": "https://www.jpost.com/israel-news/article-905365",
+   "summary": "The IDSF found that over 60% of participants view the IDF as a \"victorious army,\" compared to just 13% who disagreed with that statement.",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-08-13T05:44:12+00:00"
+  },
+  {
+   "title": "יוותר על השריון בליכוד? אורן דוברונסקי עלול לשלם מיליוני דולרים אם ירוץ לכנסת",
+   "link": "https://www.ynet.co.il/news/article/byffcp98zl",
+   "summary": "יזם ההייטק ששוריין במקום ה-11 בליכוד מחזיק באזרחות אמריקנית, שעליה יידרש לוותר כדי להישבע לכנסת - מהלך שעלול לחייב אותו ב\"מס יציאה\" על רווחים לא ממומשים. במערכת הפוליטית כבר תוהים אם דוברונסקי אכן ילך עד הסוף וישלם את החשבון, גם אם אחרי הבחירות ימצא את עצמו באופוזיציה",
    "source": "Ynet חדשות",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-08-12T11:12:06+00:00"
+   "published": "2026-08-13T04:42:01+00:00"
   },
   {
-   "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-   "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-   "summary": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-08-12T14:20:33+00:00"
-  },
-  {
-   "title": "Gazans steal pipes from Yellow Line, IDF reacts too slowly",
-   "link": "https://www.jpost.com/podcast/jpost-headlines/article-905294",
-   "summary": "The Jerusalem Post's must-listen news roundup with Shifra Jacobs - the top stories, clear and concise.",
-   "source": "Jerusalem Post",
-   "lang": "en",
-   "topic": "israel",
-   "rtl": false,
-   "published": "2026-08-12T13:53:36+00:00"
-  },
-  {
-   "title": "Israel's defense chiefs rethink Gaza, Iran, Lebanon strategy three years into war - exclusive",
-   "link": "https://www.jpost.com/israel-news/defense-news/article-905317",
-   "summary": "Regarding the broader consensus points, from Right to Left, top Israeli defense officials believe the country must maintain some kind of security zone in Gaza, Lebanon, and Syria for years to come.",
-   "source": "Jerusalem Post",
-   "lang": "en",
-   "topic": "israel",
-   "rtl": false,
-   "published": "2026-08-12T17:23:47+00:00"
-  },
-  {
-   "title": "Israeli settlers besieging Palestinian families in West Bank village",
-   "link": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
-   "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+   "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+   "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+   "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
    "source": "BBC World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-12T14:03:48+00:00"
+   "published": "2026-08-12T23:19:57+00:00"
   },
   {
-   "title": "92 מיליון שקלים: חברת התקשורת שוברת שיא של 11 שנים",
-   "link": "https://www.israelhayom.co.il/business/article/21183598",
-   "summary": "סלקום מציגה תוצאות טובות במיוחד ברבעון השני של 2026 והיא גם שברה גם שיא של 7 שנים במכירת ציוד • המנכ\"ל, אלי אדדי: ״עסקת נביוס ממקמת אותנו בלב מהפכת ה-AI בישראל וממחישה את הפוטנציאל העצום שטמון בתשתיות של החברה״",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-12T12:40:25+00:00"
-  },
-  {
-   "title": "\"הזמן אוזל\": הצעד הדרמטי של פאלו אלטו ויצרנית ChatGPT",
-   "link": "https://www.israelhayom.co.il/tech/tech-news/article/21182320",
-   "summary": "ענקית הסייבר פאלו אלטו נטוורקס ו-OpenAI מעבירות את ה-AI לצד של המגינים • מודל הסייבר GPT-5.6 Daybreak יורשה לפעול בתוך ארגונים, לתרגל מתקפות אקטיביות ולחשוף נתיבי חדירה בלתי מוכרים לפני שההאקרים ינצלו אותם",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-12T13:58:41+00:00"
-  },
-  {
-   "title": "ח\"כ מישראל ביתנו: \"אנחנו מקום 2 בעולם ביוקר המחיה\". ח\"כ מהליכוד: \"הכלכלה צומחת\"",
-   "link": "https://www.ynet.co.il/news/article/hjtjoyu8ge",
-   "summary": "לקראת בחירות 2026, התארחו באולפן ynet ח\"כ יבגני סובה מ\"ישראל ביתנו\" וח\"כ אביחי בוארון מ\"הליכוד\" והתבקשו להשיב לשאלות על הנושאים החשובים ביותר שמשפיעים על החיים בישראל. ח\"כ בוארון קבע שבעזה הושג \"ניצחון כמעט מוחלט\", ח\"כ סובה השיב ש\"בלי נתניהו התוצאה הייתה טובה יותר\"",
+   "title": "שגריר ארה\"ב על קוסרה: \"לסלק את הטרוריסטים הישראלים\"",
+   "link": "https://www.ynet.co.il/news/article/hyo86ncume",
+   "summary": "הנזק המדיני הולך וגדל: מייק האקבי הפרו-ישראלי אמר כי ארה\"ב היא שביקשה מצה\"ל והמשטרה לפנות את הקיצונים שמטילים מצור על בתי משפחות פלסטיניות בקוסרה, והדגיש: \"אלה מעשים דוחים - אין שום תירוץ להתנהגות בריונית כזו\"",
    "source": "Ynet חדשות",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-08-12T11:13:59+00:00"
+   "published": "2026-08-13T03:57:34+00:00"
   },
   {
-   "title": "Google unveils the Pixel Watch 5 with a smarter Gemini and advanced health monitoring",
-   "link": "https://techcrunch.com/2026/08/12/google-unveils-the-pixel-watch-5-with-a-smarter-gemini-and-advanced-health-monitoring/",
-   "summary": "The new smartwatch, which starts at $399, can track blood pressure patterns and insulin resistance, as well as deliver personalized help and better sleep tracking.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-08-12T14:00:00+00:00"
+   "title": "חמישה דברים שכדאי לדעת לקראת פתיחת המסחר בבורסה",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001552146#utm_source=RSS",
+   "summary": "המסחר בבורסה המקומית ייפתח היום ברקע הסנטימנט החיובי במניות הטכנולוגיה • המניות הדואליות יפתחו בפער חיובי בהובלת השבבים • פצצת הזמן של ה-30 טריליון: למה זינוק התשואות באג\"ח ארה\"ב מאיים על המשקיעים במניות? • האינפלציה התמתנה, אך למה זה לא אומר שהפד אמר את המילה האחרונה? • האם ספייס אקס היא ענקית חלל או היפר-סקלרית של AI? • גלובס עושה סדר לקראת פתיחת המסחר",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-08-13T05:06:00+00:00"
   },
   {
-   "title": "ספוטיפיי תסמן ולא תקדם פרופילים שנוצרו על ידי AI",
-   "link": "https://www.haaretz.co.il/gallery/music/2026-08-12/ty-article/0000019f-f653-d929-afff-f6db47b60000",
-   "summary": "\"ספוטיפיי בוחרת לקדם אמנים אותנטיים\", נמסר מהחברה. את הסימון AI Persona, היא תוסיף לפרופילים שנוצרו להערכתה ע\"י בינה מלאכותית. גם משתמשים שיצרו פרופילי AI יוכלו לסמנם ככאלה",
+   "title": "שגריר ארה\"ב על המצור בקוסרה: \"טרוריסטים ישראלים, אין הצדקה להתנהלות כזאת\"",
+   "link": "https://www.haaretz.co.il/news/politics/2026-08-13/ty-article/.premium/0000019f-f951-de80-ab9f-fb7b19770000",
+   "summary": "האקבי כתב כי צה\"ל והמשטרה הגיעו לכפר לבקשת השגרירות והוסיף כי מעשי המתנחלים שצרו על המשפחה הפלסטינית \"מעוררים סלידה\". אתמול הודיע הצבא כי הרמטכ\"ל הנחה להציב גדוד נוסף באזור במטרה \"למצות את הדין עם הפורעים\"",
    "source": "הארץ",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-08-12T14:41:07+00:00"
+   "published": "2026-08-13T04:16:17+00:00"
   },
   {
-   "title": "Live Updates: Europe Counts Down to a Total Solar Eclipse",
+   "title": "שגריר ארה\"ב בישראל על המצור בקוסרה: \"טרור יהודי מזעזע\"",
+   "link": "https://www.israelhayom.co.il/news/local/article/21187503",
+   "summary": "בציוץ ברשת X גינה השגריר מייק האקבי בחריפות את המעשים בכפר הפלסטיני שבשומרון • הוא טען כי ארה\"ב הייתה מעורבת ודרשה מצה\"ל ומשטרת ישראל \"לפנות את הטרוריסטים שעשו את זה\" • הוא הוסיף כי \"מדובר במעשה פלילי, טרור מזעזע ומזוויע שנועד להפחיד ולהטריד משפחה\"",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-13T03:52:12+00:00"
+  },
+  {
+   "title": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
+   "link": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu",
+   "summary": "Hakainde Hichilema is bidding for second term, but feud between him and family of Edgar Lungu, who died in 2025, continues As Zambians go to the polls, the ghost of the current president’s predecessor hangs over the elections. Hakainde Hichilema, 64, is bidding for a second term leading the southern African country after defeating his arch-rival Edgar Lungu by a landslide in 2021.",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-13T04:00:49+00:00"
+  },
+  {
+   "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+   "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+   "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-08-12T22:26:37+00:00"
+  },
+  {
+   "title": "AIPAC-backed candidate John Larson defeated in Connecticut Democratic primary by Luke Bronin",
+   "link": "https://www.jpost.com/american-politics/article-905353",
+   "summary": "The pro-Israel lobby group is increasingly viewed as politically toxic in Democratic primaries across the country, with several progressive candidates notching victories after opposing it.",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-08-13T00:20:55+00:00"
+  },
+  {
+   "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+   "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+   "summary": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-13T03:28:56+00:00"
+  },
+  {
+   "title": "הבורסה בסיאול קופצת ונכנסת לטריטוריה חדשה; וגם - הנתון שמעיב על עונת הדוחות ההיסטורית",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001552203#utm_source=RSS",
+   "summary": "גלובס מגיש עדכון ראשון לגבי מצב השווקים מסביב לעולם • אופטימיות בעולם בהובלת ה-AI ועונת דוחות חזקה • ראלי באסיה: הקוספי הקוריאני מזנק ב-4.1% לטריטוריית שוק שורי • ארביטראז' חיובי בתל אביב בהובלת מניות השבבים • טוב מדי מכדי להימשך? למה בוול סטריט חוששים משיא הרווחים ב-S&P 500",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-08-13T04:00:00+00:00"
+  },
+  {
+   "title": "What to Know About Thursday’s Special Election in Clacton: Farage vs. Binface",
+   "link": "https://www.nytimes.com/2026/08/13/world/europe/britain-special-election-farage-binface-what-to-know.html",
+   "summary": "Nigel Farage, the right-wing populist leader, forced a by-election in his parliamentary seat of Clacton after he came under pressure over his financial declarations.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-13T04:01:07+00:00"
+  },
+  {
+   "title": "First Total Eclipse in Europe in Decades Turns Day to Night",
    "link": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates",
-   "summary": "From Iceland to Spain, people have flocked to places where, briefly, the moon will completely block the sun. It is the continent’s first total eclipse in decades.",
+   "summary": "From Iceland to Spain, people flocked to viewing spots to see the moon completely block out the sun.",
    "source": "NY Times World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-12T14:30:50+00:00"
+   "published": "2026-08-13T04:58:02+00:00"
   },
   {
-   "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
-   "link": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
-   "summary": "A remarkably well-preserved motorcycle and identification tags were found alongside the bodies.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-12T11:28:05+00:00"
-  },
-  {
-   "title": "How Nigel Farage Ended Up Running Against Count Binface in Clacton",
-   "link": "https://www.nytimes.com/2026/08/12/world/europe/count-binface-nigel-farage-clacton.html",
-   "summary": "Nigel Farage forced a new election in his parliamentary seat after coming under pressure over his finances. His main challenger is Count Binface, a novelty candidate.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-12T07:59:50+00:00"
-  },
-  {
-   "title": "In Venice, it’s not politics as usual as film-makers aim to recapture our attention",
-   "link": "https://www.theguardian.com/world/2026/aug/12/this-is-europe-venice-film-festival-politics-alex-gibney-sergei-loznitsa",
-   "summary": "As social media shrinks and distorts the EU’s crises, the Venice film festival is delivering politically forthright epics from directors such as Sergei Loznitsa and Alex Gibney • Don’t get This Is Europe delivered to your inbox? Sign up here Europe is in an economic crisis that, unlike the eurozone downturn at the beginning of the millennium, cannot be measured in ratings downgrades and borrowing ",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-12T14:15:57+00:00"
-  },
-  {
-   "title": "The 7 biggest announcements of Google’s Pixel 11 launch",
-   "link": "https://www.theverge.com/tech/978712/google-pixel-11-event-everything-announced",
-   "summary": "Google is hosting a Pixel launch event on Wednesday night where it will show off its latest lineup of devices. But you don't have to wait until then for all the news: We were able to check out the devices ahead of the event and take a look at everything Google's unveiling, including the latest […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-08-12T14:15:00+00:00"
-  },
-  {
-   "title": "צה\"ל: שרידיו של שלמה חיימסון, חלל שנהרג ב־1948, אותרו בבית עלמין בחיפה",
-   "link": "https://www.haaretz.co.il/news/politics/2026-08-12/ty-article/.premium/0000019f-f4ec-d101-a5bf-fffcba780000",
-   "summary": "חיימסון נהרג בניסיון בריחה ממחנה מעצר בקפריסין בספטמבר 1948, ונטמן באי בקבר לא מסומן. בשנות ה־70 הובאו שרידיו ושרידי עוד 160 בני אדם לקבורה בישראל כשזהות רובם אינה ידועה. בתום חקירה שנמשכה שלוש שנים הודיע צה\"ל על זיהוי מקום מנוחתו",
-   "source": "הארץ",
+   "title": "שגריר ארה\"ב בישראל נגד מקימי המאחז ליד קוסרה: מעשה טרור מזעזע",
+   "link": "https://www.inn.co.il/flashes/1127015",
+   "summary": "<p>שגריר ארצות הברית בישראל, מייק האקבי, התייחס בחריפות בחשבונו ברשת החברתית X לפינוי המאחז שהוקם בימים האחרונים בסמוך לכפר קוסרה, אשר פונה על ידי כוחות צה\"ל, מג\"ב והמנהל האזרחי.</p><p>\"שגרירות ארה\"ב בירושלים הייתה מעורבת מאוד, וצה\"ל ומשטרת ישראל הגיעו לבקשתו כדי לפנות את הטרוריסטים הישראלים שעושים זאת\", כתב האקבי והוסיף: \"המעשים של אלו שעושים את זה לבית המשפחה הזו הם פליליים. המעשים של אלו שביצעו",
+   "source": "ערוץ 7",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-08-12T08:03:15+00:00"
+   "published": "2026-08-13T03:47:22+00:00"
   },
   {
-   "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
-   "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
-   "summary": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly faster Qualcomm processor and an itty-bitty battery bump. There's a $50 price hike from last year, too, because the Pixel […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-08-12T14:00:00+00:00"
-  },
-  {
-   "title": "למרות השפל בשוק הדירות: 2026 בדרך לשבירת שיא המשכנתאות",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001552128#utm_source=RSS",
-   "summary": "שוק הדירות אמנם מצוי בשפל, אך ביולי נלקחו משכנתאות בהיקף של 11.56 מיליארד שקל - החודש השני ברציפות מעל רף ה־10 מיליארד • הממוצע החודשי מתחילת השנה כבר גבוה מזה שנרשם בשנת השיא 2021 • במקביל, שיעור המשכנתאות הצמודות למדד צנח לשפל היסטורי של 10% מהתמהיל, על רקע החשש מאינפלציה וחוסר הוודאות במשק",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-08-12T12:22:00+00:00"
-  },
-  {
-   "title": "Massive bailout for Australia’s largest aluminium smelter to be announced by PM and NSW premier",
-   "link": "https://www.theguardian.com/australia-news/2026/aug/12/massive-bailout-for-australias-largest-aluminium-smelter-expected-to-be-announced-by-pm-and-nsw-premier",
-   "summary": "Rio Tinto said in December it may cease operations at the Tomago aluminium smelter at the end of its current electricity supply contract Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Anthony Albanese and the New South Wales premier, Chris Minns, will mount a major bailout of Australia’s largest aluminium smelter, in a deal worth",
+   "title": "Category C and women’s prisons could be upgraded to ease overcrowding",
+   "link": "https://www.theguardian.com/society/2026/aug/13/category-c-and-womens-prisons-could-be-upgraded",
+   "summary": "Exclusive: Ministers explore diverting male prisoners serving short terms or on remand away from tougher jails Ministers are examining a possible upgrade of security at men’s category C and women’s prisons to deal with an overcrowding crisis across the England and Wales estate, the Guardian understands. Officials have explored diverting prisoners on remand or serving short sentences away from cate",
    "source": "The Guardian",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-12T12:59:02+00:00"
+   "published": "2026-08-13T05:00:50+00:00"
   },
   {
-   "title": "אקזיט חמוץ מתוק: קרן קדמה הרוויחה פי 3 על השקעתה ברשת אייס, למרות צניחת המניה",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001552076#utm_source=RSS",
-   "summary": "לאחר ירידה של 70% במניה מאז ההנפקה: קרן ההשקעות קדמה מוכרת לרונן גנון את השליטה בחברת מולטי ריטיייל, המחזיקה ברשתות אייס, אוטו דיפו וביתילי, לפי שווי של 240 מיליון שקל – פרמיה של 60% על מחיר השוק • הרוכש, מבעלי רשת המוצרים זול סטוק, עשוי לפעול בעתיד למיזוג בין הרשתות",
-   "source": "גלובס",
+   "title": "המדד שיפורסם מחר לא ישתנה יותר מדי - אבל האינפלציה תזנק דרמטית לאחר מכן",
+   "link": "https://www.ynet.co.il/economy/article/rkwqxb8ime",
+   "summary": "מדד המחירים לצרכן שיפורסם צפוי לעלות ב-0.2%-0.3%. מכיוון שהמדד בתקופה המקבילה ב-2025 עלה ב-0.4%, לא יהיה שינוי משמעותי באינפלציה השנתית שעומדת על 1.6%. הכל ישתנה בחודשים הבאים בעקבות צפי למדדים גבוהים במיוחד. וגם: כיצד זה ישפיע על הריבית במשק?",
+   "source": "Ynet כלכלה",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-08-12T11:03:00+00:00"
+   "published": "2026-08-13T04:59:32+00:00"
   },
   {
-   "title": "Greetings from a surreal expanse of sand dunes dotted with freshwater lagoons in Brazil",
-   "link": "https://www.npr.org/2026/08/12/g-s1-138022/brazil-sand-dunes-lagoons-lencois-maranhenses-national-park",
-   "summary": "The pristine white sand dunes of the Lençóis Maranhenses National Park are bordered by thick jungle on one side and the Atlantic Ocean on the other. Thousands of lagoons fill up after the rainy season.",
+   "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+   "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+   "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-08-12T18:19:12+00:00"
+  },
+  {
+   "title": "Photos: See the best photos from the solar eclipse",
+   "link": "https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse",
+   "summary": "Millions of people in Europe stepped outside this evening to watch a spectacular sunset with a solar eclipse. The path of totality passed through portions of Greenland, Iceland and Spain,",
    "source": "NPR News",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-12T13:38:58+00:00"
+   "published": "2026-08-13T01:38:01+00:00"
   },
   {
-   "title": "Researchers found a way to hijack devices through Zoom screen sharing",
-   "link": "https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/",
-   "summary": "A public AI tool found the dangerous Zoom flaw in under 20 prompts.",
-   "source": "Ars Technica",
+   "title": "This 8BitDo mechanical keyboard has an extra keypad and is 30 percent off",
+   "link": "https://www.theverge.com/gadgets/979263/8bitdo-mechanical-keyboard-galaxy-25-edge-deal-sale",
+   "summary": "If you’re looking for a mechanical keyboard that can give your desk a touch of retro flair, Amazon has 8BitDo’s Retro Mechanical Keyboard with Dual Super Buttons on sale for $69.99, one of the lowest prices we’ve seen for the bundle. The styling on this keyboard is thorough, with blocky retro legends on the rounded […]",
+   "source": "The Verge",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-08-12T13:37:12+00:00"
+   "published": "2026-08-12T21:21:09+00:00"
   },
   {
-   "title": "היקף המשכנתאות זינק ביולי, אך בשטח מזהירים: \"אשליה אופטית\"",
-   "link": "https://www.ynet.co.il/economy/article/ryaklj9lfe",
-   "summary": "לפי נתוני בנק ישראל, חרף הקיפאון בשוק הדיור היקף המשכנתאות ביולי האחרון זינק ל-11.56 מיליארד שקל, ומתחילת השנה כבר נלקחו הלוואות לדיור בכ-68.7 מיליארד שקל. בהתאחדות יועצי המשכנתאות מסבירים כי חלק מהזינוק נובע מעסקאות קבלן שנחתמו לפני שנתיים ושלוש - והגיעו רק כעת לשלב התשלום: \"המספרים הגדולים של היום מספרים בעיקר את סיפור העסקאות של אתמול\"",
-   "source": "Ynet כלכלה",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-08-12T12:06:20+00:00"
+   "title": "Cats and dogs are missing meals after a popular smart feeder went down",
+   "link": "https://www.theverge.com/tech/979295/petlibro-outage-smart-pet-feeders",
+   "summary": "A Petlibro outage is preventing its smart pet feeders and other devices from performing scheduled tasks, like dispensing food. The outage began on Tuesday, with users across Reddit reporting that their smart feeders, litter boxes, and water fountains have gone offline. Though Petlibro maintains that \"existing settings and schedules stored locally on your device will […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-08-12T21:07:17+00:00"
   },
   {
-   "title": "Clacton by-election: Farage may win the town, but can he win the country?",
-   "link": "https://www.aljazeera.com/news/2026/8/12/clacton-reform-farage-elections?traffic_source=rss",
-   "summary": "Reform UK leader is set to claim victory over the seaside town that adores him, but the party's popularity is in doubt.",
+   "title": "Israeli air strike kills one in northern Gaza",
+   "link": "https://www.aljazeera.com/news/2026/8/12/israeli-air-strike-kills-one-in-northern-gaza?traffic_source=rss",
+   "summary": "Strike on a tuk-tuk in Beit Lahiya kills one, wounds five in first Israeli aerial bombardment in a week",
    "source": "Al Jazeera",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-12T08:14:07+00:00"
+   "published": "2026-08-12T20:58:42+00:00"
   },
   {
-   "title": "לאומי מציג רווח שיא לבנק בישראל: 2.83 מיליארד שקל ברבעון השני",
-   "link": "https://www.ynet.co.il/economy/article/byyewykige",
-   "summary": "הרווח של הבנק עלה ב-8.5% לעומת הרבעון המקביל, והתשואה להון עמדה על 16.3% לעומת 16.2%. לאומי יחלק לבעלי המניות 50% מהרווח, בסכום כולל של 1.4 מיליארד שקל, מהם 1.13 מיליארד שקל בדיבידנד במזומן. תיק האשראי צמח ב-16% ל-567 מיליארד שקל, אבל הכנסות הריבית כמעט לא השתנו",
-   "source": "Ynet כלכלה",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-08-12T05:17:31+00:00"
+   "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
+   "link": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/",
+   "summary": "Boy's unusual symptoms could help identify the next case sooner.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-08-12T22:31:19+00:00"
   },
   {
-   "title": "Burnham warned Iran war could hit UK growth next year",
-   "link": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss",
-   "summary": "The conflict in the Middle East has pushed up oil and fuel prices, and also disrupted supply chains.",
+   "title": "Charity awarded £100k for back to school support",
+   "link": "https://www.bbc.co.uk/news/articles/cgjep51d0xjo?at_medium=RSS&at_campaign=rss",
+   "summary": "From September, uniforms will be limited to three items requiring a school logo.",
    "source": "BBC Business",
    "lang": "en",
    "topic": "business",
    "rtl": false,
-   "published": "2026-08-12T14:17:26+00:00"
+   "published": "2026-08-13T05:02:12+00:00"
+  },
+  {
+   "title": "נפתח לו התיאבון: אסף רפפורט במגעים לרכישת זיכיון מקדונלד'ס בישראל",
+   "link": "https://www.ynet.co.il/economy/article/h1yyjn5lfe",
+   "summary": "ההייטקיסט, שמכר את וויז לגוגל תמורת 32 מיליארד דולר, מנהל מגעים עם הנהלת מקדונלד'ס העולמית לקבלת הזיכיון הישראלי. מאז האקזיט הגדול השקיע רפפורט בשורה של חברות סטארט-אפ ובקרנות הון סיכון, ורכש את השליטה בערוץ 13 ובישראל בידור",
+   "source": "Ynet כלכלה",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-08-12T18:37:07+00:00"
   }
  ]
 }
