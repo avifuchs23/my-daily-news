@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-13T14:49:33.921829+00:00",
- "generated_display": "Thursday, 13 August 2026 · 17:49",
+ "generated_at": "2026-08-14T05:13:11.922952+00:00",
+ "generated_display": "Friday, 14 August 2026 · 08:13",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,64 +23,84 @@
  },
  "stories": [
   {
-   "title": "\"עומדים נגד המתקפה הגזענית\": ח\"כ קריב מגבה את ביה\"ח רמב\"ם",
-   "link": "https://news.walla.co.il/item/3860543",
-   "summary": "על רקע תלונות משפחות הפצועים כנגד צוות המחלקה, חבר הכנסת מהדמוקרטים הגיע לבית החולים לבקר את פצועי צה\"ל המאושפזים ותקף: \"מערכת הבריאות היא דוגמא ומופת לחיים משותפים. לא נאפשר לפוליטיקאים קטנים להעכיר את החיים הישראלים בגזענות מכוערת\"",
-   "source": "וואלה",
+   "title": "Israelis immigrate abroad to find quiet away from constant war and political uncertainty",
+   "link": "https://www.jpost.com/israel-news/article-905509",
+   "summary": "A Tel Aviv University study showed that Israeli immigration has remained at record levels, with an estimated 40,000 and 50,000 citizens exiting for at least a year in each of the past three years.",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-08-14T06:59:04+00:00"
+  },
+  {
+   "title": "US could not verify Israeli warnings of Iran plots against Trump, sources say",
+   "link": "https://www.jpost.com/international/article-905506",
+   "summary": "The US intelligence community has long assessed that Iran wants to retaliate for Trump’s killing of Iranian military commander Qassem Soleimani in 2020.",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-08-14T06:06:15+00:00"
+  },
+  {
+   "title": "Nigel Farage says he won’t attend count in Clacton byelection against Count Binface - UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/aug/14/clacton-byelection-nigel-farage-count-binface-reform-uk-finances-donations-investigation-latest-news-updates",
+   "summary": "The Reform UK leader will not be present at vote count in byelection he has tried to frame as the ‘people versus the establishment’ Nigel Farage set for decisive but arguably empty victory in Clacton This election is a novelty with a record 34 candidates, including Howling Laud Hope of The Official Monster Raving Loony Party and Marcus White from the Everyone is God Party. They have pounded the st",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-14T05:09:55+00:00"
+  },
+  {
+   "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+   "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+   "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-08-13T19:22:40+00:00"
+  },
+  {
+   "title": "שדה הקרב עובר לגובה נמוך, וצה\"ל נערך לייצר כמאה אלף רחפנים התקפיים מדי שנה",
+   "link": "https://www.haaretz.co.il/news/politics/2026-08-14/ty-article/.highlight/0000019f-fc65-d88f-abbf-fced2f870000",
+   "summary": "רחפני הנפץ של חיזבאללה, המופעלים בסיב אופטי, מכרסמים בעליונות האווירית של ישראל בלבנון. כלי הנשק הזעירים, שכבר נעשו מרכזיים במלחמת באוקראינה, משנים את מאזני הכוחות בין חזקים לחלשים – ואולי את זירת המלחמה בכלל",
+   "source": "הארץ",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-08-13T14:45:00+00:00"
+   "published": "2026-08-14T03:00:19+00:00"
   },
   {
-   "title": "Israel's Ukraine envoy: Oct. 7 transformed Jerusalem-Kyiv ties after years of tension - interview",
-   "link": "https://www.jpost.com/israel-news/article-905447",
-   "summary": "Israel's outgoing envoy to Kyiv believes his tenure should ultimately be judged by what the embassy accomplished amid extraordinary tension during Putin's war on Ukraine.",
-   "source": "Jerusalem Post",
-   "lang": "en",
-   "topic": "israel",
-   "rtl": false,
-   "published": "2026-08-13T15:46:16+00:00"
-  },
-  {
-   "title": "Settler leaders denounce Kusra violence: ‘This is not our way’",
-   "link": "https://www.jpost.com/israel-news/article-905451",
-   "summary": "Yesha Council chairman Yisrael Ganz and Beit El council head Shai Alon condemn extremists, with Alon warning that the violence is causing “irreversible damage” to Israel and the settlement movement.",
-   "source": "Jerusalem Post",
-   "lang": "en",
-   "topic": "israel",
-   "rtl": false,
-   "published": "2026-08-13T16:13:40+00:00"
-  },
-  {
-   "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-   "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-   "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
+   "title": "US says dozens of countries helped China dodge Trump's tariffs",
+   "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+   "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
    "source": "BBC World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-13T09:40:18+00:00"
+   "published": "2026-08-14T03:09:48+00:00"
   },
   {
-   "title": "יום שלישי רצוף של תקיפות בעזה: מ\"פ בחמאס חוסל בחאן יונס",
-   "link": "https://www.ynet.co.il/news/article/syg4jbolgx",
-   "summary": "לאחר תקופה של שקט בלחץ אמריקני, נמשכות התקיפות הישראליות ברצועה. על פי צה\"ל מחבל הותקף בחאן יונס \"לצורך הסרת איום על הכוחות\". הפלסטינים דיווחו על הרוג ופצועים בתקיפה נוספת בעזה",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-13T13:36:22+00:00"
+   "title": "Indian solar mission's new findings throw light on enduring Sun mysteries",
+   "link": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
+   "summary": "Why is the Sun's corona millions of degrees hotter than its surface? And how does it maintain its inexplicably high temperature?",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-14T02:13:27+00:00"
   },
   {
-   "title": "מתמודד בדמוקרטים תקף אלוף בצה\"ל, גולן ביקש \"להרגיע\": \"תלמדו מהטעויות שלי\"",
-   "link": "https://www.ynet.co.il/news/article/rkf4knjlmg",
-   "summary": "המתיחות בכפר הפלסטיני קוסרה הובילה את המתמודד לכנסת נמרוד שפר לקרוא להדחת מפקד פיקוד המרכז בלוט. שפר מחק את הציוץ, אבל בדמוקרטים קראו למתמודדים למתן מסרים. ומה הייתה העמדה המפתיעה של המועמדת הערבייה?",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-13T12:44:52+00:00"
+   "title": "Nigel Farage wins Clacton byelection in contest boycotted by every other major party",
+   "link": "https://www.theguardian.com/politics/2026/aug/14/nigel-farage-wins-clacton-byelection-count-binface-boycotted-major-parties",
+   "summary": "Reform UK leader beats nearest challenger, Count Binface, in byelection he caused amid deepening scandal over £5m gift Clacton byelection – UK politics live Nigel Farage has seen off Count Binface to win the Clacton byelection in a contest boycotted by every other major political party. The Reform UK leader in July triggered the byelection in an attempt to shake off a deepening scandal over a £5m ",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-14T05:07:02+00:00"
   },
   {
    "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
@@ -90,197 +110,177 @@
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-13T13:12:44+00:00"
+   "published": "2026-08-13T22:38:32+00:00"
   },
   {
-   "title": "Polls open in Clacton, where Farage spent more than £10,000 in byelection against Count Binface – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/aug/13/clacton-byelection-nigel-farage-count-binface-reform-latest-news-updates",
-   "summary": "The Reform UK leader resigned as the MP for Clacton at the start of July and forced a byelection The number of patients in England being cared for in hospital corridors or makeshift areas has remained above 3,000 a day for the second month in a row, as the NHS experiences a “summer surge” , the Press Association reports. This was happening as A&E attendance numbers reached 2.5m in July – higher th",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-13T14:29:49+00:00"
-  },
-  {
-   "title": "אבנר חדד מעריך: הדולר ייגע ל-2.5 שקלים ומה יקרה לבורסה?",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001552276#utm_source=RSS",
-   "summary": "הסיבות לחולשת השוק הישראלי בחודשים האחרונים, מה עשויה להיות נקודת המפנה ולמה ייתכן שהשפל של הדולר עוד לפנינו? • אבנר חדד, מנכ\"ל הפניקס בית השקעות ומנכ\"ל משותף של קסם קרנות, מתייחס לשאלות הגדולות של שוק ההון באיגרת למשקיעים",
-   "source": "גלובס",
+   "title": "אלקין על דברי האקבי: לא כל מי שעושה פעילות כזאת הוא טרוריסט",
+   "link": "https://www.inn.co.il/flashes/1127195",
+   "summary": "<p>השר זאב אלקין הגיב בריאיון בגלי צה\"ל לביקורת שהשמיע שגריר ארצות הברית בישראל, מייק האקבי, על האירועים בכפר קוסרה.</p><p>\"לא חושב שכל מי שעושה פעילות כזאת הוא טרוריסט. כן צריך למצות עימם את החוק - ולטפל ביד קשה\", אמר אלקין.</p>",
+   "source": "ערוץ 7",
    "lang": "he",
-   "topic": "business",
+   "topic": "israel",
    "rtl": true,
-   "published": "2026-08-13T13:48:00+00:00"
+   "published": "2026-08-14T04:45:05+00:00"
   },
   {
-   "title": "מנצלים את גוגל: הדלת האחורית של תשתית הריגול האיראנית",
-   "link": "https://www.israelhayom.co.il/tech/tech-news/article/21192545",
-   "summary": "מומחי הסייבר של קספרסקי מזהירים: מתקפת הריגול האיראנית \"CAV3RN\" נגד ארגונים בישראל משתדרגת ומנצלת לרעה את שירותי הענן של גוגל",
+   "title": "אצל גברים שיער מאפיר הוא ניסיון. אצל נשים? להפך",
+   "link": "https://www.ynet.co.il/news/article/r1pcxfjumg",
+   "summary": "המפלגות החדשות והחיבורים הפוליטיים מתהדרים, ובצדק, בנשים המצטרפות אליהם, אלא שקשה שלא להבחין במכנה משותף: רובן צעירות יחסית, סולידיות, ורבות מהן מוצגות תחת התואר שהפך לבון-טון של מערכת הבחירות – \"פעילה חברתית\"",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-14T02:41:00+00:00"
+  },
+  {
+   "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
+   "link": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
+   "summary": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-08-13T22:12:40+00:00"
+  },
+  {
+   "title": "\"xAI תנצח - ובפער גדול\": היתרון של מאסק במרוץ הבינה המלאכותית",
+   "link": "https://www.israelhayom.co.il/news/world-news/article/21196396",
+   "summary": "שון מגווייר, שותף בקרן ההון-סיכון Sequoia שהוביל השקעות בחברותיו של אילון מאסק, מסביר מדוע הוא משוכנע ש-xAI בדרך לניצחון • לדבריו, המפתח אינו טמון רק ב-Grok, אלא בחיבור בין בינה מלאכותית, כוח מחשוב, אנרגיה, רובוטיקה וחלל • וגם הוא מודה: \"אני מוטה\"",
    "source": "ישראל היום",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-08-13T13:40:38+00:00"
+   "published": "2026-08-14T01:04:31+00:00"
   },
   {
-   "title": "ממונופול אמיתי ועד מורה פרטי ב-AI: אפליקציות שכדאי להכיר",
-   "link": "https://www.ynet.co.il/digital/article/ry10t7olgg",
-   "summary": "מבינה מלאכותית שמסייעת לתלמידים ועד משחק שהופך הליכה לאימפריית נדל\"ן: ארבע אפליקציות ישראליות מציעות דרכים חדשות ללמוד, לנהל כסף, לגדל צמחים ואפילו לקבל סיבה טובה לצאת מהבית",
-   "source": "Ynet טכנולוגיה",
+   "title": "רבי המכר של ישראל היום: ספרי הנשים חזרו למצעד",
+   "link": "https://www.israelhayom.co.il/culture/books/article/21190817",
+   "summary": "אחרי חודשים בהן נדחקה לשוליים - ספרות הנשים הקלאסית, זו שמשלבת בין רומנטיקה, היסטוריה, ארצות רחוקות ואהבות בלתי אפשריות חזרה בעוצמה • \"המשקיפות\" של עדנא מזי\"א ז\"ל ממשיך להפתיע • \"נתן ועמוס\" מכר עד היום, על פי הערכות, מעל ל-30 אלף עותקים • כל מה שקרה השבוע ברבי המכר",
+   "source": "ישראל היום",
    "lang": "he",
-   "topic": "tech",
+   "topic": "israel",
    "rtl": true,
-   "published": "2026-08-13T14:38:23+00:00"
+   "published": "2026-08-14T03:30:28+00:00"
   },
   {
-   "title": "Oil, Hunters and Dr. Phil: How a Longshot Project Is Shaking Up Greenland",
-   "link": "https://www.nytimes.com/2026/08/13/world/europe/greenland-oil-project-us-dr-phil.html",
-   "summary": "A U.S. oil company says it could be on the verge of a major discovery in Greenland. The proposal comes at a tricky time for the Arctic island, and locals are lining up against it.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-13T14:12:25+00:00"
-  },
-  {
-   "title": "הבורסה בתל אביב ננעלה בחיוב בהובלת סקטור הביומד; השקל ממשיך להתחזק",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001552146#utm_source=RSS",
-   "summary": "יום מסחר ירוק בתל אביב, בהובלת מדד ת\"א 90 שרשם את העליות הבולטות • התוצאות הכספיות סיפקו דחיפה חזקה למניות ניו-מד, דיסקונט ותדיראן • נופר אנרג'י ואלקטרה נדל\"ן זינקו במעל 7%, בעוד אלפא תאו פתחה ברגל ימין את המסחר בתל אביב • בזירת המט\"ח, השקל המשיך להתחזק והדולר איבד 0.7% מערכו",
+   "title": "איזו מדינה הודיעה שתקים מפעל מל\"טים ישראלי בשטחה?",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001552218#utm_source=RSS",
+   "summary": "לפי נתוני בנק ישראל באיזה בנק מקבלים 6% ריבית על סגירת פיקדון לשנה • וגם: איזה שפל היסטורי נרשם בשוק המשכנתאות החדשות שניטלו ביולי? • חושבים שאתם בקיאים בכל מה שקרה השבוע בכלכלה בארץ ובעולם? בואו לבחון את הידע שלכם • החידון הכלכלי של גלובס",
    "source": "גלובס",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-08-13T14:41:00+00:00"
+   "published": "2026-08-14T03:58:00+00:00"
   },
   {
-   "title": "UNICEF Gaza findings ‘completely shatters’ starvation claims against Israel, State Dept says",
-   "link": "https://www.foxnews.com/world/unicef-gaza-findings-completely-shatters-starvation-claims-against-israel-state-dept-says",
-   "summary": "New UNICEF findings fuel fresh scrutiny of Gaza famine claims as the State Department says the data \"completely shatters\" allegations Israel deliberately starved civilians.",
+   "title": "הרב מאיר כהנא: המנהיגות שלנו זקוקה לענווה",
+   "link": "https://www.inn.co.il/flashes/1127190",
+   "summary": "גם בתקופת בחירות נדרשים מנהיגינו לפעול מתוך הבנה שהם שליחים של העם, ולראות עצמם כנושאים עמהם את התורה לכל מקום, כפי שנדרש מלך ישראל בפרשת שופטים",
+   "source": "ערוץ 7",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-14T04:21:45+00:00"
+  },
+  {
+   "title": "Iran could unleash ‘kinetic’ response as US tightens economic containment, analyst warns",
+   "link": "https://www.foxnews.com/world/tehran-turn-kinetic-tool-break-us-economic-containment-analyst-warns",
+   "summary": "Analysts warn Iran could strike U.S. bases, ships, and Gulf infrastructure this fall as Trump's sanctions tighten and the Strait of Hormuz deadline looms.",
    "source": "Fox News World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-13T14:00:52+00:00"
+   "published": "2026-08-14T00:14:20+00:00"
   },
   {
-   "title": "מקולות הימאים עד רכבות האוויר: הקרב הלוהט על הצבעת הישראלים בחו\"ל",
-   "link": "https://news.walla.co.il/item/3860524",
-   "summary": "באחד מימי יולי החמים של קיץ 1965, נשמעו לפתע בנמל חיפה צפירות מחרישות אוזניים של אוניות רבות שעגנו במקום. למחרת דווח בעיתונים כי \"עם הידום הצפירה שותקה העבודה בעשר אוניות ישראליות, ובכללן אוניית הנוסעים 'תיאודור הרצל', אשר עמדה להפליג לאירופה. הנוסעים שטרם עלו על האונייה נתבקשו להמתין ברציפים או במסעדות הנמל, ואילו האחרים אשר הספיקו לעלות עליה נאלצו לחכות לשירותים חיוניים משך שעתיים, עד תום השביתה",
-   "source": "וואלה",
+   "title": "\"תלמד אותי\", לא \"תפתור לי\": כך הילדים שלכם צריכים להשתמש ב-AI",
+   "link": "https://www.ynet.co.il/digital/article/byobyiolme",
+   "summary": "המחקרים הראשונים מצביעים על סיכון ל\"חוב קוגניטיבי\" ולפגיעה בחשיבה הביקורתית, אבל גם מראים שבשימוש נכון AI יכול להפוך לכלי למידה יעיל במיוחד. אז מתי ChatGPT חושב במקום הילד, מתי הוא באמת מלמד אותו, ואיך הופכים את הצ'אטבוט ממכונה שעושה שיעורי בית למורה פרטי?",
+   "source": "Ynet טכנולוגיה",
    "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-13T17:00:00+00:00"
-  },
-  {
-   "title": "בניסיון נוסף לפסול את בן גביר, ארגונים יפנו לוועדת הבחירות בטענה שהתערבותו במשטרה פגעה בדמוקרטיה",
-   "link": "https://www.haaretz.co.il/news/elections/2026-08-13/ty-article/.premium/0000019f-f980-d569-a5ff-f9e4acc40000",
-   "summary": "לפי מידע שהגיע לידי \"הארץ\", הבקשות לפסילה יתבססו על הפגיעה של השר לביטחון לאומי בעצמאות המשטרה, בדומה לטענות שהשמיעה נגדו היועמ\"שית. הן יוגשו לוועדת הבחירות באמצע החודש הבא לאחר הגשת הרשימות לכנסת, ועשויות להגיע לפתחו של בית המשפט העליון",
-   "source": "הארץ",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-13T10:27:59+00:00"
-  },
-  {
-   "title": "In a first, US will allow some private firms to carry out cyberattacks",
-   "link": "https://techcrunch.com/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/",
-   "summary": "The new order sweeps away decades of existing U.S. cybersecurity policy prohibiting private companies from conducting 'hack back' attacks or offensive cyber operations.",
-   "source": "TechCrunch",
-   "lang": "en",
    "topic": "tech",
-   "rtl": false,
-   "published": "2026-08-13T14:09:05+00:00"
+   "rtl": true,
+   "published": "2026-08-14T04:20:59+00:00"
   },
   {
-   "title": "French ambassador to CAR investigated over claims he hosted dozens of women",
-   "link": "https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher",
-   "summary": "Disciplinary proceedings under way after security concerns raised over reported visits to official residence France has opened disciplinary proceedings against its ambassador to Central African Republic over allegations of misconduct, after claims he brought dozens of women into his official residence, raising potential security concerns. The investigation comes as Paris seeks to rebuild relations",
-   "source": "The Guardian",
+   "title": "After 2 Plasma Donor Deaths, Company Pauses Clinics in Canada",
+   "link": "https://www.nytimes.com/2026/08/13/world/canada/plasma-blood-donation-deaths-grifols.html",
+   "summary": "Grifols, a Spanish company, said “unfounded attention” on its blood plasma business in Canada had led it to temporarily end collections at 17 clinics.",
+   "source": "NY Times World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-13T14:21:52+00:00"
+   "published": "2026-08-13T23:41:27+00:00"
   },
   {
-   "title": "Does Google even want to win at AI?",
-   "link": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
-   "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That’s because last week Google announced a bombshell reorganization of its AI division, Google DeepMind. Jeff Dean, the company’s chief scientist, is […]",
+   "title": "Trump declares 100 percent tariffs on many drones and all aircraft parts",
+   "link": "https://www.theverge.com/policy/979977/trump-declares-100-percent-tariffs-on-many-drones-and-all-aircraft-parts",
+   "summary": "The United States has already banned future foreign drones from entering the United States unless their companies kiss the ring - as well as routers, robots, and Roombas. Now, President Donald Trump is targeting existing drone imports and parts, too. He's going to try to make them cost a lot more. In a presidential action, […]",
    "source": "The Verge",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-08-13T14:10:31+00:00"
+   "published": "2026-08-14T01:06:15+00:00"
   },
   {
-   "title": "Rivian is finally getting a long-requested feature — and no, it’s not CarPlay",
-   "link": "https://www.theverge.com/transportation/978093/rivian-r1s-r1t-2027-captains-chairs",
-   "summary": "Rivian R1S owners, rejoice. Rivian has heard your pleas for second-row captain's chairs. For years, Rivian owners have lamented the absence of captain's chairs in the R1S, noting that the three-row SUV would be much improved with standalone seats instead of a bench in the second row. Parents groused that loading and unloading kids in […]",
+   "title": "OpenAI is losing its second executive this week",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+   "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other opportunities,\" she said in a team note posted to LinkedIn. Dali Rajic, president and COO of Wiz, will be taking over the […]",
    "source": "The Verge",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-08-13T14:00:00+00:00"
+   "published": "2026-08-13T19:28:39+00:00"
   },
   {
-   "title": "‘Justified’ or ’no business being there’? Tennessee munitions town loyal to Trump but divided on Iran",
-   "link": "https://www.bbc.co.uk/news/videos/cgewp4ep9dro?at_medium=RSS&at_campaign=rss",
-   "summary": "Hear from voters in Kingsport, home to a munitions plant supplying the US military, as tensions over the Iran war spark debate.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-13T13:20:55+00:00"
-  },
-  {
-   "title": "Can social media start over? Bluesky’s CEO and COO deliver their case at TechCrunch Disrupt 2026",
-   "link": "https://techcrunch.com/2026/08/13/can-social-media-start-over-blueskys-ceo-and-coo-deliver-their-case-at-techcrunch-disrupt-2026/",
-   "summary": "Bluesky CEO Toni Schneider is joined by COO Rose Wang for a Disrupt Stage session on whether social media can start over and where Bluesky fits into that potential reboot.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-08-13T13:30:00+00:00"
-  },
-  {
-   "title": "Infantino’s FIFA fate must go to an election, says Africa football chief",
-   "link": "https://www.aljazeera.com/sports/2026/8/13/infantinos-fifa-fate-must-go-to-an-election-says-african-football-chief?traffic_source=rss",
-   "summary": "CAF have given under-fire Gianni Infantino their backing, and now say the FIFA president must stand in March's election.",
+   "title": "Why Osun’s election matters for Nigeria’s 2027 vote",
+   "link": "https://www.aljazeera.com/news/2026/8/14/why-osuns-election-matters-for-nigerias-2027-vote?traffic_source=rss",
+   "summary": "The result could offer an early signal of shifting alliances and voter sentiment before the presidential race.",
    "source": "Al Jazeera",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-13T12:19:02+00:00"
+   "published": "2026-08-14T02:54:55+00:00"
   },
   {
-   "title": "מניית בנק ירושלים ירדה משמעותית בבורסה: \"לא נמצאה עדות לפעילות חריגה\"",
-   "link": "https://www.ynet.co.il/economy/article/h1lqp11oizx",
-   "summary": "מניית הבנק ירדה היום בשיאה ב-12.3%, על רקע שמועות שקושרות בינו לבין היעלמות העובדת מלי יהלומי ובתה בווינה, אבל אחר כך הירידות התמתנו. היחידה הארצית לפשיעה כלכלית חוקרת את פרשת ההיעדרות, אבל גורם במשטרה אמר כי כל הכיוונים נבדקים: \"ליחידה קשרי עבודה ענפים עם גופי אכיפה בעולם\"",
+   "title": "החל מ-306 אלף שקל: שנים חיכינו לרכב הזה, האם הוא גם משתלם?",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001552254#utm_source=RSS",
+   "summary": "אחרי הרבה שנות המתנה, לטסלה יש סוף סוף קרוס־אובר חשמלי שימושי למשפחות מורחבות עם ממדים נכבדים, ביצועים נמרצים ותא נוסעים איכותי, למרות כמה פשרות • הנדסת האנוש עדיין לא לכל אחד וגם לא המחיר",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-08-14T04:02:00+00:00"
+  },
+  {
+   "title": "זכיינות בארקפה, חברת פינטק וסרט עתידי: החיים החדשים של שמעון גרשון",
+   "link": "https://www.ynet.co.il/economy/article/s1osnck8zl",
+   "summary": "16 שנים אחרי הפרישה, כוכב העבר מספר על המעבר ממגרש הכדורגל לעולם העסקים. כיום הוא זכיין של שני סניפי ארקפה מצליחים, היה שותף בעסקי מלונאות שמכר ברווח של כ-11 מיליון שקל, והקים לאחרונה את חברת הפינטק \"ערבויות ישיר\" בהשקעה גדולה: \"כשיצאתי מהכדורגל לא היה לי יותר מדי ידע בעולם הפיננסי, אבל היה לי את האופי שלי\"",
    "source": "Ynet כלכלה",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-08-13T14:45:16+00:00"
+   "published": "2026-08-14T03:00:00+00:00"
   },
   {
-   "title": "ההכנסות מעמלות זינקו: דיסקונט רשם רווח של 1.2 מיליארד שקל ברבעון השני של 2026‏",
-   "link": "https://www.ynet.co.il/economy/article/b18aur98zl",
-   "summary": "הבנק אמנם רשם שחיקה בהכנסות מריבית, אבל אלה מעמלות עלו בכמעט 8%. דיסקונט יחלק דיבידנד ‏של 481 מיליון שקל, 40% מהרווחים. קרוב ל-500 עובדים פרשו בשלושת החודשים האחרונים במסגרת ‏תוכנית הקיצוצים",
+   "title": "ענקית הטיפוח שקופצת לביקור בישראל והבית שעובר דירה | הכתבות הנצפות",
+   "link": "https://www.ynet.co.il/economy/article/b1tcpr5lfl",
+   "summary": "ספורה תחל למכור חלק ממוצריה בקניונים מרכזיים בארץ, הבית שעולה דולר לקנות וחצי מיליון להעתיק ממקומו, המע\"מ לא רק עולה אלא גם מתייעל, הצד האחר של הדוחות הטובים של אלביט ורפאל והגנים הפרטיים של ילדי ההייטק | הצמרת הכלכלית – הכתבות הנצפות של השבוע",
    "source": "Ynet כלכלה",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-08-13T05:43:47+00:00"
+   "published": "2026-08-14T04:15:45+00:00"
   },
   {
-   "title": "Water bills set to rise for many after firms permitted extra funding",
-   "link": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
-   "summary": "Ofwat has given provisional approval for 13 water companies to charge customers more to pay for investments.",
+   "title": "I got an £89 refund – how to cancel and  avoid unwanted subscriptions",
+   "link": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss",
+   "summary": "After the PM announced a crackdown on subscription traps, readers share how they got into and out of unwanted plans.",
    "source": "BBC Business",
    "lang": "en",
    "topic": "business",
    "rtl": false,
-   "published": "2026-08-13T13:38:30+00:00"
+   "published": "2026-08-13T23:03:07+00:00"
   }
  ]
 }
