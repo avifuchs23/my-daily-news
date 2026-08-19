@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-18T14:21:07.159198+00:00",
- "generated_display": "Tuesday, 18 August 2026 · 17:21",
+ "generated_at": "2026-08-19T04:06:14.232246+00:00",
+ "generated_display": "Wednesday, 19 August 2026 · 07:06",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,14 +23,144 @@
  },
  "stories": [
   {
-   "title": "Israel begins building hanging facility for terrorists sentenced to death, Ben-Gvir announces",
-   "link": "https://www.jpost.com/israel-news/defense-news/article-905896",
-   "summary": "The Death Penalty for Terrorists law was passed by the Knesset plenum in March and later added to the West Bank's security regulations by IDF Central Command chief Maj.-Gen. Avi Bluth in May.",
+   "title": "Sacked Ukrainian defence minister calls for presidential election",
+   "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+   "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-19T01:31:15+00:00"
+  },
+  {
+   "title": "צה\"ל סירב להגיד במשך שלושה ימים היכן מוחזק עצור פלסטיני שהוכה ואושפז",
+   "link": "https://www.haaretz.co.il/news/politics/2026-08-19/ty-article/.premium/000001a0-1471-dcd0-adae-ff75dc650000",
+   "summary": "סולטאן ג'בארין נעצר ונזקק לטיפול רפואי לאחר שישראלים פלשו לכפר מגוריו מדרום לבית לחם. מיקומו נמסר למשפחתו רק בעקבות עתירות לבג\"ץ, ואחריהן הוסרה גם המניעה שהטיל שב\"כ על מפגש עם עורך דינו",
+   "source": "הארץ",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-19T03:01:30+00:00"
+  },
+  {
+   "title": "הנגיד לבלומברג: האינפלציה תעלה, ולממשלה הבאה מחכה \"אתגר קשה\"",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001552738#utm_source=RSS",
+   "summary": "פרופ' אמיר ירון, נגיד בנק ישראל, התראיין אמש לבלומברג, העריך שהאינפלציה תעלה בחודשים הקרובים, ולא התחייב להוריד ריבית בספטמבר • ירון החמיא לנתוני הצמיחה • ומה בכל זאת מטריד אותו?",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-08-19T03:22:00+00:00"
+  },
+  {
+   "title": "Transferring West Bank enforcement from IDF to police is a mistake without a plan - editorial",
+   "link": "https://www.jpost.com/opinion/article-905930",
+   "summary": "Katz has spoken about the transfer as though the fundamental decision has already been made, while the institutions expected to carry it out are still trying to determine whether it is workable.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-08-18T16:11:13+00:00"
+   "published": "2026-08-19T05:59:07+00:00"
+  },
+  {
+   "title": "Debbie Wasserman Schultz wins primary after Florida redistricting upends her longtime district",
+   "link": "https://www.jpost.com/us-elections/article-905946",
+   "summary": "Manley, her main opponent, spent considerable airtime on the campaign trail criticizing both her support of Israel and the financial backing she has received from AIPAC",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-08-19T04:47:12+00:00"
+  },
+  {
+   "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+   "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+   "summary": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-19T03:56:35+00:00"
+  },
+  {
+   "title": "גם בחו\"ל: Gett מרחיבה את שירותיה לעשרות מדינות בעולם",
+   "link": "https://www.israelhayom.co.il/business/consumers/article/21228290",
+   "summary": "הפלטפורמה החדשה תאפשר לישראלים להתנייד בחו\"ל ולשלם בשקלים דרך האפליקציה המוכרת, ללא צורך בהורדת שירותים מקומיים • שירות הלקוחות יינתן בעברית, והנסיעות יבוצעו באמצעות ספקי תחבורה מקומיים ובינלאומיים",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-19T02:55:46+00:00"
+  },
+  {
+   "title": "ישראל נכנסת ליומיים לוהטים - ומתי תגיע ההקלה? | תחזית מזג האוויר",
+   "link": "https://www.maariv.co.il/breaking-news/article-1357416",
+   "summary": "",
+   "source": "מעריב",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-19T03:41:56+00:00"
+  },
+  {
+   "title": "טראמפ מקדם פגישה עם קים - ומכין את הקרקע: תרגיל צבאי עם דרום קוריאה קוצר בחצי",
+   "link": "https://www.ynet.co.il/news/article/bk2yacfpfg",
+   "summary": "לפי \"וול סטריט ג'ורנל\", נשיא ארה\"ב לוחץ על אנשיו לארגן פסגה רביעית עם שליט צפון קוריאה, אולי כבר בנובמבר במהלך ביקורו באסיה. ברקע: טראמפ הורה לצמצם דרמטית את התרגיל הצבאי הגדול עם דרום קוריאה, שקוצר מ-11 לחמישה ימים - והמהלך הפתיע אפילו גורמים בממשל האמריקני. אלא שהפעם קים מגיע מעמדת כוח אחרת לגמרי: ארסנל הגרעין שלו רק גדל, והקשרים עם רוסיה וסין התהדקו",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-19T03:35:18+00:00"
+  },
+  {
+   "title": "איש לא נשאר מאחור: כך נסגרה תעלומת סולטן יעקוב אחרי 44 שנים",
+   "link": "https://www.ynet.co.il/news/article/yokra14870659",
+   "summary": "זכריה באומל, צבי פלדמן וכעת יהודה כץ הושבו משום שקבוצה קטנה של אנשי מודיעין ומבצעים סירבה לוותר. איתור השרידים לא מוחק את הכשלים, אך סותם את הגולל על אחת מתעלומות המודיעין הכואבות והיצריות שידענו - ומקיים את האתוס והחוזה שרבים רואים בין מדינת ישראל ללוחמיה: לא משאירים איש מאחור",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-19T03:31:38+00:00"
+  },
+  {
+   "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+   "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments, monitoring, and alignment techniques. The company had already put the brakes on a new model, Astra, that it thinks could have \"critical\" cybersecurity capabilities, and the […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-08-18T19:28:30+00:00"
+  },
+  {
+   "title": "Do not cut benefits for disabled young people, dozens of UK charities urge ministers",
+   "link": "https://www.theguardian.com/society/2026/aug/19/benefits-disabled-young-people-uk-charities-letter",
+   "summary": "More than 40 charities write to Pat McFadden and review head Alan Milburn over fears of stricter eligibility rules More than 40 of the UK’s leading charities have warned ministers against imposing tougher benefit sanctions or cuts on disabled young people, as the government considers how to encourage more young people into work. The charities raised concerns that an imminent review of young people",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-18T23:01:03+00:00"
+  },
+  {
+   "title": "Australia politics live: Victorian Liberals pledge to scrap power link to NSW and instead ‘throw open the doors to gas’",
+   "link": "https://www.theguardian.com/australia-news/live/2026/aug/19/australia-politcs-live-ndis-reform-coalition-labor-anthony-albanese-angus-taylor-mark-butler-david-pocock-question-time-tax-superannuation-ntwnfb",
+   "summary": "Follow today’s news live Follow our breaking news email , free app or daily news podcast ‘Collapsing confidence’ in housing market, Wilson says Tim Wilson has jumped on that reporting around rent increases and says there has been a collapse in confidence since the budget which is hurting renters. We’ve had, since the budget, collapsing confidence, a lack of will to invest in housing that is going ",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-19T03:55:06+00:00"
+  },
+  {
+   "title": "סוף לפייק ברשת: קנסות עתק על סרטוני AI ופרסום מזויף",
+   "link": "https://www.israelhayom.co.il/tech/tech-news/article/21228598",
+   "summary": "חובת גילוי ראשונה על פרסום מבוסס בינה מלאכותית • המהלך שמאיים על החוזים של כוכבי הרשת והסנקציות שישפיעו ישירות גם על ישראל",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-18T19:29:34+00:00"
   },
   {
    "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
@@ -43,244 +173,114 @@
    "published": "2026-08-18T13:50:30+00:00"
   },
   {
-   "title": "Who are the Likud ministers, MKs unlikely to make it into 26th Knesset? - explainer",
-   "link": "https://www.jpost.com/israel-election-2026/article-905886",
-   "summary": "Several current Likud ministers and MKs are expected to lose their seats in the 26th Knesset following October's election, largely because the party's size is expected to shrink from 36 to 20-25 MKs.",
-   "source": "Jerusalem Post",
-   "lang": "en",
-   "topic": "israel",
-   "rtl": false,
-   "published": "2026-08-18T15:22:41+00:00"
-  },
-  {
-   "title": "התקיפה החריגה בסוריה, הגינוי האמריקני - והתגובה הישראלית: \"שיתפנו אתכם מראש\"",
-   "link": "https://www.ynet.co.il/news/article/rkdvevbwzx",
-   "summary": "לפי הדיווחים, ארבעה מטוסים תקפו מסלולי המראה ומתקני אחסון באזור אידליב שבעומק סוריה, לאחר ביקור של משלחת טורקית. בצה\"ל סירבו להתייחס, והשליח האמריקני האשים פומבית את ישראל: \"הסלמה מיותרת\". בכיר בירושלים השיב לו - ולמעשה אישר שמדובר בתקיפה ישראלית: \"א-שרע לא יכול לפעול כמו המשטר הקודם\". במטע נקטרינות ליד מטולה: 6 עובדים זרים נפצעו מפיצוץ נפל ישן",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-18T13:06:25+00:00"
-  },
-  {
-   "title": "שינוי הכיוון של מועצת השלום: הוצאת כל הנשק מעזה - ואז נסיגה מוחלטת של צה\"ל",
-   "link": "https://www.ynet.co.il/news/article/s15pb511wfe",
-   "summary": "חתנו של הנשיא טראמפ ג'ארד קושנר נפגש עם נתניהו ועם בכירי חמאס במטרה להתניע את מתווה שיקום הרצועה, ואחרי הביקור מסתמן שינוי במודל הפעולה - עם ויתור על הוצאה הדרגתית של הנשק במקביל לנסיגות צה\"ל בשלבים. קושנר אמר לפוקס ניוז: \"אם חמאס לא יעמוד בהתחייבויות, ישראל תסיים את העבודה\"",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-18T11:23:16+00:00"
-  },
-  {
-   "title": "Detroit startup Grounded raises $5M to customize electric and gas-powered vans",
-   "link": "https://techcrunch.com/2026/08/18/detroit-startup-grounded-raises-5m-to-customize-electric-and-gas-powered-vans/",
-   "summary": "The company has shifted from making van-life builds to custom outfitting vehicles for small businesses, all while the EV landscape in the US changed dramatically.",
+   "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+   "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+   "summary": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
    "source": "TechCrunch",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-08-18T10:00:00+00:00"
+   "published": "2026-08-18T22:14:25+00:00"
   },
   {
-   "title": "בשילוב משטרת ישראל וצה\"ל: קוף שהוחזק בניגוד לחוק אותר וחולץ",
-   "link": "https://www.israelhayom.co.il/tech/animals/article/21225894",
-   "summary": "מבצע משותף של כוחות משטרה, לוחמי צבא ההגנה לישראל ופקחי רשות הטבע והגנים הוביל לאיתור בעל החיים שהוחזק בכלוב • תושבת רמלה נחקרה בחשד לעבירות סחר, ציד והחזקה לא חוקית של חיית בר מוגנת",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-18T12:59:41+00:00"
-  },
-  {
-   "title": "Chocó, Colombia, Faces Deeper Hardship After an Earthquake",
-   "link": "https://www.nytimes.com/2026/08/18/world/americas/colombia-earthquake-choco.html",
-   "summary": "In Chocó, a remote region, “pain, hunger and homelessness await” survivors of last week’s earthquake, the governor said. Shakira visited to help draw awareness.",
+   "title": "A Rescue Mission in Remote Colombia",
+   "link": "https://www.nytimes.com/video/world/americas/100000011097252/a-rescue-mission-in-remote-colombia.html",
+   "summary": "Our photographer Federico Rios joined aid flights in Chocó to document earthquake rescue efforts in remote communities.",
    "source": "NY Times World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-18T13:41:22+00:00"
+   "published": "2026-08-18T22:06:32+00:00"
   },
   {
-   "title": "דגל ישראל מחוץ לבית? בכפר שמריהו זו סיבה להיגרר למשפט",
-   "link": "https://www.israelhayom.co.il/magazine/shishabat/article/21225948",
-   "summary": "גם אם המשפט היבש לצידה, מועצת כפר שמריהו טעתה כשהזדרזה למנוע מתושב אכפתניק להניף דגל ישראל ענק בחצרו - לעיני כל הנהגים בכביש החוף • אם הם לא יודעים מתי כדאי להעלים עין בחוכמה, הספר של אבישי בן חיים יוכל ללמד אותם",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-18T14:03:53+00:00"
-  },
-  {
-   "title": "ההתאחדות לכדורגל הצטרפה למדינות שהסירו את תמיכתן בנשיא פיפ\"א אינפנטינו",
-   "link": "https://www.haaretz.co.il/sport/israel-soccer/2026-08-18/ty-article/000001a0-1506-dd2f-a1b6-7dceff250000",
-   "summary": "ישראל הצטרפה לשורת ההתאחדויות שחזרו בהן מתמיכתן בנשיא פיפ\"א. במכתב שפורסם על ידי סקיי יו\"ר ההתאחדות שינו זוארץ הסביר כי \"ההתפתחויות האחרונות הובילו למשבר אמון חסר תקדים\" וקרא לדיאלוג בין הצדדים",
-   "source": "הארץ",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-18T13:37:57+00:00"
-  },
-  {
-   "title": "How Israel’s Financial Chokehold Is Stifling the West Bank Economy",
-   "link": "https://www.nytimes.com/2026/08/18/world/middleeast/west-bank-economy.html",
-   "summary": "Intensifying restrictions have hit every part of the territory’s dealings, spurring worries about whether the Palestinian Authority can remain solvent.",
+   "title": "Trump’s Tariffs on Hold as President Claims Deal With Canada Is Near",
+   "link": "https://www.nytimes.com/2026/08/18/world/canada/tariffs-trade-trump-carney.html",
+   "summary": "Prime Minister Mark Carney of Canada was less definitive about what the intense talks produced, saying ‘important work’ remained.",
    "source": "NY Times World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-18T13:16:16+00:00"
+   "published": "2026-08-19T04:00:28+00:00"
   },
   {
-   "title": "Burnham confirms West Midlands to take public control of local bus network – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/aug/18/disabled-people-england-bus-travel-andy-burnham-labour-reform-nigel-farage-conservatives-kemi-badenoch-uk-politics-live-news",
-   "summary": "The prime minister says the ‘absolutely massive’ move would protect thousands of jobs Moscow has threatened the UK with “consequences” after reports that British drones have been used to strike targets on Russia’s mainland for the first time. Ukraine used drones made by two UK companies as part of a so-called deep-strike campaign, the Sunday Times reported. Buses in Manchester and London are franc",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-18T13:55:05+00:00"
-  },
-  {
-   "title": "Heavy rain forecast will not reverse widespread drought conditions in UK",
-   "link": "https://www.theguardian.com/environment/2026/aug/18/heavy-rain-forecast-will-not-reverse-widespread-drought-conditions-uk",
-   "summary": "Forecasters say intense showers might cause flooding as rain falls on dry, hard ground Floods and drought could hit the UK at the same time this week, with heavy rain forecast to fall on hard, parched soil. While some parts of the UK will have the “first meaningful rain for a long time” in the coming days, it will not reverse widespread drought conditions that have put pressure on wildlife, farmer",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-18T13:44:49+00:00"
-  },
-  {
-   "title": "\"הראשונה בעולם\": בת 69 מחתה נגד בינה מלאכותית - ונכנסה לכלא",
-   "link": "https://www.ynet.co.il/digital/technews/article/rkezf9wwzg",
-   "summary": "וינד קאופמן חסמה יחד עם פעילים נוספים את הכניסה למשרדי OpenAI בסן פרנסיסקו, בטענה שהמרוץ לבינה על-אנושית מסכן את האנושות. חבר המושבעים לא השתכנע שהחשש מצדיק עבירה על החוק, והיא נידונה ל-14 ימי מאסר. \"אני לא זו שצריכה להיות בכלא\", היא טענה",
-   "source": "Ynet טכנולוגיה",
-   "lang": "he",
-   "topic": "tech",
-   "rtl": true,
-   "published": "2026-08-18T08:32:59+00:00"
-  },
-  {
-   "title": "ABC sues the FCC over Trump and Carr’s campaign of threats",
-   "link": "https://www.theverge.com/streaming/981392/abc-fcc-broadcast-license-lawsuit",
-   "summary": "ABC is suing the Federal Communications Commission over claims the agency \"waged a retaliatory campaign\" against its networks over the content they broadcast. In a lawsuit filed in federal court on Tuesday, ABC and its parent company Disney accuse the FCC of \"punishing ABC for its speech\" by threatening its broadcast licenses. It's the latest […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-08-18T13:27:43+00:00"
-  },
-  {
-   "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
-   "link": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&at_campaign=rss",
-   "summary": "Recovery efforts continue in what is the country's deadliest transport disaster.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-18T12:04:11+00:00"
-  },
-  {
-   "title": "קאנו, האוטו-קרוואן של האגמים בקנדה",
-   "link": "https://www.haaretz.co.il/haaretzabroad/2026-08-18/ty-article-magazine/.premium/000001a0-142d-d129-a3ba-562ff0240000",
-   "summary": "כישראלי שלא הבדיל בין קאנו לקיאק, נדהמתי מהקיבולת של כלי השיט הקדום הזה, שפתח לנו ערוץ חדש של טיולים משפחתיים. לפני שמתחילים לחתור, חשוב לקרוא את האותיות הקטנות |\"הארץ\" מחוץ לארץ",
-   "source": "הארץ",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-18T11:58:27+00:00"
-  },
-  {
-   "title": "Google’s Pet Memory forgot who my cats are",
-   "link": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
-   "summary": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send often means I miss important ones. So, when Google announced its new Pet Memory feature for Gemini for Home, […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-08-18T12:01:29+00:00"
-  },
-  {
-   "title": "China censors public mourning as it holds former premier's funeral",
-   "link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
-   "summary": "While hailing Zhu’s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi’s rule.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-18T07:17:07+00:00"
-  },
-  {
-   "title": "\"מאוד אטרקטיביות\": מנהל ההשקעות מזהה הזדמנות במניות שירדו בכ־40%",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001552549#utm_source=RSS",
-   "summary": "כשאייל שינה, סמנכ\"ל השקעות בפסטרנק שהם, מסתכל על השוק הישראלי, הוא רואה מאפיינים אופטימיים ש\"אין בשום שוק מערבי\" • הוא ממליץ להיחשף בעיקר לשקל, כי \"אנשים חיים בארץ, וההוצאות שלהם בשקלים\"; ומסמן את הסקטור הביטחוני כהזדמנות אחרי הירידות",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-08-18T10:55:00+00:00"
-  },
-  {
-   "title": "What to know about California’s special election to replace Eric Swalwell",
-   "link": "https://www.aljazeera.com/news/2026/8/18/what-to-know-about-californias-special-election-to-replace-eric-swalwell?traffic_source=rss",
-   "summary": "A race that once received little attention has seen outside spending from the American Israel Public Affairs Committee.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-18T11:09:24+00:00"
-  },
-  {
-   "title": "Syria, US say Israel attacks airbase in Idlib",
-   "link": "https://www.aljazeera.com/news/2026/8/18/eight-air-strikes-hit-airbase-in-syrias-idlib?traffic_source=rss",
-   "summary": "Eight air strikes hit the Abu al-Duhur military base in Idlib's eastern countryside.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-18T10:11:53+00:00"
-  },
-  {
-   "title": "מגמה מעורבת בת\"א: ת\"א 90 עולה בהובלת סקטור התקשורת; הדולר מטפס",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001552577#utm_source=RSS",
-   "summary": "מדד ת\"א 35 נחלש בהובלת סקטורי הטכנולוגיה, בעוד ת\"א 90 עולה בהובלת זינוק של סקטור התקשורת • מטריקס מובילה עליות במניות התוכנה; מנגד, מניות השבבים נופלות • דוחות חזקים גם לאורבניקה-הודיס, ביג ומבנה • הדולר מתחזק מול השקל ומתקרב ל-3 שקלים • וול סטריט ננעלה אתמול באדום, מניות השבבים היו נקודת אור • וגם: חברת המחקר שצופה ל-S&P 500 אפסייד של מעל 16%",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-08-18T13:53:00+00:00"
-  },
-  {
-   "title": "ביהמ\"ש קבע: רפאל לא תשלם כ-1.2 מיליארד שקל לעיריית קריית ים",
-   "link": "https://www.ynet.co.il/economy/article/skbktrwvml",
-   "summary": "בית המשפט המחוזי בחיפה קיבל את עתירת יצרנית כיפת ברזל, וקבע כי דרישת התשלום שהוציאה העירייה בגין היטלי פיתוח למתחם מכון דוד מבוססת על תחשיבים שגויים. יחד עם זאת, לא נשללה סמכות העירייה לגבות תשלומים מהחברה בעתיד, במידה שיהיו מבוססים על חישובים נכונים",
-   "source": "Ynet כלכלה",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-08-18T13:28:32+00:00"
-  },
-  {
-   "title": "Ferguson shipyard to cut a quarter of its workforce",
-   "link": "https://www.bbc.co.uk/news/articles/c20e2qe1lqpo?at_medium=RSS&at_campaign=rss",
-   "summary": "The state-owned yard on the Clyde will lose 70 of its 283 staff through a voluntary redundancy process.",
+   "title": "Chinese robotics giant Unitree soars in stock market debut",
+   "link": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
+   "summary": "Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.",
    "source": "BBC Business",
    "lang": "en",
    "topic": "business",
    "rtl": false,
-   "published": "2026-08-18T12:56:34+00:00"
+   "published": "2026-08-19T03:26:27+00:00"
   },
   {
-   "title": "לאחר מעל 365 ימי מילואים: העסק קרס אבל קרן הסיוע טוענת שאין קשר לשירות",
-   "link": "https://www.ynet.co.il/economy/article/sjdv112zvgx",
-   "summary": "קצין לוחם שהתייצב בצו 8 עם פרוץ המלחמה ושירת תקופה ממשוכת הגיש עתירה מנהלית לביהמ\"ש נגד ועדת החריגים של קרן הסיוע למשרתי המילואים. לטענתו, החברה שהקים והפעיל 15 שנה, ושמחזורה עמד על כ-28 מיליון שקל, קרסה בשל היעדרותו הממושכת, אך הקרן דחתה בקשתו למענק סיוע: \"לא נמצא קשר ישיר בין שירות המילואים לבין הירידה בפעילות ובהכנסות העסק\"",
+   "title": "הצצה לתיק של משקיע ריטייל: 150 אלף שקל ואהדה למניות בנקים וטכנולוגיה",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001552689#utm_source=RSS",
+   "summary": "פסגות, שמנהלת 47 אלף חשבונות מסחר עצמאי, חושפת את העדפות הסוחרים הפרטיים שפועלים דרכה • הללו אוהבים את המדדים S&P 500 ות\"א 125, את מניות טכנולוגיה, את הבנקים ואת קרנות הביטקוין • ואילו עוד השקעות מועדפות עליהם בארץ ובחו\"ל?",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-08-19T02:47:00+00:00"
+  },
+  {
+   "title": "Tesla is finally launching the Cybercab — let’s hope it’s ready",
+   "link": "https://www.theverge.com/transportation/981398/tesla-cybercab-launch-robotaxi-fsd-safe-ready",
+   "summary": "The Tesla Cybercab, that golden two-seater central to Elon Musk's robo-supremacist ambitions, is finally nearing it's public launch. Whether or not the no-steering wheel and no-pedal vehicle is actually ready for public roads, let alone customers, remains very much in doubt. According to The Information, Tesla is planning a public launch of the Cybercab in […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-08-18T16:26:29+00:00"
+  },
+  {
+   "title": "Global borrowing costs hit fresh highs on oil, AI and inflation",
+   "link": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
+   "summary": "Interest rates on long-term US, UK, German and Japanese government debt have soared.",
+   "source": "BBC Business",
+   "lang": "en",
+   "topic": "business",
+   "rtl": false,
+   "published": "2026-08-18T18:20:08+00:00"
+  },
+  {
+   "title": "בלי אפליקציות זרות וללא המרת מטבע: כך תזמינו בעברית מונית בחו\"ל",
+   "link": "https://www.ynet.co.il/economy/article/h1nuesgpzg",
+   "summary": "Gett משיקה שירות שמאפשר להזמין נסיעות עירוניות ובין-עירוניות בשלב הראשון ב-25 מדינות ישירות מהאפליקציה בעברית. המערכת מזהה את מיקום הנוסע עם הנחיתה, מציגה את אפשרויות התחבורה הזמינות ונוקבת במחיר סופי בשקלים, כשהתשלום מבוצע באמצעי התשלום השמור. בהמשך מתוכננת הרחבה ליותר מ-70 מדינות",
    "source": "Ynet כלכלה",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-08-18T10:50:18+00:00"
+   "published": "2026-08-19T03:00:00+00:00"
+  },
+  {
+   "title": "Liberia agrees to accept 1,200 third-country deportees from US within a year",
+   "link": "https://www.foxnews.com/world/liberia-agrees-accept-1200-third-country-deportees-us-within-year",
+   "summary": "Liberia agreed to accept 1,200 third-country deportees from the U.S. over the next year, with the first group of 20 expected to arrive on Thursday.",
+   "source": "Fox News World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-19T01:53:07+00:00"
+  },
+  {
+   "title": "US sanctions International Criminal Court’s president and top lawyer",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-sanctions-international-criminal-courts-president-and-top-lawyer?traffic_source=rss",
+   "summary": "The US has sanctioned International Criminal Court president Tomoko Akane and trial lawyer Abdoulaye Seye.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-19T03:25:33+00:00"
+  },
+  {
+   "title": "Ukrainian drones overwhelm Russian tanks’ new active protection system—for now",
+   "link": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-overwhelm-russian-tanks-new-active-protection-system-for-now/",
+   "summary": "Tanks with defensive tech for shooting down drones are still proving vulnerable.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-08-18T22:18:13+00:00"
   }
  ]
 }
