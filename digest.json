@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-22T04:03:49.762420+00:00",
- "generated_display": "Saturday, 22 August 2026 · 07:03",
+ "generated_at": "2026-08-22T14:10:19.111953+00:00",
+ "generated_display": "Saturday, 22 August 2026 · 17:10",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,14 +23,164 @@
  },
  "stories": [
   {
-   "title": "מאוסטרליה ועד גרמניה: ההצהרות בעולם נגד ישראל - והסנקציות ששוקלת בריטניה",
-   "link": "https://www.ynet.co.il/news/article/hjjr1wiwzl",
-   "summary": "שבוע של מתקפות עולמיות: 6 מדינות אירופיות מרכזיות תקפו את הבנייה ב-E1, שר החוץ הבריטי שוקל סנקציות חדשות. אוסטרליה, בריטניה וקנדה כינו את החלטת צה\"ל לא לפתוח בחקירה פלילית - \"מבישה\". נציג ארה\"ב מתח ביקורת על התקיפה בסוריה, הטורקים אחרי ההסלמה: \"אסטרטגיית בחירות של נתניהו\"",
+   "title": "IDF strikes Syrian terrorist poised to carry out imminent terror attack on Israeli soldiers",
+   "link": "https://www.jpost.com/middle-east/article-906244",
+   "summary": "The strike follows an IDF attack against the Abu al-Duhur military airfield in Idlib province in northwestern Syria on Tuesday.",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-08-22T13:10:56+00:00"
+  },
+  {
+   "title": "יאיר גולן: \"אסור להיות תמימים - נתניהו רוצה משבר ביטחוני ולשבש את הבחירות\"",
+   "link": "https://www.ynet.co.il/news/article/yokra14872007",
+   "summary": "יו\"ר הדמוקרטים לא מתנצל על התבטאויות מעוררות מחלוקת, ורק דבר אחד מדאיג אותו: \"מי שחושב שנתניהו, סמוטריץ' ובן גביר יקבלו את תוצאות הבחירות לא מבין עם מי יש לנו עסק\". לדבריו, הוא לא בכיס של איש מראשי מחנה השינוי: \"אני חושש מהרשימות שלהם. לא ניכנס לממשלה רק כדי לספק לה רוב, אלא כדי לשנות את הכיוון של ישראל\". ולמה הוא לא מתחרט על הפרת ההבטחה לעינב צנגאוקר?",
    "source": "Ynet חדשות",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-08-21T22:04:14+00:00"
+   "published": "2026-08-22T13:35:21+00:00"
+  },
+  {
+   "title": "Israel 'baited' Turkey with Abu al-Duhur airbase 'pre-election' strike, US Envoy Tom Barrack says",
+   "link": "https://www.jpost.com/middle-east/article-906241",
+   "summary": "According to Barrack, Ankara began considering scrambling its own fighter jets, and for several moments, two key US allies came close to a confrontation that neither side truly wants.",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-08-22T13:04:13+00:00"
+  },
+  {
+   "title": "כ\"ץ חושף מה קדם לתקיפה בסוריה - ותוקף את השליח האמריקני: \"סותר את טראמפ\"",
+   "link": "https://www.ynet.co.il/news/article/hy6hdmwdzg",
+   "summary": "לטענת שר הביטחון, צה\"ל הוא שהמליץ לתקוף את שדה התעופה שממוקם עשרות ק\"מ מטורקיה, בעקבות \"מידע מודיעיני ברור על כוונה של אנקרה לבצע בו פעולות שיסכנו את ביטחוננו\". הוא שלח מסר לארדואן ש\"נתפס עם היד בצנצנת העוגיות\" - והשיב גם לשליח האמריקני שטען כי ישראל כובשת את הגולן: \"סותר את טראמפ\"",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-22T12:43:32+00:00"
+  },
+  {
+   "title": "עימות קטלני בפסגה: 10 הסרטים המובילים בישראל היום בנטפליקס",
+   "link": "https://www.israelhayom.co.il/culture/tv/article/21252311",
+   "summary": "לא בטוחים מה לבחור בסטרימינג? הנה הסרטים החמים ביותר שכולם מדברים עליהם השבוע • מהיצירה של אדם סנדלר ועד לפסגה ההיסטרית של קווין הארט - הרשימה המעודכנת שתסגור לכם את הפינה",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-22T13:21:44+00:00"
+  },
+  {
+   "title": "פצוע מתקיפת כטב\"ם ישראלי בדרום־מערב סוריה; צה\"ל: היווה איום מיידי על הכוחות",
+   "link": "https://www.haaretz.co.il/news/politics/2026-08-22/ty-article/.premium/000001a0-28e7-dc38-a7f1-3fef3c650000",
+   "summary": "צה\"ל הודיע שירה לעבר אדם ש\"קידם מתווי טרור\" בדרום סוריה לאחר שזה \"קידם מתווה טרור\" שיועד לפגוע בכוחות. כץ נגד שליח טראמפ שקרא לרמת הגולן שטח כבוש: תגובתו מלאה באי־דיוקים ועמדותיו סותרות את עמדת הנשיא",
+   "source": "הארץ",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-22T09:57:19+00:00"
+  },
+  {
+   "title": "Pixel 11 Pro XL review: Snappier cameras can’t hide an iterative upgrade",
+   "link": "https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/",
+   "summary": "Google’s Pixel 11 Pro XL brings snappier cameras and genuinely useful AI features like Rambler, but its iterative upgrades may not be enough to tempt recent Pixel owners.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-08-22T14:00:00+00:00"
+  },
+  {
+   "title": "על חשבון ישראל ופלסטין: כך נשיא פיפ\"א ניסה להרוויח מיליונים",
+   "link": "https://www.israelhayom.co.il/sport/world-soccer/article/21252402",
+   "summary": "תוכנית שאפתנית במיוחד של ג'אני אינפנטינו, כללה טורניר עולמי חדש עד גיל 15 - עם משחק פתיחה שיפגיש אותנו ואת הפלסטינים • אלא שתחקיר \"אתלטיק\" חושף כי מאחורי המיזם עמד ניסיון להפוך את הטורניר למוצר מסחרי עולמי, באמצעות השקעות פרטיות ושידורים בהיקף משמעותי",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-22T13:31:00+00:00"
+  },
+  {
+   "title": "Amazon just hiked the prices for Echo, Fire TV, and Kindle products by up to 60 percent",
+   "link": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
+   "summary": "Citing \"significant increases in memory and storage component costs,\" in a statement given to Fortune, Amazon has raised prices on Echos, Kindles, Fire TVs, and Eeros by up to 60 percent. The cheapest products in Amazon's lineup were hit hardest, with the Echo Dot smart speaker jumping from $49.99 to $79.99. The Fire TV Stick […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-08-22T13:41:01+00:00"
+  },
+  {
+   "title": "ארבעה עפיפונים שכנראה חצו מרצועת עזה אותרו בסוף השבוע באזור נחל עוז",
+   "link": "https://www.haaretz.co.il/news/politics/2026-08-22/ty-article/.premium/000001a0-2959-dc38-a7f1-3f7f31930000",
+   "summary": "צה\"ל מסר כי על העפיפונים לא נמצאו ממצאים חשודים ולא נשקפה מהם סכנה לציבור. בקיבוץ נחל עוז האשימו: \"כך זה התחיל לפני 7 באוקטובר, לא נשלים עם מדיניות של הכלה\"",
+   "source": "הארץ",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-22T12:58:22+00:00"
+  },
+  {
+   "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
+   "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+   "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-22T08:40:49+00:00"
+  },
+  {
+   "title": "Former British and French diplomats urge action over Israel’s ‘erasure’ of Palestine",
+   "link": "https://www.theguardian.com/world/2026/aug/22/uk-france-diplomats-israel-palestine",
+   "summary": "In letter to Macron and Burnham, more than 100 senior figures accuse Israel of ethnic cleansing and call for measures including trade ban More than 100 French and British former diplomats have said Palestine is being erased in front of the world’s eyes and called for urgent action including trade and arms sales bans to press Israel to accept a Palestinian state. An unprecedented joint letter dispe",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-22T09:00:04+00:00"
+  },
+  {
+   "title": "Two police officers among seven people killed in North Yorkshire crash",
+   "link": "https://www.theguardian.com/uk-news/2026/aug/22/people-die-in-crash-involving-police-vehicle-and-car-in-north-yorkshire",
+   "summary": "Watchdog launches inquiry into collision involving police car and another vehicle on A66 in early hours of Saturday Seven people, including two police officers, died in a crash near Middlesbrough in the early hours of Saturday, Cleveland police have said. The police regulator has launched an investigation after the collision, it has been confirmed.",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-22T12:47:55+00:00"
+  },
+  {
+   "title": "Fourteen killed in strike on Myanmar monastery",
+   "link": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
+   "summary": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-22T13:48:06+00:00"
+  },
+  {
+   "title": "Carney Stands Up to Trump in U.S.-Canada Trade War",
+   "link": "https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html",
+   "summary": "Canada’s prime minister walked away from what he thought was a bad trade deal with the United States. Many Canadians are behind him, but it will be costly.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-22T13:35:43+00:00"
+  },
+  {
+   "title": "Lebanon’s Efforts to Tame Hezbollah Stall Amid Israel War",
+   "link": "https://www.nytimes.com/2026/08/22/world/middleeast/lebanon-hezbollah-israel-diplomacy.html",
+   "summary": "President Joseph Aoun took office with a popular mandate to reassert control after the militant group dragged the country back into war with Israel.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-22T09:02:01+00:00"
   },
   {
    "title": "Michael Polansky is training an AI model on skin that’s still alive",
@@ -43,244 +193,94 @@
    "published": "2026-08-22T01:31:04+00:00"
   },
   {
-   "title": "Police raid two underground gambling establishments in Haifa, arrest 100 - report",
-   "link": "https://www.jpost.com/israel-news/crime-in-israel/article-906224",
-   "summary": "Israel Police arrested 100 gamblers in raids on two underground gambling establishments in Haifa, Israeli media reported. Those arrested were detained for questioning.",
-   "source": "Jerusalem Post",
-   "lang": "en",
-   "topic": "israel",
-   "rtl": false,
-   "published": "2026-08-22T01:28:52+00:00"
-  },
-  {
-   "title": "Anthropic’s Opus 4.6 is a smut-machine",
-   "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-   "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-08-21T23:07:25+00:00"
-  },
-  {
-   "title": "Iraqi national charged in connection with Yom Kippur Manchester synagogue attack",
-   "link": "https://www.jpost.com/diaspora/antisemitism/article-906232",
-   "summary": "UK counterterrorism police charged an Iraqi national with failing to disclose information related to the 2025 Yom Kippur terrorist attack at Manchester’s Heaton Park Synagogue.",
-   "source": "Jerusalem Post",
-   "lang": "en",
-   "topic": "israel",
-   "rtl": false,
-   "published": "2026-08-22T04:49:35+00:00"
-  },
-  {
-   "title": "U.S.-Canada Trade Talks Collapse Without A Deal",
-   "link": "https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html",
-   "summary": "Mark Carney suspended talks and will take out retaliatory tariffs against the United States after days of negotiations to stave off new levies by the Trump administration ended in an impasse.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-22T03:58:29+00:00"
-  },
-  {
-   "title": "California lawmaker overcomes pro-Israel spending to win special election",
-   "link": "https://www.aljazeera.com/news/2026/8/22/california-lawmaker-overcomes-pro-israel-spending-to-win-special-election?traffic_source=rss",
-   "summary": "Victory for state Senator Aisha Wahab marks the latest example of a progressive overcoming millions in outside spending.",
+   "title": "Man Utd humiliated at Hull to open Premier League account",
+   "link": "https://www.aljazeera.com/sports/2026/8/22/man-utd-slump-to-opening-day-premier-league-defeat-at-hull-city?traffic_source=rss",
+   "summary": "Manchester United lose 2-0 at newly promoted Hull City to open their Premier League campaign.",
    "source": "Al Jazeera",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-22T00:38:06+00:00"
+   "published": "2026-08-22T13:54:02+00:00"
   },
   {
-   "title": "שר הביטחון הפקיסטני פרסם סרטון AI של \"מכות\" בליכוד: \"DNA ציוני\"",
-   "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21250102",
-   "summary": "חוואג'ה אסיף שיתף ברשת X תיעוד שנעשה ב-AI של חברי כנסת ממפלגת השלטון מכים זה את זה, לצד כיתוב אנטישמי: \"רץ ב-DNA שלהם\" • על רקע הסרטון המזויף, השר מחזיק בשורת התבטאויות עבר קיצוניות, אותן גינו בלשכת רה\"מ: \"קריאה שערורייתית להשמדת ישראל\"",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-21T18:42:22+00:00"
-  },
-  {
-   "title": "These bookshops let Chinese readers question their country - now the doors are closing",
-   "link": "https://www.bbc.co.uk/news/articles/cj0338l6yg4o?at_medium=RSS&at_campaign=rss",
-   "summary": "For some mainlanders, Hong Kong's independent bookstores are a window into a different, freer world.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-21T22:26:25+00:00"
-  },
-  {
-   "title": "In China’s Biggest Car Recall, Tesla and 8 Others Will Address Door Safety",
-   "link": "https://www.nytimes.com/2026/08/21/business/china-car-recall-doors.html",
-   "summary": "China’s regulator ordered changes after vehicle occupants sometimes had difficulty exiting electric cars, an issue that has led to lawsuits against Tesla in the United States.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-21T20:23:13+00:00"
-  },
-  {
-   "title": "Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall",
-   "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-   "summary": "Attacks come a day after at least 16 people were killed in a double-tap strike on a shopping mall.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-22T03:17:29+00:00"
-  },
-  {
-   "title": "הכיבוש הטורקי בסוריה, והסרטון נגד ארדואן: \"זה הבחור שהייתם רוצים על הגבול שלכם?\"",
-   "link": "https://www.ynet.co.il/news/article/hj5jlqlwzx",
-   "summary": "בסרטון הסברה גילה דובר רה\"מ כי טורקיה מחזיקה ב-5% משטח סוריה לעומת 0.1% של שליטה ישראלית בדרום המדינה: \"אין עליה איום, והיא מחזיקה בשטח הגדול פי 50\". הוא אמר כי \"אנחנו לא מחפשים הסלמה, אבל אף מדינה לא תאיים עלינו. 7/10 הבהיר לכולם - כשאויב אומר שהוא רוצה להשמיד אתכם, תאמינו לו\"",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-21T22:08:23+00:00"
-  },
-  {
-   "title": "Attack on Ukraine shopping centre that killed 16 is ‘terror by design’, says EU foreign policy chief",
-   "link": "https://www.theguardian.com/world/2026/aug/22/ukraine-shopping-centre-attack-deaths-russia-terror-by-design-kaja-kallas-kryvyi-rih",
-   "summary": "Kaja Kallas, the EU’s top diplomat, threatens harshest sanctions yet on Russia after strike on Kryvyi Rih, the home town of Volodymyr Zelenskyy Russian drones have slammed into a busy shopping centre in central Ukraine, killing 16 people in an attack that Volodymyr Zelenskyy condemned as “cynical and despicable”. The EU’s foreign policy chief, Kaja Kallas, condemned Friday’s attack on Kryvyi Rih –",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-22T01:12:32+00:00"
-  },
-  {
-   "title": "Victorian Labor promises free dental care if re-elected in Australia-first move",
-   "link": "https://www.theguardian.com/australia-news/2026/aug/22/victoria-labor-free-dental-care-ben-carroll-election-promise",
-   "summary": "Premier Ben Carroll says $230m would be earmarked for 10 public dental clinics to operate on a walk-in basis Get our breaking news email , free app or daily news podcast Victorians would be able to walk into a dental clinic and receive free checkups and treatment under an Australian-first proposal the Labor government will take to the November state election. The premier, Ben Carroll, will announc",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-21T19:00:42+00:00"
-  },
-  {
-   "title": "סיוט 1992 חוזר? הנתון האכזרי שעלול להפוך את ניצחון של נתניהו להפסד בבחירות",
-   "link": "https://www.maariv.co.il/breaking-news/article-1358411",
-   "summary": "",
-   "source": "מעריב",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-22T03:43:58+00:00"
-  },
-  {
-   "title": "טום ברק: התקיפה בסוריה עלולה הייתה להוביל את ישראל וטורקיה לעימות צבאי",
-   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-08-22/ty-article/.premium/000001a0-2663-dc38-a7f1-3f6fe5cd0000",
-   "summary": "שגריר ארצות הברית בטורקיה אמר כי המדינה לא עודכנה שמטוסים ישראליים מתקרבים לגבולה הדרומי, ועל כן הייתה עשוייה לפרש את הדבר כאיום ולהגיב. לטענתו של ברק, ייתכן שישראל ניסתה לדרבן את טורקיה לתקוף",
-   "source": "הארץ",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-21T22:32:56+00:00"
-  },
-  {
-   "title": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
-   "link": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
-   "summary": "The US Department of Justice announced on Friday that TikTok will pay $400 million to settle a lawsuit filed in 2024 over allegedly violating the Children's Online Privacy Protection Act (COPPA). In the lawsuit, the DOJ alleged that TikTok collected data from children without notifying parents or obtaining consent and did not delete the accounts […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-08-21T22:13:34+00:00"
-  },
-  {
-   "title": "US judge strikes down Trump immigrant visa ban affecting 75 countries",
-   "link": "https://www.aljazeera.com/news/2026/8/22/us-judge-strikes-down-trump-immigrant-visa-ban-affecting-75-countries?traffic_source=rss",
-   "summary": "A federal judge in Manhattan ruled against the State Department's suspension of immigrant visas.",
+   "title": "As families retrieve bodies, Gaza is running out of places to bury the dead",
+   "link": "https://www.aljazeera.com/features/2026/8/22/as-families-retrive-bodies-gaza-is-running-out-of-places-to-bury-the-dead?traffic_source=rss",
+   "summary": "Israel's genocidal war on Gaza has seen thousands of bodies buried in makeshift sites.",
    "source": "Al Jazeera",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-22T03:19:58+00:00"
+   "published": "2026-08-22T13:10:45+00:00"
   },
   {
-   "title": "בגיל 68: השחקנית קרוליין לנגפורד הלכה לעולמה",
-   "link": "https://www.israelhayom.co.il/culture/films/article/21250619",
-   "summary": "לנגפורד, אמו של ליאור דיין, כיכבה בשלל סרטים ישראליים, בהם ״חייך אכלת אותה״ ו״מלך ליום אחד״, שם הכירה את בעלה לשעבר אסי דיין ז״ל • בשנים האחרונות כיכבה בטלוויזיה, בין היתר בסדרה ״נורמלי״ בהשראת סיפור חייו של בנה",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-21T21:37:56+00:00"
-  },
-  {
-   "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-   "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible from the three dots menu on a […]",
+   "title": "Two great new repairable gadgets",
+   "link": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
+   "summary": "Hi, friends! Welcome to Installer No. 141, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm newish here too, and also you can read all the old editions at the Installer homepage.) This week, I've been getting back into the Installer groove, trying out some ergonomic Switch […]",
    "source": "The Verge",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-08-21T21:25:50+00:00"
+   "published": "2026-08-22T12:00:00+00:00"
   },
   {
-   "title": "Trump's space transportation policy calls for new spaceport on federal land",
-   "link": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
-   "summary": "\"We probably need another site that's capable of heavy and super heavy launch capability.\"",
+   "title": "Putting mice into hibernation causes a major loss of synapses",
+   "link": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
+   "summary": "Hibernation cuts down on synapses, but mice seem to retain memories anyway.",
    "source": "Ars Technica",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-08-21T23:32:17+00:00"
+   "published": "2026-08-22T11:22:32+00:00"
   },
   {
-   "title": "במערכת הביטחון מזהירים: המתקפות על ארדואן עלולות להסלים את המתיחות בין המדינות",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001553064#utm_source=RSS",
-   "summary": "\"שקט מתעתע\": חיזבאללה שוקל להחריף את פעולותיו נגד צה\"ל • פורעים יהודים ריססו גרפיטי והציתו כלים כבדים • רצף חיסולים דרמטי בעזה ובג'נין • במערכת הביטחון מזהים כי חיזבאללה מרחיב את ניסיונותיו לפגוע בכוחות צה\"ל בין היתר באמצעות הנחת מטענים, זאת על רקע פעילות הכוחות ברכס עלי טאהר • עדכונים שוטפים",
-   "source": "גלובס",
-   "lang": "he",
+   "title": "Taxi drivers urge council to agree 8% fare hike",
+   "link": "https://www.bbc.co.uk/news/articles/cn0nlyxrz51o?at_medium=RSS&at_campaign=rss",
+   "summary": "Taxi fares could rise by 8% to help drivers combat rising fuel prices and the cost of living.",
+   "source": "BBC Business",
+   "lang": "en",
    "topic": "business",
-   "rtl": true,
-   "published": "2026-08-21T19:16:00+00:00"
+   "rtl": false,
+   "published": "2026-08-22T10:53:26+00:00"
   },
   {
-   "title": "סקנדל בחברה החדשה בבורסה: המסחר במניה הופסק – בגלל אי סדרים",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001553075#utm_source=RSS",
-   "summary": "רגע לפני שהיא צריכה לפרסם את דוחותיה למחצית הראשונה של השנה, המסחר במניית תומר מזון הופסק בעקבות דיווח של החברה על בעיות לכאורה בטיפול במלאי • תומר מזון הצטרפה לבורסה לפני כשלושה חודשים, ונסחרת בבורסה לפי שווי של 138 מיליון שקל",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-08-21T11:36:00+00:00"
-  },
-  {
-   "title": "בג\"ץ: מאות מיליוני שקלים לחרדים יישארו חסומים - 78 מיליון לשירותי הדת ישוחררו",
-   "link": "https://www.ynet.co.il/economy/article/rjbc1xidfx",
-   "summary": "בית המשפט דחה את בקשת שר האוצר סמוטריץ' לבטל את צו הביניים שעצר העברת מאות מיליוני שקלים שאישרה ועדת הכספים ב-4 באוגוסט, לאחר עתירה שטענה כי הדיון בוועדה נערך שלא כדין. עם זאת, החריג בית המשפט את הכספים שיועברו למשרד לשירותי דת; בעקבות ההחלטה - בוטלה סגירת אתרי הדת שתוכננה לתחילת השבוע",
+   "title": "\"אוהב שהזמן עצר מלכת פה. כשאני מגיע לת\"א הכל כאוס\"",
+   "link": "https://www.ynet.co.il/economy/article/6bvvtf1cj",
+   "summary": "חן ומתן רצו להגשים את החלום להתנסות בחיים בחו\"ל ועברו לגור בברלין. אבל אחרי 7 באוקטובר הבינו שהחיים שלהם צריכים להיות בישראל וחזרו לקיבוץ אפיקים: \"בגרמניה יש חופשת לידה של 14 חודשים ודירה במחיר הוגן. אבל הלב היה פה\". היא, שפית במקצועה, מבשלת את הארוחות האחרונות במסעדה המיתולוגית רוטנברג שנסגרת, כבר עם הפנים לדבר הבא: \"אני מפתחת משהו משלי בתחום הגבינות והלחם, שאני כל כך אוהבת\". משפחת וייסביטן על הס",
    "source": "Ynet כלכלה",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-08-21T15:39:39+00:00"
+   "published": "2026-08-22T05:00:00+00:00"
   },
   {
-   "title": "US borrowing costs rise as attempts to ease rates prove short-lived",
-   "link": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss",
-   "summary": "Economists said there were ongoing concerns over the level of borrowing as national debt passed $40tn.",
+   "title": "Not 'poor enough': Do people use London's pay-it-forward schemes?",
+   "link": "https://www.bbc.co.uk/news/articles/cewrv4wqvw2o?at_medium=RSS&at_campaign=rss",
+   "summary": "The schemes are in place to help people who are struggling with the cost of living.",
    "source": "BBC Business",
    "lang": "en",
    "topic": "business",
    "rtl": false,
-   "published": "2026-08-21T16:45:09+00:00"
+   "published": "2026-08-22T06:59:33+00:00"
   },
   {
-   "title": "Royal Mail misses delivery targets again but hails 'encouraging' signs",
-   "link": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo?at_medium=RSS&at_campaign=rss",
-   "summary": "The struggling firm said it had improved its performance but missed regulator-set delivery targets.",
-   "source": "BBC Business",
-   "lang": "en",
+   "title": "השיחות קרסו: ארה\"ב הטילה מכסים של 50% על סחורות מקנדה",
+   "link": "https://www.ynet.co.il/economy/article/r1osxiipmx",
+   "summary": "המו\"מ התפוצץ רגעים לפני כניסת המכסים לתוקף. הצעד מפעיל באופן מיידי מכסים של 50% על מוצרים קנדיים בשווי כ-20 מיליארד דולר, ובהם מקלות הוקי, חומרי בנייה, אלכוהול וביגוד. הקנדים צפויים להטיל מכסים בשיעור זהה על סחורה אמריקנית",
+   "source": "Ynet כלכלה",
+   "lang": "he",
    "topic": "business",
-   "rtl": false,
-   "published": "2026-08-21T11:20:57+00:00"
+   "rtl": true,
+   "published": "2026-08-22T04:23:00+00:00"
+  },
+  {
+   "title": "פתיחה מעורבת בת\"א? הדואליות חוזרות בירידות, עליות קלות בחוזים בניו יורק",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001553065#utm_source=RSS",
+   "summary": "אתמול הבורסה ננעלה במגמה מעורבת, מדד ת\"א 35 ירד בכ-0.3%, בעוד מדד ת\"א 90 התקדם בכ-0.7% • פערי הארביטראז' במניות הדואליות צפויים להכביד על מדד ת\"א 35 בשיעור שלילי של כ-0.41% בפתיחה • בזק מעלה תחזיות • שער הדולר עומד הבוקר סביב 3 שקלים • מחירי הנפט רושמים ירידות קלות",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-08-21T06:08:00+00:00"
   }
  ]
 }
