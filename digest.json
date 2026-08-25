@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-24T14:30:39.574526+00:00",
- "generated_display": "Monday, 24 August 2026 · 17:30",
+ "generated_at": "2026-08-25T04:07:26.404219+00:00",
+ "generated_display": "Tuesday, 25 August 2026 · 07:07",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,264 +23,264 @@
  },
  "stories": [
   {
-   "title": "Israel strikes laying groundwork for broad military campaign, Lebanese officials believe - report",
-   "link": "https://www.jpost.com/israel-news/defense-news/article-906427",
-   "summary": "According to the report, the IDF has focused its strikes on strategic ridgelines overlooking villages and towns in the area, as well as on a transportation route leading deeper into Lebanon.",
+   "title": "Drugs found in Gaza aid as IDF destroys Hamas weapons in mosques, arrests West Bank terrorists",
+   "link": "https://www.jpost.com/israel-news/defense-news/article-906481",
+   "summary": "\"Hamas remains the main obstacle to further improving the situation in the Gaza Strip,\" a senior COGAT official said.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-08-24T14:50:48+00:00"
+   "published": "2026-08-25T05:47:51+00:00"
   },
   {
-   "title": "Israeli officials divided over claimed Iranian weapons smuggling to Hezbollah, IDF's Syria strategy",
-   "link": "https://www.jpost.com/middle-east/article-906412",
-   "summary": "Netanyahu accused of creating tensions with Syria, Turkey for electoral purposes • Syria has mostly curbed Iranian smuggling under Ahmed al-Sharaa, as IDF sources say no recent spike detected",
+   "title": "Alabama launches investigation into OpenAI’s hack of Hugging Face",
+   "link": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
+   "summary": "Weeks after OpenAI disclosed that one of its cybersecurity models had gone rogue and hacked AI dataset company Hugging Face, Alabama’s attorney general announced an investigation into the incident.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-08-24T19:58:17+00:00"
+  },
+  {
+   "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
+   "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+   "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to counter them.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-25T03:50:06+00:00"
+  },
+  {
+   "title": "Australia news live: Major Sydney property developer collapses leaving buyers in limbo; Greens senator opts out for 2028 over partner’s health",
+   "link": "https://www.theguardian.com/australia-news/live/2026/aug/25/australia-news-live-sydney-trains-delays-cancellations-albanese-gst-wa-one-nation-coalition-secret-harbour-election-tax-reform-royal-commission-antisemitism-icac-victorian-rail-loop-alan-jones-trial-ntwnfb",
+   "summary": "West Australian newspaper uses moniker on front page. Follow today’s news live Get our breaking news email , free app or daily news podcast Number of NSW households in urgent need of priority housing hits highest level in over a year The number of NSW households in urgent need of priority social housing has reached 13,776, the highest in more than a year. The waitlist has sat [at] around 70,000 si",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-25T03:47:32+00:00"
+  },
+  {
+   "title": "Israel must remember the danger carried by Gaza kites, Hamas dictating tempo at border - editorial",
+   "link": "https://www.jpost.com/opinion/article-906466",
+   "summary": "Israel has paid far too high a price to relearn this lesson. The kites crossing the border today may contain nothing, but the next ones may not. We should not wait and see.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-08-24T12:35:01+00:00"
+   "published": "2026-08-25T05:58:02+00:00"
   },
   {
-   "title": "\"שריינו לנשים מקומות ברשימות\": הדרישה לראשי המפלגות לקראת הבחירות",
-   "link": "https://www.israelhayom.co.il/news/politics/article/21267635",
-   "summary": "13 נשים העומדות בראש רשויות בישראל חתמו על עצומת מיזם 5050 בדרישה לשבץ נשים וגברים לסירוגין ברשימות לכנסת • הפנייה מגיעה לקראת הגשת הרשימות, על רקע פערים גדולים בייצוג הנשים בין המפלגות",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-24T13:04:02+00:00"
-  },
-  {
-   "title": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.",
-   "link": "https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html",
-   "summary": "An attack by what Ukrainian officials said was a Russian drone with an Nvidia chip presages a dystopian future of weaponry untethered to humans.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-24T14:24:53+00:00"
-  },
-  {
-   "title": "נתונים מדאיגים: הפערים בקופסאות האוכל של ילדי ישראל",
-   "link": "https://www.israelhayom.co.il/news/education/article/21268001",
-   "summary": "סקר חדש של ארגון \"לקט ישראל\" ומכון \"מדגם\" חושף כי כמעט 50% מההורים שהכנסתם מתחת לממוצע נאלצים לוותר על פריטי מזון בארוחות העשר של ילדיהם • במקביל, שגרת החירום הביטחונית גורמת לעלייה בצריכת חטיפים ולירידה באכילה מסודרת, במיוחד בקרב משפחות שנפגעו כלכלית • בארגון לקט ישראל מתריעים: \"תזונה בריאה היא לא רק עניין של ידע, אלא גם של נגישות\"",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-24T13:45:17+00:00"
-  },
-  {
-   "title": "Access to Zambian courts prevented as election petition deadline looms",
-   "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
-   "summary": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-24T14:02:17+00:00"
-  },
-  {
-   "title": "US nutrition startup Berry Street merges with India’s Healthify as GLP-1 trends upwards",
-   "link": "https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/",
-   "summary": "Berry Street founder Noah Kotlove and Healthify founder Tushar Vashisht will act as co-CEOs of the new entity.",
+   "title": "India’s Airbound bags $37M to take on trucks with rocket-like drones",
+   "link": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
+   "summary": "Airbound's ultra-lightweight approach to drone delivery has attracted backing from Greenoaks, DoorDash, and Silicon Valley investor Lachy Groom.",
    "source": "TechCrunch",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-08-24T13:45:15+00:00"
+   "published": "2026-08-25T03:30:00+00:00"
   },
   {
-   "title": "Iran vows to retaliate against countries that cooperate with fresh US sanctions",
-   "link": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
-   "summary": "Test of US rhetoric will rest on whether nations such as India, China and Russia view economic threats as credible Tehran has vowed to retaliate against any country that cooperates with the US attempt to impose fresh sanctions against Iran in what the Treasury secretary, Scott Bessent, has billed as “the single greatest financial offensive ever marshalled against an adversary”. In advance of the U",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-24T11:53:10+00:00"
-  },
-  {
-   "title": "20 ק\"ג סמים ו-36 חבילות: ניסיון ההברחה לירדן שסוכל ברגע האחרון",
-   "link": "https://news.walla.co.il/item/3862806",
-   "summary": "ארבעה חשודים השליכו את החבילות מעבר לגבול אל הצד הירדני ונמלטו מהמקום, אך כוחות משותפים של המשטרה וצה\"ל זיהו את הארבעה ועצרו אותם. אירוע זה מצטרף לשורת ניסיונות הברחה של מאות קילוגרמים של סמים מסוגים שונים, בשווי מיליוני שקלים שסוכלו בחודשים האחרונים",
-   "source": "וואלה",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-24T12:12:00+00:00"
-  },
-  {
-   "title": "בגלל בלון הליום: פיצוצים נשמעו בתחנה בנתב\"ג, שיבושים בתנועת הרכבות | תיעוד",
-   "link": "https://www.ynet.co.il/news/article/syowvpyvgl",
-   "summary": "נוסעים דיווחו על תקלה בתחנת הרכבת בנתב\"ג, הגורם: בלון הליום שהתעופף וגרם לפיצוץ של כבלים חשמליים. הנוסע אלכס סיפר ל-ynet: \"קראו לנו בכריזה להתפנות - ופינו אותנו לתוך נמל התעופה\". גורם בכיר ברכבת ישראל: \"רק נס גלוי הציל אזרחים מאסון קטלני. האסון יגיע, רק התאריך לא ידוע\"",
+   "title": "המחאה של משפחות החטופים  נגד הארגון האמריקני-ישראלי: אל תתנו לדרמר במה",
+   "link": "https://www.ynet.co.il/news/article/byjrrx9dmg",
+   "summary": "120 בני משפחות של חטופים ושל חיילי יצאו נגד החלטת ארגון IAC להציב את השר לשעבר כדובר הראשי ב-3 אירועים שיקיים בחודש הבא, בטענה שהוא היה אחד מהקולות המשפיעים ביותר בהתנגדות לכמה עסקאות חטופים: \"ההחלטה מזלזלת וחסרת כבוד עבור משפחות ששילמו מחיר ישיר על ההחלטות הללו״",
    "source": "Ynet חדשות",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-08-24T13:21:41+00:00"
+   "published": "2026-08-25T03:15:33+00:00"
   },
   {
-   "title": "הטורקים עוד לא על הגבול, בצה\"ל חוששים מאשליית השקט: \"כבר יש גורמים עוינים\"",
-   "link": "https://www.ynet.co.il/news/article/bkuoeifdfx",
-   "summary": "בצל החשש מהעמקת האחיזה של אנקרה בסוריה, בצה\"ל מבהירים כי לא זוהו לפי שעה כוחות טורקיים סמוך לגבול, אך נערכים למטענים וממשיכים לפשוט על כפרים. במקביל, הצבא והמשטרה משנים את הטיפול ב\"פורעי הבשן\" שחוצים את הגבול ומסיטים כוחות. תמונת מצב מ\"הגזרה השקטה\" שעוד עלולה להתלקח",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-24T12:44:52+00:00"
-  },
-  {
-   "title": "שוב תקלה ברכבת: שיבושים ואיחורים בתנועת הרכבות בדרך לנתב\"ג ולירושלים",
-   "link": "https://news.walla.co.il/item/3862880",
-   "summary": "בעקבות קרע בכבל חשמל, דווקא בשיא הקיץ והטיסות לחו\"ל, בשעה זו נרשמים עיכובים בתנועת הרכבות לתחנות שדה התעופה ולתחנת נבון בירושלים. מדובר במקטע בו הופסקה תנועת הרכבות מספר פעמים בעבר עקב תקלות חישמול וקריעת חוטים. בהנהלת רכבת ישראל סירבו להגיב",
-   "source": "וואלה",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-24T16:35:00+00:00"
-  },
-  {
-   "title": "Brake problems in GM EVs draw greater federal scrutiny",
-   "link": "https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/",
-   "summary": "In one crash, the driver of a 2024 Blazer EV said they had to \"deliberately steer the vehicle into a concrete curb\" to slow it down and avoid a \"catastrophic intersection collision.\"",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-08-24T14:18:47+00:00"
-  },
-  {
-   "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
-   "link": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
-   "summary": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-24T09:47:22+00:00"
-  },
-  {
-   "title": "Syria and Israel Hold U.S.-Mediated Talks to Try to Ease Tensions",
-   "link": "https://www.nytimes.com/2026/08/24/world/middleeast/syria-israel-talks-us-jordan.html",
-   "summary": "The discussions, reported by the Syrian state news agency, came days after Israel struck an air base in Syria’s northwest, the latest in a series of military interventions.",
+   "title": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War",
+   "link": "https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html",
+   "summary": "Detailed accounts of the final hours of the negotiations show that, while the United States offered Canada what it said was the best deal of any country, what Canada had to give up in exchange was seen as unthinkable.",
    "source": "NY Times World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-24T13:35:17+00:00"
+   "published": "2026-08-25T04:01:11+00:00"
   },
   {
-   "title": "No 10 says glorification of dangerous driving ‘for clips and entertainment is utterly disgraceful’ – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/aug/24/labour-andy-bunrham-social-media-firms-dangerous-driving-content-middlesborough-latest-news-updates",
-   "summary": "Downing Street repeats calls for social media platforms to review content and policies as companies urged to uphold legal duties Lee Anderson, the Reform UK MP for Ashfield, is first up to speak. He says young people in his constituency – and in many areas across the country – have “absolutely no chance” of securing council housing or social housing. He says that Reform’s government would “put Bri",
+   "title": "Australia Watches Its Bird Flu Fears Come True",
+   "link": "https://www.nytimes.com/2026/08/25/world/australia/bird-flu-infection-prevention.html",
+   "summary": "Australia confirmed its first case of H5N1 in June in migratory seabirds. Since then, the virus has spread rapidly, straining government responses.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-25T04:01:07+00:00"
+  },
+  {
+   "title": "פפראצי: קוונטין טרנטינו בדרך הביתה מלונדון",
+   "link": "https://www.israelhayom.co.il/forreal/global/article/21271304",
+   "summary": "בזמן שהוא עובד על הפרויקט הבא שלו בלונדון, הבמאי תועד בשדה התעופה בדרך חזרה לישראל, כאן מחכים דניאלה פיק ושני ילדיהם. וכן, גם אפילו טרנטינו צריך לעבור בדרך הביתה בנתב\"ג",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-25T03:35:44+00:00"
+  },
+  {
+   "title": "כוכב הרשת חסן פייקר מעודד אנטי־ציונות ומסרב להתנצל",
+   "link": "https://www.haaretz.co.il/news/world/america/2026-08-25/ty-article-magazine/.premium/000001a0-3483-d9fc-ada6-3d9f03830000",
+   "summary": "בריאיון ראשון לתקשורת הישראלית, הסטרימר חסן פייקר אומר ל\"הארץ\" כי יש לבחון את 7 באוקטובר בהקשר של הכיבוש, טוען שיש \"לבייש ולהוקיע\" גם ציונים ליברלים, ומסביר מדוע רוב האמריקאים כבר לא אוהבים את ישראל",
+   "source": "הארץ",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-25T03:29:22+00:00"
+  },
+  {
+   "title": "Liberals criticise ‘unimpressive and underwhelming’ rail loop plan as Victorian premier pushes ahead after hinting at pause",
+   "link": "https://www.theguardian.com/australia-news/2026/aug/24/victorian-premier-ben-carroll-pushes-ahead-with-srl-spend-despite-hinting-at-pause",
+   "summary": "A day after suggesting other projects were more important to Victorians, Ben Carroll says train line will go ahead but at a slightly reduced cost Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Victorian opposition has described Ben Carroll’s plan to scale back new train stations along the Suburban Rail Loop to shave just over",
    "source": "The Guardian",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-24T14:10:16+00:00"
+   "published": "2026-08-25T03:45:59+00:00"
   },
   {
-   "title": "Apple’s four-pack of second-gen AirTags is $20 off",
-   "link": "https://www.theverge.com/gadgets/983726/apple-airtags-second-gen-four-pack-elgato-stream-deck-switch-2-deal-sale",
-   "summary": "Apple’s four-pack of second-generation AirTags is down to $79 (originally $99) at Amazon and at Target, which is the bundle’s lowest price yet. You can get an AirTag for $24 right now piecemeal, but getting four together as a set is a way to save even more. Why pay $96 for four when you can […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-08-24T14:04:04+00:00"
+   "title": "האמן דוד גינתון: \"אין שום דבר דתי בארץ ישראל השלמה. זו עבודת אלילים\"",
+   "link": "https://www.haaretz.co.il/gallery/art/2026-08-25/ty-article-magazine/.premium/000001a0-3014-d7ba-aff3-b2966bb40000",
+   "summary": "גינתון מסתייג מההגדרה אמן פוליטי, אולם עבודות שיצר לפני 30 שנה ומוצגות בתערוכה חדשה, מייצגות סיפור מורכב, מדמם ופרודי",
+   "source": "הארץ",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-25T03:00:28+00:00"
   },
   {
-   "title": "How GoFundMe became America’s backup plan",
-   "link": "https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses",
-   "summary": "Today on Decoder, I’m talking with Tim Cadogan, the CEO of GoFundMe. You know GoFundMe — it’s a major fundraising platform where you can donate to help people with everything from medical expenses to little league uniforms to starting a new business. Tim took over as CEO in March 2020 — a fascinating and chaotic […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-08-24T14:00:00+00:00"
+   "title": "800 מיליארד שקל: הבור בביטוח לאומי | עם גד ליאור",
+   "link": "https://www.ynet.co.il/news/theheadline/article/seuxyi696",
+   "summary": "הגירעון האקטוארי של הביטוח הלאומי מוערך בכמעט כפול מעלות המלחמה, וקרן הרזרבה שאמורה לכסות אותו צפויה להתרוקן כבר ב-2035 - עשר שנים מוקדם מהתכנון המקורי. הזדקנות האוכלוסייה מנפחת את הקצבאות, אבל השאלה היא אם זו הסיבה היחידה או שיש כאן גם כשל מדיניות. גד ליאור, הפרשן הכלכלי של ynet, מסביר איך הגענו לגירעון הזה ומה צפוי לקרות כשהקרן תתרוקן",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-25T02:00:00+00:00"
   },
   {
-   "title": "Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran",
-   "link": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
-   "summary": "The Trump administration calls this \"economic D-Day\" on Iran. Iran vows to respond to fresh sanctions in a \"seismic manner.\"",
-   "source": "NPR News",
+   "title": "French tourist dies in Death Valley after car gets stuck in mud",
+   "link": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
+   "summary": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.",
+   "source": "BBC World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-24T12:26:00+00:00"
+   "published": "2026-08-25T02:08:57+00:00"
   },
   {
-   "title": "US threatens toughest sanctions yet against Iran: What we know",
-   "link": "https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss",
-   "summary": "Tehran has threatened to retaliate against any country that joins new US economic measures.",
+   "title": "אחרי ה\"גוועלד\" של נתניהו – בליכוד מעלים הילוך: \"אדלשטיין לא יהיה בכנסת הבאה\"",
+   "link": "https://www.maariv.co.il/breaking-news/article-1359410",
+   "summary": "",
+   "source": "מעריב",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-25T03:56:09+00:00"
+  },
+  {
+   "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
+   "link": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
+   "summary": "When a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular computer startup, apparently thinks so. But it's not clear that computing giant Lenovo will go that far. Three weeks after a Redditor presented a nearly $300 repair bill for their handheld gaming PC - among other […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-08-24T23:38:10+00:00"
+  },
+  {
+   "title": "Video: Iran reacts to US ‘economic D-Day’ sanctions",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions?traffic_source=rss",
+   "summary": "Iran’s Minister of Economy Ali Madani-Zadeh has responded to the US announcement of a new economic pressure campaign.",
    "source": "Al Jazeera",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-24T10:23:11+00:00"
+   "published": "2026-08-24T20:48:21+00:00"
   },
   {
-   "title": "יותר מאלף סוכני AI הגיעו לאותה החלטה - בלי שאיש תיאם ביניהם",
-   "link": "https://www.ynet.co.il/digital/technews/article/hktc9ctvmg",
-   "summary": "מחקר חדש מצא כי סוכני בינה מלאכותית נוטים ליישר קו עם דעת הרוב גם בלי שהתבקשו לשתף פעולה. החוקרים מזהירים: במערכות פיננסיות, ביטחוניות ואוטונומיות, אפקט העדר הזה עלול להפוך טעות קטנה לכשל בקנה מידה עצום",
-   "source": "Ynet טכנולוגיה",
+   "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss",
+   "summary": "US tells countries to choose between Washington and Tehran, warns Iran's trade partners they will face consequences.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-25T00:00:00+00:00"
+  },
+  {
+   "title": "קנו שואבים מתקדמים וגילו בבית שאי אפשר להפעיל אותם",
+   "link": "https://www.ynet.co.il/economy/article/yokra14875102",
+   "summary": "היבוא המקביל הוא כלי יעיל להוזלת יוקר המחיה, אבל היבואנים המקבילים נותרים ללא תמיכה כשמתגלים קשיים: מי ידאג לצרכן כשהמוצר לא עובד? רוכשי X60 ULTRA של דרימי ב\"אושר עד\" גילו בבית שהמכשיר לא ניתן להפעלה. אחרי שהלקוחות קיבלו החזר כספי התברר כי הפתרון יעלה ליבואן המקביל 80 אלף שקל",
+   "source": "Ynet כלכלה",
    "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-08-25T03:32:56+00:00"
+  },
+  {
+   "title": "The cat-and-mouse game over 3D-printed guns has begun",
+   "link": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
+   "summary": "The creator of the world's first 3D-printed gun claims he's developed a way to thwart government-mandated software meant to block 3D printers from making firearms. It's an opening volley in what's shaping up to be an evolving battle between regulators trying to stem the tide of ghost guns and individuals trying to create workarounds. Cody […]",
+   "source": "The Verge",
+   "lang": "en",
    "topic": "tech",
-   "rtl": true,
-   "published": "2026-08-24T10:52:32+00:00"
+   "rtl": false,
+   "published": "2026-08-24T19:50:00+00:00"
   },
   {
-   "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
-   "link": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
-   "summary": "Job site Adzuna said the number of graduate vacancies was the lowest since 2016",
+   "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+   "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+   "summary": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-08-24T21:45:53+00:00"
+  },
+  {
+   "title": "'What you see is what you pay' - why some US restaurants are banning tips",
+   "link": "https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss",
+   "summary": "Tips are central to US dining culture but some eateries think that they are unfair.",
    "source": "BBC Business",
    "lang": "en",
    "topic": "business",
    "rtl": false,
-   "published": "2026-08-24T10:55:47+00:00"
+   "published": "2026-08-24T23:04:17+00:00"
   },
   {
-   "title": "לראשונה בישראל: רכבת מטרו אוטונומית ללא נהג",
-   "link": "https://www.ynet.co.il/economy/article/yokra14874448",
-   "summary": "נת\"ע מפרסמת הבוקר את הליך המיון המוקדם למכרזי הציוד והתפעול בעשרות מיליארדי שקלים, בפרויקט התשתית המורכב בתולדות המדינה: רכישת מאות קרונות ללא נהג, ומערכות חשמל ואיתות. החברות הבינלאומיות יחויבו בשיתוף פעולה עם תעשיית הסייבר המקומית",
+   "title": "בג\"ץ הקפיא את מאות מיליוני השקלים הקואליציוניים שאושרו בפגרת הבחירות",
+   "link": "https://www.ynet.co.il/economy/article/rya28e5wge",
+   "summary": "יו\"ר הכנסת, יו\"ר ועדת הכספים ומשרד האוצר יצטרכו להסביר לבית המשפט מדוע לא תבוטל העברת הכספים הקואליציוניים שאושרו במהלך הפגרה",
    "source": "Ynet כלכלה",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-08-24T04:02:32+00:00"
+   "published": "2026-08-24T16:59:20+00:00"
   },
   {
-   "title": "Demand soars for free school uniform, says charity",
-   "link": "https://www.bbc.co.uk/news/articles/cvgy4pve4v8o?at_medium=RSS&at_campaign=rss",
-   "summary": "Doreen's repurposes old uniforms and gives them to families in Hull and East Yorkshire for free.",
+   "title": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
+   "link": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
+   "summary": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the \"right attitude\".",
    "source": "BBC Business",
    "lang": "en",
    "topic": "business",
    "rtl": false,
-   "published": "2026-08-24T13:46:48+00:00"
+   "published": "2026-08-25T02:51:53+00:00"
   },
   {
-   "title": "ויקטורי החלה למכור נעלי אסיקס במחיר מוזל",
-   "link": "https://www.ynet.co.il/economy/article/rytziifvfx",
-   "summary": "המלאי בייבוא מקביל נמכר בחמישה סניפים של הרשת. המחיר: 399 שקל - חצי מחיר מאתר היבואן. רשתות השיווק ממשיכות למכור מוצרים לא שגרתיים, למרות שזה לא תמיד משפיע באופן בולט על התוצאות הכספיות: ויקטורי הציגה ירידה במכירות במחצית הראשונה של השנה בנטרול המכירות לעזה",
-   "source": "Ynet כלכלה",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-08-24T11:22:47+00:00"
-  },
-  {
-   "title": "מסתמן: לפחות 93% מהעסקים יוחרגו מחוק תביעות ייצוגיות",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001553132#utm_source=RSS",
-   "summary": "ועדת חוקה של הכנסת תדון בשבוע הבא בתיקון לחוק • לגלובס נודע שהושגה פשרה, שלפיה עסקים המגלגלים עד 9 מיליון שקל בשנה יוחרגו",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-08-23T16:11:00+00:00"
+   "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+   "link": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
+   "summary": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-08-24T16:41:45+00:00"
   }
  ]
 }
