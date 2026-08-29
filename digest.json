@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-28T23:15:39.309059+00:00",
- "generated_display": "Saturday, 29 August 2026 · 02:15",
+ "generated_at": "2026-08-29T10:17:41.494565+00:00",
+ "generated_display": "Saturday, 29 August 2026 · 13:17",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,6 +23,146 @@
  },
  "stories": [
   {
+   "title": "Turkish presence in Syria poses threat to Israel due to Ankara’s NATO combat doctrine, expert warns",
+   "link": "https://www.jpost.com/middle-east/article-906941",
+   "summary": "\"What we saw about a week ago... is essentially a red line, an Israeli declaration that Israel does not want to see any kind of Turkish presence in central Syria,\" said Dr. Eitan Hai Cohen.",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-08-29T09:50:10+00:00"
+  },
+  {
+   "title": "הערכות: יהיו ניסיונות עיקשים של סיעות הימין לפסול את המפלגות הערביות",
+   "link": "https://www.ynet.co.il/news/article/yokra14878800",
+   "summary": "הקואליציה מתכוונת לנצל את הרוב שלה בוועדת הבחירות המרכזית כדי לנסות ולפסול רשימות ומועמדים ערבים לכנסת, וכבר סימנה את האשם במקרה של כישלון: היו\"ר נעם סולברג. \"הגוף הפוסל הוא גוף פוליטי בעיקרו, שהחלטותיו עלולות להיות מושפעות משיקולים פוליטיים ולאו דווקא ענייניים או משפטיים ואין עליו חובת הנמקה. מדובר במצב בעייתי מאוד\"",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-29T08:16:56+00:00"
+  },
+  {
+   "title": "עד 90 שקל לשעה מתחת לשולחן: \"השוק השחור\" של החינוך המיוחד",
+   "link": "https://news.walla.co.il/item/3863627",
+   "summary": "מחסור באלפי סייעות, שכר נמוך ומערכת שיבוצים עיוורת יצרו שוק מקביל: הורים בעלי אמצעים \"משלימים שכר\" מכיסם כדי להבטיח ליווי ראוי לילדיהם, בזמן שאחרים נותרים מאחור. המשלבות מדברות, המומחים מתריעים: \"מערך השילוב בישראל על סף קריסה\"",
+   "source": "וואלה",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-29T11:00:00+00:00"
+  },
+  {
+   "title": "At least 27 dead and hundreds evacuated after strikes near Kyiv",
+   "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+   "summary": "A 14-year-old girl is among the dead after an attack near the capital overnight, the region's governor said.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-29T09:38:07+00:00"
+  },
+  {
+   "title": "ישראל צריכה \"תקציב מחדש\"",
+   "link": "https://www.israelhayom.co.il/business/article/21303859",
+   "summary": "הממשלה הבאה תקבל מדינה עם הוצאה גדולה יותר על ביטחון, חוב גדול יותר, פחות סיוע אמריקאי, פחות תקציב אזרחי, שקל חזק ועולם עוין יותר כלכלית. כדי לעמוד באתגר חייבים לבחון את תקציב המדינה מהבסיס, ולהתאים אותו למציאות המשתנה",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-29T08:14:06+00:00"
+  },
+  {
+   "title": "Nepali City Struggles to Handle the Many Bodies on Its Riverbanks",
+   "link": "https://www.nytimes.com/2026/08/28/world/asia/nepal-bodies-morgues.html",
+   "summary": "The remains of hundreds of people have washed downstream after devastating floods.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-29T10:04:27+00:00"
+  },
+  {
+   "title": "How much should you reveal on a dating profile? Israeli study finds the sweet spot - study",
+   "link": "https://www.jpost.com/health-and-wellness/article-906934",
+   "summary": "Too little information can signal a lack of effort, while oversharing can backfire. Reichman University researchers found that moderation may be the key to attracting a serious partner.",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-08-29T07:41:51+00:00"
+  },
+  {
+   "title": "זה מה שיש - שב איתנו כאן",
+   "link": "https://www.ynet.co.il/news/article/yokra14879873",
+   "summary": "תהום פעורה בחברה הציונית בישראל וכל צד מנסה למצוא מעקפים. דווקא מפלגות שדורשות (ובצדק) ממשלה עם רוב ציוני, אמורות להבין את גודל השעה מול האזרחים הערבים. עבאס וסגלוביץ' מציעים שותפות מסוג חדש שחבל לפסול מראש. ייתכן שכשהיהודים יבשילו, לא תהיה הנהגה ערבית שתושיט יד",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-29T08:54:48+00:00"
+  },
+  {
+   "title": "As Deadly Flash Flooding Batters Nepal, Some Fear ‘the Entire Himalayas Are Melting’",
+   "link": "https://www.nytimes.com/2026/08/29/travel/flash-flood-nepal-global-warming-himalayas.html",
+   "summary": "A glacier unleashed a deadly flood earlier this week. For local trekking guides and climbers, the mountains were already changing.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-29T09:04:15+00:00"
+  },
+  {
+   "title": "אחרי הנאום הראשון של יו\"ר הפד החדש: עלייה חדה בסיכויים להעלאת ריבית בארה\"ב כבר בספטמבר",
+   "link": "https://www.israelhayom.co.il/business/article/21303910",
+   "summary": "יו”ר הפדרל ריזרב קווין וורש ניצל את נאומו הראשון בג’קסון הול כדי להעביר מסר ניצי במיוחד: האינפלציה עדיין גבוהה מדי והתנאים הפיננסיים אינם מרסנים מספיק את הכלכלה • השווקים הגיבו במהירות והעלו משמעותית את ההסתברות להעלאת ריבית כבר בספטמבר • עכשיו העיניים נשואות לנתוני התעסוקה והאינפלציה שיפורסמו לפני החלטת הריבית",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-29T08:21:25+00:00"
+  },
+  {
+   "title": "כוחות צה\"ל פשטו על הכפר אל־מע'ייר לצד מתנחלים; שלושה פלסטינים נפצעו",
+   "link": "https://www.haaretz.co.il/news/politics/2026-08-29/ty-article/.premium/000001a0-4a69-db62-afa1-dbfd288f0000",
+   "summary": "לפי הסהר האדום, אחד הפלסטינים נפצע מירי חי ושניים הוכו בידי מתנחלים. ועוד נמסר כי הצבא ומתנחלים עיכבו את הגעת צוותי ההצלה. תושבים דיווחו כי המתנחלים ניסו פעמיים לגנוב עדרי צאן. לדבריהם, 15 טלאים נגנבו וכבשים נורו",
+   "source": "הארץ",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-08-29T09:43:39+00:00"
+  },
+  {
+   "title": "Man, 41, dies after large sign falls at Christian festival in West Sussex",
+   "link": "https://www.theguardian.com/uk-news/2026/aug/29/man-41-dies-after-large-sign-falls-at-christian-festival-in-west-sussex",
+   "summary": "Six more people hospitalised after incident at Big Church festival near Steyning A 41-year-old man has died and at least six other people have been injured after a large sign fell at a Christian festival in West Sussex, police have said. The man, from Eastbourne, East Sussex, was pronounced dead at the scene after the incident at the Big Church festival near Steyning on Friday afternoon.",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-29T09:26:35+00:00"
+  },
+  {
+   "title": "Forget Starbucks coffee - Gen Z like their drinks ice cold",
+   "link": "https://www.bbc.co.uk/news/articles/cm2r9n2mrp8o?at_medium=RSS&at_campaign=rss",
+   "summary": "Young consumers are choosing cold, customisable drinks and coffee chains are racing to catch up.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-29T04:30:27+00:00"
+  },
+  {
+   "title": "Exeter University approves deal with Saudi Arabia to train military officers and officials",
+   "link": "https://www.theguardian.com/education/2026/aug/29/exeter-university-approves-deal-with-saudi-arabia-to-train-military-officers-and-officials",
+   "summary": "In move that could generate millions, Exeter academics to deliver MA at National Defense University in Riyadh The University of Exeter has approved plans for a “formal partnership” with Saudi Arabia to train senior military officers and government officials, despite long-held concerns about the Saudi government’s human rights record, the Guardian has learned. In a deal that could generate millions",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-29T08:00:22+00:00"
+  },
+  {
    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
    "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
    "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
@@ -31,26 +171,6 @@
    "topic": "tech",
    "rtl": false,
    "published": "2026-08-28T20:24:11+00:00"
-  },
-  {
-   "title": "Israeli citizens abroad push to gain voting rights for upcoming elections",
-   "link": "https://www.jpost.com/israel-election-2026/article-906920",
-   "summary": "Israelis whom the government classifies as nonresidents are assigned a designation known as \"Code 51\" and removed from the voter registry, even though they retain their citizenship.",
-   "source": "Jerusalem Post",
-   "lang": "en",
-   "topic": "israel",
-   "rtl": false,
-   "published": "2026-08-28T21:04:28+00:00"
-  },
-  {
-   "title": "The world is watching Israel’s election while ignoring the Palestinian one - opinion",
-   "link": "https://www.jpost.com/opinion/article-906781",
-   "summary": "Global media is closely scrutinizing Israel's election while overlooking Palestinian elections that could empower Hamas or Marwan Barghouti and reshape the region.",
-   "source": "Jerusalem Post",
-   "lang": "en",
-   "topic": "israel",
-   "rtl": false,
-   "published": "2026-08-28T23:42:17+00:00"
   },
   {
    "title": "Is the best way to watch a movie on a pair of sunglasses?",
@@ -63,6 +183,16 @@
    "published": "2026-08-28T22:42:48+00:00"
   },
   {
+   "title": "India and Pakistan are united in spending citizen lives like pocket change",
+   "link": "https://www.aljazeera.com/opinions/2026/8/29/india-and-pakistan-are-united-in-spending-citizen-lives-like-pocket-change?traffic_source=rss",
+   "summary": "Recent hospital fires expose how little decades of national achievement mean when basic public safety still fails.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-29T07:08:23+00:00"
+  },
+  {
    "title": "DLSS 5 leaked and modders are putting Nvidia’s AI effects on everything",
    "link": "https://www.theverge.com/games/986197/nvidia-dlss-5-leak-ai",
    "summary": "Modders are trying out an unofficial version of Nvidia's DLSS 5 on Skyrim, Cyberpunk 2077, GTA V, and a bunch of other games after code for the AI upscaling tech appeared in an early-access build of NBA 2K27. Members of the RenoDX modding channel on Discord reportedly found a way to extract the DLSS \"Neural […]",
@@ -73,44 +203,14 @@
    "published": "2026-08-28T16:22:16+00:00"
   },
   {
-   "title": "Unstable Manhattan Building Had More Damaged Columns Than Previously Known",
-   "link": "https://www.nytimes.com/2026/08/28/nyregion/nyc-manhattan-building-collapse-pfizer-columns-steel.html",
-   "summary": "Drawings obtained by The New York Times and reviewed by engineers show insufficient reinforcements on eight more steel columns than previously known at a Manhattan building.",
-   "source": "NY Times World",
+   "title": "Iran war live: Tehran pledges to stand firm against ‘unjust’ US sanctions",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss",
+   "summary": "Iran says it will rely equally on diplomacy and defence to protect its interests.",
+   "source": "Al Jazeera",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-28T22:33:35+00:00"
-  },
-  {
-   "title": "Berlin is being blackmailed by hackers, mayor says",
-   "link": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss",
-   "summary": "Kai Wegner says the German capital and city-state would not cave in to a ransom demand for data stolen in a cyber-attack.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-28T21:29:01+00:00"
-  },
-  {
-   "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
-   "link": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
-   "summary": "But they say Moscow will likely continue its \"hybrid activity\" against Nato members, short of direct military action.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-28T19:05:23+00:00"
-  },
-  {
-   "title": "Number of Australians missing in Nepal’s deadly floods rises again, as Albanese deploys more personnel",
-   "link": "https://www.theguardian.com/world/2026/aug/29/australians-missing-nepal-floods-total-rises-albanese-dfat-personnel-arriving",
-   "summary": "The figure rose to 41 on Saturday morning, with four rapid response teams to arrive in Kathmandu The number of Australians who were reported missing in the catastrophic Nepal flooding disaster has risen to 41, as one family celebrates after an unaccounted-for woman made contact with them yesterday. It means three additional Australians were confirmed missing overnight – up from 38 who remained una",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-28T22:53:57+00:00"
+   "published": "2026-08-29T00:00:00+00:00"
   },
   {
    "title": "Google further buries search results under AI mode",
@@ -123,74 +223,14 @@
    "published": "2026-08-28T22:48:11+00:00"
   },
   {
-   "title": "הפסיכולוג הדיגיטלי שלכם מקליט הכל: האשליה המסוכנת של ChatGPT",
-   "link": "https://www.israelhayom.co.il/tech/how-to/article/21301816",
-   "summary": "חשבתם שהצ'אט הפרטי נשאר בתוך המסך? הנתונים מראים כי שיחות נפש עם AI כבר שימשו כראיות במשפטי רצח, חולצו על ידי האקרים ושימשו לאימון מודלים מסחריים • סקר חדש של DuckDuckGo חושף כי על אף ש-50% מהציבור לא סומכים על הממשלה, הם משתפים עם ה-AI סודות כמוסים שלא סיפרו מעולם • כך הפכו המודלים למאגר המודיעין החדש",
-   "source": "ישראל היום",
+   "title": "חיכינו שהמדינה תציל את הילדים מהמסכים. זו הייתה טעות",
+   "link": "https://www.ynet.co.il/digital/technology/article/hky9jxg00fe",
+   "summary": "הילדים שלנו מבלים יותר ויותר מול המסכים, והמחיר כבר מורגש בקשב, בבריאות הנפשית ובכישורים החברתיים. אבל הפתרון לא חייב להגיע מלמעלה: דחיית גיל הסמארטפון, הסכמות בין הורים ושינוי הנורמות בבתי הספר יכולים להחזיר את השליטה לידיים שלנו | דעה",
+   "source": "Ynet טכנולוגיה",
    "lang": "he",
-   "topic": "israel",
+   "topic": "tech",
    "rtl": true,
-   "published": "2026-08-28T19:28:39+00:00"
-  },
-  {
-   "title": "75 דקות לענאן חלאילי, קריסטל פאלאס הובסה 4:1 על ידי מנצ'סטר סיטי",
-   "link": "https://www.haaretz.co.il/sport/world-soccer/2026-08-29/ty-article/000001a0-4a2d-d2c5-a1b2-efaf9b5d0000",
-   "summary": "ענאן חלאילי פתח בהרכב של קריסטל פאלאס לראשונה העונה, אך קבוצתו הובסה מול סגנית האלופה במחזור השני באנגליה. המגן הישראלי הוחלף במצב של 3:1, הולאנד ושרקי כבשו צמד כל אחד",
-   "source": "הארץ",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-28T21:14:38+00:00"
-  },
-  {
-   "title": "\"הסטטוס קוו אינו מספיק\": ענקיות ה-AI פוחדות מהמוצר של עצמן",
-   "link": "https://www.israelhayom.co.il/tech/tech-news/article/21301384",
-   "summary": "יותר מ-100 חברות - בהן OpenAI, גוגל, מיקרוסופט ואנתרופיק - חתמו על מכתב פתוח שמזהיר מפני גל מתקפות אוטונומיות • הרקע: סוכני AI שפרצו מהסביבה המאובטחת שלהם ותקפו חברות טכנולוגיה • האם מדובר באחריות תאגידית או בקמפיין הפחדה מסחרי?",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-28T18:11:50+00:00"
-  },
-  {
-   "title": "מאמן הכדוריד שזעזע את הרשויות: \"בת ה-9 לא הצליחה לדבר. בוכה, בוכה ובוכה\"",
-   "link": "https://www.ynet.co.il/news/article/bkmwfsppfx",
-   "summary": "26 נפגעות. 38 שלא שיתפו פעולה. מאמן כדוריד אחד, שהסתתר תחת שמות. בנו ריינהורן ידע בדיוק איך לדבר עם ילדות, והפך את זה לנשק: בלי לצאת מהבית, הוא ניצל אותן בהבטחות סרק כדי לקבל תמונות אינטימיות. \"זה אחד התיקים החמורים ביותר שהיו\", אומרת שירי מרום, סגנית מנהלת מחלקת הסייבר בפרקליטות. נערה אחת, שהעידה בגבורה, לא יוצאת לה מהראש. הפרקליטים מדברים, סדרת כתבות",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-28T19:11:09+00:00"
-  },
-  {
-   "title": "Nepali Flood Survivors Face Profound Loss, Pressing Needs and Murky Futures",
-   "link": "https://www.nytimes.com/2026/08/28/world/asia/nepal-flood-survivors.html",
-   "summary": "The disaster has left countless people with little or nothing of the lives they had built, struggling with immediate survival and unsure how to rebuild.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-28T22:34:32+00:00"
-  },
-  {
-   "title": "שקעה במצולות, צפה בזיכרון: שרידי אלטלנה נחשפו, אבל מלחמת האחים עדיין כאן",
-   "link": "https://news.walla.co.il/item/3863696",
-   "summary": "איתור האונייה בעומק הים הצית מחדש את אחד הפצעים המדממים בישראל. בעוד הפוליטיקאים קוראים לאחדות, האנדרטאות בחוף ממשיכות לספר רק חצי מהסיפור - ומחקו לחלוטין את חיילי צה\"ל שנפלו בקרב",
-   "source": "וואלה",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-28T14:25:00+00:00"
-  },
-  {
-   "title": "חצי שנה למלחמה, באיראן חוזרים לדבר על מחאות: \"אנשים רעבים. כלום לא יעצור את זה\"",
-   "link": "https://www.ynet.co.il/news/article/ryibazkozg",
-   "summary": "האינפלציה מזנקת, מוצרי יסוד כבר קשים להשגה וגם הדלק עלול להתייקר. איראן לא בוחלת באמצעים כשעליה לדכא מחאות וכבר הרגה רבבות, אבל איסמעיל מטהרן אמר ל\"ניו יורק טיימס\" שהתקוממות כלכלית \"אי אפשר לעצור\". העדויות מהמשבר, תחושת הגאווה של המשטר: \"הם משוכנעים שהביסו את העולם\" - והמסר של מוג'תבא חמינאי לעם: \"יש להימנע מכל התבטאות שמעוררת ייאוש\"",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-08-28T18:01:15+00:00"
+   "published": "2026-08-29T10:04:01+00:00"
   },
   {
    "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
@@ -203,34 +243,14 @@
    "published": "2026-08-28T15:15:26+00:00"
   },
   {
-   "title": "‘So desperately loved’: ADF member among dozens of Australians missing in Nepal floods as families pray for safe return",
-   "link": "https://www.theguardian.com/world/2026/aug/28/family-missing-australians-nepal-tibet-flash-floods",
-   "summary": "Relatives ‘really worried, but hopeful’ as they wait anxiously for news in the aftermath of the flash flooding disaster Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The families of an Australian defence force member and two Sydney boys who went missing with their parents in Nepal remain hopeful they will be found safe. Dozens o",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-28T18:32:57+00:00"
-  },
-  {
-   "title": "US Fed chair warns inflation progress insufficient, hints at rate hikes",
-   "link": "https://www.aljazeera.com/economy/2026/8/28/us-fed-chair-warns-inflation-progress-insufficient-hints-at-rate-hikes?traffic_source=rss",
-   "summary": "Kevin Warsh in speech underscores Fed's commitment to tackling inflation, with rate hikes possibly on horizon.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-28T17:22:01+00:00"
-  },
-  {
-   "title": "Gaza forced to use unreliable online payments amid ‘cash famine’",
-   "link": "https://www.aljazeera.com/news/2026/8/28/gaza-forced-to-use-unreliable-online-payments-amid-cash-famine?traffic_source=rss",
-   "summary": "Israeli restrictions and war damage have created a liquidity crisis, crippling Gaza's banking system and daily commerce.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-28T16:44:24+00:00"
+   "title": "״אני סאקרית של מבצעים. קונה את הטונה בזול בסופר אחד ואת הבשר בסופר שני״",
+   "link": "https://www.ynet.co.il/economy/article/5hcwhs87i",
+   "summary": "אסף ניסה להיות נגר אבל הבין שהתשוקה שלו היא בתחום הבישול והיום הוא עובד בפיצריה. מאי מלמדת אנגלית בעיקר בזום ומשחקת במקביל בהצגות ילדים. הם גרים בתל אביב וכדי לשרוד את יוקר המחיה בעיר הם מארחים חברים בביתם במקום לצאת למסעדות ועושים השוואות מחירים באינטרנט. ״אני אצום לפני שאכנס למינוס\". משפחת צוריאלי על הספה",
+   "source": "Ynet כלכלה",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-08-29T05:00:00+00:00"
   },
   {
    "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
@@ -243,34 +263,14 @@
    "published": "2026-08-28T18:07:55+00:00"
   },
   {
-   "title": "Gatwick Airport faced water outage after main burst",
-   "link": "https://www.bbc.co.uk/news/articles/cjdvl93e10jo?at_medium=RSS&at_campaign=rss",
-   "summary": "SES Water says it has repaired a burst main which was affecting supply to the airport.",
+   "title": "Wife of man who died after turbulence sues airline",
+   "link": "https://www.bbc.co.uk/news/articles/cqlwrpey1epo?at_medium=RSS&at_campaign=rss",
+   "summary": "Lawyers for Linda Kitchen say her husband was \"fatally injured\" after the flight dropped 6,000 ft.",
    "source": "BBC Business",
    "lang": "en",
    "topic": "business",
    "rtl": false,
-   "published": "2026-08-28T17:38:37+00:00"
-  },
-  {
-   "title": "Here's what we know about the \"space academy\" Trump just announced",
-   "link": "https://arstechnica.com/space/2026/08/trump-calls-for-creation-of-a-space-academy-to-train-future-nasa-leaders/",
-   "summary": "\"It's called the US Space Academy. That's a big deal.\"",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-08-28T17:36:30+00:00"
-  },
-  {
-   "title": "משכנתה הפוכה לגיל השלישי: פתרון ראשון או אחרון?",
-   "link": "https://www.ynet.co.il/economy/article/rygyb25vmg",
-   "summary": "רבים בגיל השלישי שמחפשים כסף זמין למטרות שונות, הולכים על המודל של משכנתה הפוכה - הלוואה על חשבון הנכס שבבעלותם. מדוע הפך המוצר המימוני השנוי במחלוקת הזה ללהיט, מי בכלל מאפשר את זה ולמה פקטור הגיל הוא חשוב? מומחים מסבירים מה חשוב לבדוק, מדוע היורשים הם חלק מהתהליך ואיזה הונאות פיננסיות או טעויות עשויות להפיל את מי שחותם על המהלך. כתבה שישית בסדרה על הישראלים בגיל הפנסיה",
-   "source": "Ynet כלכלה",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-08-28T04:59:00+00:00"
+   "published": "2026-08-28T17:47:00+00:00"
   },
   {
    "title": "קו דוחא-לונדון-חיפה: זרימת הכספים מקטאר לעמותה הישראלית לא עוצרת",
