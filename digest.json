@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-29T17:26:05.533170+00:00",
- "generated_display": "Saturday, 29 August 2026 · 20:26",
+ "generated_at": "2026-08-30T09:23:02.189084+00:00",
+ "generated_display": "Sunday, 30 August 2026 · 12:23",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,204 +23,244 @@
  },
  "stories": [
   {
-   "title": "אחרי ארבע שנים בכנסת: ח\"כ שרון ניר מישראל ביתנו פורשת מהמרוץ",
-   "link": "https://www.israelhayom.co.il/news/politics/article/21306152",
-   "summary": "ניר הודיעה ליו\"ר המפלגה אביגדור ליברמן כי לא תתמודד בבחירות לכנסת ה-26 • \"בארבע השנים החולפות הייתה לי הזכות לפעול למען אזרחי ישראל בתקופה של מלחמה עצימה\" • בישראל ביתנו הודו לה על פעילותה ומסרו: \"נמשיך לעמוד לרשותה\"",
+   "title": "Israel raids homes of terrorists’ families, seizes hundreds of thousands in PA funds",
+   "link": "https://www.jpost.com/israel-news/defense-news/article-906978",
+   "summary": "Police raided several homes, including that of Muhammad Abd al-Rahman Abad, who was involved in an attempted suicide attack in Jerusalem in 2002.",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-08-30T07:24:25+00:00"
+  },
+  {
+   "title": "Hundreds of haredim arrive at Tel Hashomer to enlist in IDF as anti-draft protesters gather",
+   "link": "https://www.jpost.com/israel-news/article-906995",
+   "summary": "“The young men who walked through those gates this morning show you can be fully committed to Torah study and still defend this country on the front line,\" said Lt.-Col. (res) Yossi Levi.",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-08-30T10:27:06+00:00"
+  },
+  {
+   "title": "שלח לליברמן איומים ברצח: \"נחזיר אותך לרוסיה עם כדור בראש\"",
+   "link": "https://www.israelhayom.co.il/news/politics/article/21309964",
+   "summary": "בשורה של הודעות קשות שנשלחו בימים האחרונים אל יו\"ר מפלגת ישראל ביתנו, נכללו קריאות מפורשות לפגוע בחייו ואיומים ברצח • בעקבות החרפה זו בתדירות ההודעות ובחומרתן, הגישה המפלגה תלונה רשמית לקצין הכנסת והעבירה את התיעוד המלא לידי גורמי אכיפת החוק לצורך חקירה",
    "source": "ישראל היום",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-08-29T16:46:24+00:00"
+   "published": "2026-08-30T08:42:56+00:00"
   },
   {
-   "title": "A time for flight renewals: Delta’s and United’s return puts stamp on Israeli victory - comment",
-   "link": "https://www.jpost.com/travel/article-906955",
-   "summary": "When the American airline giants agree to renew flights to Israel, it means the global gatekeepers have officially declared the crisis contained.",
-   "source": "Jerusalem Post",
-   "lang": "en",
+   "title": "\"מלכודת של נתניהו לפני הבחירות\": המדינה הערבית הזהירה את חמאס",
+   "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21310228",
+   "summary": "גורמים פלסטיניים חשפו בפני העיתון \"ראי אל-יום\" כי מדינה ערבית העבירה מסר חריג לארגון הטרור חמאס, ובו אזהרה מפני תוכנית צבאית נרחבת שמתכננת ישראל ברצועת עזה • על פי הדיווח, המהלך מגיע על רקע ניסיונות של נתניהו לייצר הסלמה לקראת הבחירות, ובתגובה דרשו בחמאס מהמתווכים לרסן את ישראל בטרם המצב ייצא מכלל שליטה",
+   "source": "ישראל היום",
+   "lang": "he",
    "topic": "israel",
-   "rtl": false,
-   "published": "2026-08-29T17:50:03+00:00"
+   "rtl": true,
+   "published": "2026-08-30T09:07:07+00:00"
   },
   {
-   "title": "Winds, thunderstorms, low temperatures hit Cyprus as Israel prepares for unusual summer storm",
-   "link": "https://www.jpost.com/environment-and-climate-change/article-906953",
-   "summary": "According to the Cyprus Meteorological Department, the weather had reached almost all of Cyprus, and waterspouts were already recorded at sea off Larnaca, raising concerns over possible tornadoes.",
-   "source": "Jerusalem Post",
-   "lang": "en",
-   "topic": "israel",
-   "rtl": false,
-   "published": "2026-08-29T16:59:10+00:00"
+   "title": "מה הסיכוי שבנק ישראל יוריד שוב את הריבית ביום שלישי?",
+   "link": "https://www.ynet.co.il/economy/article/byntvcluze",
+   "summary": "הירידה באינפלציה והשקל החזק תומכים בהפחתה שלישית ברציפות מחרתיים. מנגד, הגידול בהוצאות הממשלה ואי-הוודאות הביטחונית מעוררים חשש שהמחירים ישובו לזנק, ולכן בנק ישראל עשוי להותיר את הריבית ללא שינוי ברמה של 3.5%",
+   "source": "Ynet כלכלה",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-08-30T04:01:09+00:00"
   },
   {
-   "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-   "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-   "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-29T16:15:56+00:00"
-  },
-  {
-   "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-   "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-   "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-29T15:27:56+00:00"
-  },
-  {
-   "title": "נתניהו גינה \"קומץ פורעים\", בעלי הבית: \"היינו נצורים, זרקו עלינו אבנים - ואותנו עצרו\"",
-   "link": "https://www.ynet.co.il/news/article/ry10ufeofg",
-   "summary": "עם צאת השבת פרסם רה\"מ הודעה שבה \"גינה בתוקף את מעשי האלימות הנפשעים\" בקוסרה וגילה כי השב\"כ מעורב. בעל הבית סיפר כי הם התקשרו למשטרה עם הגעת ראשוני הפורעים, אבל איש לא הגיע: \"היינו נצורים שעה וחצי. צה\"ל ירה עלינו גז מדמיע, עלינו לגג - ואז המתנחלים יידו לעברנו אבנים מההר, אזקו והיכו אותנו, והם לא נעצרו\"",
+   "title": "ניצן אלון: \"יש שחיקה בערכי צה\"ל. חיילים עומדים מנגד נוכח מעשים לא-חוקיים ביו\"ש\"",
+   "link": "https://www.ynet.co.il/news/article/s1ac11pw00fl",
+   "summary": "אלוף פיקוד המרכז לשעבר, שכיהן גם כראש מפקדת השבויים והנעדרים אחרי 7/10, התריע בשיחה עם בני נוער מפני שחיקה ערכית משמעותית של לוחמים ומפקדים: \"זה פועל יוצא של מלחמה מתמשכת\". הוא טען בנוסף כי \"לדרג המדיני יש אחריות על הקונספציה ביחס לחמאס בעזה\"",
    "source": "Ynet חדשות",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-08-29T16:59:47+00:00"
+   "published": "2026-08-30T08:29:00+00:00"
   },
   {
-   "title": "\"השאלה מבחינתי היא כבר לא אם אגיע ל-NBA, אלא מתי\"",
-   "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21305591",
-   "summary": "מיכאל מושיאשווילי שגדל באשקלון אימן הקיץ שני כוכבי ענק מהיורוליג: \"דיברנו על ישראל, זה סקרן אותם\" • עוד לפני כן, הוא עבד תקופה קצרה אצל מילווקי באקס וממשיך לעשות הכל כדי להגיע ל-NBA באופן קבוע • עכשיו הוא מספר על הדרך שלו, העבודה עם שמות גדולים והחזון לפיתוח שחקנים בארץ",
-   "source": "ישראל היום",
+   "title": "Pilgrims to Flood-Stricken Nepal Sought the Divine at Sacred Mountain",
+   "link": "https://www.nytimes.com/2026/08/30/us/nepal-floods-religious-tour.html",
+   "summary": "For many, the trek to Mount Kailash on the border of Nepal and Tibet is a once-in-a-lifetime trip to find spiritual awakening.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-30T09:02:05+00:00"
+  },
+  {
+   "title": "Deportees Sent to Liberia Recount Harrowing Details of U.S. Expulsion and Treatment by ICE",
+   "link": "https://www.nytimes.com/2026/08/30/world/africa/us-deportation-flight-ice-detention-liberia.html",
+   "summary": "Ten deportees said they experienced or witnessed what they called abusive or violent treatment by ICE. They spent months in detention, they said, before being sent to nations where they had no ties.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-30T09:01:57+00:00"
+  },
+  {
+   "title": "האזהרה החריפה מצמרת מערכת הביטחון: \"אנחנו על פי תהום\"",
+   "link": "https://www.ynet.co.il/news/article/yokra14881398",
+   "summary": "\"מחיר שלא ישולם כעת בכסף ישולם מחר בביטחון המדינה\": במערכת הביטחון מתריעים שבאגף התקציבים בולמים העברת 15 מיליארד שקלים שכבר סוכמה, ואושרה על ידי הממשלה. התוצאה: מחסור חמור בהאמרים ובחימושים, ועסקאות מול ארה\"ב שלא יצאו לפועל. החשש: שיתוק בתקופת בחירות",
+   "source": "Ynet חדשות",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-08-29T15:12:32+00:00"
+   "published": "2026-08-30T03:50:07+00:00"
   },
   {
-   "title": "Nvidia’s AI advantage is moving beyond the GPU",
-   "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-   "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-08-29T13:00:00+00:00"
-  },
-  {
-   "title": "The Theragun Sense makes everyday recovery surprisingly easy",
-   "link": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/",
-   "summary": "As my 20s are set to come to an end later this year, I’ve officially reached the age where sleeping in the wrong position or stretching just a little too far can cause aches and pains. I’ve always been somewhat skeptical of massage guns, mostly because I’ve tried a few off-brand ones and just assumed […]",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-08-29T14:00:00+00:00"
-  },
-  {
-   "title": "צה\"ל: עימות אלים בקוסרה; חשד שישראלים יידו אבנים והתבצרו בבית פלסטיני",
-   "link": "https://www.inn.co.il/flashes/1129317",
-   "summary": "כוחות צה\"ל ומג\"ב הוזעקו היום (שבת) לכפר קוסרה שבשומרון בעקבות דיווח על חיכוך אלים בין ישראלים לפלסטינים.",
-   "source": "ערוץ 7",
+   "title": "קוף אותר בתוך כלוב במושב: תושב ברכיה נעצר ושוחרר בתנאים מגבילים",
+   "link": "https://news.walla.co.il/item/3864166",
+   "summary": "הקוף, גנון ירוק, נמצא כשהוא מוחזק בכלוב בבית במושב ברכיה. הוא חולץ והועבר למקלט הקופים הישראלי, שם יעבור בדיקות רפואיות מקיפות. תושב המקום בשנות ה-30 לחייו נעצר, כשהוא חשוד בעבירת סחר והחזקה בלתי חוקית של חיית בר מוגנת",
+   "source": "וואלה",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-08-29T16:47:34+00:00"
+   "published": "2026-08-30T09:36:00+00:00"
   },
   {
-   "title": "שב\"כ מאשר: היה איום משמעותי לפגיעה ביאיר נתניהו, הוחלט לחלצו חזרה לישראל",
-   "link": "https://www.haaretz.co.il/news/politics/2026-08-29/ty-article/.premium/000001a0-4e86-db96-a7fb-fed60edd0000",
+   "title": "נגמרו ימי הדרלינג של המערב שמותר לו הכל. ישראל והעולם הולכים ונפרדים",
+   "link": "https://www.haaretz.co.il/opinions/2026-09-03/ty-article-opinion/.premium/000001a0-4df2-d649-a7be-ddf2c7d80000",
    "summary": "",
    "source": "הארץ",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-08-29T17:17:50+00:00"
+   "published": "2026-09-03T03:00:00+00:00"
   },
   {
-   "title": "Nepali City Struggles to Handle the Many Bodies on Its Riverbanks",
-   "link": "https://www.nytimes.com/2026/08/28/world/asia/nepal-bodies-morgues.html",
-   "summary": "The remains of hundreds of people have washed downstream after devastating floods.",
-   "source": "NY Times World",
+   "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+   "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+   "summary": "Five others in their twenties were injured after shots were fired in Aarau, near Zurich overnight.",
+   "source": "BBC World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-29T15:05:20+00:00"
+   "published": "2026-08-30T09:15:35+00:00"
   },
   {
-   "title": "Far-right media provocateur Milo Yiannopoulos deported by ICE from US to UK",
-   "link": "https://www.theguardian.com/us-news/2026/aug/29/milo-yiannopoulos-deported-us-to-uk",
-   "summary": "Ex-Breitbart editor has vocally supported immediate deportations for anyone who can’t prove US residency Far-right British media provocateur Milo Yiannopoulos has been deported from the US after being detained on Thursday by Immigration and Customs Enforcement (ICE) in New Orleans in connection with what the agency said was expired authorization to be in the country and a deportation order. Yianno",
-   "source": "The Guardian",
+   "title": "WhatsApp chat used to send cash for crime and extremism",
+   "link": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+   "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
+   "source": "BBC World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-29T17:08:43+00:00"
+   "published": "2026-08-30T04:59:56+00:00"
   },
   {
-   "title": "עשרות מתנחלים פצעו פלסטינים בקוסרה והתבצרו בבית. הם לא נעצרו",
-   "link": "https://www.haaretz.co.il/news/politics/2026-08-29/ty-article/000001a0-4ce9-d5a0-a1f7-feefbec70000",
-   "summary": "התקיפה אירעה בשטח סגור לישראלים, אף שהצבא הכריז על מבצע לפינוי מאחזים באזור. צה\"ל עיכב פלסטינים שהיו בבית. אחד המעוכבים העיד כי החיילים הכו אותם. נתניהו: \"קומץ פורעים שפוגע במעמד ישראל בעולם\"",
-   "source": "הארץ",
+   "title": "רבע מהישראלים ישאלו את ה-AI למי להצביע - והרשת כבר מוצפת בפייק",
+   "link": "https://www.ynet.co.il/digital/technews/article/hyif8lbdzx",
+   "summary": "סקר חדש של איגוד האינטרנט הישראלי חושף את תמונת המצב ברשת לקראת הבחירות: 71% מהישראלים כבר נתקלו בפייק ניוז, 57% בחשבונות מזויפים או מתחזים וכמחצית בשימוש ב-AI לצורך השמצה ופגיעה באחרים. כ-70% חוששים שהשיח הפוליטי יוביל להחמרה באלימות ברשת",
+   "source": "Ynet טכנולוגיה",
    "lang": "he",
-   "topic": "israel",
+   "topic": "tech",
    "rtl": true,
-   "published": "2026-08-29T10:50:42+00:00"
+   "published": "2026-08-30T07:15:24+00:00"
   },
   {
-   "title": "UNRWA’s first and last vocational college in East Jerusalem is under threat",
-   "link": "https://www.aljazeera.com/features/2026/8/29/unrwas-first-and-last-vocational-college-in-east-jerusalem-is-under-threat?traffic_source=rss",
-   "summary": "Israel threatens the Qalandiya Training Centre, one of Jerusalem's oldest still-operational educational institutions.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-29T12:58:25+00:00"
-  },
-  {
-   "title": "Search Continues for 2,400 Missing in Nepal Floods Amid ‘Immense’ Devastation",
-   "link": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html",
-   "summary": "As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-08-29T17:04:01+00:00"
-  },
-  {
-   "title": "Number of missing in Nepal and Tibet rises to nearly 3,000 as operations continue",
-   "link": "https://www.theguardian.com/world/2026/aug/29/nepal-tibet-chinese-rescue-team-finds-nothing-but-ruins-after-reaching-border-crossing-hit-by-deadly-flood",
-   "summary": "Nepal requests foreign ⁠help in identification and storing of bodies, DNA testing and rescuing people from tunnels Visual guide: how the deadly flooding unfolded Nepal-Tibet flash flood – latest updates The number of people killed in the floods in Nepal has risen to at least 675, the country’s disaster authority has said. Seven have also been confirmed dead in Tibet by Chinese state media, taking ",
+   "title": "Iceland appears to have rejected EU accession talks in referendum, reports say",
+   "link": "https://www.theguardian.com/world/2026/aug/30/iceland-eu-accession-talks-referendum-result",
+   "summary": "The no camp looks to have prevailed, holding 52.5% of votes with only a few left to be counted, says public broadcaster Iceland appears to have ⁠rejected ⁠the government’s proposal ​to hold ⁠accession talks with ⁠the ​EU, ‌the public ‌broadcaster RUV has ‌reported, with only a small ‌number of votes ​left to count. The no camp had 52.5% of votes and the yes camp 47.5%, with only a few ballots left",
    "source": "The Guardian",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-29T15:00:37+00:00"
+   "published": "2026-08-30T08:51:05+00:00"
   },
   {
-   "title": "Israel raids, shutters UNRWA lifeline for Palestinian refugees",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israel-raids-shutters-unrwa-lifeline-for-palestinian-refugees?traffic_source=rss",
-   "summary": "An UNRWA vocational centre in the occupied West Bank has been raided by Israeli forces and ordered to close.",
+   "title": "PC Andrew Harper’s killers will stay in prison as Burnham changes early release scheme",
+   "link": "https://www.theguardian.com/politics/2026/aug/30/pc-andrew-harper-killers-excluded-early-release-scheme",
+   "summary": "PM says anyone convicted of unlawful killing, including all forms of manslaughter, will be excluded from the scheme PC Andrew Harper’s killers will remain behind bars after Andy Burnham announced changes to the early release scheme aimed at easing prison overcrowding, saying he understood “how strongly people feel about this issue”. The prime minister said anyone convicted of unlawful killing, inc",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-30T08:15:03+00:00"
+  },
+  {
+   "title": "One person killed, five wounded in shooting at rave in Switzerland",
+   "link": "https://www.aljazeera.com/news/2026/8/30/one-person-killed-five-wounded-in-shooting-at-rave-in-switzerland?traffic_source=rss",
+   "summary": "Police said a manhunt is under way following the incident at the annual techno party.",
    "source": "Al Jazeera",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-08-29T13:10:04+00:00"
+   "published": "2026-08-30T08:02:35+00:00"
   },
   {
-   "title": "Musicians-turned-detectives are hunting for AI grifters",
-   "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-   "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this kind of content immediately own up to using AI, others have denied using the technology […]",
+   "title": "התלונות על עדיקה: המחירים עלו, השבת זה גימיק",
+   "link": "https://www.ynet.co.il/economy/article/hyfcvibogx",
+   "summary": "אתר החברה נסגר בשבת לבקשת הפרזנטורית אודיה, ולמרות שלא מדובר בנוהג חדש בענף - המהלך עורר סערה: \"כי זה לא צנוע לקנות בשבת בגד בגודל של מפית, רק במהלך השבוע\", אבל גם תמיכה: \"אשת עקרונות, אין ברכה בכסף בשבת\". במקביל, לקוחות מתלוננות שהמותג התקמבק עם מחירים גבוהים: \"גם ביום חול לא קונים עד שלא תורידו את המחירים ההזויים האלה, 200 שקל לטי שירט\"",
+   "source": "Ynet כלכלה",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-08-30T07:37:15+00:00"
+  },
+  {
+   "title": "US police officer pulls hair, throws punches during arrest in Arkansas",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/us-police-officer-pulls-hair-throws-punches-during-arrest-in-arkansas?traffic_source=rss",
+   "summary": "Footage shows an Arkansas state patrol officer pulling a passenger by his hair and punching him during an arrest.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-08-30T04:50:17+00:00"
+  },
+  {
+   "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+   "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+   "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-08-29T18:41:59+00:00"
+  },
+  {
+   "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+   "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+   "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-08-29T17:51:10+00:00"
+  },
+  {
+   "title": "Sony Music and Warner Chappell are suing Anthropic",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+   "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the […]",
    "source": "The Verge",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-08-29T12:00:00+00:00"
+   "published": "2026-08-29T18:19:53+00:00"
   },
   {
-   "title": "Distraction-free writing gadget BYOK is adding custom extensions",
-   "link": "https://www.theverge.com/gadgets/986427/distraction-free-writing-gadget-byok-scripts-extensions",
-   "summary": "BYOK is a no-frills, single-purpose gadget that 90 percent of people will find absolutely frivolous. But for those who spend a significant chunk of their lives putting words to virtual paper, there is an obvious allure. Personally, I think it's at its best when you just stick to the bare minimum, focusing on pure text […]",
+   "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
+   "link": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
+   "summary": "I used to be an avid hiker and would try to go backpacking a few times a year. I always dreamed of thru-hiking the Appalachian Trail, but life kind of got in the way. (Turns out jobs, wives, and children aren't thrilled with the idea of you disappearing for three months.) But I've been longing […]",
    "source": "The Verge",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-08-29T16:01:13+00:00"
+   "published": "2026-08-29T20:59:26+00:00"
+  },
+  {
+   "title": "Fundraiser launched to secure crafting shop future",
+   "link": "https://www.bbc.co.uk/news/articles/cz0zr3577glo?at_medium=RSS&at_campaign=rss",
+   "summary": "\"We don't want to give up, we want to keep making this work,\" say the owners.",
+   "source": "BBC Business",
+   "lang": "en",
+   "topic": "business",
+   "rtl": false,
+   "published": "2026-08-29T18:15:54+00:00"
   },
   {
    "title": "Barber offers free back-to-school haircuts",
@@ -241,46 +281,6 @@
    "topic": "tech",
    "rtl": false,
    "published": "2026-08-29T10:50:31+00:00"
-  },
-  {
-   "title": "למדו מהישראלים? הקומבינה שתעקוף את קטאר כדי לייצר רכיבי כיפת ברזל בגרמניה",
-   "link": "https://www.ynet.co.il/economy/article/rkv0hxl00ml",
-   "summary": "ממשלת סקסוניה תחתית תשקיע 200 מיליון אירו במפעל באוסנברוק בו היו אמורים להיות מיוצרים הרכיבים, תשתלט עליו, וכך העסקה תתבצע בין רפאל לממשלה המקומית ולא עם פולקסווגן בה מחזיקה קטאר בזכות וטו. המהלך יציל אלפי מקומות עבודה",
-   "source": "Ynet כלכלה",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-08-29T10:22:23+00:00"
-  },
-  {
-   "title": "אודיה ביקשה ואתר עדיקה המחודש - סגור בשבת",
-   "link": "https://www.ynet.co.il/economy/article/rymwhdedmg",
-   "summary": "האתר שנסגר וחזר לפעילות עם הזמרת כפרזנטורית, היה פעיל יומיים לפני שנסגר עם ההודעה: \"צעדיקות, נתראה במוצ\"ש\"",
-   "source": "Ynet כלכלה",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-08-29T15:38:20+00:00"
-  },
-  {
-   "title": "חיכינו שהמדינה תציל את הילדים מהמסכים. זו הייתה טעות",
-   "link": "https://www.ynet.co.il/digital/technology/article/hky9jxg00fe",
-   "summary": "הילדים שלנו מבלים יותר ויותר מול המסכים, והמחיר כבר מורגש בקשב, בבריאות הנפשית ובכישורים החברתיים. אבל הפתרון לא חייב להגיע מלמעלה: דחיית גיל הסמארטפון, הסכמות בין הורים ושינוי הנורמות בבתי הספר יכולים להחזיר את השליטה לידיים שלנו | דעה",
-   "source": "Ynet טכנולוגיה",
-   "lang": "he",
-   "topic": "tech",
-   "rtl": true,
-   "published": "2026-08-29T10:04:01+00:00"
-  },
-  {
-   "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
-   "link": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
-   "summary": "Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high.",
-   "source": "BBC Business",
-   "lang": "en",
-   "topic": "business",
-   "rtl": false,
-   "published": "2026-08-28T15:15:26+00:00"
   }
  ]
 }
