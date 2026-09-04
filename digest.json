@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-04T08:07:09.987157+00:00",
- "generated_display": "Friday, 04 September 2026 · 11:07",
+ "generated_at": "2026-09-04T17:14:08.137052+00:00",
+ "generated_display": "Friday, 04 September 2026 · 20:14",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,174 +23,244 @@
  },
  "stories": [
   {
-   "title": "IDF dismantles over 30 weapon production machines in West Bank in counterterrorism operation",
-   "link": "https://www.jpost.com/israel-news/defense-news/article-907581",
-   "summary": "During the operation, the IDF, guided by the Shin Bet (Israel Security Agency), also confiscated concealed weaponry, questioned suspects, and arrested over 10 wanted individuals.",
-   "source": "Jerusalem Post",
-   "lang": "en",
-   "topic": "israel",
-   "rtl": false,
-   "published": "2026-09-04T10:28:59+00:00"
-  },
-  {
-   "title": "IDF raises alert level over concerns of a possible Hamas response to Gaza strikes",
-   "link": "https://www.jpost.com/israel-news/defense-news/article-907576",
-   "summary": "Southern Command officials are also not ruling out rocket fire toward Israel as an attempt by Hamas to demonstrate its strength.",
-   "source": "Jerusalem Post",
-   "lang": "en",
-   "topic": "israel",
-   "rtl": false,
-   "published": "2026-09-04T10:27:21+00:00"
-  },
-  {
-   "title": "התוכנית: הפעלת מודל לבנון גם בעזה",
-   "link": "https://www.ynet.co.il/news/article/yokra14888456",
-   "summary": "פרסום ראשון: צה\"ל בוחן מתווה להכנסת כוחות בינלאומיים לטיהור תשתיות טרור ברצועה, במתכונת דומה לזו שבדרום לבנון. הצעד, בתיאום עם ארה\"ב, יחל באזורים שאינם נכללים בתחום הקו הצהוב, כך שבפועל לא באמת תהיה יציאה של לוחמי צה\"ל מאזור מסוים. לפי כחודש הקבינט כבר אשר פיילוט ברפיח. זה ההבדל העיקרי",
+   "title": "למה מדברים פתאום על \"היפוך קנים\" - והאם צה\"ל נערך",
+   "link": "https://www.ynet.co.il/news/article/h178qbqomx",
+   "summary": "נתניהו התקיל את הרמטכ\"ל בדיון, ובקבינט זה עולה מעת לעת, במיוחד מצד שרי הציונות הדתית. הדאגה שנשק של המנגנונים הפלסטיניים יופנה ליישובים ישראליים נשמעת בקול גדול יותר ויותר כשברקע התפרעויות הקיצונים ביו\"ש, אבל בצה\"ל אין ידיעה מודיעינית על כך. גורמים פלסטינים: זה משרת אותם לבחירות. שר בקבינט: \"אי אפשר להיות שאננים היום\"",
    "source": "Ynet חדשות",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-09-04T04:23:16+00:00"
+   "published": "2026-09-04T14:52:57+00:00"
   },
   {
-   "title": "Argentine leader threatens to sanction oil firms and reiterates Falklands claim",
-   "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
-   "summary": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
-   "source": "BBC World",
+   "title": "IDF to conduct strikes on Lebanon in coming hours, Upper Galilee Regional Council announces",
+   "link": "https://www.jpost.com/israel-news/defense-news/article-907606",
+   "summary": "Explosions will be heard in Western Galilee, the Hula Valley, the Ramim Ridge, and possibly in northern Golan Heights.",
+   "source": "Jerusalem Post",
    "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-04T06:52:29+00:00"
-  },
-  {
-   "title": "במקום שחמק לישראלים מתחת לרדאר, מסתמן שינוי מגמה בבחירות",
-   "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21351064",
-   "summary": "על הטיילת היפה ראינו ירידה תלולה בשיעור המתלבטים • ומכיוון שהכל נדמה ונראה כאן כל כך מאוזן, לא פלא שקיבלנו תוצאה כזו בהצבעה • מגזין \"היום\" יוצא לתור את הארץ עם קלפי נודדת - וחוזר כדי לספר • קלפי על הדרך: מדור חדש",
-   "source": "ישראל היום",
-   "lang": "he",
    "topic": "israel",
-   "rtl": true,
-   "published": "2026-09-04T06:35:03+00:00"
-  },
-  {
-   "title": "OpenAI חשפה את GPT-6 וטוענת: \"יכול להיות שכבר הגענו ל-AGI\"",
-   "link": "https://www.ynet.co.il/digital/technews/article/rkn5b0p00ze",
-   "summary": "GPT-6 Astra מסוגל לבצע משימות מורכבות במחשב כמעט בעצמו, לכתוב קוד, לערוך מחקר וליצור מסמכים ומצגות. ב-OpenAI כבר מדברים בגלוי על AGI, אך מודים גם כי המודל החדש הגיע לרמת יכולות סייבר \"קריטית\" וככל שהוא נעשה חכם יותר, קשה יותר לפקח עליו",
-   "source": "Ynet טכנולוגיה",
-   "lang": "he",
-   "topic": "tech",
-   "rtl": true,
-   "published": "2026-09-04T05:47:36+00:00"
-  },
-  {
-   "title": "President Javier Milei says ‘winds of change’ support Argentina’s claim to Falkland Islands",
-   "link": "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands",
-   "summary": "President cites Donald Trump’s suggestion that he might reconsider US support for British sovereignty, and threatens swifter sanctions on British oil interests President Javier Milei has said “winds of change favourable” to Argentina’s claim to the Falkland Islands were “blowing around the world” in a televised address, citing signs that Donald Trump might reconsider the US position on the islands",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
    "rtl": false,
-   "published": "2026-09-04T05:03:33+00:00"
+   "published": "2026-09-04T18:21:30+00:00"
   },
   {
-   "title": "הסכמים בלי כיסוי",
-   "link": "https://www.ynet.co.il/news/article/s17e5i8ugg",
-   "summary": "אילו היו קוראים להסכמים שנחתמו בסוגיית עזה, איראן ולבנון בשמם האמיתי — הסכמי הפסקת אש — זה אולי היה פחות נוצץ ופחות מתאים לטקסים בבית הלבן, אבל הרבה יותר מדויק. ובעיקר, היה מאפשר להבין נכון יותר את מצבה האסטרטגי של ישראל באזור",
-   "source": "Ynet חדשות",
-   "lang": "he",
+   "title": "Is 'Purity of Arms' holding the IDF back? Inside Israel’s battle over military ethics",
+   "link": "https://www.jpost.com/israel-news/defense-news/article-907459",
+   "summary": "Fighters are expected to avoid harming noncombatants, including civilians, prisoners, and the defenseless, as much as possible, and to maintain their humanity even in the midst of combat.",
+   "source": "Jerusalem Post",
+   "lang": "en",
    "topic": "israel",
-   "rtl": true,
-   "published": "2026-09-04T07:06:00+00:00"
-  },
-  {
-   "title": "Live Updates: Rescuers Search Nepal Tunnel for Survivors After Finding 2 Alive",
-   "link": "https://www.nytimes.com/live/2026/09/04/world/nepal-flash-floods-rescue-tunnels",
-   "summary": "Dozens of other people were believed to be trapped in a tunnel at a hydropower project since last week’s deadly flood, officials said. It was not clear how many were still alive.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
    "rtl": false,
-   "published": "2026-09-04T07:48:10+00:00"
+   "published": "2026-09-04T15:39:09+00:00"
   },
   {
-   "title": "‘This could just be the beginning’: minorities fear first far-right win in German state election",
-   "link": "https://www.theguardian.com/world/2026/sep/04/minorities-fear-first-far-right-win-in-german-state-election-saxony-anhalt-afd",
-   "summary": "As polls point to victory in Saxony-Anhalt for AfD party promising deportations, people face agonising choice: stay or go As the Bible study session wrapped up, leaving worshippers to mingle over cake and coffee, Fatemeh, 44, fought back tears as the conversation turned to Sunday’s state election in Saxony-Anhalt. “I worry about it every day,” she said. “I can’t stop thinking about my son and what",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-04T04:00:57+00:00"
-  },
-  {
-   "title": "How Do You Run for Office in a Gang War?",
-   "link": "https://www.nytimes.com/2026/09/03/world/americas/haiti-election-gangs.html",
-   "summary": "Haitian election officials have set elections for Dec. 13, but many experts say extreme violence is likely to cause a postponement. Again.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-04T01:37:33+00:00"
-  },
-  {
-   "title": "The sameness problem behind those unappetizing AI-generated menus",
-   "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-   "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
+   "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+   "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+   "summary": "It's the latest failure of OpenAI's internal monitoring and security systems.",
    "source": "TechCrunch",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-09-04T04:21:03+00:00"
+   "published": "2026-09-04T16:21:11+00:00"
   },
   {
-   "title": "ישראל כ\"ץ: צה\"ל לא ייסוג מאזור הביטחון עד לפירוק חיזבאללה מנשקו",
-   "link": "https://www.inn.co.il/flashes/1130303",
-   "summary": "<p>שר הביטחון אחרי כיבוש רכס עלי טאהר: \"ישראל לא תיסוג מאזור הביטחון בלבנון עד לפירוק החיזבאללה מנשקו בכל לבנון\"</p><p><a href=\"https://www.inn.co.il/news/705609\">הכתבה המלאה</a></p>",
-   "source": "ערוץ 7",
+   "title": "Russian drone strike on Ukraine’s security services HQ is a ‘major escalation’, says Ukraine’s foreign minister – as it happened",
+   "link": "https://www.theguardian.com/world/live/2026/sep/04/russia-ukraine-eu-ministers-migration-hubs-meloni-bardella-latest-news-updates",
+   "summary": "This blog is now closed, you can read more on this story here in Magdeburg, Saxony-Anhalt Polls have suggested that the election on Sunday could yield Germany’s first-ever state government led by the far-right Alternative für Deutschland (AfD), shattering a postwar taboo and leaving minorities’ fate in the hands of a party that has promised to launch deportations “from day one”.",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-04T16:01:10+00:00"
+  },
+  {
+   "title": "Can a Country Really Hold an Election in the Middle of a Gang War?",
+   "link": "https://www.nytimes.com/2026/09/03/world/americas/haiti-election-gangs.html",
+   "summary": "Haitian officials have set elections for Dec. 13, but many experts say extreme violence makes is likely to force a postponement.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-04T13:40:28+00:00"
+  },
+  {
+   "title": "No little kids allowed, and other new info about Tesla’s Cybercab",
+   "link": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
+   "summary": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-09-04T16:51:23+00:00"
+  },
+  {
+   "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+   "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
+   "summary": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-04T16:02:32+00:00"
+  },
+  {
+   "title": "שניים חוסלו בלבנון, יירוטים נראו מעל הכינרת ובאיראן דיווחו: \"פיצוץ עז בירדן\"",
+   "link": "https://www.ynet.co.il/news/article/bkddv00oufg",
+   "summary": "מקור היירוטים שתיעדו מבלים בשמי הכינרת הוא בירדן, לשם שוב שיגרה איראן טילים בליסטיים. בינתיים פתחה ישראל בגל תקיפות נוסף בלבנון, שבו חוסלו לפי הדיווחים שניים על אופנוע",
+   "source": "Ynet חדשות",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-09-04T07:35:00+00:00"
+   "published": "2026-09-04T16:58:01+00:00"
   },
   {
-   "title": "רבי המכר של ישראל היום: הבחירות הגיעו למצעד",
-   "link": "https://www.israelhayom.co.il/culture/books/article/21343299",
-   "summary": "6 ספרי עיון מככבים במצעד רבי המכר • 3 מהם נוגעים ישירות בבחירות הקרבות • \"המשקיפות\" ממשיך להפתיע • \"שיחות עם אלוהים\" בקאמבק של פעם בשלושים שנה • כל מה שקרה השבוע ברבי המכר",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-09-04T03:30:02+00:00"
+   "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
+   "link": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
+   "summary": "Public-market scrutiny will intensify pressure on the Claude maker’s unusual attempt to balance profit and purpose.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-09-04T16:22:18+00:00"
   },
   {
-   "title": "ההסכם בעזה תקוע, ולמעורבים הסיבות ברורות: נתניהו והבחירות",
-   "link": "https://www.haaretz.co.il/news/politics/2026-09-04/ty-article/.premium/000001a0-68bb-dca9-a1e2-7dff67fa0000",
-   "summary": "מקורות אמרו ל\"הארץ\" כי גופי ביטחון בישראל מסרבים לשתף פעולה עם מועצת השלום, וכי נעשה ניסיון להציב את עורך דינו של טראמפ בראש המו\"מ עם נתניהו על קידום תוכנית 20 הנקודות: \"האחראי הנוכחי אינו נחוש\"",
+   "title": "גלעד ארדן: מפלגתי לא תתמודד בבחירות, החיבור למפלגות אחרות אינו מתממש",
+   "link": "https://www.haaretz.co.il/news/elections/2026-09-04/ty-article/.premium/000001a0-6cdc-d4e3-a7b3-7dfffc3a0000",
+   "summary": "השר לשעבר הבהיר כי מפלגת האחדות לא תרוץ לכנסת, אך דרכו כשליח ציבור לא הסתיימה. בימים האחרונים דווח כי ארדן ניהל מגעים לאיחוד עם בני גנץ ועם ירון זליכה",
    "source": "הארץ",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-09-04T03:00:45+00:00"
+   "published": "2026-09-04T14:41:31+00:00"
   },
   {
-   "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
-   "link": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
-   "summary": "Officially, Nvidia's controversial DLSS 5 AI rendering was supposed to launch this evening with only a single game, only on Nvidia's latest RTX 50 GPUs, and with developers in full control of their artistic vision. But unofficially, modders have already ported a leaked version of DLSS 5 to run on just about anything while cranking […]",
+   "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+   "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as the company prepared to launch its most advanced model yet, Astra. The finding adds to intensifying concern surrounding oversight at frontier AI […]",
    "source": "The Verge",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-09-04T01:49:25+00:00"
+   "published": "2026-09-04T13:34:12+00:00"
   },
   {
-   "title": "OpenAI unveils GPT‑6 Astra amid rising scrutiny and safety concerns",
-   "link": "https://www.aljazeera.com/economy/2026/9/4/openai-unveils-gpt-6-astra-amid-rising-scrutiny-and-safety?traffic_source=rss",
-   "summary": "OpenAI claims GPT-6 Astra is the most advanced AI model, amid escalating safety and ethical concerns.",
+   "title": "Tesla Cybercab is barely on the road and it’s already under investigation",
+   "link": "https://www.theverge.com/transportation/990130/tesla-cybercab-nhtsa-investigation-fmvss-certify",
+   "summary": "Elon Musk's gilded robot car barely made it on public roads before federal regulators launched an investigation into the vehicle's lack of traditional features - many of which are required by law. The National Highway Traffic Safety Administration said it was opening an audit query (AQ) into the Tesla Cybercab \"to examine the process and […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-09-04T13:33:38+00:00"
+  },
+  {
+   "title": "Israel Says It Is Cementing Its Foothold in Southern Lebanon",
+   "link": "https://www.nytimes.com/2026/09/04/world/middleeast/israel-captures-ridge-occupation-katz.html",
+   "summary": "The recent capture of a strategic ridge has further entrenched the Israeli occupation of Lebanese territory, as efforts to broker lasting peace have floundered.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-04T15:25:24+00:00"
+  },
+  {
+   "title": "Farage gives speech at Reform conference after party officials suspended over donations sting – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/sep/04/reform-uk-donations-nigel-farage-james-orr-dan-jukes-channel-4-investigation-conference-jordan-bardella-latest-news-updates",
+   "summary": "James Orr and Dan Jukes, aides to Nigel Farage, stepped down after an investigation by Channel 4 News British ministers have hit back after the Argentinian president said “winds of change” favourable to his country’s claim to the Falklands were “blowing around the world”, Kiran Stacey reports. The Electoral Commission has issued a statement this morning saying it is in touch with the police about ",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-04T16:55:08+00:00"
+  },
+  {
+   "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
+   "link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
+   "summary": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-04T11:54:51+00:00"
+  },
+  {
+   "title": "איזנקוט מברך על פרישת ארדן ואדלשטיין: \"החלטה אחראית ומנהיגותית\"",
+   "link": "https://www.inn.co.il/flashes/1130349",
+   "summary": "<p>מפלגת \"ישר!\" בראשות גדי איזנקוט בירכה (שישי) על החלטתם של גלעד ארדן ויולי אדלשטיין לפרוש מהמרוץ לכנסת, וקראה למפלגות נוספות הנמצאות על גבול אחוז החסימה לנהוג באופן דומה.</p><p>\"אנו מברכים על החלטתם של גלעד ארדן ויולי אדלשטיין. זו החלטה אחראית ומנהיגותית שתגדיל את הסיכוי להחלפת ממשלת שבעה באוקטובר והקמת ממשלה ציונית רחבה, שתביא מזור ושיקום לעם ישראל\", נמסר מהמפלגה.</p><p>ב\"ישר!\" הוסיפו קריאה ישי",
+   "source": "ערוץ 7",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-09-04T15:08:54+00:00"
+  },
+  {
+   "title": "Rocket Report: Engines installed for Artemis III; Long March 6C breakup in LEO",
+   "link": "https://arstechnica.com/space/2026/09/rocket-report-china-debuts-yet-another-new-rocket-nasa-considers-bulk-buys/",
+   "summary": "Two of Europe's leading launch startups announced new fundraising this week.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-09-04T12:48:36+00:00"
+  },
+  {
+   "title": "October 7 attack shapes Israel’s elections and fuels political blame",
+   "link": "https://www.aljazeera.com/news/2026/9/4/october-7-attack-shapes-israels-elections-and-fuels-political-blame?traffic_source=rss",
+   "summary": "Three years on, October 7 is central to Israeli politics as Netanyahu faces pressure and deflects blame for his failures",
    "source": "Al Jazeera",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-09-04T03:36:19+00:00"
+   "published": "2026-09-04T16:20:35+00:00"
+  },
+  {
+   "title": "\"באיזו חוצפה?\": המדינה שקונסת הורים שטסים לחופשה באמצע השנה",
+   "link": "https://www.israelhayom.co.il/news/world-news/article/21354914",
+   "summary": "חיסור מבית ספר בהולנד לטובת חופשה מוביל לקנסות כבדים של 100 אירו ליום לילד, בדיקות פתע ואפילו תחקירים בשדות התעופה • עדות של ישראלית ברילוקיישן חושפת איך עובדת המערכת הקשוחה",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-09-04T15:11:01+00:00"
+  },
+  {
+   "title": "לאחר העדויות נגדו, ג'עפר פרח פרש מרשימת חד\"ש לכנסת",
+   "link": "https://www.haaretz.co.il/news/elections/2026-09-04/ty-article/.premium/000001a0-639a-da07-ada2-ef9bd5480000",
+   "summary": "מחר תתכנס המפלגה לבחור מועמד אחר, שישובץ במקום הרביעי ברשימה המשותפת. ועדת הבדיקה שהוקמה במפלגה עדכנה כי התקבלו אצלה שבע עדויות של נשים שלפיהן פרח הטריד אותן מינית. עמותות נשים קיבלו עדויות נוספות",
+   "source": "הארץ",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-09-04T15:04:05+00:00"
+  },
+  {
+   "title": "UN raises ‘ethnic cleansing’ concerns over Israeli West Bank operation",
+   "link": "https://www.aljazeera.com/news/2026/9/4/un-raises-ethnic-cleansing-concerns-over-israeli-west-bank-operation?traffic_source=rss",
+   "summary": "More than 33,000 Palestinian refugees remain displaced since Israel launched Operation Iron Wall.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-04T15:31:54+00:00"
+  },
+  {
+   "title": "UK petrol prices hit highest level since Iran war began",
+   "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+   "summary": "The price of unleaded hits 163p a litre, according to motoring group the RAC, as oil prices remain elevated.",
+   "source": "BBC Business",
+   "lang": "en",
+   "topic": "business",
+   "rtl": false,
+   "published": "2026-09-04T13:05:52+00:00"
+  },
+  {
+   "title": "נשיא ארגנטינה מטיל סנקציות על נפט בפוקלנד - וישראלים בקו האש",
+   "link": "https://www.ynet.co.il/economy/article/s1k5aloogx",
+   "summary": "חאווייר מיליי, שידוע כבן ברית של ישראל, הודיע על סנקציות חדשות נגד חברות הפועלות בפרויקט הנפט \"סי ליון\" מול חופי איי פוקלנד. הפרויקט מוחזק ברובו ע\"י חברת נביטס פטרוליום הישראלית ורוקהופר הבריטית, שבין משקיעותיה הגדולים נמנות קרנות ישראליות. הסנקציות עלולות לחול גם על בעלי מניות ודירקטורים, ולא רק על החברות עצמן",
+   "source": "Ynet כלכלה",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-09-04T15:15:03+00:00"
   },
   {
    "title": "למי רע פה? הדלק התייקר ואז הוזל, דמי ההבראה שודרגו ויש גם מענק עבודה",
@@ -203,84 +273,14 @@
    "published": "2026-09-04T04:29:13+00:00"
   },
   {
-   "title": "The unusually muted Tesla Cybercab launch",
-   "link": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
-   "summary": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future: the Cybercab. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless cars for years and has bet the future of his company on AI, autonomous vehicles, and humanoid robots. It […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-09-04T00:25:06+00:00"
-  },
-  {
-   "title": "In southern Lebanon, Israeli demolitions continue ‘day and night’",
-   "link": "https://www.aljazeera.com/features/2026/9/4/in-southern-lebanon-israeli-demolitions-continue-day-and-night?traffic_source=rss",
-   "summary": "Explosions shake the ground in Froun as Israeli operations persist, disrupting daily life in southern Lebanon.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-04T06:24:55+00:00"
-  },
-  {
-   "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-   "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-   "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-09-04T00:48:42+00:00"
-  },
-  {
-   "title": "Watch: Moment workers are rescued from Nepal tunnel",
-   "link": "https://www.bbc.co.uk/news/videos/cnvl5e6vy8eo?at_medium=RSS&at_campaign=rss",
-   "summary": "Rescuers pull two people from a hydropower tunnel more than a week after a massive flash flood devastated the Nepal-China border.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-04T04:45:54+00:00"
-  },
-  {
-   "title": "עושים סדר במבצעי הנדל\"ן: איך יודעים אם זו עסקה טובה?",
-   "link": "https://www.ynet.co.il/economy/article/sjvu842pzl",
-   "summary": "הנחות של מאות אלפי שקלים, ריבית על חשבון היזם, פריסות תשלום, הצמדות מופחתות ושדרוגים במפרט: בתקופה שבה קצב המכירות בשוק הדיור מתמתן, יותר ויותר יזמים מציעים הטבות כדי למשוך רוכשים. עבור מי שמחפש דירה, זו יכולה להיות הזדמנות אמיתית, אבל גם מלכודת צרכנית. איך יודעים אם המבצע באמת משתלם, מה צריך לבדוק לפני שחותמים ואיך אפשר לנצל את כוח המיקוח שיש היום בידיים של הרוכשים?",
-   "source": "Ynet כלכלה",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-09-04T03:00:00+00:00"
-  },
-  {
-   "title": "Four major AI models suffer rare overlapping downtime",
-   "link": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
-   "summary": "Service interruptions hit ChatGPT, Claude, Grok, and Gemini practically simultaneously.",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-09-03T18:10:19+00:00"
-  },
-  {
-   "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
-   "link": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
-   "summary": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
+   "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
+   "link": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo?at_medium=RSS&at_campaign=rss",
+   "summary": "Xbox said the limits were due to the rising cost of cloud gaming, and would allow it to invest more in its performance",
    "source": "BBC Business",
    "lang": "en",
    "topic": "business",
    "rtl": false,
-   "published": "2026-09-04T05:59:10+00:00"
-  },
-  {
-   "title": "Is India's internet boom running into an undersea problem?",
-   "link": "https://www.bbc.co.uk/news/articles/cx2r2mzelxko?at_medium=RSS&at_campaign=rss",
-   "summary": "At least 13 of India's 18 intercontinental cables come ashore within six kilometres of Mumbai's Versova beach.",
-   "source": "BBC Business",
-   "lang": "en",
-   "topic": "business",
-   "rtl": false,
-   "published": "2026-09-03T23:40:08+00:00"
+   "published": "2026-09-04T11:48:24+00:00"
   }
  ]
 }
