@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-14T09:09:10.877834+00:00",
- "generated_display": "Monday, 14 September 2026 · 12:09",
+ "generated_at": "2026-09-14T18:56:29.696821+00:00",
+ "generated_display": "Monday, 14 September 2026 · 21:56",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,154 +23,234 @@
  },
  "stories": [
   {
-   "title": "AI-linked stocks fall after tech bosses call for slowdown in ‘reckless’ development",
+   "title": "Hezbollah trying to establish footholds within gaps in southern Lebanon's Yellow Line, IDF reveals",
+   "link": "https://www.jpost.com/israel-news/defense-news/article-908572",
+   "summary": "IDF Northern Command sources said Hezbollah has been targeting areas the military never formally entered, with Israel countering the activity through airstrikes, artillery, and combat engineering uni",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-09-14T19:39:23+00:00"
+  },
+  {
+   "title": "The legal, ethical war which NAZA highlights and Israel is still barely showing up for - comment",
+   "link": "https://www.jpost.com/opinion/article-908576",
+   "summary": "Even if most soldiers followed the rules, some would need to pay a legal price for their actions, both because that is the IDF's value and because such accountability may yet save the Jewish state.",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-09-14T19:43:06+00:00"
+  },
+  {
+   "title": "הטכנולוגיה שבמוקד סערת נז\"א, והטענה המופרכת בסרט: \"אין דבר כזה 500 הרוגים בתקיפה אחת\"",
+   "link": "https://www.ynet.co.il/news/article/bji6f5htgg",
+   "summary": "הסרט שמסעיר את העולם העלה מחדש את הביקורת על השימוש של צה\"ל בבינה מלאכותית לאיתור יעדים, סוגיה שנחשפה עד כה בעיקר בתחקירים של כלי תקשורת זרים. בקטע מהסרט נטען גם כי אושרו תקיפות שבהן נלקח בחשבון נזק אגבי של מאות הרוגים - טענה שצה\"ל דוחה בתוקף. טכנולוגיות ה-AI ושיתוף הפעולה בין צה\"ל לאנשי המילואים",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-09-14T17:09:51+00:00"
+  },
+  {
+   "title": "במשך שנה התריע צה\"ל בפני נתניהו על מחסור חמור בחימושים ומחסנים מתרוקנים",
+   "link": "https://www.ynet.co.il/news/article/r1z00nubfmx",
+   "summary": "בצה\"ל הזהירו שוב ושוב מפער של עשרות מיליארדי שקלים שנדרשים בדחיפות, אך נתניהו וסמוטריץ' חיכו וחיכו - וכעת, כשאי-אפשר להעביר את הכסף עקב תקופת בחירות, שלחו אלוף בצה\"ל אל ראש האופוזיציה לפיד. משלא הסכים לתמוך בהעברת הכסף ללא צמצום כספים קואליציוניים, התחילו חילופי האשמות - אבל למצב הזה לא היה צריך להגיע",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-09-14T15:16:39+00:00"
+  },
+  {
+   "title": "עוצמה יהודית מגיבה: \"מפלגת הדמוקרטים היא מפלגה אנטישמית אנטי ישראלית\"",
+   "link": "https://www.inn.co.il/flashes/1131610",
+   "summary": "<p>עוצמה יהודית מגיבה לבקשת מפלגת הדמוקרטים לפסול אותה מלהתמודד בבחירות לכנסת.</p><p>\"מפלגת הדמוקרטים היא מפלגה אנטישמית אנטי ישראלית. בראשה עומד אדם שאמר שחיילי צה\"ל הורגים תינוקות כתחביב, חברי המפלגה הזו הובילו את הסרבנות לצה\"ל ערב ה-7.10, העניקו ייצוג משפטי למחבלים, ורק היום גיבו את סרט ההסתה האנטישמי כנגד צה\"ל. העובדה שמפלגה כזו חברה בכנסת היא אות קלון למדינת ישראל\", נמסר מטעם עוצמה יהודית.</p",
+   "source": "ערוץ 7",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-09-14T16:37:20+00:00"
+  },
+  {
+   "title": "AI-linked stocks slide after tech bosses call for slowdown in ‘reckless’ development",
    "link": "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
-   "summary": "Shares in tech firms tumble across Asia with Nasdaq also likely to dip later after Anthropic, OpenAI and SpaceX leaders back call Business news – live updates AI-linked stocks tumbled on Monday after the bosses of Anthropic, OpenAI and SpaceX called for a slowdown in “reckless” development citing fears the technology could soon run out of control. Shares in SoftBank, a Japanese investor that is a ",
+   "summary": "Donald Trump dismisses attempts to increase controls on artificial intelligence as ‘sick conspiracy’ AI-linked stocks tumbled on Monday after the bosses of Anthropic, OpenAI and SpaceX called for a slowdown in AI “reckless” development , citing fears the technology could soon run out of control. Shares in the semiconductor designer Nvidia – the world’s most valuable company – were down 3% by early",
    "source": "The Guardian",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-09-14T07:32:15+00:00"
+   "published": "2026-09-14T18:17:47+00:00"
   },
   {
-   "title": "‘Nothing in the film is true’: MKs, politicians denounce NAZA film creators as 'Israel haters'",
-   "link": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-908497",
-   "summary": "Gotliv also slammed the IDF's response, stating its silence \"magnifies the horrific damage caused by this false film, which is based on Playmobil soldiers and not IDF soldiers.\"",
-   "source": "Jerusalem Post",
-   "lang": "en",
-   "topic": "israel",
-   "rtl": false,
-   "published": "2026-09-14T10:27:02+00:00"
-  },
-  {
-   "title": "Israeli experts are warning that AI is exponentially increasing cyber threats",
-   "link": "https://www.jpost.com/business-and-innovation/article-908500",
-   "summary": "AI systems now allow attackers to identify and exploit vulnerabilities far faster than human defenders can respond",
-   "source": "Jerusalem Post",
-   "lang": "en",
-   "topic": "israel",
-   "rtl": false,
-   "published": "2026-09-14T10:37:52+00:00"
-  },
-  {
-   "title": "\"כל יהודי יהפוך פה לעבריין\": נורבגיה מבקשת להקצין ענישה על סחר עם יו\"ש",
-   "link": "https://www.ynet.co.il/news/article/rj6c311htfx",
-   "summary": "אחרי ש-12 מדינות מערביות הכריזו על כוונתן להטיל סנקציות על הכנסת מוצרים שמקורם בהתנחלויות, באוסלו בוחנים לקחת את החרם צעד אחד קדימה. שר החוץ הנורבגי איידה מקדם חוק שיאפשר להטיל עד 3 שנות מאסר על אנשים או חברות שיסחרו עם מתנחלים. און, ישראלי שחי בנורבגיה: \"אנטישמי השנה איבד בורג\"",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-09-14T06:42:42+00:00"
-  },
-  {
-   "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
-   "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-   "summary": "A preliminary count by Sweden's election authority projected that left-wing opposition bloc would win a three-seat majority.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-14T08:36:09+00:00"
-  },
-  {
-   "title": "חוקי הפורמט: הקופון הפוליטי שגוזרות המפלגות בניסיון פסילת מפלגות",
-   "link": "https://www.israelhayom.co.il/news/politics/article/21415109",
-   "summary": "הליכוד ועוצמה יהודית נגד המשותפת ורע\"ם, ישראל ביתנו נגד עופר כסיף • הדדליין לבקשות הפסילה הוא מחר, ובכל המפלגות יודעים שקלושים הסיכויים שבית המשפט יאשר • התוצאה הרצויה בעיני המפלגות אינה משפטית",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-09-14T08:20:34+00:00"
-  },
-  {
-   "title": "כל אחד יכול לזכות: החל הליך ההמלצה לפרס ישראל תשפ\"ז",
-   "link": "https://www.israelhayom.co.il/news/education/article/21415016",
-   "summary": "משרד החינוך החל בקמפיין הבחירה לפרסי ישראל שייערך בעוד שמונה חודשים • כל אזרח יכול להמליץ על מועמדים - אבל לא על עצמו • הפרס לכל זוכה: 75 אלף שקלים",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-09-14T07:39:13+00:00"
-  },
-  {
-   "title": "דרמה בבחירות בשבדיה: יתרון למרכז-שמאל, הימין הקיצוני ייכנס לממשלה?",
-   "link": "https://www.ynet.co.il/news/article/sjjkxontmg",
-   "summary": "הקלפיות בשבדיה נסגרו, והתחזית העדכנית מעניקה 176 מושבים לגוש המרכז-שמאל של רה״מ לשעבר אנדרסון, מול 173 לגוש הימין של רה\"מ הנוכחי קריסטרסון. במוקד: \"השבדים הדמוקרטים\" מהימין הקיצוני שמקווים להיכנס לראשונה לממשלה. ומה המשמעות עבור ישראל?",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-09-14T03:14:03+00:00"
-  },
-  {
-   "title": "Israeli minister threatens to strip Israeli film-makers of citizenship over Gaza documentary NAZA",
-   "link": "https://www.theguardian.com/film/2026/sep/14/gaza-documentary-makers-naza-israel-citizenship-ntwnfb",
-   "summary": "Miki Zohar accuses Oscar-winning directors Yuval Abraham and Rachel Szor of ‘treason against the state’ ‘They know the house they are bombing is full of children’: NAZA’s directors on their devastating film about Israeli intelligence Israel’s culture minister has called for the Oscar-winning Israeli directors of NAZA , a documentary about the country’s mass killing of civilians in Gaza, to be stri",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-14T07:28:26+00:00"
-  },
-  {
-   "title": "More Than 120 Are Unaccounted For After Ferry Sinks in Indonesia",
-   "link": "https://www.nytimes.com/2026/09/14/world/asia/indonesia-ferry-rescue-borneo.html",
-   "summary": "At least six people were killed and more than 100 rescued after the vessel sank in the Java Sea on Sunday, the authorities said.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-14T09:07:41+00:00"
-  },
-  {
-   "title": "Landmark Vote Held in Restive Muslim Autonomous Region in the Philippines",
-   "link": "https://www.nytimes.com/2026/09/14/world/asia/muslim-mindanao-philippines-election.html",
-   "summary": "The election, in an area long known for violent separatists, was marred by a shootout that killed three, officials said.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-14T08:58:13+00:00"
-  },
-  {
-   "title": "Hyrox athlete sparks debate for continuing race after soiling herself",
-   "link": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
-   "summary": "Some have raised concerns around hygiene while others saluted her resolve to finish the race.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-14T05:34:13+00:00"
-  },
-  {
-   "title": "ליחסי ישראל־ירדן דרוש יותר מאשר שלום קר",
-   "link": "https://www.haaretz.co.il/blogs/mitvim/2026-09-14/ty-article-magazine/000001a0-8533-d290-a9e3-dfb7ad360000",
-   "summary": "השקעה בכלכלה, בסביבה ובביטחון של ירדן אינה מעשה של נדיבות. זוהי השקעה בביטחונה, בשגשוגה ובחוסנה של ישראל עצמה",
-   "source": "הארץ",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-09-14T07:49:49+00:00"
-  },
-  {
-   "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
-   "link": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
-   "summary": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified.",
+   "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+   "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+   "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt 2026.",
    "source": "TechCrunch",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-09-13T21:30:00+00:00"
+   "published": "2026-09-14T15:00:00+00:00"
   },
   {
-   "title": "דור תורג'מן כבש ובישל בניצחון של ניו אינגלנד על שיקגו ולבנדובסקי",
-   "link": "https://www.haaretz.co.il/sport/world-soccer/2026-09-14/ty-article/000001a0-9e87-de76-a1f7-bfcf80a50000",
-   "summary": "החלוץ הישראלי הוביל את קבוצתו לניצחון 1:2 באילנוי. ניו אינגלנד עלתה למקום השלישי בטבלת המזרח, תשעה משחקים לסיום העונה הסדירה",
-   "source": "הארץ",
+   "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
+   "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+   "summary": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional founders. Secure your Disrupt pass today.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-09-14T14:30:00+00:00"
+  },
+  {
+   "title": "UK politics: Farage hints that Reform’s £72m donations may not be legal under new elections bill - as it happened",
+   "link": "https://www.theguardian.com/politics/live/2026/sep/14/reform-uk-political-donations-cap-richard-tice-ben-delo-christopher-harborne-latest-news-updates",
+   "summary": "In an interview about the donations, he said they are compliant with the law ‘today’ Andy Burnham has cancelled engagements today and tomorrow following the death of his father Roy, who was suffering from Alzheimer’s, the Press Association reports. Burnham has spoken about his father’s illness which meant that he did not know his son had become prime minister. [We] will continue bringing forward f",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-14T17:04:56+00:00"
+  },
+  {
+   "title": "נתפס בעת שהבריח נשק, נורה ונזקק לפינוי - וכעת הוא נדרש להשיב את עלותו",
+   "link": "https://news.walla.co.il/item/3867735",
+   "summary": "פרקךיטות המדינה הגישה תביעה בשם משרד הביטחון נגד חאסן אלמעבדה מכסייפה, שהורשע בהברחת כלי נשק ותחמושת מירדן לישראל. במסגרת התביעה דורשת המדינה מאלמעבדה להשיב את עלות הפינוי האווירי שנדרש לאחר שנפצע במהלך מנוסתו מכוחות הביטחון - כ-105 אלף שקלים",
+   "source": "וואלה",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-09-14T06:25:30+00:00"
+   "published": "2026-09-14T18:09:00+00:00"
+  },
+  {
+   "title": "מפלגת הדמוקרטים הגישה בקשה לפסילת עוצמה יהודית",
+   "link": "https://www.inn.co.il/flashes/1131608",
+   "summary": "<p>מפלגת \"הדמוקרטים\" הגישה לוועדת הבחירות המרכזית בקשה לפסילת מפלגת עוצמה יהודית מהתמודדות לכנסת.</p><p>הבקשה הוגשה בנימוק של \"פגיעה בדמוקרטיה ושלילת קיומה של מדינת ישראל כמדינה דמוקרטית ובגין הסתה לגזענות\".</p>",
+   "source": "ערוץ 7",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-09-14T16:31:00+00:00"
+  },
+  {
+   "title": "לא רק נז\"א: הסרטים שעוררו זעם בישראל – והעולם מחא להם כפיים",
+   "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21418412",
+   "summary": "סרטם של יובל אברהם ורחל שור, שספג גינויים חריפים מצה\"ל ומכל קצוות הקשת הפוליטית, לא לבד • מ\"ג'נין ג'נין\", דרך \"ואלס עם באשיר\" ועד \"פוקסטרוט\": 7 סרטים שהצליחו להרתיח את הישראלים עוד לפני כתוביות הפתיחה",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-09-14T15:01:12+00:00"
+  },
+  {
+   "title": "Africa's richest man launches continent's biggest share sale",
+   "link": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss",
+   "summary": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-14T16:23:42+00:00"
+  },
+  {
+   "title": "Modi Served World Leaders a Meatless Meal, and His Critics Pounced",
+   "link": "https://www.nytimes.com/2026/09/14/world/asia/india-brics-vegetarian-dinner.html",
+   "summary": "Opposition politicians said a vegetarian dinner served at a diplomatic summit misrepresented India’s culinary heritage. A minister in Prime Minister Narendra Modi’s government rejected the criticism.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-14T11:53:13+00:00"
+  },
+  {
+   "title": "Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies",
+   "link": "https://www.nytimes.com/2026/09/14/world/europe/ukraine-railway-strike-europe.html",
+   "summary": "The attack on Ukraine’s rail network, which connects the country to the West, was a jab at Europe, officials said.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-14T16:34:19+00:00"
+  },
+  {
+   "title": "גלולת ההרזיה שזינקה בבורסה ב-110% בשלושה ימים: אלה הסיבות",
+   "link": "https://www.ynet.co.il/economy/article/h1o2dubkfe",
+   "summary": "שוויה של חברת הביומד הישראלית אפיטומי שהשיקה קפסולה שמחקה תחושת שובע עמד בשיאה על מיליארד שקל, אלא שמאז הספיקה למחוק 90% ממנו. לאחרונה מונה דולב רפאלי לתפקיד המנכ\"ל, מה שהגביר מחדש את אמון המשקיעים. היום זינקה המניה בעוד 15%. \"היעד שלי הוא 20 עד 30 אלף משתמשים חדשים בארה\"ב, שייצרו כ-50 מיליון דולר מכירות\"",
+   "source": "Ynet כלכלה",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-09-14T14:30:10+00:00"
+  },
+  {
+   "title": "Immigrants held in small outdoor cages at 'Alligator Alcatraz' in Florida, investigators find",
+   "link": "https://www.bbc.co.uk/news/articles/cqrk37rrpk23o?at_medium=RSS&at_campaign=rss",
+   "summary": "DHS inspectors say they found the immigration-detention centre violated basic standards for hygiene, medical care, food and safety.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-14T16:48:10+00:00"
+  },
+  {
+   "title": "Jerusalem Daily: A new report on the erosion of Palestinian life",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/jerusalem-daily-a-new-report-on-the-erosion-of-palestinian-life?traffic_source=rss",
+   "summary": "Palestinian life is being systematically eroded, according to a new report and Israel threatens NAZA film directors.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-14T18:02:44+00:00"
+  },
+  {
+   "title": "Iran’s proxy money machine: How the Houthis built a multibillion-dollar network despite US sanctions",
+   "link": "https://www.foxnews.com/world/irans-proxy-money-machine-houthis-built-multibillion-dollar-network-despite-us-sanctions",
+   "summary": "The Houthis' advance toward the Bab el-Mandeb Strait is fueled by a sprawling sanctions-evasion network spanning Iranian oil, crypto and Russia.",
+   "source": "Fox News World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-14T17:52:18+00:00"
+  },
+  {
+   "title": "Volkswagen’s slippery new EV breaks a bunch of efficiency records",
+   "link": "https://www.theverge.com/transportation/994670/volkswagen-mission-efficiency-ev-aero-drag-record",
+   "summary": "No, that's not a Tesla Cybercab. That's Volkswagen's Mission Efficiency, the world's slipperiest electric vehicle. The near-production 2+2 seat electric coupe prototype was built on VW's MEB+ platform, incorporating front-wheel drive components from the upcoming ID. Polo and ID. Cross models. True to its name, the mission of Mission Efficiency is to break records. With […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-09-14T15:12:09+00:00"
+  },
+  {
+   "title": "macOS 27 is available now",
+   "link": "https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now",
+   "summary": "Apple released macOS 27 Golden Gate on Monday, which brings the new Siri AI assistant, Liquid Glass improvements, improved performance, and more. The update is compatible with all Macs with Apple Silicon, but not Intel Macs - Apple released its final big update for Intel-based Macs last year with macOS Tahoe. Siri AI is arguably […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-09-14T17:10:13+00:00"
+  },
+  {
+   "title": "העסקה אושרה: יזם הנדל\"ן החרדי הופך לבעל השליטה באייס, ביתילי ואוטודיפו",
+   "link": "https://www.ynet.co.il/economy/article/sjnu7krtgx",
+   "summary": "הממונה על התחרות אישרה את עסקת רכישת אייס במסגרתה שילם איש העסקים רונן גנון 173 מיליון שקל עבור השליטה במניות מולטי ריטייל גרופ, שמחזיקה גם במותגים אוטודיפו, ביתילי ואורבן. בריאיון ל-ynet אמר גנון כי הוא מתכוון להפוך את אייס ל\"קוסטקו הישראלית\"",
+   "source": "Ynet כלכלה",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-09-14T14:56:55+00:00"
+  },
+  {
+   "title": "Petrol and diesel prices hit highest since 2022",
+   "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+   "summary": "The cost of filling up a vehicle has rebounded, according to the RAC, as oil prices remain elevated.",
+   "source": "BBC Business",
+   "lang": "en",
+   "topic": "business",
+   "rtl": false,
+   "published": "2026-09-14T11:42:52+00:00"
   },
   {
    "title": "אחרי סוף השבוע המטורף: סם אלטמן חושף איך הוא רוצה לבלום את מרוץ ה-AI",
@@ -183,14 +263,14 @@
    "published": "2026-09-14T07:22:30+00:00"
   },
   {
-   "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
-   "link": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
-   "summary": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
-   "source": "TechCrunch",
+   "title": "F1 in Madrid: Like Monaco but twice as long and none of the glamour",
+   "link": "https://arstechnica.com/cars/2026/09/f1-in-madrid-like-monaco-but-twice-as-long-and-none-of-the-glamour/",
+   "summary": "Formula 1’s latest venue might be fun to drive, but the race was processional and dull.",
+   "source": "Ars Technica",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-09-13T20:28:00+00:00"
+   "published": "2026-09-14T14:32:35+00:00"
   },
   {
    "title": "Heading off to uni? Here's what to insure against theft",
@@ -201,86 +281,6 @@
    "topic": "business",
    "rtl": false,
    "published": "2026-09-14T08:13:56+00:00"
-  },
-  {
-   "title": "MPs and Lords call for new law to address AI threat to human rights",
-   "link": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
-   "summary": "Existing laws are not equipped to address the risks to human rights being posed by artificial intelligence, UK politicians say.",
-   "source": "BBC Business",
-   "lang": "en",
-   "topic": "business",
-   "rtl": false,
-   "published": "2026-09-14T08:07:08+00:00"
-  },
-  {
-   "title": "קיץ יקר: הדלק והחופשות יקפיצו את האינפלציה מחר",
-   "link": "https://www.ynet.co.il/economy/article/hkkbtuvtfx",
-   "summary": "לקראת פרסום מדד אוגוסט, ההערכות הן לעלייה חריגה של כאחוז, שתצמצם את הסיכוי להפחתת ריבית נוספת",
-   "source": "Ynet כלכלה",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-09-14T04:02:27+00:00"
-  },
-  {
-   "title": "ה-AI יפתור את התקלה לפני שהרגשתם בה. אז למה עדיין צריך שירות לקוחות?",
-   "link": "https://www.ynet.co.il/digital/article/sy02qmxyfx",
-   "summary": "יותר ויותר ארגונים משלבים היום בינה מלאכותית באופן עמוק במערכי השירות שלהם: זיהוי תקלות עוד לפני שהלקוח מרגיש בהן, נציגים דיגיטליים שזמינים בכל שעה וכלים שמאפשרים לפתור בעיות באופן מיידי. איפה עובר הגבול בין כלי שבאמת פותר בעיה לבין גימיק טכנולוגי? ולמה גם בעתיד לנציג האנושי יישאר תפקיד מרכזי?",
-   "source": "Ynet טכנולוגיה",
-   "lang": "he",
-   "topic": "tech",
-   "rtl": true,
-   "published": "2026-09-14T04:00:00+00:00"
-  },
-  {
-   "title": "Trump and Mike Johnson think the AI industry is overreacting",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-   "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump and House Speaker Mike Johnson, however, […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-09-13T19:41:48+00:00"
-  },
-  {
-   "title": "Japanese PM-backed candidate wins Okinawa gubernatorial election",
-   "link": "https://www.aljazeera.com/news/2026/9/14/japanese-pm-backed-candidate-wins-okinawa-gubernatorial-election?traffic_source=rss",
-   "summary": "Genta Koja beat two-term incumbent Denny Tamaki, who wants a major US military base to be moved out of Okinawa.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-14T03:38:56+00:00"
-  },
-  {
-   "title": "Morning news brief",
-   "link": "https://www.npr.org/2026/09/14/nx-s1-5965810/morning-news-brief",
-   "summary": "Industry leaders call for AI development to slow down to ensure safety, Trump to campaign for GOP candidates ahead of midterms, Iranian officials say a meeting with the Gulf States has been postponed.",
-   "source": "NPR News",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-14T08:44:20+00:00"
-  },
-  {
-   "title": "\"איוב מודרני\": אישה קיבלה פטור מחוב של מיליון שקל",
-   "link": "https://www.ynet.co.il/economy/article/sk6tptqygg",
-   "summary": "שופט התחשב בנסיבות חייה של בת 65, אלמנת נרקומן ואם לארבעה שאחד מהם מתמודד עם סרטן. הוא קבע תוכנית שיקום שבמסגרתה תחזיר רק כ-21 אלף שקל",
-   "source": "Ynet כלכלה",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-09-14T04:56:57+00:00"
-  },
-  {
-   "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
-   "link": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
-   "summary": "The 40-year-old unvaccinated woman reportedly had underlying health conditions.",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-09-13T21:56:52+00:00"
   }
  ]
 }
