@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-16T08:44:56.141287+00:00",
- "generated_display": "Wednesday, 16 September 2026 · 11:44",
+ "generated_at": "2026-09-16T17:48:21.943827+00:00",
+ "generated_display": "Wednesday, 16 September 2026 · 20:48",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,224 +23,244 @@
  },
  "stories": [
   {
-   "title": "עליות בבורסה בתל אביב בעקבות נתוני האינפלציה; השקל מתחזק",
+   "title": "Your AI agents can now control your Google Home devices",
+   "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+   "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-09-16T17:00:00+00:00"
+  },
+  {
+   "title": "Israeli AI English-learning startup Loora raises $22m. in Series B",
+   "link": "https://www.jpost.com/business-and-innovation/article-908819",
+   "summary": "The company, founded by former Sayeret Matkal soldiers Roy Mor and Yonti Levin, says it has more than 15 million users worldwide and has more than doubled revenue over the past year.",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-09-16T18:54:40+00:00"
+  },
+  {
+   "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+   "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+   "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-09-16T15:00:00+00:00"
+  },
+  {
+   "title": "\"ממדאני של ברלין\" בדרך לשלטון, עם תומכים שרוצים \"תל-אביב פלסטינית\"",
+   "link": "https://www.ynet.co.il/news/article/rjrjxgokml",
+   "summary": "בבחירות בבירת גרמניה ביום א' צפויה לנצח מפלגת השמאל הקיצוני \"די לינקה\", מבקרת חריפה של ישראל. מנהיגתה אליף ארלפ, בת למהגרים מטורקיה, שואבת השראה מהכוכב המוסלמי של הדמוקרטים בארה\"ב, ומבטיחה: \"מניו יורק ועד ברלין, השמאל חוזר\". היא מתנערת מאנטישמיות וקריאות \"מוות לצה\"ל\" אך זקוקה לתומכי הפלסטינים, מפלגתה דנה בהצעה להצדיק את טבח 7 באוקטובר: \"לא טרור\"",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-09-16T13:54:07+00:00"
+  },
+  {
+   "title": "Claude comes for Gemini with its own take on Docs and Slides",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+   "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying how Claude chats work, merging regular chats and Cowork into \"one Claude,\" with all […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-09-16T16:30:00+00:00"
+  },
+  {
+   "title": "נעילה ירוקה בתל אביב בעקבות נתוני האינפלציה; דוראל וטאואר קפצו",
    "link": "https://www.globes.co.il/news/article.aspx?did=1001555531#utm_source=RSS",
-   "summary": "מדד ת\"א 35 עולה בכ-0.7% • סנטימנט חיובי גם בבורסות אסיה ואירופה, עליות קלות בחוזים העתידיים על וול סטריט • השקל מתחזק בכ-0.5% מול הדולר • הפד צפוי להעלות את הריבית הערב, טראמפ לא יאהב את זה • תשואת האג\"ח בארה\"ב בשיא של 19 שנה - מה וורן באפט חושב על זה • וגם: ג'נסן הואנג מסמן את התחום הבא שיזנק עם מהפכת ה-AI",
+   "summary": "מדד ת\"א 35 עלה בכ-1.3% • מדדי הקלינטק והטכנולוגיה הובילו את העליות • סנטימנט חיובי גם באירופה, מניות השבבים בוול סטריט התאוששו • השקל התחזק מול הדולר • הפד צפוי להעלות את הריבית הערב, טראמפ לא יאהב את זה • תשואת האג\"ח בארה\"ב בשיא של 19 שנה - מה וורן באפט חושב על זה • וגם: ג'נסן הואנג מסמן את התחום הבא שיזנק עם מהפכת ה-AI",
    "source": "גלובס",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-09-16T08:12:00+00:00"
+   "published": "2026-09-16T14:29:00+00:00"
   },
   {
-   "title": "Shayetet 13 Navy SEALs conduct counterterror raids near Hebron, West Bank overnight",
-   "link": "https://www.jpost.com/israel-news/defense-news/article-908745",
-   "summary": "The details of the operation were not made public, but the IDF noted that there had been increased terror activity stemming from the area of operation.",
+   "title": "More than 40% of West Bank Palestinians believe Israel doesn’t have a right to exist, poll finds",
+   "link": "https://www.jpost.com/middle-east/article-908818",
+   "summary": "The majority (91%) also expressed concern about IDF operations in the West Bank, while 60% reported a low or very low sense of personal security.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-09-16T10:10:01+00:00"
+   "published": "2026-09-16T18:52:47+00:00"
   },
   {
-   "title": "US Republican anti-Israel lawmaker Massie seeks Hegseth's impeachment over Iran war",
-   "link": "https://www.jpost.com/american-politics/article-908729",
-   "summary": "Republican Rep. Thomas Massie launched an impeachment effort against Pete Hegseth over the Iran war, while polls show voters remain uneasy about the conflict ahead of midterm elections.",
-   "source": "Jerusalem Post",
-   "lang": "en",
-   "topic": "israel",
-   "rtl": false,
-   "published": "2026-09-16T04:43:25+00:00"
-  },
-  {
-   "title": "האו\"ם דורש מישראל לאפשר כניסת חוקרים בינלאומיים לעזה",
-   "link": "https://www.ynet.co.il/news/article/bjudhxvfge",
-   "summary": "הנציב העליון של האו\"ם לזכויות אדם פולקר טירק טען כי באזורים שהותקפו בעזה התגלו גופות מתחת להריסות - מה שמחייה את החשש בדבר פשעי מלחמה. הוא הביע חשש מכך שזה \"רק קצה הקרחון\", והוסיף כי ישראל מסרבת כרגע לאפשר הכנסת ציוד כבד לטובת פינוי ההריסות",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-09-16T06:44:43+00:00"
-  },
-  {
-   "title": "במיליוני שקלים, עם שלום אסייג: העסקה של מנכ\"ל מכבי תל אביב",
-   "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21431794",
-   "summary": "יפית פישלר, הבעלים של עמוד הסלבס \"אייקון ישראל\" באינסטגרם, מכרה אותו לאבי בן טל ולשלום אסייג תמורת כ-4 מיליון שקל • המהלך הוא חלק מיצירת קבוצת מדיה חדשה, שתיקרא \"Buzz code\"'",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-09-16T07:26:36+00:00"
-  },
-  {
-   "title": "6 ישראלים שכבשו את העולם - ורובכם בכלל לא מכירים אותם",
-   "link": "https://www.israelhayom.co.il/culture/internet-culture/article/21431473",
-   "summary": "אחד תכנן את הבניין הכי מזוהה עם סינגפור, אחת נחשבת לאחד המוחות שמאחורי מהפכת ה-AI, ויש גם אמן שיצירה שלו נוצרה הרחק מכדור הארץ • הכירו את הישראלים שטיפסו לצמרת העולמית בשקט, ואת אחד מהם אתם פוגשים בכל פעם שאתם נוחתים בנתב\"ג",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-09-16T07:11:41+00:00"
-  },
-  {
-   "title": "Israeli Strikes in Gaza Kill Teenager and Civil Defense Worker, Official Says",
-   "link": "https://www.nytimes.com/2026/09/15/world/middleeast/gaza-strikes-israel.html",
-   "summary": "Two Israeli drone strikes hit a residential neighborhood, an official said. Israel is under international pressure to curtail its attacks.",
+   "title": "At Least 21 Dead in Gaza After Building Collapse, Officials Say",
+   "link": "https://www.nytimes.com/2026/09/16/world/middleeast/gaza-building-collapse.html",
+   "summary": "The building was previously damaged by an Israeli strike, the local rescue service said. Its fall underscored the severe risks for many people living among Gaza’s ruins.",
    "source": "NY Times World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-09-16T05:00:44+00:00"
+   "published": "2026-09-16T17:18:08+00:00"
   },
   {
-   "title": "רוני - תחנות דייגו בארגנטינה",
-   "link": "https://www.ynet.co.il/news/article/h1lecawyme",
-   "summary": "הרגעים הקטנים האלה בחיים בהם המרחק בין ישראל לארגנטינה הוא אלפי קילומטרים, וברגע אחד הלב מרגיש כאילו לא עבר אפילו מטר אחד",
-   "source": "Ynet חדשות",
+   "title": "בצה\"ל חושדים: מאחורי \"נז\"א\" עומדת מטרה אחרת ממה שכולם חושבים",
+   "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21437406",
+   "summary": "בצה\"ל סבורים שהסרט נועד לייצר הרתעה שתשפיע על אופן הלחימה שלו • השמאל, שפעם התייצב לצד ישראל מול אויביה, הפך לחלק ממסע הדה־לגיטימציה שלה • ובמלחמה על דעת הקהל, ישראל עלולה להיות מורשעת עוד לפני שתספיק להגיב",
+   "source": "ישראל היום",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-09-16T07:59:48+00:00"
+   "published": "2026-09-16T17:22:04+00:00"
   },
   {
-   "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
-   "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-   "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+   "title": "תשואות אנטישמיות ולב יהודי גאה: יוצרי נז\"א התעלו על אושיות השמאל",
+   "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21436975",
+   "summary": "יובל אברהם ורחל שור עטו על עצמם פרצוף מיוסר וקיבלו 24 דקות של מחיאות כפיים בפסטיבל ונציה • הם סיפקו לבאי הפסטיבל את מה שהם הכי אוהבים: יהודי־ישראלי שמכה על החזה של צה\"ל ומאשר שנעשו פשעים נגד הפלסטינים",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-09-16T17:00:47+00:00"
+  },
+  {
+   "title": "A brief history of AI executives calling for regulation",
+   "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+   "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-09-16T12:00:00+00:00"
+  },
+  {
+   "title": "גרפיטי נגד נתניהו ב-25 דולר, סרטון נגדו במדי צה\"ל ב-600: כך תומחרו המשימות מאיראן",
+   "link": "https://news.walla.co.il/item/3868266",
+   "summary": "גרנובסקי הודה והורשע בקשר עם סוכן איראני, עבורו תיעד תחנות כוח ואת שכונת מגוריו של ח\"כ בני גנץ, הצית תשעה כלי רכב וריסס כתובות גרפיטי בתמורה לאלפי דולרים. בפרקליטות ציינו כי זהו העונש החמור ביותר שהוטל עד כה בפרשות שבהן ישראלים פעלו עבור סוכנים איראניים",
+   "source": "וואלה",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-09-16T16:15:00+00:00"
+  },
+  {
+   "title": "Sweden voted against more power for the far right – but are centrists listening?",
+   "link": "https://www.theguardian.com/world/2026/sep/16/sweden-voted-against-far-right-centrists-afd",
+   "summary": "Even as the ‘extremist’ AfD seeks further election gains in Germany, Europe’s leaders can learn from Sweden’s dangerous embrace with far-right ideology Don’t get This Is Europe delivered to your inbox? Sign up here Europe’s focus turned nervously to Sweden on Sunday, after an explosive election in Germany just a week earlier placed a far-right party, officially classed as “extremist”, on the brink",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-16T15:45:49+00:00"
+  },
+  {
+   "title": "Eight German state premiers back Merz amid speculation over future",
+   "link": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
+   "summary": "Christian Democratic Union leadership throws its weight behind the chancellor ahead of two state elections this weekend.",
    "source": "BBC World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-09-16T06:57:32+00:00"
+   "published": "2026-09-16T14:50:26+00:00"
   },
   {
-   "title": "דיפלומטים: העיסוק הבינלאומי בסרט נז\"א גבר בעקבות תגובת צה\"ל והממשלה",
-   "link": "https://www.haaretz.co.il/news/politics/2026-09-16/ty-article/.premium/000001a0-a5ed-dea8-afe0-e5edd78d0000",
-   "summary": "מקור במשרד החוץ ציין כי עצם ההתייחסות הממשלתית לסרט \"מושכת אש וכותרות\". דיפלומט אירופאי העריך כי לולא הזעם בישראל, \"רק אוהבי קולנוע היו מודעים לקיומו של הסרט\" במדינתו",
-   "source": "הארץ",
+   "title": "משימות נשארו, לוחמים שוחררו: צה\"ל קיצץ במילואימניקים יום לפני העלייה לקו",
+   "link": "https://www.ynet.co.il/news/article/s1hlieokzl",
+   "summary": "כ-600 לוחמי חטיבת כרמלי התייצבו לאימון לקראת תעסוקה צבאית של כמעט 4 חודשים בגזרה הסורית. יממה בלבד לפני העלייה לקו התקבלה הנחיה על צמצום מכסת כוח האדם. מפקד באחד הגדודים: \"הם כבר בתוך האירוע, ועכשיו צריך להגיד להם ללכת הביתה\". צה\"ל טרם מסר תגובה",
+   "source": "Ynet חדשות",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-09-16T03:01:52+00:00"
+   "published": "2026-09-16T17:27:44+00:00"
   },
   {
-   "title": "\"עלילת הדם\" הבאה על צה\"ל כבר מצולמת. בהפקת ישראל עצמה",
-   "link": "https://www.haaretz.co.il/opinions/2026-09-16/ty-article-opinion/.premium/000001a0-a55f-df5b-adf2-f77f2c530000",
-   "summary": "",
-   "source": "הארץ",
+   "title": "Charlie Kirk's family alleges 'stunning failures' by Utah officials led to his shooting",
+   "link": "https://www.bbc.co.uk/news/articles/cwzrz4xmknjgo?at_medium=RSS&at_campaign=rss",
+   "summary": "The conservative activist was speaking to a crowd of thousands on the university campus when he was shot and killed by a gunman positioned on a roof.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-16T15:33:19+00:00"
+  },
+  {
+   "title": "קלאצ'ניקוב בין השיחים ורימון שהושלך במרדף: גל תפיסות אמל\"ח בצפון | תיעוד",
+   "link": "https://news.walla.co.il/item/3868300",
+   "summary": "שלושה אירועים בצפון הסתיימו בתפיסת כלי נשק ובמעצרים: בירכא אותר תיק ובו רובה קלאצ'ניקוב ותחמושת, בסח'נין נעצר צעיר לאחר שעל פי החשד ירה לעבר בית ורכב ונמלט על קורקינט, ובנצרת השליך חשוד אקדח ורימון רסס מרכבו במהלך מרדף משטרתי",
+   "source": "וואלה",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-09-16T03:00:00+00:00"
+   "published": "2026-09-16T17:59:00+00:00"
   },
   {
-   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-   "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-   "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-09-15T19:00:00+00:00"
-  },
-  {
-   "title": "Minns says Molly Ticehurst’s murderer deserved longer sentence for ‘vicious’ crime’ – as it happened",
-   "link": "https://www.theguardian.com/australia-news/live/2026/sep/16/pauline-hanson-one-nation-labor-anthony-albanese-artificial-intelligence-ntwnfb",
-   "summary": "This blog is now closed Get our new political email , free app or daily news podcast Sports precinct funding report reveals a ‘pattern of behaviour’, Wilson says Tim Wilson says there are questions for Labor to answer over an ABC report which says health minister Mark Butler’s office asked an Adelaide council to put forward a $6m sports precinct upgrade for federal funding before any detailed cost",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-16T08:11:31+00:00"
-  },
-  {
-   "title": "Anthropic lands deal in $31bn datacentre in western Queensland, David Crisafulli says",
-   "link": "https://www.theguardian.com/technology/2026/sep/16/anthropic-lands-31bn-datacentre-deal-in-western-queensland",
-   "summary": "Premier describes deal as ‘major win’ that will deliver more jobs for the state and put more energy into its grid Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Anthropic, the AI company behind the large language model Claude , has done a deal to lease the site of its first Australian datacentre in western Queensland. The $31.9bn",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-16T05:20:00+00:00"
-  },
-  {
-   "title": "לראשונה מאז 2007: כל מה שכדאי לדעת על הדרמה בשוק האג\"ח",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001555594#utm_source=RSS",
-   "summary": "התשואה על אג\"ח ארה\"ב ל־10 שנים טיפסה לרמה הגבוהה ביותר מאז 2007, ועליית התשואות מתפשטת ליפן ולאירופה • ברקע: מחירי הנפט שחצו את רף 100 הדולר, האינפלציה הדביקה והציפייה להעלאת ריבית בארה\"ב • וגם: ההסבר הפשוט של וורן באפט על הקשר בין מניות לתשואות • הרקע וההשלכות, גלובס עושה סדר",
+   "title": "אופטימיות בוול סטריט לקראת החלטת הפד; מחירי הנפט צוללים",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001555589#utm_source=RSS",
+   "summary": "המשקיעים שומרים על קור רוח לקראת פרסום החלטת הריבית • מדד הנאסד\"ק מטפס ועשוי לרשום את \"יום הפד\" הטוב ביותר שלו מזה 10 חודשים • מניות אינטל ו-SK Hynix מזנקות בעקבות דיווח על מגעים ראשוניים לייצור שבבי זיכרון על אדמת ארה\"ב • מניות \"שבע המופלאות\" ממשיכות לרכז ביקושים ולהכות את יתר השוק • מגמה חיובית בבורסות אירופה חרף זינוק באינפלציה בבריטניה ל-3.1% • מחירי הנפט נסוגים ברקע אופטימיות לפתיחה מחדש של צ",
    "source": "גלובס",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-09-16T06:00:00+00:00"
+   "published": "2026-09-16T16:37:00+00:00"
   },
   {
-   "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-   "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-   "summary": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
-   "source": "BBC World",
+   "title": "English far-right extremist who discussed killing Jews, Muslims and migrants is jailed",
+   "link": "https://www.theguardian.com/uk-news/2026/sep/16/ivan-jennings-stafford-jailed-far-right-terrorism",
+   "summary": "Ivan Jennings, 46, sentenced to five years after pleading guilty to encouraging terrorism on social media A rightwing extremist who discussed poisoning Jews and Muslims and called for the killing of migrants and minority communities has been jailed. Ivan Jennings, 46, called for the murder of hundreds of people he labelled “subhumans”, saying it was “justified and actually needed”, in extreme far-",
+   "source": "The Guardian",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-09-16T08:35:56+00:00"
+   "published": "2026-09-16T17:27:04+00:00"
   },
   {
-   "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-   "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-   "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
-   "source": "TechCrunch",
+   "title": "Can the US government punish a university for boycotting Israel?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/can-the-us-government-punish-a-university-for-boycotting-israel?traffic_source=rss",
+   "summary": "The US House passed a bill that could cut universities off from federal student aid if they boycott Israel.",
+   "source": "Al Jazeera",
    "lang": "en",
-   "topic": "tech",
+   "topic": "world",
    "rtl": false,
-   "published": "2026-09-15T20:12:53+00:00"
+   "published": "2026-09-16T16:57:32+00:00"
   },
   {
-   "title": "Can an Island Nation’s Rugby Dreams Change Its Fortunes?",
-   "link": "https://www.nytimes.com/2026/09/16/world/asia/can-an-island-nations-rugby-dreams-change-its-fortunes.html",
-   "summary": "In Papua New Guinea, love for rugby league football borders on religion. The country’s leaders and its neighbor, Australia, want to harness the game for geopolitics, and to improve lives.",
+   "title": "E.U. Talks of Making Canada First ‘Associate Member’ as U.S. Ties Weaken",
+   "link": "https://www.nytimes.com/2026/09/16/world/europe/eu-canada-associate-member.html",
+   "summary": "Canada and the European Union have been confronting an increasingly challenging relationship with the United States under President Trump.",
    "source": "NY Times World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-09-16T07:19:57+00:00"
+   "published": "2026-09-16T17:37:45+00:00"
   },
   {
-   "title": "Anthropic CEO didn’t foresee the speed of global AI growth",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/anthropic-ceo-didnt-foresee-the-speed-of-global-ai-growth?traffic_source=rss",
-   "summary": "Anthropic’s CEO says he ‘didn’t appreciate’ the speed with which AI’s growth would underpin the global economy.",
+   "title": "Sweden expels Iran embassy employee, citing security concerns",
+   "link": "https://www.aljazeera.com/news/2026/9/16/sweden-expels-iran-embassy-employee-citing-security-concerns?traffic_source=rss",
+   "summary": "Stockholm says Iran-backed groups are plotting against 'Jewish and Israeli interests' in the country.",
    "source": "Al Jazeera",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-09-16T02:40:08+00:00"
+   "published": "2026-09-16T15:53:38+00:00"
   },
   {
-   "title": "How rising bond yields impact American consumers",
-   "link": "https://www.bbc.co.uk/news/videos/cwz0zpyzrlr1o?at_medium=RSS&at_campaign=rss",
-   "summary": "The BBC’s Samira Hussain explains why some could see increased interest rates for mortgages and business loans.",
-   "source": "BBC Business",
-   "lang": "en",
-   "topic": "business",
-   "rtl": false,
-   "published": "2026-09-16T03:58:32+00:00"
-  },
-  {
-   "title": "Manchester derby VAR error caused by ‘tunnel vision’: Pro Ref chief Webb",
-   "link": "https://www.aljazeera.com/sports/2026/9/16/manchester-derby-var-error-caused-by-tunnel-vision-pro-ref-chief-webb?traffic_source=rss",
-   "summary": "Howard Webb says the referees' body is disappointed with the decision to allow Haaland's goal against Manchester United.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-16T06:25:35+00:00"
-  },
-  {
-   "title": "חצי הכוס הריקה: המשבר המחריף בענף היין הישראלי",
-   "link": "https://www.ynet.co.il/economy/article/yokra14891797",
-   "summary": "חגי תשרי נחשבים לעונת השיא של תעשיית היין בישראל, אבל השנה התחושה בענף חמוצה: הצעירים שותים פחות אלכוהול, הייבוא מאירופה מציף את השוק, המלחמה פגעה קשות בענף האירועים ובתיירות, שני תחומים שמחזיקים נתח נכבד מהמכירות, וגם יוקר המחיה גורם לצרכנים לחפש בקבוקים זולים • התוצאה: יקבים תקועים עם סטוקים של מיליוני שקלים, בכרמים מצמצמים ייצור וחלק נאלצים לוותר על הבציר • \"אם לא נקבל סיוע ממשרד החקלאות, נראה ",
+   "title": "הסטארטאפ של יוצאי סיירת מטכ\"ל גייס 22 מיליון דולר",
+   "link": "https://www.ynet.co.il/economy/article/b1a1y0vfzl",
+   "summary": "רועי מור ויונתן לוין נפגשו לראשונה בצבא, עברו מקורס טיס לסיירת ובהמשך חברו שוב בעולם ‏הטכנולוגיה. האפליקציה שלהם ללימוד אנגלית, לורה, מציעה תרגול בעזרת מורה וירטואלית מבוססת AI ומחזיקה ביותר מ-15 מיליון ‏משתמשים ברחבי העולם",
    "source": "Ynet כלכלה",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-09-16T03:24:37+00:00"
+   "published": "2026-09-16T12:30:00+00:00"
+  },
+  {
+   "title": "\"ה-AI עלול להרוג את כולנו\": חוקר בכיר בגוגל מתפטר ומזהיר מאסון",
+   "link": "https://www.ynet.co.il/digital/technews/article/r1xhp0dyfe",
+   "summary": "חוקר בכיר במעבדת \"דיפמיינד\" (DeepMind) של ענקית הטק התפטר והזהיר כי הבינה המלאכותית עלולה להביא לחיסול האנושות. הוא מצטרף לשורת חוקרים ובכירים שמתריעים מפני מרוץ חסר מעצורים לבינת-על. אלא שמומחי סייבר מטילים ספק בתרחישי האימה האלה",
+   "source": "Ynet טכנולוגיה",
+   "lang": "he",
+   "topic": "tech",
+   "rtl": true,
+   "published": "2026-09-16T08:54:55+00:00"
   },
   {
    "title": "Petrol and diesel price rises push UK inflation higher",
@@ -250,37 +270,17 @@
    "lang": "en",
    "topic": "business",
    "rtl": false,
-   "published": "2026-09-16T07:34:45+00:00"
+   "published": "2026-09-16T14:30:51+00:00"
   },
   {
-   "title": "AI and data centers are incredibly unpopular in every poll",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-   "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1,503 likely voters surveyed […]",
-   "source": "The Verge",
+   "title": "What's happening to UK interest rates and what does it mean for mortgages?",
+   "link": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
+   "summary": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
+   "source": "BBC Business",
    "lang": "en",
-   "topic": "tech",
+   "topic": "business",
    "rtl": false,
-   "published": "2026-09-15T23:34:25+00:00"
-  },
-  {
-   "title": "Microsoft announces Windows and Surface event for October 7th",
-   "link": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
-   "summary": "It's been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices. At an event on October 7th, the company says it will host a \"conversation on how local AI will shape the next chapter of the […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-09-15T20:36:59+00:00"
-  },
-  {
-   "title": "How chimps teach their kids tool tricks",
-   "link": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
-   "summary": "Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior.",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-09-16T04:00:39+00:00"
+   "published": "2026-09-16T13:50:59+00:00"
   }
  ]
 }
