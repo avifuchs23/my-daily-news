@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-19T08:12:00.639008+00:00",
- "generated_display": "Saturday, 19 September 2026 · 11:12",
+ "generated_at": "2026-09-19T16:51:47.026228+00:00",
+ "generated_display": "Saturday, 19 September 2026 · 19:51",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,34 +23,184 @@
  },
  "stories": [
   {
-   "title": "Modern human men evolved unique hip 'spring' for efficient walking, Israeli-led study finds",
-   "link": "https://www.jpost.com/science/article-908948",
-   "summary": "A new Tel Aviv University study challenges assumptions about the Neanderthal pelvis, finding that modern human males evolved a distinct walking mechanism.",
+   "title": "Gemini went rogue, hacked three companies, and Google hid it",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+   "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. According to WSJ, Google didn't […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-09-19T15:25:03+00:00"
+  },
+  {
+   "title": "'I am pro-Abraham': Meet the unlikely allies risking everything for peace with Israel",
+   "link": "https://www.jpost.com/middle-east/article-908997",
+   "summary": "MIDDLE EAST AFFAIRS: Abrahamic Movement members tell the ‘Post’ about pursuing peace and normalization with Israel, despite personal risks and challenges to long-standing taboos.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-09-19T07:51:31+00:00"
+   "published": "2026-09-19T16:00:12+00:00"
   },
   {
-   "title": "מתוח ביו\"ש: פלסטינית הותקפה במקל, עימותים באזור רמאללה | תיעוד",
-   "link": "https://www.ynet.co.il/news/article/h15pz3ikze",
-   "summary": "ברקע הדריכות בצה\"ל וההיערכות לחגי תשרי, עימותים נרשמו בכפר אל מורייר בין ישראלים לפלסטינים, שטוענים כי בוצע ירי לעבר בתים. רכב ישראלי נורה אתמול באזור, צעיר יהודי הכה אישה פלסטינית עם מקל בדרום הר חברון - ונמלט",
+   "title": "Mike Huckabee on Iran, Hezbollah, Saudi Arabia and Israel’s US relationship - interview",
+   "link": "https://www.jpost.com/israel-news/article-909112",
+   "summary": "The US ambassador to Israel discusses issues from UNIFIL and attacks on Palestinians to Iran and regional diplomacy, while warning of the dangers posed by AI.",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-09-19T15:55:18+00:00"
+  },
+  {
+   "title": "פרטים חדשים על הדריסה אחרי הסליחות - והטעות של ה-AI שכמעט הובילה למלחמה | כותרות השבת",
+   "link": "https://www.ynet.co.il/news/article/ryhua11nkge",
+   "summary": "הוארך מעצרו של הנהג מכפר מנדא שחשוד בדריסתו למוות של הנער עמיחי עטיה | נשיא ארה\"ב מסלים את המלחמה בתקשורת - ואסר על CNN ורשתות נוספות להיכנס לבית הלבן | וגם: כך ה-AI טעה בזיהוי וארה\"ב עמדה להשתלט על ספינה סינית - והליגיונר הישראלי שבישל שני שערים תוך שלוש דקות בליגה הספרדית",
    "source": "Ynet חדשות",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-09-19T08:05:58+00:00"
+   "published": "2026-09-19T16:06:49+00:00"
   },
   {
-   "title": "Gemini hacked three companies in first known breakout by Google's AI",
-   "link": "https://www.jpost.com/defense-and-tech/article-909096",
-   "summary": "The hacks occurred in May during a cybersecurity test conducted by Irregular, an independent cybersecurity evaluation firm.",
-   "source": "Jerusalem Post",
-   "lang": "en",
+   "title": "המומחה שמזהיר: \"תשואות הענק בבורסה מאחורינו\" - ועוד 4 כתבות על המצב בשווקים",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001556745#utm_source=RSS",
+   "summary": "נהל ההשקעות שמציע להתאים ציפיות: \"לא עוד עשרות אחוזי רווח בבורסה בת\"א\" • המרוויחות והמפסידות מהאטה במרוץ ה-AI • המתכת היקרה שזינקה - ומשמשת אינדיקטור למצב הכלכלה העולמית • וגם: למה הפד העלה ריבית ואיך ההחלטה עשויה להשפיע על ישראל?",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-09-19T13:00:00+00:00"
+  },
+  {
+   "title": "השיחה המתוחה לפני הסנקציות: \"הבנו שישראל לא תקדם את E1 לפני הבחירות\"",
+   "link": "https://www.ynet.co.il/news/article/b191ez2kzx",
+   "summary": "חודש לפני המפולת המדינית, סער שוחח עם עמיתיו בלונדון - ואלה \"קיבלו את הרושם\" שישראל לא תקדם את תוכנית הבנייה ב-E1. אלא שכעבור שבוע, פרסמה הממשלה מכרזים לכ-1,200 יחידות דיור. \"זה ההיפך הגמור ממה שהבנו\", זעמו הבריטים. משרד החוץ: \"הוא רק עדכן שלא יחול שינוי בשטח עצמו לפני אוקטובר\"",
+   "source": "Ynet חדשות",
+   "lang": "he",
    "topic": "israel",
+   "rtl": true,
+   "published": "2026-09-19T13:01:02+00:00"
+  },
+  {
+   "title": "בישראל גיבשו אסטרטגיה חדשה - וסימנו שתי מדינות מפתח מפתיעות",
+   "link": "https://www.israelhayom.co.il/news/defense/article/21454159",
+   "summary": "ההתנהלות האמריקנית בלתי יציבה, ומובילה להידוק קשרים עם מעצמות חדשות • במערכת הביטחון מעריכים כי \"אימפריות נופלות לאט\" ומנמיכים ציפיות באשר להפלת המשטר האיראני • הם מזהירים מפני תגובה נואשת על הלחץ שמופעל באיראן - ומצביעים על סכנה ממשית בשל היעדר תקציב לשיקום צה\"ל",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-09-19T13:40:15+00:00"
+  },
+  {
+   "title": "AI safety conversations have gotten unbelievable",
+   "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+   "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
    "rtl": false,
-   "published": "2026-09-19T08:23:47+00:00"
+   "published": "2026-09-19T15:00:00+00:00"
+  },
+  {
+   "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+   "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+   "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-09-19T13:00:00+00:00"
+  },
+  {
+   "title": "Russia Warns New U.S. Sanctions Law Would Harm Trump’s Peace Efforts",
+   "link": "https://www.nytimes.com/2026/09/19/world/europe/russia-us-sanctions-trump.html",
+   "summary": "President Trump signed the legislation, named for Senator Lindsey Graham, at the White House, but he has broad leeway to waive its requirements.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-19T09:23:29+00:00"
+  },
+  {
+   "title": "המדינה האירופית הציגה את הנשק הישראלי המתקדם בתערוכה היוקרתית",
+   "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21455406",
+   "summary": "קפיצת מדרגה ביטחונית: לראשונה, מדינה החברה בנאט\"ו הציגה את מערכת ההגנה האווירית הישראלית - שתספק עבורם הגנה לאומית מקצה לקצה • התוכנית צפויה להתרחב גם להגנה מפני טילים בליסטיים ויכולות לייזר",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-09-19T16:15:39+00:00"
+  },
+  {
+   "title": "Google's Gemini AI hacked three companies in security test",
+   "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+   "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-19T13:39:32+00:00"
+  },
+  {
+   "title": "הניסוי של גוגל יצא משליטה והקשר הישראלי: ג'מיני פרץ למערכות של שלוש חברות",
+   "link": "https://www.ynet.co.il/digital/technews/article/hjs8onjtmx",
+   "summary": "המודל היה אמור לתרגל מתקפות סייבר בסביבה סגורה, אך חיבור לאינטרנט שהופעל בטעות הוביל אותו לפרוץ לשלוש חברות אמיתיות. האירוע התרחש בבדיקה של חברת Irregular, שהייתה מעורבת גם בחשיפת הפריצה של OpenAI. גוגל בחרה שלא לדווח על המקרה לציבור בטענה שלא נגרם נזק ממשי",
+   "source": "Ynet טכנולוגיה",
+   "lang": "he",
+   "topic": "tech",
+   "rtl": true,
+   "published": "2026-09-19T07:41:21+00:00"
+  },
+  {
+   "title": "Jim Ratcliffe: UK is ‘on the slide’ from days when it had world’s ‘greatest empire’",
+   "link": "https://www.theguardian.com/business/2026/sep/19/jim-ratcliffe-uk-immigration-tax-manchester-united-ineos",
+   "summary": "Co-owner of Manchester United says Britain is in decline because of high taxes and immigration Manchester United’s Muslim supporters’ club (MUMSC) has called for the Premier League side’s co-owner to step down in response to his “completely unacceptable” comments during a BBC interview. Sir Jim Ratcliffe described the UK as being a country “on the slide” from the days when it had “the greatest emp",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-19T16:17:23+00:00"
+  },
+  {
+   "title": "A Small Country’s Huge Windfall from the War in Iran",
+   "link": "https://www.nytimes.com/2026/09/19/world/americas/guyana-oil-boom.html",
+   "summary": "Oil-rich Guyana is enjoying red-hot growth. But the boom is magnifying tensions over corruption, inequality and strained ties with Venezuela.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-19T13:47:42+00:00"
+  },
+  {
+   "title": "ארסנל הובסה 3:0 בברייטון וספגה הפסד ראשון העונה",
+   "link": "https://www.haaretz.co.il/sport/world-soccer/2026-09-19/ty-article/000001a0-ba5b-da3d-afb5-fb7fae7e0000",
+   "summary": "האלופה נכנעה ללא קושי לשחפים, שנראו נהדר מהפתיחה ונהנו משערים של פסקל גרוס, צ'ארלאמבוס קוסטולאס ואנדרס צ'אמה. מנצ'סטר סיטי תוכל לתפוס את הפסגה, במידה שתנצח את סנדרלנד",
+   "source": "הארץ",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-09-19T16:05:51+00:00"
+  },
+  {
+   "title": "Russia reports ‘powerful’ cyberattacks on second day of parliamentary vote",
+   "link": "https://www.aljazeera.com/news/2026/9/19/russia-reports-powerful-cyberattacks-on-second-day-of-parliamentary-vote?traffic_source=rss",
+   "summary": "This is Russia's first election since it invaded Ukraine, and is expected to gauge public support for the ongoing war.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-19T15:18:00+00:00"
+  },
+  {
+   "title": "The AI regulation smackdown isn’t over",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+   "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-09-19T13:00:00+00:00"
   },
   {
    "title": "From ovations in Venice to death threats in Israel: the extreme responses to NAZA documentary",
@@ -63,44 +213,24 @@
    "published": "2026-09-19T05:00:37+00:00"
   },
   {
-   "title": "ה-AI טעה בזיהוי - וארה\"ב עמדה להשתלט על ספינה סינית: \"כמעט פרצה מלחמה\"",
-   "link": "https://www.ynet.co.il/news/article/sjprgsjtml",
-   "summary": "בצל ההאזהרות שמטלטלות את עולם ה-AI, ב-CNN נחשף כי דוח מודיעין שהוכן בסיוע בינה מלאכותית במהלך המלחמה באיראן קבע בטעות כי ספינה סינית נושאת רכיבים לנשק גרעיני. חיילים כבר נערכו לפשיטה ומטוסים היו באוויר, עד שהתגלה כי הדוח היה שגוי לחלוטין: \"ה-AI מאפשר לך להגיע לרעיון גרוע מהר יותר\". במקביל: הקונגרס חוקר כיצד חלקים רגישים ממטוסי F-35 הגיעו להונג קונג",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-09-19T07:54:27+00:00"
-  },
-  {
-   "title": "הניסוי של גוגל יצא משליטה: ג'מיני פרץ למערכות של שלוש חברות",
-   "link": "https://www.ynet.co.il/digital/technews/article/hjs8onjtmx",
-   "summary": "המודל היה אמור לתרגל מתקפות סייבר בסביבה סגורה, אך חיבור לאינטרנט שהופעל בטעות הוביל אותו לפרוץ לשלוש חברות אמיתיות. האירוע התרחש בבדיקה של חברת Irregular, שהייתה מעורבת גם בחשיפת הפריצה של OpenAI ל-Hugging Face. גוגל בחרה שלא לדווח על המקרה לציבור בטענה שלא נגרם נזק ממשי",
-   "source": "Ynet טכנולוגיה",
-   "lang": "he",
-   "topic": "tech",
-   "rtl": true,
-   "published": "2026-09-19T07:41:21+00:00"
-  },
-  {
-   "title": "Lib Dems have ‘moral responsibility’ to block Reform, says Ed Davey as party gears up for snap election",
-   "link": "https://www.theguardian.com/politics/2026/sep/19/lib-dems-have-moral-responsibility-to-block-reform-says-ed-davey-as-party-gears-up-for-snap-election",
-   "summary": "Exclusive: Lib Dem leader bullish ahead of party conference despite static poll ratings and MPs’ frustrations The Liberal Democrats have begun work on a new manifesto in case of a possible snap election, as Ed Davey said he understood the frustrations of some of his MPs who fear that the party’s message is currently at risk of being lost. But Davey also urged his party not to panic at static polli",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-19T07:00:41+00:00"
-  },
-  {
-   "title": "Trump signs sweeping Russia sanctions bill",
-   "link": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss",
-   "summary": "The bill is named after the late Senator Lindsey Graham, a staunch advocate of aid for Ukraine.",
+   "title": "'Enough is enough': Women protest after string of murders near Johannesburg",
+   "link": "https://www.bbc.co.uk/news/videos/cm4gjxq1dx2eo?at_medium=RSS&at_campaign=rss",
+   "summary": "The police have since set up a task team to investigate the murders and have urged women in the Kempton Park area to avoid walking or running alone \"particularly in isolated areas\".",
    "source": "BBC World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-09-18T22:05:47+00:00"
+   "published": "2026-09-19T11:50:50+00:00"
+  },
+  {
+   "title": "גורמי מודיעין בארה\"ב מזהים ניסיונות רוסיים לזרוע כאוס בבחירות האמצע",
+   "link": "https://www.haaretz.co.il/news/world/america/2026-09-19/ty-article/.premium/000001a0-b992-d160-a3ae-bfdf79e60000",
+   "summary": "גורמים אמריקאים אמרו כי מוסקבה חוזרת לשיטות שבהן השתמשה בעבר, ומפעילה מבצעי דיסאינפורמציה כדי לערער את האמון בבחירות. הערכות מודיעין מצאו כי גם איראן וסין עשויות להפעיל מבצעי השפעה בהיקף מצומצם בהרבה",
+   "source": "הארץ",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-09-19T13:32:33+00:00"
   },
   {
    "title": "מודל בינה מלאכותית נוסף פרץ לחברות במהלך תרגיל סייבר",
@@ -113,144 +243,14 @@
    "published": "2026-09-19T05:33:00+00:00"
   },
   {
-   "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-   "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-   "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-09-18T23:25:01+00:00"
-  },
-  {
-   "title": "CNN: טעות של בינה מלאכותית כמעט גררה את ארה\"ב לעימות צבאי מול סין",
-   "link": "https://www.haaretz.co.il/news/world/america/2026-09-19/ty-article/.premium/000001a0-b5fc-d3fc-aff0-ffffbde30000",
-   "summary": "לפי הדיווח, במהלך המלחמה עם איראן ארה\"ב התכוונה ליירט ספינה סינית בשל הערכה שהיא נושאת רכיבים שקשורים לתוכנית גרעין. ואולם, ברגע האחרון התברר כי איש הצבא שהעביר את המודיעין השתמש במודל AI שסיפק מידע כוזב",
-   "source": "הארץ",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-09-19T06:01:48+00:00"
-  },
-  {
-   "title": "מורן אטיאס נגד יהודי התפוצות: \"תסתמו את הפה\"",
-   "link": "https://www.israelhayom.co.il/culture/tv/article/21453126",
-   "summary": "השחקנית הבינלאומית הגיעה לריאיון חשוף בחדשות 13, ופתחה חזית מול יהודי התפוצות שמבקרים את ישראל",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-09-19T07:48:37+00:00"
-  },
-  {
-   "title": "במסגרת ניסוי ישראלי: ה-AI של גוגל פרץ ל-3 חברות אמיתיות",
-   "link": "https://www.maariv.co.il/breaking-news/article-1368853",
-   "summary": "",
-   "source": "מעריב",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-09-19T05:48:39+00:00"
-  },
-  {
-   "title": "Google's Gemini AI hacked three companies in security test",
-   "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-   "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-19T04:27:11+00:00"
-  },
-  {
-   "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-   "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
-   "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already picked up some industry support, along with some pointed pushback from Nvidia’s Jensen Huang. Watch ",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-09-18T17:09:56+00:00"
-  },
-  {
-   "title": "אחת מפרשות ההונאה הפיננסיות הגדולות ביותר בתולדות טורקיה: \"ישראלים שקשורים לארגוני פשיעה\"",
-   "link": "https://www.maariv.co.il/breaking-news/article-1368868",
-   "summary": "",
-   "source": "מעריב",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-09-19T07:21:23+00:00"
-  },
-  {
-   "title": "South Korean Leader Says He Will Not Send Troops to Iran, Despite Trump’s Call",
-   "link": "https://www.nytimes.com/2026/09/18/world/asia/south-korea-president-lee-jae-myung-trump-iran.html",
-   "summary": "President Lee Jae Myung’s comments followed President Trump’s repeated demand for “a little hand” from South Korea, a decades-old American ally.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-19T06:48:19+00:00"
-  },
-  {
-   "title": "Russia holds parliamentary vote in areas it seized from Ukraine in the war",
-   "link": "https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine",
-   "summary": "Russia's parliamentary election for the first time is being held in Ukraine's regions that Moscow illegally annexed after the start of its full-scale invasion more than 4 1/2 years ago.",
-   "source": "NPR News",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-19T06:39:57+00:00"
-  },
-  {
-   "title": "US and Denmark reach deal to build US military presence in Greenland",
-   "link": "https://www.npr.org/2026/09/19/g-s1-144158/us-and-denmark-reach-deal",
-   "summary": "President Donald Trump says he has a deal with Denmark to bolster the U.S. military presence in Greenland. The announcement comes after months of threatening to take the island by force from the NATO ally.",
-   "source": "NPR News",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-19T04:44:46+00:00"
-  },
-  {
-   "title": "NAZA: Why are old Gaza allegations causing new fury in Israel?",
-   "link": "https://www.aljazeera.com/news/2026/9/19/naza-why-are-old-gaza-allegations-causing-new-fury-in-israel?traffic_source=rss",
-   "summary": "Israeli soldiers' Gaza testimony causes backlash across much of the country's political establishment.",
+   "title": "Demonstrators in US form human chain to protest Kennedy Center closure vote",
+   "link": "https://www.aljazeera.com/news/2026/9/19/demonstrators-in-us-form-human-chain-to-protest-kennedy-center-closure-vote?traffic_source=rss",
+   "summary": "'Hands Around the Kennedy Center' rally drew thousands after Trump-backed board votes to close the iconic arts venue.",
    "source": "Al Jazeera",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-09-19T07:50:44+00:00"
-  },
-  {
-   "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-   "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor in human history,\" and that it […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-09-18T21:07:24+00:00"
-  },
-  {
-   "title": "תושב החוץ מכר, המשפחה מירושלים קנתה: בכמה נמכר בית פרטי בשדרות?",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001555572#utm_source=RSS",
-   "summary": "בשכונת נאות הנביאים בשדרות, נמכר בית בן 4 חדרים בשטח בנוי של 106 מ\"ר עם חצר בשטח של 110 מ\"ר, תמורת 1.5 מיליון שקל • \"שדרות הפכה לעיר מאוד מבוקשת, גם למגורים וגם על ידי משקיעים. יש הרבה עסקאות ומגיעים אליה אנשים מכל הארץ\" • ועוד עסקאות נדל\"ן מהשבוע האחרון",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-09-19T06:00:00+00:00"
-  },
-  {
-   "title": "Security researchers used Claude to help them hack into OpenAI",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
-   "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called \"Monorepo,\" which reportedly contains \"OpenAI's algorithmic secrets,\" according to The […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-09-18T15:30:16+00:00"
+   "published": "2026-09-19T16:21:36+00:00"
   },
   {
    "title": "\"מזגתי לו את כל הבירות ואמרתי: עכשיו תסתום את הפה ותן לי לסגור את הפאב\"",
