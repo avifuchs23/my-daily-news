@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-23T18:02:11.692636+00:00",
- "generated_display": "Wednesday, 23 September 2026 · 21:02",
+ "generated_at": "2026-09-24T08:37:38.192672+00:00",
+ "generated_display": "Thursday, 24 September 2026 · 11:37",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,6 +23,186 @@
  },
  "stories": [
   {
+   "title": "Expanding foothold in Israel, Ondas acquires three more defense tech companies",
+   "link": "https://www.jpost.com/defense-and-tech/article-909529",
+   "summary": "Ondas said the deal is intended to strengthen its “systems‑of‑systems” approach, combining sensing, connectivity, navigation, and autonomy across aerial and ground systems",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-09-24T09:10:03+00:00"
+  },
+  {
+   "title": "200 דולר לאדם: הרב שיחלק מיליונים לאנשים כדי שלא יצביעו בבחירות",
+   "link": "https://www.israelhayom.co.il/news/politics/article/21478346",
+   "summary": "חסידות סאטמר צפויה לחלק הערב מיליוני שקלים לאלפי משפחות שיצהירו כי לא ישתתפו בבחירות לכנסת • כל משפחה המופיעה ברישומים הפנימיים, המכונים \"הרשימות הטהורות\", תקבל צ'ק על סך 200 דולר • המימון מגיע מתרומות של נגידים מחו\"ל, ובהם יואלי לנדו • האדמו\"ר אישר את המהלך במוצאי החג כדי לאפשר למשפחות להשתמש בכסף כבר כעת",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-09-24T08:14:14+00:00"
+  },
+  {
+   "title": "Netanyahu not expected to conduct many diplomatic meetings at UNGA due to tight scheduling",
+   "link": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-909521",
+   "summary": "Netanyahu is expected to land at a military airfield in New Jersey, travel to Manhattan, address the General Assembly, and then head back to Israel.",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-09-24T08:07:27+00:00"
+  },
+  {
+   "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+   "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+   "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-24T07:10:58+00:00"
+  },
+  {
+   "title": "Australia Investigates OpenAI Hack on Public Health Care Site",
+   "link": "https://www.nytimes.com/2026/09/23/world/asia/australia-investigates-openai-hack-on-public-health-care-site.html",
+   "summary": "Australia is exploring potential legal action after an artificial intelligence agent accessed nonpublic information on the country’s universal health care system.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-24T05:32:47+00:00"
+  },
+  {
+   "title": "Diesel prices across Australia could surge beyond $3 a litre as Trump eyes cut to US fuel exports",
+   "link": "https://www.theguardian.com/australia-news/2026/sep/24/diesel-prices-across-australia-could-surge-beyond-3-a-litre-as-trump-eyes-cut-to-us-fuel-exports",
+   "summary": "Fuel costs have risen to levels not seen since early April, adding to risk of inflation and interest rate hike Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Australian diesel prices could surge above $3 a litre if Donald Trump cuts off US diesel exports amid floundering negotiations with Iran. Fuel costs have risen to levels not",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-24T06:18:41+00:00"
+  },
+  {
+   "title": "Benjamin Netanyahu to deliver defiant UN speech while facing protests and political isolation",
+   "link": "https://www.theguardian.com/world/2026/sep/24/netanyahu-to-deliver-defiant-un-speech-facing-protests-political-isolation",
+   "summary": "Prime minister will ‘highlight Israel’s achievements’ as he heads towards his toughest re-election challenge When he takes the stage at the UN on Thursday, Benjamin Netanyahu will deliver a familiar message of defiance even as protests and international condemnation leave the Israeli leader in growing isolation. Netanyahu is facing his toughest re-election challenge in a political career spanning ",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-24T08:00:12+00:00"
+  },
+  {
+   "title": "סוכן בינה מלאכותית של OpenAI פרץ למאגר ממשלתי",
+   "link": "https://www.ynet.co.il/digital/technews/article/hkyv58f5gl",
+   "summary": "במקרה ראשון מסוגו, סוכן AI אוטונומי נתקל בחסימת גישה בעת מחקר על מערכת הבריאות באוסטרליה, עקף עצמאית את חומות האש וחדר למערכת. הממשל זועם: החברה דיווחה על המחדל באיחור של חודשים",
+   "source": "Ynet טכנולוגיה",
+   "lang": "he",
+   "topic": "tech",
+   "rtl": true,
+   "published": "2026-09-24T08:30:06+00:00"
+  },
+  {
+   "title": "צה\"ל: חוסל מנהל הכספים בחמאס, שהעביר יותר ממיליארד שקל לארגון במלחמה",
+   "link": "https://www.ynet.co.il/news/article/rkpm67fczg",
+   "summary": "מוחמד אבו עלואן חוסל בתקיפה שכוונה לרכב בחאן יונס. בצה\"ל הודו כי לאורך המלחמה הצליח להעביר יותר ממיליארד שקל למימון פעילות ארגון הטרור",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-09-24T05:03:59+00:00"
+  },
+  {
+   "title": "בגיל 100 - הלכה לעולמה קצרנית הכנסת המיתולוגית: \"ישבה בחדרים הכי חשאיים\"",
+   "link": "https://www.ynet.co.il/news/article/yokra14907085",
+   "summary": "מקום המדינה ועד שנות ה-90, אסנת דגני ישבה לצד מנהיגי ישראל ותיעדה את הרגעים ההיסטוריים הרשמיים, וגם פגישות חשאיות גורליות. היא הלכה לעולמה בסוף השבוע, בגיל 100 ו-9 חודשים. חברתה ספדה: \"אסנת חגגה את החיים עד הרגע האחרון. היא הייתה שותפת סוד לסודות הכמוסים ביותר של מדינת ישראל\"",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-09-24T03:29:16+00:00"
+  },
+  {
+   "title": "מגמה שלילית בתל אביב; הדולר מתחזק",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001557405#utm_source=RSS",
+   "summary": "מניות האנרגיה מובילים את הירידות בתל אביב; סקטור הנפט והגז היחיד ששוחה נגד הזרם • הדולר ממשיך להתחזק מול השקל ונסחר סביב 3.04 שקלים • תשואת האג\"ח ל-10 שנים בארה\"ב מזנקת לשיא של 19 שנה, הנפט נסוג מעט מהעלייה אתמול • הבנות רגע לפני הפסגה: ארה\"ב וסין דוחות את המכסים ומקימות \"קו חם\" ל-AI • וגם: האם גל הגאות ב-AI בדרך להאטה? בוול סטריט מסמנים את הזרז הבא של מיקרון",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-09-24T07:42:00+00:00"
+  },
+  {
+   "title": "Beleaguered at Home, a Bellicose Netanyahu Heads to the U.N.",
+   "link": "https://www.nytimes.com/2026/09/24/world/middleeast/netanyahu-unga-israel-election.html",
+   "summary": "Prime Minister Benjamin Netanyahu of Israel will take to the world stage while fighting for his political future in a critical national election.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-24T08:08:30+00:00"
+  },
+  {
+   "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+   "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+   "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-24T04:37:47+00:00"
+  },
+  {
+   "title": "ChatGPT כבר לא במקום הראשון: מכשיר ה-AI החדש שמזנק בארה״ב”",
+   "link": "https://www.israelhayom.co.il/news/world-news/article/21477110",
+   "summary": "מנכ\"ל מטא ניצל את כנס המפתחים השנתי כדי לחשוף מכשיר פיזי קטן בשם \"מיוז צ'ארם\", שיאפשר גישה ישירה לסוכן הבינה המלאכותית • צוקרברג הודה כי המיקוד עובר מהמטאברס אל ה-AI: \"האינטליגנציה העל-אנושית תהיה גדולה וחשובה הרבה יותר\" • המכשיר צפוי לקסום לדור ה-Z ומזכיר את ה\"טמגוצ'י\", אך אנליסטים מזהירים מכישלון בדומה למכשיר ה-Rabbit R1",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-09-24T05:58:53+00:00"
+  },
+  {
+   "title": "תמר: איך הפך הפרי המדברי העתיק, שהעניק פטור מעלייה לרגל, למלך המזווה הישראלי?",
+   "link": "https://www.haaretz.co.il/food/rosh-hashana-recipes/sukkot/2026-09-24/ty-article-recipe/.premium/000001a0-8545-d290-a9e3-dfe707680000",
+   "summary": "מהתנ\"ך ובית שני ועד המזווה הישראלי, השף ענר בן רפאל-פורמן ממסעדת תריסר, שלא משתמש בסוכר במטבח שלו, על ההיסטוריה של התמר והתפקיד המרכזי שהוא ממלא. וגם: שני מתכונים לסלטים מרעננים עם תמרים מזנים שונים",
+   "source": "הארץ",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-09-24T08:29:41+00:00"
+  },
+  {
+   "title": "האודיסיאה של סעיד אבו שקרה בדרך למוזיאון הראשון לאמנות פלסטינית בישראל",
+   "link": "https://www.haaretz.co.il/gallery/galleryfriday/2026-09-24/ty-article-magazine/.highlight/000001a0-cd66-d688-a7b4-cd7e3bc80000",
+   "summary": "אבו שקרה מדבר על חיים בין העולמות: התלות בתורמים יהודים ובמשרד התרבות, בני המשפחה שנהרגו בעזה, ויצירה בתוך הכאב",
+   "source": "הארץ",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-09-24T08:15:24+00:00"
+  },
+  {
+   "title": "AI model Claude discovers CRISPR-like enzyme system, Anthropic says",
+   "link": "https://www.aljazeera.com/economy/2026/9/24/ai-model-claude-discovers-crispr-like-enzyme-system-anthropic-says?traffic_source=rss",
+   "summary": "AI giant announces discovery amid global debate about how to safeguard against catastrophic risks.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-24T04:26:34+00:00"
+  },
+  {
+   "title": "Anthropic says its biology lab has already found something big",
+   "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+   "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-09-23T22:17:39+00:00"
+  },
+  {
    "title": "The old cybersecurity model is breaking",
    "link": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
    "summary": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capital into startups trying to build the next generation of security for an AI-native world. We’re even seeing companies like Instinct and Simile bring in nine-figure checks and valuations that wouldn’t have made sense a […]",
@@ -33,254 +213,74 @@
    "published": "2026-09-23T17:44:02+00:00"
   },
   {
-   "title": "IDF: Drakon submarine has stronger weapons, longer underwater capabilities",
-   "link": "https://www.jpost.com/israel-news/defense-news/article-909467",
-   "summary": "This Drakon submarine is the sixth submarine to join the Israeli Navy's fleet in recent years and the third of the Dolphin class (specifically, the Dolphin II variant equipped with an AIP system).",
-   "source": "Jerusalem Post",
-   "lang": "en",
-   "topic": "israel",
-   "rtl": false,
-   "published": "2026-09-23T17:01:47+00:00"
-  },
-  {
-   "title": "Israeli-led firm developing AI-guided cardiac sonography raises $24 million to expand in US market",
-   "link": "https://www.jpost.com/business-and-innovation/all-news/article-909443",
-   "summary": "\"We are entering this next stage as our FDA-cleared portfolio continues to expand to support broader cardiac imaging workflows,” said Davidi Vortman, the company's CEO and co-founder.",
-   "source": "Jerusalem Post",
-   "lang": "en",
-   "topic": "israel",
-   "rtl": false,
-   "published": "2026-09-23T20:10:52+00:00"
-  },
-  {
-   "title": "35 מיליון שקל לנפגעי הפרוטקשן בישראל: פיילוט הפיצויים יוצא לדרך",
-   "link": "https://www.ynet.co.il/news/article/hjczvdw5gl",
-   "summary": "פרסום ראשון: המתווה החדש של משרד האוצר לפיצוי בעלי עסקים שרכושם הושחת בידי עברייני דמי חסות ייכנס לתוקף מחר. הפיילוט, שינוהל על ידי מס רכוש ויפעל בשלב הראשון כחודשיים, יפצה על נזקים ישירים שאינם מכוסים בביטוח. שר האוצר סמוטריץ': \"בעלי עסקים - אל תשלמו פרוטקשן\"",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-09-23T17:54:16+00:00"
-  },
-  {
-   "title": "תוכנית המיליארדים לעזה של מועצת השלום: \"חמאס מוכן להתפרק מנשקו\"",
-   "link": "https://www.ynet.co.il/news/article/hjf9svz9fl",
-   "summary": "יישום 66 פרויקטים בהיקף של 2.4 מיליארד דולר, כוח מקוסובו שמתמחה בפירוק מנשק, והרבה אופטימיות: חברי מועצת השלום שהוקמה על-ידי נשיא ארה\"ב טראמפ הצהירו בשולי עצרת האו\"ם כי המהלך לשיקום עזה צובר תאוצה. הנציג העליון מלאדנוב: \"יש שיחות עם ישראל והן לא קלות בגלל הבחירות שם\"",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-09-23T16:14:06+00:00"
-  },
-  {
-   "title": "YouTube will let you build your own algorithm with AI",
-   "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
-   "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-09-23T14:30:00+00:00"
-  },
-  {
-   "title": "OpenAI gives cyber defence tools to Ukraine",
-   "link": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
-   "summary": "Ukraine will get access to OpenAI's advanced GPT 5.6 Sol model under the deal - a rival to Anthropic's Mythos and Fable",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-23T12:01:37+00:00"
-  },
-  {
-   "title": "From cybersecurity to AI to Taiwan, what's at stake in Trump's summit with Xi",
-   "link": "https://www.npr.org/2026/09/23/nx-s1-5978691/from-cybersecurity-to-ai-what-at-stake-in-trumps-meeting-with-and-president-xiwhy-the-us-and-china-are-at-a-precarious-moment-in-their-relationship",
-   "summary": "As President Trump and China's President Xi prepare to meet, Rush Doshi of the Council on Foreign Relations explains the current state of U.S.-China relations and what to expect from this summit.",
-   "source": "NPR News",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-23T16:13:52+00:00"
-  },
-  {
-   "title": "בנו של שגריר ישראל בארה\"ב נפצע קשה בפיגוע; אחיו נפל בקרב בעזה",
-   "link": "https://www.israelhayom.co.il/news/defense/article/21475168",
-   "summary": "החייל, נריה לייטר, פעל בניידת משטרה במסגרת משימה משותפת עם צה\"ל, כאשר המחבל הגיח עם רכבו ודרס אותו במכוון • אחיו הבכור, רס\"ן (מיל') משה ידידיה לייטר ז\"ל, נפל בקרבות בבית חאנון בנובמבר 2023",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-09-23T16:49:43+00:00"
-  },
-  {
-   "title": "המאמר של אבו שחאדה חמור ומרתיח, אבל זה לא מספיק. הוא לא אמור להיפסל",
-   "link": "https://www.haaretz.co.il/news/elections/2026-09-23/ty-article/.premium/000001a0-cc6c-d06e-afab-fdfdb2310000",
-   "summary": "למרות הדיונים הפופוליסטיים בוועדת הבחירות, שתוצאתם ידועה מראש, ישנם מבחנים ברורים ומחמירים לפסילת מועמדים לכנסת. במקרה של יו\"ר בל\"ד, אין מסה קריטית הנדרשת לכך",
-   "source": "הארץ",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-09-23T17:28:51+00:00"
-  },
-  {
-   "title": "UK politics: PM’s new anti-disinformation unit gets cross-party backing, as Farage declares it an attack on free speech – as it happened",
-   "link": "https://www.theguardian.com/politics/live/2026/sep/23/andy-burnham-labour-anti-disinformation-uk-politics-latest-news-updates",
-   "summary": "Farage referred to the new unit and said Burnham was setting it up ‘using the excuse that Russia wants to interfere with elections’ The former Labour minister leading the government’s review into youth unemployment has written to 100 firms to ask them to provide work placements and jobs for young people, the Press Association reports. PA says: Alan Milburn , who was commissioned by former prime mi",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-23T16:00:54+00:00"
-  },
-  {
-   "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-   "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-   "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-23T16:53:37+00:00"
-  },
-  {
-   "title": "Jerusalem Daily: World leaders condemn Israel at UN",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/jerusalem-daily-world-leaders-condemn-israel-at-un?traffic_source=rss",
-   "summary": "Palestinians protest Israel’s prison visit bans as settler pogroms continue across the occupied West Bank.",
+   "title": "Gaza watches Israel’s elections with fear and antipathy",
+   "link": "https://www.aljazeera.com/news/2026/9/24/gaza-watches-israels-election-with-fear-and-antipathy?traffic_source=rss",
+   "summary": "Palestinians are following the campaign, but few feel next month's vote will make their lives any better.",
    "source": "Al Jazeera",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-09-23T17:35:55+00:00"
+   "published": "2026-09-24T07:07:02+00:00"
   },
   {
-   "title": "רוח רפאים מאיימת על מערכת הבחירות הזו. זה מפחיד כמו שזה נשמע",
-   "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21472917",
-   "summary": "הביטחוניסטים חוזרים לפוליטיקה עם תפיסת עולם שנולדה באוסלו • המלחמה שינתה את המציאות, אבל לא את הרעיונות שמאחוריה • ומה עדיין מונע פוגרומים בישראלים בעולם המערבי",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-09-23T16:07:08+00:00"
-  },
-  {
-   "title": "Gas lobby ‘scare campaign’ urges Victoria to scrap ban in new homes, leaked documents show",
-   "link": "https://www.theguardian.com/australia-news/2026/sep/24/gas-lobby-scare-campaign-urges-victoria-to-scrap-ban-in-new-homes-leaked-documents-show-ntwnfb",
-   "summary": "Exclusive: Australian Gas Infrastructure Group lobbying campaign warns energy bills could increase by $100 unless ban is reversed, despite experts disagreeing Get our breaking news email , free app or daily news podcast The gas industry has been accused of unleashing a “scare campaign” before the Victorian election as it pressures the state government to reverse a ban on gas in new homes . A paper",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-23T15:00:51+00:00"
-  },
-  {
-   "title": "U.N. Live Updates: Zelensky Speaks Hours After New Russian Strikes on Kyiv",
-   "link": "https://www.nytimes.com/live/2026/09/23/world/un-general-assembly-iran-ukraine",
-   "summary": "The Ukrainian president is expected to warn allies that Russia’s attacks may not be confined to his country. Earlier, President Masoud Pezeshkian of Iran said his country would not be bullied by the United States.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-23T17:56:22+00:00"
-  },
-  {
-   "title": "Iran Will Not Be Bullied, President Masoud Pezeshkian Says in U.N. Speech",
-   "link": "https://www.nytimes.com/2026/09/23/world/middleeast/iran-president-un-speech.html",
-   "summary": "President Masoud Pezeshkian said his country would not give up its civilian nuclear program, but left the door opened for diplomacy with the United States.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-23T17:54:22+00:00"
-  },
-  {
-   "title": "עתירה לבג״ץ נגד מועמדותו של חבר מפלגת 'ישר' יורם כהן: ״לא ראוי לכהן בכנסת ישראל״",
-   "link": "https://www.maariv.co.il/breaking-news/article-1370038",
-   "summary": "",
-   "source": "מעריב",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-09-23T14:50:58+00:00"
-  },
-  {
-   "title": "מחליפה הנהלה ונפרדת מהסל של ברקת: השינויים של קרפור בדרך אל הבורסה",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001557400#utm_source=RSS",
-   "summary": "כחודשיים לפני ההנפקה המתוכננת, מיכאל לובושיץ עובר לתפקיד יועץ, ענבל הרסון מפרקת את שדרת הניהול וקרפור מסיימת את מיזם \"הסל של המדינה\" השנוי במחלוקת • החברה נערכת להנפקה לפי שווי של כ־800 מיליון שקל, לאחר שעברה מהפסד של 190 מיליון שקל - לרווח",
+   "title": "נערכים גם להסלמה מהירה: צה\"ל בכוננות שיא לשבוע הקרוב",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001557435#utm_source=RSS",
+   "summary": "בצל הפיגוע בבנימין: יהודה ושומרון על סף רתיחה, דריכות במערכת הביטחון לקראת החגים • ראש הממשלה נתניהו ופמלייתו המריאו לפני זמן קצר לעצרת האו\"ם בניו יורק • דיווח: גורמים בסין ביצעו אלפי משלוחים של רכיבים המשמשים לכטב\"מים ולטילים לאיראן • על הכוונת של אירופה: הלחץ על ממשל טראמפ להחריף את הצעדים נגד ישראל • מאבק על חייו של נריה לייטר: \"עבר ניתוח מוח ממושך\" • עדכונים שוטפים",
    "source": "גלובס",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-09-23T15:44:00+00:00"
+   "published": "2026-09-24T07:09:00+00:00"
   },
   {
-   "title": "ירידות בוול סטריט; תשואת האג\"ח ל-10 שנים בשיא של 19 שנה",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001556999#utm_source=RSS",
-   "summary": "נאסד\"ק יורד ב-1% • עליית מחיר הנפט מתדלקת את הפחד מהאינפלציה, ודוחפת את תשואות האג\"ח האמריקאיות לשיאים • חברת המחשוב הקוונטי IonQ בישרה על פריצת דרך • מקדונלד הודיעה על כוונתה להשקיע מיליארדי דולרים כדי לסייע לזכיינים להטמיע בינה מלאכותית • מדד מנהלי הרכש זינק לשיא של 5 שנים",
-   "source": "גלובס",
+   "title": "רשות המיסים לעסקים בצפון: החזירו מעל 200 מיליון שקל שקיבלתם כפיצויי מלחמה",
+   "link": "https://www.ynet.co.il/economy/article/s13gdsg5fg",
+   "summary": "הכסף שולם ל-3,700 עסקים במסגרת תשלומי הפיצויים, ובחלק מהמקרים חושב לפי הפסדים גבוהים מאלה שהיו בפועל, ולאחרים לא היו ירידות בהכנסות כלל",
+   "source": "Ynet כלכלה",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-09-23T17:25:00+00:00"
+   "published": "2026-09-24T07:29:43+00:00"
   },
   {
-   "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
-   "summary": "Sen. Bernie Sanders (I-VT) and Rep. Greg Casar (D-TX) have introduced new legislation that would ban anyone from developing artificial superintelligence - a technology the bill describes as capable of the \"destruction or disempowerment of humanity,\" including by overthrowing the government. Under the Ban Artificial Superintelligence Act, AI leaders would face up to 20 years […]",
+   "title": "Meta is making a standalone Muse AI gadget",
+   "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+   "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smartwatch without the strap - just a big screen, plus a little lanyard for […]",
    "source": "The Verge",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-09-23T16:23:05+00:00"
+   "published": "2026-09-24T00:15:20+00:00"
   },
   {
-   "title": "Logitech’s new Blue Yeti 2 mic adjusts itself to where you are",
-   "link": "https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability",
-   "summary": "The original Blue Yeti has been one of the most recognizable go-to USB microphones for content creators since it launched in 2009, and now it finally has a successor. Launching today under Logitech G, the Blue Yeti 2 adds some modern upgrades, including an interactive LED display, AI de-noising, and a proximity based voice sensor […]",
+   "title": "Meta Connect 2026: The 7 biggest announcements",
+   "link": "https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced",
+   "summary": "Meta announced a slate of new wearables during its annual Meta Connect showcase on Wednesday. The star of the event was the new Meta VR Glasses, which pack virtual reality tech into a lightweight smart glasses-style frame with a tethered puck. Meta also announced new pairs of screen-free smart glasses, along with some new AI […]",
    "source": "The Verge",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-09-23T16:01:45+00:00"
+   "published": "2026-09-24T00:00:33+00:00"
   },
   {
-   "title": "פחות משבועיים אחרי שקראו להאט: OpenAI ואנת'רופיק חושפות את הדור הבא",
-   "link": "https://www.ynet.co.il/digital/technews/article/rkunczz5fg",
-   "summary": "אחרי שקראו להאט את מרוץ הבינה המלאכותית, חשפו שתי החברות כמעט במקביל דור חדש של מודלים. Claude Opus 5.5 ו-GPT-6 מבטיחים ביצועים משופרים, פחות טעויות ובעיקר ירידה חדה בעלויות. אחרי שנים של מרדף אחר המודל החזק ביותר, הקרב הגדול הבא עובר למחיר וליעילות",
-   "source": "Ynet טכנולוגיה",
-   "lang": "he",
-   "topic": "tech",
-   "rtl": true,
-   "published": "2026-09-23T11:01:04+00:00"
-  },
-  {
-   "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
-   "link": "https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo?at_medium=RSS&at_campaign=rss",
-   "summary": "Stock in major firms such as Microsoft, Nvidia and SpaceX was bought and sold on behalf of the US president.",
+   "title": "US rejects pleas from OpenAI, Anthropic for global AI standards",
+   "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
+   "summary": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
    "source": "BBC Business",
    "lang": "en",
    "topic": "business",
    "rtl": false,
-   "published": "2026-09-23T16:42:47+00:00"
+   "published": "2026-09-23T22:35:14+00:00"
   },
   {
-   "title": "בצל חילוקי הדעות בין נתניהו ללפיד: תקציב הביטחון יגדל ב-15 מיליארד שקל",
-   "link": "https://www.ynet.co.il/economy/article/bkuzx2jqzl",
-   "summary": "ועדת הכספים אישרה את העברת הסכום ש\"תקוע\" בכנסת מתחילת אוגוסט. יחד עם זאת, לפי שעה אין הסכמות בנוגע לתוספת נוספת שדורשת מערכת הביטחון בהיקף של 25 מיליארד שקל. וגם: עשרות המיליונים שיועברו לחרדים ולהתיישבות",
+   "title": "כיכר לחם ב-180 שקל: המאפייה שמסעירה את ניו יורק",
+   "link": "https://www.ynet.co.il/economy/article/rjmieqmcze",
+   "summary": "מאפייה אוסטרית שנפתחה בסוהו מוכרת מוצר אחד בלבד: כיכר שיפון במשקל קילו וחצי, ב-60 דולר. ברשת זועמים על המחיר, אבל הלחם אוזל כמעט מדי יום, וגם חלק מהמבקרים הספקנים יוצאים משוכנעים",
    "source": "Ynet כלכלה",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-09-23T11:06:17+00:00"
-  },
-  {
-   "title": "אושרה: תביעה ייצוגית במיליארדים נגד ארבעה בנקים על הרווחים מכספי העו\"ש",
-   "link": "https://www.ynet.co.il/economy/article/b12co11z5me",
-   "summary": "בית המשפט המחוזי קבע כי לאומי, מזרחי טפחות, דיסקונט והבינלאומי התעשרו לכאורה מכספי העו\"ש של הלקוחות, מבלי לשלם להם ריבית. הנזק הנטען: יותר מ-15 מיליארד שקל. הבנקים צפויים לערער על אישור הייצוגית",
-   "source": "Ynet כלכלה",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-09-23T08:27:40+00:00"
+   "published": "2026-09-24T05:17:44+00:00"
   }
  ]
 }
