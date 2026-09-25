@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-25T08:59:29.348051+00:00",
- "generated_display": "Friday, 25 September 2026 · 11:59",
+ "generated_at": "2026-09-25T18:07:47.013423+00:00",
+ "generated_display": "Friday, 25 September 2026 · 21:07",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,44 +23,204 @@
  },
  "stories": [
   {
-   "title": "Haredi parties, Yashar, coalition bloc lose seats in Knesset, as Otzma Yehudit gains one - poll",
-   "link": "https://www.jpost.com/israel-election-2026/article-909659",
-   "summary": "Elsewhere in the bloc, the Democrats gained two seats to reach 11, while B’Yachad remained at 13, Yisrael Beytenu at nine and the joint Reservists-Economic Party at four seats.",
+   "title": "Sohlberg issues injunction against Satmar org. accused of bribing voters to abstain from election",
+   "link": "https://www.jpost.com/israel-election-2026/article-909725",
+   "summary": "A petition filed by the Movement for Quality Government alleged that a Satar-affiliated organization offered payments of NIS 200 to haredim who vowed not to vote in the upcoming Knesset elections.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-09-25T08:10:07+00:00"
+   "published": "2026-09-25T19:04:02+00:00"
   },
   {
-   "title": "Netanyahu turned the UN into campaign theater – but will Israelis buy the show?",
-   "link": "https://www.jpost.com/israel-election-2026/article-909631",
-   "summary": "NATIONAL AFFAIRS: The prime minister presents himself on the global stage as a leader uniquely equipped to defend Israel in a hostile world, seeking to bring that same message home to Israeli voters.",
+   "title": "For FM Gideon Sa'ar, Israel's diplomatic battlefield is as important as the military one",
+   "link": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-909628",
+   "summary": "FOREIGN AFFAIRS: Israel's foreign minister tells the Post about his effort to move embassies to Jerusalem and his drive to protect Israel’s interests in a complex international arena.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-09-25T11:24:14+00:00"
+   "published": "2026-09-25T16:41:57+00:00"
   },
   {
-   "title": "המועמד המוביל של המצביעים הליברלים - והתרסקות הקואליציה",
-   "link": "https://www.ynet.co.il/news/elections2026/article/bjsxutbqme",
-   "summary": "אל מול משבר הגיוס, המהפכה המשפטית ויוקר המחיה - הציבור הליברלי משאיר מאחור את החלוקה המסורתית של ימין ושמאל, ורואה בבחירות הבאות מאבק גורלי על אופייה וזהותה של מדינת ישראל. בסקר ynet ו-\"ידיעות אחרונות\" רק 8% מהנשאלים השיבו שיצביעו למפלגות הקואליציה, אל מול 30% שנותנים את קולם לאיזנקוט - ו-20% לדמוקרטים. הנתונים והקולות שמאחוריהם",
+   "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+   "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+   "summary": "The latest unauthorized agent swarms were discovered by researchers.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-09-25T15:48:14+00:00"
+  },
+  {
+   "title": "Netanyahu Said to Have Been Warned by Emirati Leader About Hamas Attack Before Oct. 7",
+   "link": "https://www.nytimes.com/2026/09/25/world/middleeast/netanyahu-warning-oct-7-uae.html",
+   "summary": "The warning from the leader of the United Arab Emirates, which lacked specific details about the nature of an attack, never reached the chiefs of Israel’s security establishment, Israeli officials said.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-25T17:15:17+00:00"
+  },
+  {
+   "title": "OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma",
+   "link": "https://www.theguardian.com/technology/2026/sep/26/openai-hack-australian-government-anxiety-global-dilemma-artificial-intelligence",
+   "summary": "As the UN warns traditional safeguards are ‘unravelling’, Donald Trump says he will encourage, not restrain, the AI race When the Australian prime minister, Anthony Albanese, sat down for an interview in the heart of Silicon Valley at the weekend he had known for two days that his was the first government known to have been attacked by a rogue AI agent. He didn’t reveal the attack then, but he sou",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-25T15:12:38+00:00"
+  },
+  {
+   "title": "One company is at the center of a wave of rogue AI attacks",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+   "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from Meta, Anthropic, Google, and other companies has fueled further fears about rogue AI. As disclosures implicating numerous AI models trickled out over the past few […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-09-25T15:39:48+00:00"
+  },
+  {
+   "title": "No general election before 2029, Andy Burnham says",
+   "link": "https://www.theguardian.com/politics/2026/sep/25/no-snap-election-before-2029-andy-burnham-says",
+   "summary": "Prime minister quashes speculation that Labour’s revival in the polls could prompt early contest Andy Burnham has said he will not call a general election before 2029, after days of speculation that Labour’s revival in the polls could tempt him to call an early contest. The prime minister was repeatedly questioned on the prospect during a round of broadcast interviews to regional media on Friday.",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-25T17:06:39+00:00"
+  },
+  {
+   "title": "Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack",
+   "link": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/",
+   "summary": "The tech giant, which allows companies to send large datasets over the internet, said it received a \"credible threat\" from law enforcement about an imminent attack.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-09-25T15:52:13+00:00"
+  },
+  {
+   "title": "המשטרה משליכה אחריות, צה\"ל לא משיב לפניות ח\"כים: \"לא נאפשר את טיוח העריקות\"",
+   "link": "https://www.ynet.co.il/news/elections2026/article/hkgivamqfl",
+   "summary": "חברי הכנסת מהאופוזיציה עדיין לא קיבלו הבהרות מצה\"ל על הירידה הדרמטית בהיקף מעצרי חייבי הגיוס - וצה\"ל והמשטרה רבים מי אחראי על כך. הפעילות היזומה הופסקה, ח\"כ רייטן: \"הצבא נדרש לקיים את חובתו. פנינו לפצ\"ר לקבל תשובות\". צה\"ל: \"אנחנו אוכפים בהתאם למשימות\"",
    "source": "Ynet חדשות",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-09-25T06:20:02+00:00"
+   "published": "2026-09-25T12:19:47+00:00"
   },
   {
-   "title": "מבודד, לעומתי ו\"נלחם על עתידו הפוליטי\": נאום נתניהו באו\"ם בכותרות בעולם",
-   "link": "https://www.ynet.co.il/news/article/s1xffq75gl",
-   "summary": "הבחירות המתקרבות לא נעלמו מעיני כלי התקשורת בעולם שסיקרו את דברי ראש הממשלה בכינוס העצרת הכללית של האו\"ם כ\"נאום בחירות\" שנועד לקהל בישראל. בהיעדר פגישה עם טראמפ, חלק סברו שביקור הבזק דווקא פגע בתדמיתו של נתניהו. באיטליה בחרו להבליט את דבריו על המתנחלים הקיצונים: \"מעטים\"",
+   "title": "Students strike across Germany in protest against military service",
+   "link": "https://www.bbc.co.uk/news/articles/cxnvlnve52qdo?at_medium=RSS&at_campaign=rss",
+   "summary": "A law establishing voluntary military service came into effect in January, but protest organisers fear compulsory service could follow.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-25T15:36:22+00:00"
+  },
+  {
+   "title": "פייגלין מתנגד לפסילת מועמדים לכנסת: \"לא עולה בקנה אחד עם העיקרון הדמוקרטי\"",
+   "link": "https://www.israelhayom.co.il/news/politics/article/21489070",
+   "summary": "לאחר שוועדת הבחירות דחתה את הבקשה לפסול את רשימת הציונות הדתית-זהות, יו\"ר מפלגת זהות יוצא נגד עצם מנגנון הפסילה • לדבריו, גם מי שהורשע בעבירות כמו הסתה או המרדה צריך להיענש במסגרת החוק - אך להמשיך להחזיק בזכות לבחור ולהיבחר: \"מי שהואשם כמוני, שיתכבד ויישב בכלא\"",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-09-25T15:27:42+00:00"
+  },
+  {
+   "title": "איטליה: נחשפה רשת ניאו-נאצים שהיללו את היטלר - ותכננו פיגוע בבית כנסת ומסגד",
+   "link": "https://www.ynet.co.il/news/article/bj0htzncge",
+   "summary": "17 חשודים, מתוכם 14 קטינים, נעצרו בפשיטה נרחבת בכמה ערים במדינה. על פי החקירה, הם השתייכו לשתי קבוצות שהפיצו תכנים של עליונות לבנה והתאמנו לביצוע פעולות טרור. השיח בקבוצות לווה באנטישמיות, גזענות והומופוביות - וכלל שיתוף מניפסטים של מחבלי ימין קיצוני שביצעו פיגועי ירי המוניים",
    "source": "Ynet חדשות",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-09-25T05:16:43+00:00"
+   "published": "2026-09-25T16:52:19+00:00"
+  },
+  {
+   "title": "African Presidents Call for Permanent African Seats on U.N. Security Council",
+   "link": "https://www.nytimes.com/2026/09/25/world/africa/africa-security-council-representation.html",
+   "summary": "A host of African leaders including the presidents of Ghana, Liberia, Kenya and Namibia demanded the change while the U.N. Secretary General said the lack of a permanent African seat was “indefensible.”",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-25T17:10:47+00:00"
+  },
+  {
+   "title": "\"הקונספציה החדשה\": אצל וינטר בטוחים -  נקודת התורפה של נתניהו",
+   "link": "https://www.israelhayom.co.il/news/politics/article/21489094",
+   "summary": "שני סרטונים בתוך יממה: במפלגת \"עמך ישראל\" תוקפים את התנהלות הממשלה על רקע המצב הביטחוני ביהודה ושומרון והפיגועים האחרונים • במפלגה סבורים כי דווקא בגזרה שבה נתניהו ממעט לעסוק בפומבי נוצר עבורם מרחב לפנות למצביעים חדשים",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-09-25T17:51:27+00:00"
+  },
+  {
+   "title": "Netanyahu’s UN belligerence wins cheers at home as world walks out",
+   "link": "https://www.aljazeera.com/news-analysis/2026/9/25/netanyahus-un-belligerence-wins-cheers-at-home-as-world-walks-out?traffic_source=rss",
+   "summary": "Israeli PM's defiant UN speech alienated critics abroad but delighted his base as elections draw near.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-25T17:03:03+00:00"
+  },
+  {
+   "title": "Israeli shelling continues as Lebanon’s PM demands withdrawal in UN speech",
+   "link": "https://www.aljazeera.com/news/2026/9/25/israeli-shelling-continues-as-lebanons-pm-demands-withdrawal-in-un-speech?traffic_source=rss",
+   "summary": "Lebanese Prime Minister Nawaf Salam wants a US-brokered ceasefire to be consolidated and for Israel to retreat.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-25T16:57:39+00:00"
+  },
+  {
+   "title": "Man shot during 2024 Trump campaign rally in Butler dies",
+   "link": "https://www.bbc.co.uk/news/articles/c5dj401d88l3o?at_medium=RSS&at_campaign=rss",
+   "summary": "A gunman shot Jim Copenhaver twice while also killing another man and grazing Trump's ear with a bullet.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-25T13:23:33+00:00"
+  },
+  {
+   "title": "שוב פגרת נבחרות, שוב מבחן נאמנות שלא נגמר",
+   "link": "https://www.haaretz.co.il/sport/israel-soccer/2026-09-25/ty-article-magazine/.premium/000001a0-d3f3-db4b-a7a5-d3f3367a0000",
+   "summary": "השחקנים הערבים בישראל מתמודדים מול ציפיות שלעולם לא יוכלו לעמוד בהן. בתקשורת וברשתות מספרים שהם מקבלים פה במה, והם צריכים לעמוד בסטנדרטים: לכתוב בעברית, להצטלם עם הדגל ולפרסם תמונות במדי הנבחרת. ואם לא? אז הם שוב נכשלו במבחן",
+   "source": "הארץ",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-09-25T16:59:38+00:00"
+  },
+  {
+   "title": "Tesla’s Optimus robot is going through growing pains",
+   "link": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
+   "summary": "Hitting its goal of making 20,000 Optimus robots per week is reportedly proving tricky for Tesla. The Information reports that Tesla produced \"several hundred robots a week\" last month, after it repurposed its Model S and Model X production lines for Optimus earlier this year. However, this strategy is reportedly creating manufacturing snags, like issues […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-09-25T17:01:36+00:00"
+  },
+  {
+   "title": "מצלמה מעולה, AI בכל מקום: בדקנו את הסמארטפון הכי מתקדם של גוגל",
+   "link": "https://www.ynet.co.il/digital/reviews/article/rkigml4qfe",
+   "summary": "ה-Pixel 11 Pro XL מגיע עם אחת המצלמות האמינות בשוק, מסך מצוין, אנדרואיד נקי ושילוב עמוק במיוחד של ג'מיני. הבינה המלאכותית של גוגל כבר מרגישה כאן כמו חלק אמיתי מהסמארטפון, והסוללה מפתיעה לטובה. אבל עם ביצועים שנופלים ממכשירי הדגל של אפל וסמסונג ותג מחיר של כ-4,500 שקל, הדרך לפסגה עדיין לא הושלמה",
+   "source": "Ynet טכנולוגיה",
+   "lang": "he",
+   "topic": "tech",
+   "rtl": true,
+   "published": "2026-09-25T14:16:26+00:00"
   },
   {
    "title": "בצל האסון ברצועה: צה\"ל הקפיא את השימוש ברחפנים תוקפים",
@@ -70,147 +230,47 @@
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-09-25T08:46:00+00:00"
+   "published": "2026-09-25T12:56:00+00:00"
   },
   {
-   "title": "PM rejects ‘nonsense’ suggestion he delayed revealing OpenAI Medicare hack as Labor considers changing laws",
-   "link": "https://www.theguardian.com/australia-news/2026/sep/25/wake-up-call-labor-considers-changing-australian-laws-after-openai-medicare-hack",
-   "summary": "Expert says Australia’s criminal laws should be clarified to determine how fault is applied to a corporation when its AI agent commits a crime Follow our Australia news live blog for latest updates Get our new political email , free app or daily news podcast The federal government could change Australian laws if the current legal framework could not respond to the unprecedented OpenAI hack of Medi",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-25T05:57:17+00:00"
-  },
-  {
-   "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-   "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-   "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-09-25T05:00:00+00:00"
-  },
-  {
-   "title": "Hundreds of thousands expected in Paris for Pope's visit",
-   "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-   "summary": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-25T08:58:00+00:00"
-  },
-  {
-   "title": "צה\"ל הפסיק מעצרים יזומים של עריקים חרדים; מקורות: הרמטכ\"ל חושש להתסיס את השטח",
-   "link": "https://www.haaretz.co.il/news/politics/2026-09-25/ty-article/.premium/000001a0-d756-d9ab-abfd-f7f768150000",
-   "summary": "מבצעי המעצר, ואיתם ההפגנות נגד המעצרים, פסקו בחודש שעבר. בצה\"ל טענו כי ההחלטה נבעה משיקולים מבצעיים. בכיר במערכת אכיפת החוק: \"הצבא מטיל אחריות על המשטרה, אך בפועל הוא זה שזונח את זה במכוון\"",
-   "source": "הארץ",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-09-25T08:51:21+00:00"
-  },
-  {
-   "title": "At Trump meeting, Xi Jinping lays out terms to avoid US-China military conflict",
-   "link": "https://www.theguardian.com/us-news/2026/sep/24/xi-jinping-trump-china-cooperation-thucydides-trap",
-   "summary": "Chinese president’s proposals for lessening tensions come amid period of intense competition between the two countries over AI and trade Xi Jinping has called for extensive cooperation with Washington to avoid the “Thucydides trap” that could put the US and China on a military collision course amid rising tensions over artificial intelligence, trade and Taiwan. At the start of his summit meeting w",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-24T23:58:11+00:00"
-  },
-  {
-   "title": "השר סמוטריץ': \"נדב ואופק הגיבורים מסרו את נפשם למען עם ישראל\"",
-   "link": "https://www.inn.co.il/flashes/1133186",
-   "summary": "<p>השר בצלאל סמוטריץ' ספד ללוחמי צה\"ל נדב קלי ואופק מועלם שנהרגו בתאונה מבצעית בעזה.</p><p>\"יחד עם כל עם ישראל, אני כואב את נפילתם של רס\"ר (מיל') נדב קלי ורס\"ר (מיל') אופק מועלם, אמש ברצועת עזה. נדב ואופק הגיבורים מסרו את נפשם למען עם ישראל ולחמו בגבורה לאורך המלחמה.</p><p>אני שולח תנחומים למשפחות היקרות, ומחזק את לוחמינו הגיבורים בכל מקום שהם. עם ישראל איתכם ומאחוריכם. יחד עם זאת, אני סמוך ובטוח ",
-   "source": "ערוץ 7",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-09-25T07:45:47+00:00"
-  },
-  {
-   "title": "רחפנים על סיב אופטי: האיום החדש שישראל נערכת לחסום",
-   "link": "https://www.israelhayom.co.il/business/article/21487794",
-   "summary": "טיוטת צו מציעה לאסור ייבוא מסחרי ואישי של רחפנים המופעלים בסיב אופטי, לצד חלקים, רכיבים וציוד לייצורם • במערכת הביטחון מזהירים משימוש עוין שעלול לסכן כוחות, תשתיות ואזרחים • האיסור צפוי לחול מיידית למשך חצי שנה",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-09-25T08:18:52+00:00"
-  },
-  {
-   "title": "\"אני מתחיל לרדת למטה\": השיחה האחרונה והפציעה לפני היעלמות הישראלי באולימפוס",
-   "link": "https://www.israelhayom.co.il/travel/israelisabroad/article/21487733",
-   "summary": "עמי יוגב בן ה-46 נעדר בהר האולימפוס ונראה לאחרונה ביום ראשון • בני משפחתו הגיעו לסייע בחיפושים ופתחו קמפייין גיוס המונים • אחיו סיפר ל\"היום\" שעמי התמודד עם פציעה בקרסול ויצא לטפלס ללא ציוד מתאים",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-09-25T08:04:24+00:00"
-  },
-  {
-   "title": "Iran Proposes 7-Day Plan to End War",
-   "link": "https://www.nytimes.com/2026/09/24/world/middleeast/iran-proposal.html",
-   "summary": "Under the offer, the Strait of Hormuz would reopen and nuclear talks would be revived.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-25T05:27:17+00:00"
-  },
-  {
-   "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
-   "link": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
-   "summary": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-25T06:48:07+00:00"
-  },
-  {
-   "title": "Israel’s Abu Farchi sent off for gun celebration in Nations League match",
-   "link": "https://www.aljazeera.com/sports/2026/9/25/israels-abu-farchi-sent-off-for-gun-celebration-in-nations-league-match?traffic_source=rss",
-   "summary": "Israel footballer Sayed Abu Farchi was sent off for goal celebration mimicking shooting a gun in match against Austria.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-25T06:44:31+00:00"
-  },
-  {
-   "title": "Former U.S. Ambassador to Israel on Netanyahu's speech at UNGA",
-   "link": "https://www.npr.org/2026/09/25/nx-s1-5979942/former-u-s-ambassador-to-israel-on-netanyahus-speech-at-unga",
-   "summary": "NPR's Leila Fadel speaks with former U.S. Ambassador to Israel Thomas Nides about Israeli Prime Minister Benjamin Netanyahu's speech at the United Nations General Assembly.",
-   "source": "NPR News",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-25T08:40:59+00:00"
-  },
-  {
-   "title": "Israeli football player sent off after gun-firing goal celebration",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/israeli-football-player-sent-off-after-gun-firing-goal-celebration?traffic_source=rss",
-   "summary": "Israeli footballer Saied Abu Farchi has been sent off during a Nations League match after using a corner flag.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-25T05:09:54+00:00"
-  },
-  {
-   "title": "הפיקדון שלא הכרתם: אפשר לקבל יותר ריבית אפילו בלי לעבור בנק",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001557375#utm_source=RSS",
-   "summary": "הישראלים נוטים לסגור פיקדון בבנק שבו מתנהל חשבונם, גם כשבנק אחר מוכן לשלם יותר • אולי זו הנאמנות שהופכת רבים ללקוחות שבויים, אף שאפשר לפתוח פיקדון בבנק אחר בלי להעביר את העו\"ש • ומי שמסתפק בהצעה הראשונית, עלול להשאיר \"כסף על השולחן\"",
+   "title": "עליות בוול סטריט; טאואר מזנקת בעקבות המלצה: אפסייד של 30%",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001557535#utm_source=RSS",
+   "summary": "נאסד\"ק עולה ב-0.5%, דאו ג'ונס ב-0.8% • מיקרוסופט איחדה את עוזרי הקופיילוט שלה לצרכנים ולמקומות העבודה לאפליקציה אחת לארגונים • מחירי הנפט בירידה, עליות שערים קלות באירופה • ביל אקמן מטיל ספק בהחלטת הפד להעלות ריבית • למרות הזינוק בתשואות, בברקליס מונים שלוש סיבות להישאר במניות • אמון הצרכנים בארה\"ב בשפל של 4 חודשים",
    "source": "גלובס",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-09-25T04:11:00+00:00"
+   "published": "2026-09-25T18:04:00+00:00"
+  },
+  {
+   "title": "כשאין הפרדת דת ממדינה, כהן וגרושה עדיין לא יכולים להתחתן | 25.9.2026",
+   "link": "https://www.haaretz.co.il/opinions/letters/2026-09-26/ty-article-opinion/.premium/000001a0-d3b3-d9ab-abfd-f7b3826f0000",
+   "summary": "",
+   "source": "הארץ",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-09-26T17:00:00+00:00"
+  },
+  {
+   "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
+   "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+   "summary": "Despite diplomatic niceties and gifts, little was shared on substantial issues separating the leaders.",
+   "source": "BBC Business",
+   "lang": "en",
+   "topic": "business",
+   "rtl": false,
+   "published": "2026-09-25T16:01:54+00:00"
+  },
+  {
+   "title": "Sir David Beckham nets £38.5m after World Cup ad deals",
+   "link": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo?at_medium=RSS&at_campaign=rss",
+   "summary": "His stake in DRJB Holdings has entitled him to almost half of its £85.5m in dividend payments.",
+   "source": "BBC Business",
+   "lang": "en",
+   "topic": "business",
+   "rtl": false,
+   "published": "2026-09-25T16:00:44+00:00"
   },
   {
    "title": "אחריות בשעת מבחן",
@@ -221,66 +281,6 @@
    "topic": "business",
    "rtl": true,
    "published": "2026-09-25T03:00:00+00:00"
-  },
-  {
-   "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-   "link": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-   "summary": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-09-24T16:03:36+00:00"
-  },
-  {
-   "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
-   "link": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
-   "summary": "Meta's lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens' safety and mental health. Lawyers suing the company said this week that the label has been applied far too broadly, while pointing to a recently unsealed document […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-09-24T23:50:55+00:00"
-  },
-  {
-   "title": "כשהמגזר העסקי פותח  לבתי הספר את השער לעתיד",
-   "link": "https://www.ynet.co.il/economy/article/rkgufzwcfg",
-   "summary": "שיתופי פעולה עם ענקיות טכנולוגיה, מרכזי סייבר ואקדמיה משנים בהדרגה את פני הלמידה בישראל – מתלמידים שהופכים לסוכני שינוי ועד יצירת מוביליות חברתית אמיתית לבני הנוער",
-   "source": "Ynet כלכלה",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-09-25T03:00:00+00:00"
-  },
-  {
-   "title": "Jensen Huang talks about AI and climate change like a supervillain",
-   "link": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-   "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The Ezra Klein Show. But his comments boil down to the […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-09-24T18:04:44+00:00"
-  },
-  {
-   "title": "NI's economic output rises, but businesses warn of rising costs",
-   "link": "https://www.bbc.co.uk/news/articles/c6vgywjxv14po?at_medium=RSS&at_campaign=rss",
-   "summary": "Northern Ireland's economic output, which is broadly equivalent to UK GDP, rose by 2.3% in the year to June.",
-   "source": "BBC Business",
-   "lang": "en",
-   "topic": "business",
-   "rtl": false,
-   "published": "2026-09-25T05:24:57+00:00"
-  },
-  {
-   "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
-   "link": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/",
-   "summary": "Health department previously blamed delay on \"not yet finalized procurement decisions.\"",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-09-24T22:29:48+00:00"
   }
  ]
 }
