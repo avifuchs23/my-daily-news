@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-30T09:54:03.453720+00:00",
- "generated_display": "Wednesday, 30 September 2026 · 12:54",
+ "generated_at": "2026-09-30T18:39:39.949821+00:00",
+ "generated_display": "Wednesday, 30 September 2026 · 21:39",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,6 +23,86 @@
  },
  "stories": [
   {
+   "title": "Flydubai terror attempt brings to mind the hijackings of 1970s in Israeli consciousness - comment",
+   "link": "https://www.jpost.com/opinion/article-910225",
+   "summary": "Israel is a small country, and in moments like these it feels smaller still. People who have never met became “our passengers.” Their survival was a national relief.",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-09-30T20:58:22+00:00"
+  },
+  {
+   "title": "Gulf media delays reporting on flydubai hijacking, consider Israeli sources unreliable - analysis",
+   "link": "https://www.jpost.com/middle-east/article-910213",
+   "summary": "While Israeli officials increasingly view the incident as an attempted hijacking and a disaster that was narrowly avoided by heroes on the plane, many in the Gulf appeared wary of reporting details.",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-09-30T18:05:00+00:00"
+  },
+  {
+   "title": "‘Whoever is hearing me, we need help’: how flight 1073 survived its 5,000-metre plunge",
+   "link": "https://www.theguardian.com/world/2026/sep/30/whoever-is-hearing-me-we-need-help-how-flight-1073-survived-its-5000-metre-plunge",
+   "summary": "On morning service from Dubai to Tel Aviv, 150 passengers witnessed a horrific cockpit assault, flight plummet and daring rescue Pilot who stabbed co-pilot on Israel-bound plane may have tried to crash it, says Netanyahu As flight FZ 1073 soared west over the waters of the Gulf towards Israel, its passengers may have bemoaned a 20-minute delay at takeoff. For a low-cost airline route, flydubai’s d",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-30T17:47:25+00:00"
+  },
+  {
+   "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
+   "link": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/",
+   "summary": "On Tuesday, President Donald Trump and top AI leaders announced a signed pledge called a “Joint Commitment on Frontier Responsibilities” — a voluntary promise to implement more controls and safety measures as the rapid development of artificial intelligence continues. But there seems to be a catch.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-09-30T14:50:55+00:00"
+  },
+  {
+   "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+   "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+   "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-09-30T18:23:57+00:00"
+  },
+  {
+   "title": "מהפקודה החשאית עד הזנקת מטוסי הקרב: מה עושה צה\"ל בפיגוע בטיסה - ותרחיש הקיצון",
+   "link": "https://www.ynet.co.il/news/article/rywzwo5cme",
+   "summary": "בעוד שבישראל ידעו רק מעט על הפיגוע בטיסה לדובאי, בצה\"ל היו ערוכים לאירוע חטיפה אפשרי - תרחיש שמתורגל באופן שוטף. מטוסי חיל האוויר שהוזנקו לליווי המטוס נועדו למנוע התרחבות של האירוע. אלו המענים של צה\"ל - והתנאים שבהם עשויים להחליט על הפלת המטוס",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-09-30T15:45:42+00:00"
+  },
+  {
+   "title": "Passengers describe stabbing on Israel-bound plane",
+   "link": "https://www.bbc.co.uk/news/videos/cv70d22kd34do?at_medium=RSS&at_campaign=rss",
+   "summary": "Passengers on the Flydubai flight bound for Israel filmed the moments following the stabbing.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-30T15:07:00+00:00"
+  },
+  {
+   "title": "Here’s what AI leaders are saying about Trump’s new safety plan",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+   "summary": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a \"hoax\" cooked up by Democrats no longer apply now that he's renamed the technology to \"Super Intelligence.\" He […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-09-30T17:15:49+00:00"
+  },
+  {
    "title": "שתיקת הכבשים: דממה בקואליציה אחרי קריאות \"צה\"ל אויב\" בלב ירושלים",
    "link": "https://www.ynet.co.il/news/elections2026/article/r1gmpr59zl",
    "summary": "חרדים קיצונים מחו שוב נגד צה\"ל בבירת ישראל והללו עריקים כגיבורים בתהלוכה גדולה, אך במפלגות הקואליציה שמתיימרות לייצג את ציבור המשרתים - לא נשמע קול. מי שכן גינה היה וינטר, שנתון למתקפות מצד גוש נתניהו - ברקע הניסיון שלא להציף את אחת הסוגיות הקריטיות למערכת הבחירות",
@@ -33,254 +113,174 @@
    "published": "2026-09-30T09:37:46+00:00"
   },
   {
-   "title": "Live Updates: Clash in Cockpit Prompts Distress Signal on Israel-Bound Flight",
-   "link": "https://www.nytimes.com/live/2026/09/30/world/dubai-flight-tel-aviv-israel-pilots",
-   "summary": "Israel and Saudi Arabia scrambled jets over fears of a hijacking on a flight from Dubai to Tel Aviv. The plane landed safely in Saudi Arabia.",
+   "title": "FlyDubai Flight to Israel Diverted After Clash Between Pilots: What We Know and Don’t Know",
+   "link": "https://www.nytimes.com/2026/09/30/world/middleeast/flydubai-dubai-israel-flight-diverted.html",
+   "summary": "Prime Minister Benjamin Netanyahu of Israel said one pilot stabbed another and may have attempted to crash the flight from Dubai to Tel Aviv. The plane landed in Saudi Arabia and all passengers were safe.",
    "source": "NY Times World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-09-30T09:45:01+00:00"
+   "published": "2026-09-30T17:41:35+00:00"
   },
   {
-   "title": "Israel says pilot tried to hijack flydubai flight to Tel Aviv that diverted, landed in Saudi Arabia",
-   "link": "https://www.jpost.com/international/article-910155",
-   "summary": "Israeli official says “major disaster avoided” after pilot stabbed his co-pilot, attempted to hijack aircraft with over 100 Israeli passengers • Israelis on board helped subdue would-be hijacker",
-   "source": "Jerusalem Post",
+   "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
+   "link": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss",
+   "summary": "Thirty-one migrants died when their boat went down in November 2021. The trial found that the guilty men were part of two smuggling networks.",
+   "source": "BBC World",
    "lang": "en",
-   "topic": "israel",
+   "topic": "world",
    "rtl": false,
-   "published": "2026-09-30T09:31:56+00:00"
+   "published": "2026-09-30T17:14:03+00:00"
   },
   {
-   "title": "'The plane suddenly plunged': Israeli passengers recount chaos aboard flydubai flight",
-   "link": "https://www.jpost.com/israel-news/article-910169",
-   "summary": "\"From what I understand, the pilot tried to kill himself together with us,\" one passenger said. \"Some of the passengers helped the other pilot take control of him until they landed the plane.\"",
-   "source": "Jerusalem Post",
+   "title": "Lawsuit demands OpenAI halt unsafe development that caused Hugging Face hack",
+   "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+   "summary": "OpenAI makes others suffer \"the harms of its unsafe decision-making,\" nonprofit says.",
+   "source": "Ars Technica",
    "lang": "en",
-   "topic": "israel",
+   "topic": "tech",
    "rtl": false,
-   "published": "2026-09-30T12:20:50+00:00"
+   "published": "2026-09-30T18:25:04+00:00"
   },
   {
-   "title": "\"דקרו את הטייס. היינו בטוחים שזה הסוף, אמרנו 'שמע ישראל'\": רגעי הבהלה במטוס",
-   "link": "https://www.ynet.co.il/news/article/b1aqns9qzl",
-   "summary": "מרים סיפרה כי שמעה צרחות וחשבה ש\"לא תצא מזה בחיים\", נועה העידה על רגעים מלחיצים במיוחד: \"פשוט התחלנו לצנוח\". בשל חשש של חלק מהנוסעים לחזור מסעודיה לישראל עם פליי דובאי, אל על הציעה סיוע. ל-ynet נודע: נתניהו וכ\"ץ הנחו את צה\"ל לשלוח מטוסים צבאיים להחזרת הנוסעים",
-   "source": "Ynet חדשות",
+   "title": "\"הסופרסטאר של השמאל\": חברת הדמוקרטים ברשימת 100 הדמויות המבטיחות של מגזין טיים",
+   "link": "https://www.israelhayom.co.il/news/politics/article/21525328",
+   "summary": "מספר 2 ברשימתו של יאיר גולן נבחרה לרשימה היוקרתית במגזין הבינלאומי • הבחירה נומקה באהדה לה זוכה לזימי בקרב מחנה השמאל, כמו גם בשינוי אותו היא מבקשת להוביל לאחר הבחירות • לזימי: \"זו אינה רק זכייה אישית, אלא תעודת כבוד למחנה שלם בישראל\"",
+   "source": "ישראל היום",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-09-30T08:41:29+00:00"
+   "published": "2026-09-30T16:57:20+00:00"
   },
   {
-   "title": "החוזה הגדול בתולדות סמארט שוטר: מערכות יירוט רחפנים בעד כ-150 מיליון דולר",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001557974#utm_source=RSS",
-   "summary": "חברת בקרת האש הישראלית סמארט שוטר, שהצטרפה במרץ השנה לבורסה, נבחרה כספק יחיד של רחפנים לכוח משימה מיוחד במערכת הביטחון האמריקאית • המניה מזנקת לשווי של כמעט מיליארד שקל",
+   "title": "No imminent threat to Nato territory but alliance is prepared for Russian aggression, says Rutte - as it happened",
+   "link": "https://www.theguardian.com/world/live/2026/sep/30/russia-ukraine-war-strikes-zelenskyy-putin-poland-romania-macron-sanchez-spain-europe-latest-news-updates",
+   "summary": "This blog is now closed Meanwhile, Ukraine’s total war costs will reach $155bn this year and ⁠the government is ​struggling to close a $27bn funding gap to ensure it can still conduct combat operations at the start of 2027, prime minister Sergii Koretskyi said . Koretskyi said the ⁠government planned to cover $7bn of the gap by postponing expenditure, reallocating money from other parts of the bud",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-30T15:25:51+00:00"
+  },
+  {
+   "title": "מוביל חברת סייבר בשווי 12 מיליארד דולר: מי היזם הישראלי שנכנס לרשימה היוקרתית של TIME?",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001558074#utm_source=RSS",
+   "summary": "יותם שגב, מייסד ומנכ\"ל חברת הסייבר הישראלית סייארה נכלל ברשימת 100 הכוכבים העולים של מגזין TIME לשנת 2026 • זאת על רקע אתגרי האבטחה שמביאים עימם סוכני ה-AI והצמיחה המהירה של החברה, שהגיעה לאחרונה לשווי של 12 מיליארד דולר • במקביל, ישראלית נוספת ברשימה: חברת הכנסת נעמה לזימי שנבחרה בקטגוריית המנהיגים וקובעי המדיניות",
    "source": "גלובס",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-09-30T08:54:00+00:00"
+   "published": "2026-09-30T14:44:00+00:00"
   },
   {
-   "title": "נוסעים בטיסה מדובאי: פתאום החשמל נותק, ושמענו צעקות \"דקירות, דם\"",
-   "link": "https://www.haaretz.co.il/news/politics/2026-09-30/ty-article/000001a0-f198-dfbb-afa4-f3d88c3c0000",
-   "summary": "ישראלים שהיו בטיסה של חברת פליי דובאי תיארו בהלה גדולה. \"התחילו צרחות של נוסעים שקלטו את האירוע, ואז המטוס התחיל לזוז מצד לצד. הבנו שהטייסים פשוט איבדו שליטה\", אמרו שתי נוסעות",
-   "source": "הארץ",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-09-30T09:44:46+00:00"
-  },
-  {
-   "title": "FlyDubai Flight to Tel Aviv Issues Distress Signal Before Landing in Saudi Arabia",
-   "link": "https://www.nytimes.com/live/2026/09/30/world/dubai-flight-tel-aviv-israel-pilots/flydubai-flight-tel-aviv-israel-fz1073-diverted-pilots",
-   "summary": "The plane was traveling from Dubai to Israel when the pilot and co-pilot appear to have gotten into a fight, Israeli officials said.",
+   "title": "UK Believes Iran Played a Part in RAF Fairford Air Base Incident, Burnham Says",
+   "link": "https://www.nytimes.com/2026/09/30/world/europe/uk-iran-raf-fairford-burnham.html",
+   "summary": "The British prime minister, Andy Burnham, said there were “strong indications” Iran played a part in the events at R.A.F. Fairford on Sunday, without providing details why.",
    "source": "NY Times World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-09-30T09:28:42+00:00"
+   "published": "2026-09-30T18:12:27+00:00"
   },
   {
-   "title": "ישראל במוקד: אבטחה כבדה בהתאחדות האירית - הפרלמנט דורש תשובות",
-   "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21520221",
-   "summary": "ראשי ההתאחדות יתייצבו בפני חברי ועדת הספורט ויצטרכו להגן על ההחלטה לקיים את המשחקים • לקראת מסיבת העיתונאים במטה ה-FAI, דווח על תגבור האבטחה והצבת שתי נקודות בידוק נוספות • ברקע: קריאות להתפטרות הבכירים והלחץ לבטל את המפגש הקרוב בסרביה",
+   "title": "הדלק הוא רק ההתחלה: מה יקרה לכיס של כולנו ביום שאחרי הבחירות?",
+   "link": "https://www.israelhayom.co.il/business/article/21525574",
+   "summary": "הפחתת מס הבלו הזמנית עשויה לבלום את עליית מחיר הדלק כעת, אך פקיעת המס המופחת לאחר הבחירות צפויה להקפיץ אותו מעל ל-9 ש\"ח לליטר • במקביל, התחזקות הדולר והריבית יגררו התייקרויות בחשמל ובמים, הרשויות יעדכנו את הארנונה, והתרחבות תקציב הביטחון תביא להעלאת מסים - ממע\"מ ועד מס הכנסה • כל הפרטים",
    "source": "ישראל היום",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-09-30T09:25:38+00:00"
+   "published": "2026-09-30T17:01:42+00:00"
   },
   {
-   "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-   "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
-   "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-30T04:01:52+00:00"
-  },
-  {
-   "title": "Israel-bound flight diverted after fight between pilots",
-   "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-   "summary": "Despite a brief emergency alert signalling a hijacking, the Israeli prime minister's office confirmed this had been ruled out.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-30T09:02:59+00:00"
-  },
-  {
-   "title": "Belgium’s defence minister warns of ‘dark winter for Europe’ with more ‘hybrid warfare’ from Russia - Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/sep/30/russia-ukraine-war-strikes-zelenskyy-putin-poland-romania-macron-sanchez-spain-europe-latest-news-updates",
-   "summary": "Theo Francken says bloc is in a ‘difficult position’ after recent increase in hybrid provocations from Moscow Meanwhile, with Brexit and the question of Britain’s relationship with the EU back in the spotlight in the UK, it’s worth picking up some fresh comments from France’s Emmanuel Macron, who is now on a state visit in Spain. Speaking with students at the Universidad Complutense de Madrid last",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-30T09:12:52+00:00"
-  },
-  {
-   "title": "Israel-bound passenger plane makes emergency landing in Saudi Arabia",
-   "link": "https://www.theguardian.com/world/2026/sep/30/israel-bound-passenger-plane-emergency-landing-saudi-arabia-pilots-feud",
-   "summary": "Israeli media say incident, which raised fears of possible hijacking, stemmed from feud between plane’s two pilots A commercial plane travelling from Dubai in the United Arab Emirates to Israel has been forced to make an emergency landing in Saudi Arabia, briefly raising concerns about a possible hijacking and prompting Israel to scramble warplanes. Israeli media, citing security officials, said t",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-30T09:11:27+00:00"
-  },
-  {
-   "title": "לא רק flydubai: מקרי עבר של מכות בתא הטייס",
-   "link": "https://www.israelhayom.co.il/travel/aviation/article/21519507",
-   "summary": "ממטוס ענק שנשאר ללא השגחה באוויר ועד דייל שנאלץ לשמש כמשגיח בקוקפיט: התקרית בטיסה לישראל אולי חריגה, אך אינה ראשונה • מבט אל העימותים האלימים שהידרדרו לאגרופים בין שני האנשים שאחראים על חייהם של מאות נוסעים",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-09-30T08:26:41+00:00"
-  },
-  {
-   "title": "המסור החשמלי לא שיפר את הכלכלה, ונשיא ארגנטינה מיליי מחפש הישגים מחוץ למדינה",
-   "link": "https://www.haaretz.co.il/news/world/america/2026-09-30/ty-article/.premium/000001a0-f163-dfbb-afa4-f37368c90000",
-   "summary": "מיליי הצליח לבלום את האינפלציה אך מתמודד עם שיעורי אבטלה ועוני גבוהים ושחיקה בתמיכה בו. בה בעת הוא מחריף את המאבק עם בריטניה על איי פוקלנד, מתערב בבחירות בברזיל ומנסה למצב את עצמו כמנהיג הימין באמריקה הלטינית",
-   "source": "הארץ",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-09-30T09:10:08+00:00"
-  },
-  {
-   "title": "OpenAI launches ‘dots,’ personal AI assistant ‘built to handle everything’",
-   "link": "https://www.aljazeera.com/economy/2026/9/30/openai-launches-dots-personal-ai-assistant-built-to-handle-everything?traffic_source=rss",
-   "summary": "AI giant launches 'dots' to rival Meta's Muse and Google's Gemini Spark.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-30T06:29:57+00:00"
-  },
-  {
-   "title": "Flydubai pilots reportedly fight in cockpit, triggering hijacking fears and Israeli fighter jet response",
-   "link": "https://www.foxnews.com/world/flydubai-pilots-reportedly-fight-cockpit-triggering-hijacking-fears-israeli-fighter-jet-response",
-   "summary": "A Flydubai flight to Tel Aviv diverted to Tabuk, Saudi Arabia Wednesday after a reported cockpit fight between pilots triggered hijacking fears in Israel.",
-   "source": "Fox News World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-09-30T09:03:11+00:00"
-  },
-  {
-   "title": "OpenAI עולה שלב במרוץ סוכני ה-AI: הכירו את Dots",
-   "link": "https://www.ynet.co.il/digital/technews/article/hkyarb5qze",
-   "summary": "במקום לחכות לפרומפט הבא, הסוכנים החדשים של OpenAI מקבלים משימות וממשיכים לעבוד עליהן באופן עצמאי גם כשהמשתמש לא מחובר. לכל Dot מחשב ודפדפן בענן משלו, והוא יכול לגלוש ברשת, להריץ קוד ולהתחבר לאלפי אפליקציות ושירותים. השירות זמין בשלב הראשון למנויי פרו וללקוחות עסקיים",
-   "source": "Ynet טכנולוגיה",
-   "lang": "he",
-   "topic": "tech",
-   "rtl": true,
-   "published": "2026-09-30T08:51:07+00:00"
-  },
-  {
-   "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-   "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-   "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-09-29T18:35:00+00:00"
-  },
-  {
-   "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-   "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-   "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-09-29T22:20:59+00:00"
-  },
-  {
-   "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
-   "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see […]",
+   "title": "The AI Tamagotchis are coming",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+   "summary": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a similar path: testing appetite for physical hardware with their cutesy software agents. \"Hardware is […]",
    "source": "The Verge",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-09-30T00:19:13+00:00"
+   "published": "2026-09-30T18:07:38+00:00"
   },
   {
-   "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
-   "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
-   "summary": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers.",
-   "source": "BBC Business",
+   "title": "Jerusalem Daily: Flight carrying Israelis diverted after stabbing",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/jerusalem-daily-flight-carrying-israelis-diverted-after-stabbing?traffic_source=rss",
+   "summary": "A Flydubai flight to Tel Aviv was diverted after a stabbing, with Israeli officials calling it 'an act of terror'.",
+   "source": "Al Jazeera",
    "lang": "en",
-   "topic": "business",
+   "topic": "world",
    "rtl": false,
-   "published": "2026-09-30T05:18:13+00:00"
+   "published": "2026-09-30T16:36:52+00:00"
   },
   {
-   "title": "מחשש לחטיפת מטוס ל\"קטטת כיסאות כתר\": הסוף ההזוי לדרמה בשמיים",
-   "link": "https://www.ynet.co.il/digital/internet/article/by1qd4c9gx",
-   "summary": "טיסת Flydubai מדובאי לישראל שידרה קוד חטיפה, סטתה ממסלולה והקפיצה את מערכת הביטחון ומטוסי חיל האוויר. אלא שאז התבררה הסיבה החריגה לאירוע: קטטה בין שני הטייסים. ברשת כמובן, לא נשארו אדישים",
-   "source": "Ynet טכנולוגיה",
+   "title": "המאבק על טרבלינקה אינו ישראלי־פולני, אלא בין מחקר לעיוות פוליטי",
+   "link": "https://www.haaretz.co.il/opinions/2026-09-30/ty-article-opinion/.premium/000001a0-f2e1-d9ab-abfd-f7e1b51a0000",
+   "summary": "",
+   "source": "הארץ",
    "lang": "he",
-   "topic": "tech",
+   "topic": "israel",
    "rtl": true,
-   "published": "2026-09-30T07:34:27+00:00"
+   "published": "2026-09-30T17:00:00+00:00"
   },
   {
-   "title": "עליות בתל אביב; מניות התעופה קופצות אחרי הדרמה בטיסת פליי דובאי",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001557909#utm_source=RSS",
-   "summary": "מדד ת\"א 35 מטפס בכ-0.3% • סמארט שוטר מזנקת בחדות בעקבות חוזה מול משרד המלחמה האמריקאי • מניית אלרוב מזנקת לאחר שאלפרד אקירוב הגיש הצעה לרכוש את החלק של בעלי המניות ולמחוק אותה מהמסחר • הצהרה של בכיר בפד הביאה לתפנית דרמטית בציפיות הריבית בארה\"ב, ההסתברות להעלאה באוקטובר נחתכה מכ-70% למתחת ל-50% • תשואות האג\"ח נסוגות מעט אחרי שטיפסו אתמול לגבהים חדשים",
+   "title": "הדרמה בטיסה מדובאי סיפקה לנתניהו בדיוק את ה\"אמרנו לכם\" שחיפש",
+   "link": "https://www.haaretz.co.il/digital/daily/2026-09-30/ty-article/.premium/000001a0-f2c7-d9ab-abfd-f7e721a90000",
+   "summary": "חבל רק שהמציאות שמפניה נתניהו מזהיר נושאת את טביעות אצבעותיו. וגם: בצרפת משביתים לימודים על תנאים שישראלים היו חותמים עליהם, עוד מוקדם לשמוח לאידה של מנצ'סטר סיטי, המרוקאית מספר 1, וטיפ לסיום: לכו לתדלק | היום ביומית",
+   "source": "הארץ",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-09-30T16:35:05+00:00"
+  },
+  {
+   "title": "Hundreds of Israelis storm Al-Aqsa Mosque compound",
+   "link": "https://www.aljazeera.com/news/2026/9/30/over-1300-settlers-raid-al-aqsa-mosque-alongside-israeli-forces?traffic_source=rss",
+   "summary": "Israeli raids at Al-Aqsa Mosque compound have intensified during the Jewish holiday season.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-09-30T17:13:05+00:00"
+  },
+  {
+   "title": "מגמה מעורבת בוול סטריט; נאסד\"ק עולה ב-0.7%, דאו ג'ונס יורד",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001557900#utm_source=RSS",
+   "summary": "נאסד\"ק עולה ב-0.7% • אינפלציית ה-PCE בארה\"ב עומדת על 3.4%, פחות מהצפי • הפג לויד לא מוותרת - בכוונתה להגיש הצעה מתוקנת לרכישת צים • המנכ״ל ינון קרייז עוזב את מאטק • ההסתברות להעלאת ריבית נוספת באוקטובר נחתכה ל-50% • מיקרון תפרסם את תוצאות הרבעון הפיסקלי הרביעי אחרי הנעילה",
    "source": "גלובס",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-09-30T09:43:00+00:00"
+   "published": "2026-09-30T18:32:00+00:00"
   },
   {
-   "title": "עם בס\"ד, בלי \"מיוצר בישראל\": מותג השיער שהחל להימכר באוסטרליה",
-   "link": "https://www.ynet.co.il/economy/article/hjtgort5gg",
-   "summary": "מותג טיפוח השיער הישראלי OLIÈRE PARIS שמיוצר בערד נמכר ב-100 סניפים של רשת Hairhouse, שנמצאת בבעלות שני אחים ממוצא לבנוני, וכבר כמעט סולד אאוט. חלק מהייצור עבר להונגריה כדי לא לעבור חרם, אבל הכיתוב בס\"ד על האריזות נשאר למרות הבקשות להסירו. \"אנחנו בונים מותג בינלאומי, גם לחברות המתחרות יש מפעלים בכמה מדינות\". המחירים: גבוהים גם בישראל",
+   "title": "החשש לאירוע טרור בטיסת פליי דובאי: אל על וישראייר זינקו בבורסה",
+   "link": "https://www.ynet.co.il/economy/article/b15roiq9zx",
+   "summary": "מניות חברות התעופה הישראליות עלו בעד 9% במסחר בבורסה בתל אביב בצל הדיווחים כי טייס משנה מעומאן ניסה לרסק את מטוס פליי דובאי שהיה בדרכו לישראל. המשקיעים מעריכים כי האירע יגרום לנוסעים ישראלים רבים להעדיף טיסות ישירות בחברות ישראליות ללא קונקשן בדובאי",
    "source": "Ynet כלכלה",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-09-30T04:05:59+00:00"
+   "published": "2026-09-30T11:33:00+00:00"
   },
   {
-   "title": "האיש שיסדר לכם עבודה באנבידיה: מנהל משאבי האנוש מדבר",
-   "link": "https://www.ynet.co.il/economy/article/yokra14905330",
-   "summary": "יש לו את אחת העבודות הכי טובות בארץ: גדעון רוזנברג, מנהל משאבי האנוש של אנבידיה בישראל, מספר בראיון ל\"ממון\" למה כולם חולמים להתקבל למשרה בחברה, מה כדאי להגיד בראיון העבודה, כמה פעמים בשבוע הם דורשים להגיע למשרד ואיך למרות הנבואות השחורות על הפיטורים בעידן ה-AI הוא דווקא נערך לקלוט אלפי עובדים חדשים • וגם: המאבק האישי שניהל להשבת אבינתן אור, עובד אנבידיה שנחטף לעזה",
+   "title": "סלקום מייקרת את ספורט 5 פרימיום",
+   "link": "https://www.ynet.co.il/economy/article/bk93otqqml",
+   "summary": "החברה העלתה את מחיר חבילת הערוצים ל-57 שקל, התייקרות של קרוב ל-9%. פרטנר מציעה את המחיר הכי נמוך כרגע לחבילה וב-Free tv הכי זול כי החבילה כלולה במחיר החודשי הנמוך",
    "source": "Ynet כלכלה",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-09-30T03:51:14+00:00"
+   "published": "2026-09-30T13:54:18+00:00"
+  },
+  {
+   "title": "Regulating AI 'not the right place to start' says Bailey",
+   "link": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
+   "summary": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says.",
+   "source": "BBC Business",
+   "lang": "en",
+   "topic": "business",
+   "rtl": false,
+   "published": "2026-09-30T14:00:33+00:00"
   }
  ]
 }
