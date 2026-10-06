@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-05T21:21:26.344121+00:00",
- "generated_display": "Tuesday, 06 October 2026 · 00:21",
+ "generated_at": "2026-10-06T10:36:52.647640+00:00",
+ "generated_display": "Tuesday, 06 October 2026 · 13:36",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,6 +23,186 @@
  },
  "stories": [
   {
+   "title": "Two wounded in Jerusalem car blast as Somaliland seeks deeper security ties with Israel",
+   "link": "https://www.jpost.com/podcast/jpost-headlines/article-910760",
+   "summary": "The Jerusalem Post's must-listen news roundup with Gadi Zaig - the top stories, clear and concise.",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-10-06T12:35:36+00:00"
+  },
+  {
+   "title": "One year on, Trump's Gaza plan has not stopped Israeli fire or disarmed Hamas - explainer",
+   "link": "https://www.jpost.com/middle-east/article-910750",
+   "summary": "One year after the Gaza ceasefire began, Trump’s broader plan remains stalled, with Hamas still armed, Israeli forces holding most of Gaza, and reconstruction barely underway.",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-10-06T11:53:27+00:00"
+  },
+  {
+   "title": "A Pensioner’s Eviction Dragged Down Spain’s Leader. Will It Also Save Him?",
+   "link": "https://www.nytimes.com/2026/10/06/world/europe/pedro-sanchez-spain-housing-election.html",
+   "summary": "The eviction of an 87-year-old woman in Madrid last month helped unravel Pedro Sánchez’s government. It also gave him an election platform.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-06T09:03:47+00:00"
+  },
+  {
+   "title": "ההשקעה בצפון ובעוטף - והזיהוי הפוליטי של קק\"ל: \"חובה להחליף את הממשלה\"",
+   "link": "https://www.ynet.co.il/news/article/r1yg47fjzl",
+   "summary": "בעקבות המלחמה קרן קיימת לישראל השקיעה בשלוש השנים האחרונות קרוב ל-4 מיליארד שקל בשיקום העוטף וקו העימות בצפון. היו\"ר אייל אוסטרינסקי מספר בריאיון לאולפן ynet על התמיכה הפומבית באיזנקוט (\"הכי קל להיות בשקט\"), על פעילות הארגון ועל תוכניותיו להמשך: \"מרחב הגשמה מדהים\"",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-06T08:35:25+00:00"
+  },
+  {
+   "title": "In Race With U.S., China Struggles to Recruit Foreign A.I. Researchers",
+   "link": "https://www.nytimes.com/2026/10/06/science/in-race-with-us-china-struggles-to-recruit-foreign-ai-researchers.html",
+   "summary": "China’s booming artificial intelligence sector has given local researchers good reason to remain in the country, but it has yet to lure overseas scientists despite a government push.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-06T09:03:19+00:00"
+  },
+  {
+   "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+   "link": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
+   "summary": "The Parti Québécois, which secured a minority, has vowed to hold an independence referendum in the years to come.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-06T09:01:51+00:00"
+  },
+  {
+   "title": "Loss of green space could be issue that decides Holborn and St Pancras byelection",
+   "link": "https://www.theguardian.com/politics/2026/oct/06/holborn-st-pancras-byelection-green-spaces-hs2-housing-euston",
+   "summary": "Labour could pay price for disappearance of parks and playgrounds around Euston station When HS2 construction began around London’s Euston station in 2017 and people living nearby watched parks and playgrounds give way to diggers and rubble, they were promised that the lost green space would be replaced. “They have to give it all back,” said Dorothea Hackman. “But they are destroying it – so there",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-06T09:00:08+00:00"
+  },
+  {
+   "title": "Indian opposition MPs detained in protest against election chief",
+   "link": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+   "summary": "Opposition leaders have alleged that CEC Gyanesh Kumar manipulated voter rolls to favour Prime Minister Narendra Modi's party during elections.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-06T10:05:22+00:00"
+  },
+  {
+   "title": "45,311 סרטונים: טיקטוק חושפת - רשת ההשפעה האיראנית שפעלה בישראל",
+   "link": "https://www.israelhayom.co.il/tech/apps/article/21562408",
+   "summary": "לקראת הבחירות: טיקטוק חושפת בדוח השקיפות החדש שהועבר לוועדת הבחירות כי הסירה עשרות אלפי סרטונים מפרים, יותר מ-1,400 חשבונות פיקטיביים של נבחרי ציבור, וגם רשתות השפעה חשאיות שהופעלו מאיראן • כל הנתונים",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-06T10:02:34+00:00"
+  },
+  {
+   "title": "Taylor’s hardline immigration plan drags Australian politics further to the right – and it’s all upside for One Nation",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/06/taylors-hardline-immigration-plan-drags-australian-politics-further-to-the-right-and-its-all-upside-for-one-nation-ntwnfb",
+   "summary": "Coalition leader’s proposal goes further than Peter Dutton’s 2025 election promise and beyond even Pauline Hanson’s bottom line Get our new political email , free app or daily news podcast With Angus Taylor’s hardline immigration policy unveiled on Tuesday, voters have a new measure of Pauline Hanson’s success in dragging politics further to the right. Taylor’s plan will cut 60,000 more people fro",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-06T07:26:48+00:00"
+  },
+  {
+   "title": "דוראל זכתה במכרז לפרויקט ענק במקווה ישראל: צופה הכנסות של 40 מיליון שקל בשנה",
+   "link": "https://www.israelhayom.co.il/business/article/21562791",
+   "summary": "הפרויקט האגרו-וולטאי במקווה ישראל ישתרע על כ-500 דונם ויכלול מתקנים סולאריים בהספק של כ-50 מגה-וואט ומערכות אגירה בהיקף של כ-300 מגה-וואט שעה • דוראל לא פרסמה את עלות ההקמה או תחזית הרווח מהפרויקט, אך צופה הכנסות שנתיות של כ-40 מיליון שקל",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-06T08:25:40+00:00"
+  },
+  {
+   "title": "איפה הייתם ב-7/10/23? השרים נחשפים",
+   "link": "https://www.ynet.co.il/news/article/hjtyz4bjzx",
+   "summary": "\"יום הכיפורים\" של משרדי הממשלה: שירותי קבורה? שר הדתות שמר שבת. תשתיות האנרגיה? ישראל כ\"ץ הסתפק בציוץ. תחבורה לאזור הקרבות? מירי רגב הייתה בחו\"ל. ומה עם המפעלים הפטרוכימיים באחריות עידית סילמן? תשתיות התקשורת תחת שלמה קרעי? המזון ושירותי החירום? יומני שרי הממשלה ב-7 באוקטובר, עם הבודדים שתפקדו בזמן אמת וההסברים בדיעבד",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-06T09:57:16+00:00"
+  },
+  {
+   "title": "ה-AI הפך למדליף: אלפי סודות של חברות טכנולוגיה נחשפו",
+   "link": "https://www.ynet.co.il/digital/technews/article/s1foq7msge",
+   "summary": "חוקרי סייבר ישראלים חשפו יותר מ-13 אלף צילומי מסך רגישים מ-343 חברות, שהועלו למאגרים ציבוריים בידי סוכני AI. בין המידע שנחשף: התכתבויות פנימיות, קוד ומפתחות גישה לשרתים. החוקרים מזהירים: הכלים שאמורים לייעל את העבודה הארגונית הופכים בעצמם לסיכון אבטחה",
+   "source": "Ynet טכנולוגיה",
+   "lang": "he",
+   "topic": "tech",
+   "rtl": true,
+   "published": "2026-10-06T08:36:34+00:00"
+  },
+  {
+   "title": "כ\"ץ בישיבת הממשלה: \"אם יפנו נגדנו נשק - נעשה ביו\"ש מה שעשינו בעזה ובלבנון\"",
+   "link": "https://www.inn.co.il/flashes/1134762",
+   "summary": "<p>במהלך ישיבת הממשלה לציון 7 באוקטובר התריע השר עמיחי אליהו מפני אפשרות של \"היפוך קנים\" מצד הרשות הפלסטינית, ושאל: \"למה מחכים? שהם יעשו כמו חמאס את מה שהם מתכוננים אליו?\". סגן השר אלמוג כהן הצטרף לדברים והתריע גם מפני נשק בקרב הבדואים.</p><p>שר הביטחון ישראל כ\"ץ השיב כי \"צה\"ל נערך כמו שלא היה מעולם לאפשרות של היפוך קנים\", והוסיף: \"אם מישהו יעז להפנות נגדנו נשק, נעשה מה שעשינו בעזה ולבנון גם ביו\"ש",
+   "source": "ערוץ 7",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-06T10:30:12+00:00"
+  },
+  {
+   "title": "חשד: הלקוח עשה אקזיט של 60 מיליון שקל - רואה החשבון לא דיווח",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001558536#utm_source=RSS",
+   "summary": "על פי החשד, רואה החשבון ייצג לקוח שהיה בעל מניות מהותי בחברה המתמחה בטכנולוגיות חדשניות, אך לא כלל בדוח האישי שלו את ההכנסה ממכירת מניותיו לחברה אמריקאית • בעקבות אי-הדיווח לא שולם מס יסף בהיקף של כ-1.8 מיליון שקל",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-10-06T09:34:00+00:00"
+  },
+  {
+   "title": "\"60 אחוז מהזרם המרכזי בחברה החרדית רוצים לימודי ליבה לילדים\"",
+   "link": "https://www.haaretz.co.il/digital/podcast/2026-10-06/ty-article-podcast/000001a1-0fd0-d777-afb7-3ffc2c190000",
+   "summary": "בשנים האחרונות נהפך החינוך החרדי מסוגיה מגזרית לאחת השאלות הגדולות שמעסיקות את החברה, הפוליטיקה והכלכלה הישראלית. לצד החשיפות העיתונאיות על מיליוני שקלים מתקציב המדינה שמוזרמים דרך מערכת החינוך החרדית לכיסים אחרים, הדיווחים הכוזבים על מספרי התלמידים ומורים לאנגלית שלא יודעים אנגלית בסיסית, מתחת לפני השטח יש מי שמזהה ניצנים של מהפכה.",
+   "source": "הארץ",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-06T06:18:05+00:00"
+  },
+  {
+   "title": "פסק דין תקדימי: סוכנות נסיעות לא יכולה לגבות דמי טיפול על טיסה שבוטלה",
+   "link": "https://www.ynet.co.il/economy/article/bjwgkrfizl",
+   "summary": "בית המשפט העליון קבע כי סוכנות נסיעות אינה רשאית לנכות דמי טיפול מהחזר שקיבלה מחברת תעופה בגין טיסה שבוטלה ביוזמתה. איסתא, שניכתה 30 דולר מההחזר לנוסע, חויבה להשיב את הסכום בתוספת הצמדה וריבית, ולשלם הוצאות משפט בסך 5,000 שקל",
+   "source": "Ynet כלכלה",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-10-06T09:55:07+00:00"
+  },
+  {
+   "title": "אנליסטים מעריכים: למה פידליטי מימשה מניות בנקסט ויז'ן?",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001558525#utm_source=RSS",
+   "summary": "בבנק ההשקעות אופנהיימר מעריכים כי עסקת הענק במסגרתה מכרה פידליטי מניות נקסט ויז'ן בסך כולל של 1.3 מיליארד שקל משקפת מימוש רווחים, ולא משהו שהשתנה בעסקי החברה • עמרי עפרוני, אנליסט התחום הביטחוני של הבנק: \"רואים שכל המכפילים של החברות הביטחוניות ירדו בכ-30% בממוצע, אבל בישראל זה קצת יותר חזק\" • יו\"ר נקסט ויז'ן: \"קיבלנו את זה בהפתעה. מכרו בצורה טכנית\"",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-10-06T08:15:00+00:00"
+  },
+  {
    "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
    "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
    "summary": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
@@ -31,16 +211,6 @@
    "topic": "tech",
    "rtl": false,
    "published": "2026-10-05T20:36:48+00:00"
-  },
-  {
-   "title": "All the drama around AI’s takeover of mathematics",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
-   "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley style, AI labs are moving fast and breaking things, […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-10-05T19:28:59+00:00"
   },
   {
    "title": "Etched fields funding offers at $40B+ valuation, sources say",
@@ -53,234 +223,64 @@
    "published": "2026-10-05T20:24:09+00:00"
   },
   {
-   "title": "Brad Pitt on screen, retired IDF combat dogs in the seats",
-   "link": "https://www.jpost.com/israel-news/article-910704",
-   "summary": "HaHolchim BaRosh arranged the screening; it supports Oketz veterans as they transition into civilian life and maintains a community for former unit members.",
-   "source": "Jerusalem Post",
-   "lang": "en",
-   "topic": "israel",
-   "rtl": false,
-   "published": "2026-10-05T21:26:11+00:00"
-  },
-  {
-   "title": "Herzog says he told US Congress that terror 'undermines' regional peace three months before Oct. 7",
-   "link": "https://www.jpost.com/israel-news/article-910698",
-   "summary": "Herzog also addressed reports that Israeli security officials were unaware that the co-pilot of flydubai flight FZ1073 was barred from Oman Air amid concerns over his radicalization.",
-   "source": "Jerusalem Post",
-   "lang": "en",
-   "topic": "israel",
-   "rtl": false,
-   "published": "2026-10-05T21:15:53+00:00"
-  },
-  {
-   "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-   "summary": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the basis for the watermarking Anthropic announced in August. Like OpenAI, Anthropic […]",
+   "title": "All the drama around AI’s takeover of mathematics",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+   "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of the famous Millennium Prize problems. But in classic Silicon Valley style, AI labs are moving fast and breaking things, […]",
    "source": "The Verge",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-10-05T18:08:39+00:00"
+   "published": "2026-10-05T19:28:59+00:00"
   },
   {
-   "title": "דרעי באמירה מנותקת: \"הורים ששולחים את בנם לישיבה חוששים שהוא ייעצר\"",
-   "link": "https://www.ynet.co.il/news/elections2026/article/hk3zxv11oge",
-   "summary": "בעוד דאגת הורים רבים בישראל נתונה לבניהם ובנותיהם שנמצאים בשירות בצה\"ל, בחר יו\"ר ש\"ס להדגיש בביטאון מפלגתו את חשש החרדים ממעצר בני ישיבות עריקים: \"פגשתי את ההורים האלה, הכאב הזה נכנס לליבי ומדיר שינה מעיניי\"",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-05T18:41:38+00:00"
-  },
-  {
-   "title": "Flydubai co-pilot originally planned attack for July, investigators believe",
-   "link": "https://www.theguardian.com/world/2026/oct/05/flydubai-co-pilot-originally-planned-attack-for-july-investigators-believe",
-   "summary": "Police and security agencies in multiple countries scramble to piece together background and intentions of Hamam al-Hammami Investigators believe the co-pilot who tried to take control of a plane from Dubai to Tel Aviv last week originally planned his attack for July but postponed the hijacking, possibly because a friend was among the crew, regional and Israeli officials have said. The evidence of",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-05T18:00:47+00:00"
-  },
-  {
-   "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-   "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
-   "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-05T21:17:30+00:00"
-  },
-  {
-   "title": "Conservatives propose £10bn ‘Britannia Shield’ inspired by Israel’s Iron Dome",
-   "link": "https://www.theguardian.com/politics/2026/oct/05/conservatives-britannia-shield-israel-iron-dome",
-   "summary": "Party to unveil plans for one of UK’s ‘most significant military programmes since the cold war’ The Conservatives will announce plans to build a £10bn British “Iron Dome” similar to Israel’s air and missile defence system, which the party will christen “Britannia Shield” in an announcement at conference on Tuesday. The shadow defence secretary, James Cartlidge, will say Britain needs to be ready t",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-05T21:00:53+00:00"
-  },
-  {
-   "title": "השנאה בוערת בקרבם",
-   "link": "https://www.ynet.co.il/news/article/yokra14918458",
-   "summary": "בריטניה משנה את פניה. הקולג' המלכותי ומפלגת הירוקים הם רק סימפטומים. זו לא רק שנאת ישראל - זו שנאת המערב ושנאה עצמית",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-05T21:18:02+00:00"
-  },
-  {
-   "title": "Spain PM pins hopes on housing crisis to help win snap election",
-   "link": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
-   "summary": "Calling of a snap election was not a knee-jerk reaction from Pedro Sánchez but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-05T19:30:50+00:00"
-  },
-  {
-   "title": "עופר וינטר - גלגל ההצלה של נתניהו",
-   "link": "https://www.israelhayom.co.il/opinions/article/21559963",
-   "summary": "מצביעי ימין רבים מחפשים אלטרנטיבה שלא דבקה בה אחריות למחדל 7 באוקטובר • \"עמך ישראל\" עשויה למשוך את מאוכזבי נתניהו חזרה לגוש הימין - ולהפוך להפתעת בחירות 2026 • המרוויח הגדול עשוי להיות דווקא ראש הממשלה • דעה",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-05T19:29:21+00:00"
-  },
-  {
-   "title": "Nigeria Military Helicopter Crashes With 32 Onboard",
-   "link": "https://www.nytimes.com/2026/10/05/world/africa/nigeria-military-aircraft-crash.html",
-   "summary": "The crash was one of Nigeria’s worst military aviation accidents in years. The country has a history of fatal military aircraft crashes.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-05T20:54:31+00:00"
-  },
-  {
-   "title": "The Search for Gas in Moscow",
-   "link": "https://www.nytimes.com/video/world/europe/100000011153950/the-search-for-gas-in-moscow.html",
-   "summary": "Our reporter Ivan Nechepurenko looks at gas stations in Moscow to see how severe the shortages have become as Ukrainian attacks target Russian refineries. An earlier version of this video misidentified Yandex. While it is a Russian app, it is not state-run.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-05T20:44:54+00:00"
-  },
-  {
-   "title": "הגרסא של סא\"ל אריה עמידרור ל-7.10: \"אני היחיד בצה\"ל שמשלם מחיר\"",
-   "link": "https://www.israelhayom.co.il/news/defense/article/21560849",
-   "summary": "ימים ספורים לאחר שהותר לפרסם את שמו של סא\"ל אריה עמידרור, הכתב הצבאי של גל\"צ חשף חלקים מכתב ההגנה שלו - והציג שורה אחת שעוררה סערה • הטענה ל\"אפליה\" והמשפט ה\"שערורייתי\" שסיפק עמידרור - זה כתב ההגנה שנחשף",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-05T20:36:43+00:00"
-  },
-  {
-   "title": "Jerusalem Daily: Netanyahu gives voters dramatic ultimatum",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/jerusalem-daily-netanyahu-gives-voters-dramatic-ultimatum?traffic_source=rss",
-   "summary": "Israeli Prime Minister Benjamin Netanyahu has given voters an election ultimatum: Vote for him or vote for Palestine.",
+   "title": "‘Hitting the right nail’: Refugee rescue group defiant as Greece targets it",
+   "link": "https://www.aljazeera.com/news/2026/10/6/hitting-the-right-nail-refugee-rescue-group-defiant-as-greece-targets-it?traffic_source=rss",
+   "summary": "Aegean Boat Report founder Tommy Olsen insists he is defending the rule of law, as Greece opens trial against him.",
    "source": "Al Jazeera",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-10-05T17:05:46+00:00"
+   "published": "2026-10-06T09:25:14+00:00"
   },
   {
-   "title": "וינטר לא עובר את אחוז החסימה גם בסקר חדשות 12, גוש איזנקוט לא מתחזק",
-   "link": "https://www.haaretz.co.il/news/elections/2026-10-05/ty-article/.premium/000001a1-0d55-d502-ada5-bddde3b20000",
-   "summary": "לפי הסקר, מפלגת עמך ישראל זוכה למספר קולות המקביל ל־1.5 מנדטים. גוש נתניהו עם 49 מנדטים, המפלגות הערביות עם 13",
-   "source": "הארץ",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-05T19:05:54+00:00"
-  },
-  {
-   "title": "דיווח: מאסר עולם לטרוריסט שניסה לתקוף את שגרירות ישראל בלונדון",
-   "link": "https://www.maariv.co.il/breaking-news/article-1374056",
-   "summary": "",
-   "source": "מעריב",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-05T21:08:45+00:00"
-  },
-  {
-   "title": "Spain calls snap election amid housing crisis",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/spain-calls-snap-election-amid-housing-crisis?traffic_source=rss",
-   "summary": "Mounting anger over Spain’s housing crisis have led Prime Minister Sanchez to call an early election on November 29",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-05T17:27:14+00:00"
-  },
-  {
-   "title": "איש העסקים שרכש מברק אברמוב פיצרייה במיליוני שקלים",
-   "link": "https://www.ynet.co.il/economy/article/yokra14918049",
-   "summary": "גילי ברוכים, מהיבואנים המקבילים הגדולים בישראל למוצרי חשמל, רכש מבעלי ג'פניקה ובית\"ר י-ם את דון פדרו בפ\"ת, ובמקביל ביצע עסקה אחרת על ווינגס קרסיפי בגבעת שמואל, שמתמחה בכנפי עוף. המטרה: להקים קבוצת מזון מהיר עם מספר מותגים אותה ינהל בנו",
-   "source": "Ynet כלכלה",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-10-05T21:00:00+00:00"
-  },
-  {
-   "title": "אחרי פסיקת הפיצויים: כמה תשלם הדס שטייף לעו\"ד אפי נוה?",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001558496#utm_source=RSS",
-   "summary": "בית המשפט קבע כי הדס שטייף וגלי צה\"ל ישלמו לעו\"ד אפי נוה בגין הפגיעה בפרטיותו 450 אלף שקל והוצאות \"ביחד ולחוד\". אבל כמה מתוך זה תשלם גלי צה\"ל, וכמה תשלם שטייף באופן אישי? • אירועים ומינויים",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-10-05T15:57:00+00:00"
-  },
-  {
-   "title": "נאסד\"ק זינק לשיא חדש; מחירי הנפט ירדו, תשואות האג\"ח עלו",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001558344#utm_source=RSS",
-   "summary": "הנאסד\"ק זינק בכ-1%, בהובלת מניות ענקיות הטכנולוגיה, ביניהן מטא, אנבידיה, מיקרוסופט ו-SpaceX • מחיר נפט מסוג ברנט ירד לזמן קצר מתחת ל-100 דולר לחבית • תשואות האג\"ח הארוכות טיפסו • משבר האג\"ח בצרפת מעיב על אירופה; הבורסה בפריז ירדה בעקבות צניחת מניית שניידר אלקטריק, שהשלימה עסקת ענק בארה\"ב • בורסת טוקיו קפצה במעל 2%",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-10-05T20:02:00+00:00"
-  },
-  {
-   "title": "על גג המדינה: הפנים החדשות של הכיכר המבוקשת בישראל",
-   "link": "https://www.ynet.co.il/economy/article/r1n00zp11jzg",
-   "summary": "בקרוב יקבלו הדיירים החדשים מפתח ל-453 הדירות בשלושת מגדלי כיכר המדינה: בין הרוכשים גם הזמר עומר אדם והכדורגלן הספרדי סרג'י רוברטו. מדובר על אחד הפרויקטים היוקרתיים בארץ בהיקף מימון של 2 מיליארד שקל. עכשיו אחרי עשרות שנות מאבקים מגיע המבחן האמיתי: איך ישפיעו המגדלים על התנועה, הצפיפות ועל חיי התושבים ובעלי החנויות באחת הכיכרות המפורסמות במדינה",
-   "source": "Ynet כלכלה",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-10-05T17:45:11+00:00"
-  },
-  {
-   "title": "Mass quarantine issued in Russia after unexplained death of plague researcher",
-   "link": "https://arstechnica.com/health/2026/10/researchers-death-from-undisclosed-illness-sparks-mass-quarantine-in-russia/",
-   "summary": "Unconfirmed reports have suggested there was a laboratory accident.",
-   "source": "Ars Technica",
+   "title": "Gemini Call for Me might tell your mom you’re running late",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+   "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that include \"Call Mom and tell her I will be 15 minutes late\" and \"Call […]",
+   "source": "The Verge",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-10-05T15:12:17+00:00"
+   "published": "2026-10-05T23:09:55+00:00"
   },
   {
-   "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
-   "link": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
-   "summary": "Shadow ministers unveiled a series of policies on day two of the Conservative Party conference in Birmingham.",
+   "title": "Palestine weekly: Olive harvest opens under assault",
+   "link": "https://www.aljazeera.com/news/2026/10/6/palestine-weekly-olive-harvest-opens-under-assault?traffic_source=rss",
+   "summary": "Israeli settlers and forces beat Palestinians, set property on fire and steal crops across the occupied West Bank.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-06T09:22:09+00:00"
+  },
+  {
+   "title": "אילו הוראות מסחר קיימות בבורסה ומה ההבדלים ביניהן?- המדריך המלא לפקודות מסחר",
+   "link": "https://www.ynet.co.il/economy/interactive/wallstreet/article/obrwc1uvn",
+   "summary": "קנייה ומכירה של מניה נשמעות כמו פעולות פשוטות, אבל מאחורי כפתורי Buy ו-Sell מסתתרות הוראות מסחר שונות שיכולות להשפיע על המחיר שבו העסקה תתבצע, על מהירות הביצוע ואפילו על השאלה אם היא תתבצע בכלל. Market, Limit, Stop, Stop Limit ו-Trailing Stop הן רק חלק מהאפשרויות שמציעות מערכות המסחר. אז מה ההבדל ביניהן, מתי משתמשים בכל אחת ומה חשוב לדעת לפני ששולחים הוראה לבורסה?",
+   "source": "Ynet כלכלה",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-10-06T05:32:43+00:00"
+  },
+  {
+   "title": "Lego fraudster among last year's most high-profile insurance scammers",
+   "link": "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss",
+   "summary": "The person was sentenced to 28 months in prison after an investigation found the claims were made up, the insurance trade body, the ABI said.",
    "source": "BBC Business",
    "lang": "en",
    "topic": "business",
    "rtl": false,
-   "published": "2026-10-05T17:23:28+00:00"
+   "published": "2026-10-06T07:03:35+00:00"
   }
  ]
 }
