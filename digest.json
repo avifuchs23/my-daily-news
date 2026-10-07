@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-07T10:27:54.978764+00:00",
- "generated_display": "Wednesday, 07 October 2026 · 13:27",
+ "generated_at": "2026-10-07T19:37:27.901846+00:00",
+ "generated_display": "Wednesday, 07 October 2026 · 22:37",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,54 +23,104 @@
  },
  "stories": [
   {
-   "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
-   "summary": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help students learn, but Common Sense Media says that the teen […]",
+   "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+   "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+   "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-10-07T18:00:19+00:00"
+  },
+  {
+   "title": "British Airways resumes Tel Aviv flights for first time since February",
+   "link": "https://www.jpost.com/business-and-innovation/all-news/article-910946",
+   "summary": "The airline has not operated on the route since Israel launched Operation Roaring Lion, carrying out airstrikes on Iran, on February 28.",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-10-07T18:45:34+00:00"
+  },
+  {
+   "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+   "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more. In a blog post explaining the […]",
    "source": "The Verge",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-10-07T09:00:00+00:00"
+   "published": "2026-10-07T19:10:42+00:00"
   },
   {
-   "title": "Defense officials concerned Iran may launch missiles at Israel amid increasing US pressure",
-   "link": "https://www.jpost.com/israel-news/defense-news/article-910867",
-   "summary": "Senior IDF officials told ministers that the measures are having significant implications for Iran’s economic situation, stating that “the situation is deteriorating. Every day, it gets worse.\"",
+   "title": "Hiker, 16, Is Rescued From ‘Widowmaker’ Ledge After Using Chatbot to Plan Route",
+   "link": "https://www.nytimes.com/2026/10/07/world/canada/canada-bc-hiker-claude-rescue.html",
+   "summary": "Bryce Vincent Gowryluk used Claude, Anthropic’s A.I. chatbot, to help him chart a course for the top of Crown Mountain, north of Vancouver, British Columbia. Things did not go as planned.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-07T19:12:24+00:00"
+  },
+  {
+   "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+   "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+   "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-10-07T18:15:28+00:00"
+  },
+  {
+   "title": "In war-torn Kyiv, Elkin-led Israeli delegation confronts familiar threats while marking Babyn Yar",
+   "link": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-910968",
+   "summary": "Zelensky warned the Israeli delegation that the drones Iran is developing together with Russia, combined with the operational experience the two countries are gaining, could become a threat.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-10-07T09:30:06+00:00"
+   "published": "2026-10-07T21:18:37+00:00"
   },
   {
-   "title": "Israel may have violated US visa waiver terms through failure to conduct air crew background checks",
-   "link": "https://www.jpost.com/israel-news/article-910875",
-   "summary": "Israel joined the US Visa Waiver Program in 2023. As part of the process, it must meet conditions set by the US, including receiving and reviewing information about passengers and air crews.",
-   "source": "Jerusalem Post",
+   "title": "‘Maricarmen,’ Whose Eviction Enraged Spaniards, Dies at 87",
+   "link": "https://www.nytimes.com/2026/10/07/world/europe/maricarmen-dies-spain-housing-sanchez.html",
+   "summary": "María del Carmen Abascal, aged and ailing, became a symbol of the country’s housing crisis when she was evicted two weeks ago, prompting mass protests and triggering nation elections.",
+   "source": "NY Times World",
    "lang": "en",
-   "topic": "israel",
+   "topic": "world",
    "rtl": false,
-   "published": "2026-10-07T09:41:40+00:00"
+   "published": "2026-10-07T19:34:41+00:00"
   },
   {
-   "title": "גורם צבאי: \"צה\"ל לא ייסוג מלבנון, תושבים לא יחזרו שנים\"",
-   "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21571878",
-   "summary": "מקור צבאי ישראלי הבהיר בראיון ל\"סקיי ניוז\" כי הצבא לא צפוי לסגת בקרוב והעריך שהתושבים לא ישובו לבתיהם זמן רב • לצד ביקורת על צבא לבנון שהגדיר \"פרוץ\", הוא תקף את כוח יוניפי\"ל וחשף כמה זמן באמת נדרש כדי לנקות את תשתיות חיזבאללה באזור",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-07T09:32:59+00:00"
+   "title": "Flávio Bolsonaro’s advance in Brazil’s election is grim jolt for climate campaigners",
+   "link": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-advance-brazil-election-jolt-climate-campaigners",
+   "summary": "Inquest under way into why President Lula’s success in curbing Amazon deforestation has not led to success at polls More fire, more ash, more crime, more death. And a globally important ecosystem driven ever more rapidly towards a point of no return. That is the prospect for the Amazon rainforest for at least the next four years if Flávio Bolsonaro holds on to the lead he established this week in ",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-07T19:23:30+00:00"
   },
   {
-   "title": "פרופ' שחר נבו הוא המרצה מבר-אילן המואשם בתכנון פיגוע המוני נגד ערבים",
-   "link": "https://www.israelhayom.co.il/news/law/article/21570440",
-   "summary": "הוסר איסור הפרסום מזהותו של המרצה למתמטיקה המואשם בתכנון מתקפת הרג המונית נגד ערבים ובדואים • פרקליטות מחוז מרכז טוענת כי פרופ' נבו תכנן לגייס 72 מפגעים חמושים בנשק קר וחם, במטרה לרצוח מאות ולגרום לבריחה ולטרנספר מישראל ומהשטחים • כתב האישום חושף: הנאשם ניסה לרתום את משה פייגלין לתוכנית ואף איים עליו, ותכנן לגייס סיוע מתוך צה\"ל • שכניו בפתח תקווה: \"רחוב שקט, הוא גר כאן לבד, אנחנו כולנו בשוק\"",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-07T09:01:58+00:00"
+   "title": "Israelis demand accountability over 7 October failures three years after attacks",
+   "link": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
+   "summary": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-07T16:00:18+00:00"
+  },
+  {
+   "title": "Everything announced at Microsoft’s Surface Laptop Ultra event",
+   "link": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+   "summary": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that’s powered by Nvidia’s RTX Spark Arm-based chip. The machine will start at $2,599 for a configuration with an 8-core CPU, 24GB of RAM, and 512GB […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-10-07T18:42:22+00:00"
   },
   {
    "title": "France halts use of stun grenades after boy's hand blown off in student protests",
@@ -80,97 +130,137 @@
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-10-07T10:23:23+00:00"
+   "published": "2026-10-07T17:47:31+00:00"
   },
   {
-   "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-   "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-   "summary": "A medical expert advising her legal team says the murderer of Colleen Slemmer is communicating in a \"basic way\".",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-07T10:12:36+00:00"
-  },
-  {
-   "title": "Bolsonaro Family Emerges Triumphant in Brazil’s Elections, Mounting a Surprising Resurrection",
-   "link": "https://www.nytimes.com/2026/10/06/world/americas/brazil-election-flavio-jair-bolsonaro.html",
-   "summary": "The Bolsonaro family emerged triumphant in Brazil’s elections, mounting a surprising political resurrection in Latin America’s largest nation.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-07T09:13:57+00:00"
-  },
-  {
-   "title": "ינון מגל נדרש להבהיר: החרגתי משפחות חטופים. טעיתי שלא עשיתי זאת מלכתחילה",
-   "link": "https://www.ynet.co.il/news/article/byifpyqife",
-   "summary": "אחרי שתקף בחריפות משפחות שכולות, שורדי שבי וקרוביהם, וכינה אותם \"אנשים מתועבים\" ו\"האנשים הכי שפלים שחיים בישראל\", מגל טען בשידור: \"לא צריך לדבר ככה על משפחות החטופים\". הוא לא התנצל - ורק ציין שהיה צריך לבצע את ההחרגה מוקדם יותר בדבריו: \"לא הייתה כוונה לפגוע במשפחות\"",
+   "title": "היום ששינה את הכל",
+   "link": "https://www.ynet.co.il/news/article/rkcbiznszx",
+   "summary": "אסור לנו לחזור אל העיוורון ואל הקונספציה ואל ההבלגה ואל ההכלה שקדמו ל-7 באוקטובר, אבל גם אסור לנו להפוך למצדה או לגמלא. הציווי של 7 באוקטובר הוא להבין את הטרגדיה הישראלית, לממש את הגדולה הישראלית - ולהפוך את המדינה היהודית למדינת מופת חזקה, מאוחדת, דמוקרטית וייחודית",
    "source": "Ynet חדשות",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-10-07T09:36:20+00:00"
+   "published": "2026-10-07T18:36:40+00:00"
   },
   {
-   "title": "ברקע המפולת המדינית, מנהיגי העולם מציינים את 7/10: \"ניאבק באנטישמיות\"",
-   "link": "https://www.ynet.co.il/news/article/hybv6007igl",
-   "summary": "3 שנים לטבח - כך מציינים זאת בעולם: ראש ממשלת בריטניה התייחס למתקפות הקשות נגד יהודים במדינתו, נשיא צרפת ציין את 51 אזרחיו שנרצחו בטבח, ושר החוץ שלו ביקר בכיכר החטופים ופרסם את שמותיהם. ההודעה של מנהיג הולנד על \"ספירלה של סכסוך\" - והזעם של וילדרס: \"בוגד בעם ישראל\"",
+   "title": "החקירות בסעודיה ובניו זילנד של טיסת פליי דובאי - והמשבר החדש מול האמירויות",
+   "link": "https://www.ynet.co.il/news/article/rjvhageozl",
+   "summary": "לצד החקירה באיחוד האמירויות של ניסיון הפיגוע בטיסת פליי דובאי, גם סעודיה הודיעה שהיא חוקרת - ובישראל ממתינים ל\"הזמנה\" מריאד. ניו זילנד בודקת את עברו של המחבל. בינתיים: ארקיע הודיעה על ביטול טיסות החילוץ האחרונות מדובאי בשל מחלוקת חדשה",
    "source": "Ynet חדשות",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-10-07T09:17:50+00:00"
+   "published": "2026-10-07T17:57:11+00:00"
   },
   {
-   "title": "\"מעיין פלאים\" הופך פרשה היסטורית נידחת לסיפור מרתק",
-   "link": "https://www.haaretz.co.il/literature/2026-10-07/ty-article-magazine/.premium/000001a1-15a5-dd5c-a1f9-57a5fa6b0000",
-   "summary": "אורי יואלי משלב מחקר ארכיוני עם ממואר אישי ומציע לקורא פינה של שפיות בתוך המציאות הישראלית",
+   "title": "ערן זהבי נזכר: ״רגעים שמעלים בי צמרמורת\"",
+   "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21576712",
+   "summary": "החלוץ העלה תמונה מהראיון שקיים במהלך קמפיין נבחרת ישראל, שבו הוצגה נעלו של נווה שוהם, הילד בן ה־8 שנחטף לעזה יחד עם בני משפחתו ב־7 באוקטובר, וצירף אליה מסר קצר וחד: \"לא נשכח ולא נסלח\"",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-07T19:27:00+00:00"
+  },
+  {
+   "title": "אבינתן חרת במנהרה מילה אחת. אילנה דיין וחבריה עדיין לא הבינו",
+   "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21576094",
+   "summary": "בעומק האדמה, כשהוא מנותק מהעולם, הבין אחד החטופים את מה שרוב התקשורת הישראלית מסרבת להפנים: כדי לנצח ולהגיע להישגים דרושה סבלנות • אבל את קמפיין \"הפקרת החטופים\" שום דבר לא יבלבל, גם לא יועצו הבכיר של ביידן",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-07T18:59:28+00:00"
+  },
+  {
+   "title": "‘Palestinians will bear the cost’: UK consulate in East Jerusalem prepares to shut its doors",
+   "link": "https://www.theguardian.com/world/2026/oct/07/uk-consulate-east-jerusalem-prepares-close-israel",
+   "summary": "Forced closure marks low point in UK-Israeli relations, with reports UK is considering retaliatory expulsion of Israeli diplomats from London Israel marks three years since 7 October attack – live The UK consulate in East Jerusalem gave few signs it was at the centre of a geopolitical controversy this week, with little movement around the high-walled building save the fluttering of the union jack ",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-07T15:14:12+00:00"
+  },
+  {
+   "title": "Spanish unions call general strike over housing before snap election",
+   "link": "https://www.aljazeera.com/news/2026/10/7/spanish-unions-call-general-strike-over-housing-before-snap-election?traffic_source=rss",
+   "summary": "The general strike is the first to be jointly backed by Spain's two largest unions ‌in 14 years.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-07T18:02:47+00:00"
+  },
+  {
+   "title": "מתה בת ה-87 שהפכה לסמל מחאת הדיור בספרד, כשבועיים לאחר שפונתה מביתה",
+   "link": "https://www.haaretz.co.il/news/world/europe/2026-10-07/ty-article/.premium/000001a1-17ac-d199-a5fd-bfbef4060000",
+   "summary": "הפינוי של מרי־כרמן אבסקל מביתה עורר זעם ברחבי המדינה, והוביל למחאה שאילצה את ראש הממשלה להקדים את הבחירות",
    "source": "הארץ",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-10-07T10:00:35+00:00"
+   "published": "2026-10-07T19:15:12+00:00"
   },
   {
-   "title": "הרמטכ\"ל למלגאי IMPACT: \"ראויים לכל הכרה על המסירות וההקרבה למען המדינה\"",
-   "link": "https://www.inn.co.il/flashes/1134932",
-   "summary": "<p>מהמלחמה לספסל הלימודים: הרמטכ\"ל, רב-אלוף אייל זמיר, הפתיע את 950 המלגאים והמלגאיות החדשים של תוכנית המלגות IMPACT! של ארגון ידידי צה\"ל בארה\"ב (FIDF), כשהגיע לאירוע ההצדעה למחזור 25 שנה של התוכנית. הרמטכ\"ל נשא דברי ברכה ואיחל למשתתפים הצלחה עם תחילת שנת הלימודים. </p><p>מדברי הרמטכ\"ל: \"באתי לכאן היום, בראש ובראשונה כדי להביע הערכה עמוקה ולהכיר תודה: לכם, תורמי FIDF וחברי הנהגתו, וכמובן לכם, מלגא",
-   "source": "ערוץ 7",
+   "title": "Germany’s Merz vows to fight ‘extremism’ after AfD, far-left election gains",
+   "link": "https://www.aljazeera.com/news/2026/10/7/germanys-merz-vows-to-fight-extremism-after-afd-far-left-election-gains?traffic_source=rss",
+   "summary": "Far-right and far-left parties gain ground in local elections as Merz's approval rating sinks.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-07T16:12:29+00:00"
+  },
+  {
+   "title": "אחותו של ישראל צאנה מאופקים, שיצא להילחם במחבלים: \"אני רוצה לזכור איך חיית, את החיוך הגדול שלך\"",
+   "link": "https://www.maariv.co.il/breaking-news/article-1374793",
+   "summary": "",
+   "source": "מעריב",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-10-07T09:03:21+00:00"
+   "published": "2026-10-07T19:33:35+00:00"
   },
   {
-   "title": "Badenoch expected to announce plan to cut inheritance tax in speech to Tory conference – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/07/kemi-badenoch-inheritance-tax-conservatives-tory-conference-labour-green-party-reform-latest-news-updates",
-   "summary": "Conservative leader to deliver keynote speech on final day of Tory conference Chris Philp , the shadow home secretary, is speaking now at the conference. He described Nick Timothy as the “Bob the Builder” of the next parliament on the basis of the Tory pledge to build 50,000 prison places. “Can he fix it? Yes he can,” Philp said. He went on: I know we didn’t get everything right in government, but",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-07T10:03:58+00:00"
+   "title": "הפתרון לחידה מתמטית בת 200 שנה: שתי פריצות הדרך שפורסמו בלילה אחד",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001558786#utm_source=RSS",
+   "summary": "הענקית OpenAI וחברת doubleAI בבעלות אמנון שעשוע הציגו פתרונות לבעיות מתמטיות שנחשבו עד לאחרונה לבלתי פתירות • חלקן נפתרו בתוך שעות ובעלות של אלפי דולרים בלבד • פריצת הדרך מעוררת חשש לעתיד עבודת המתמטיקאים, ובמקביל מעלה שאלות חדשות",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-10-07T18:00:00+00:00"
   },
   {
-   "title": "Royal Mail to cut up to 2,500 jobs amid restructure and fall in letter deliveries",
-   "link": "https://www.theguardian.com/business/2026/oct/07/royal-mail-to-cut-jobs-restructure-fall-in-letter-deliveries",
-   "summary": "Postal service says cuts will focus on on head office and ‘support function roles’ Business live – latest updates Royal Mail is to cut up to 2,500 jobs as the embattled company seeks to restructure its business amid intense competition and the continuing decline in letter deliveries. The postal service, which has been fined a total of £37m since 2023 for missing delivery targets set by Ofcom, said",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-07T09:50:45+00:00"
+   "title": "פרוטוקול הפד: הבנק המרכזי צופה העלאת ריבית נוספת השנה, אך המועד נותר פתוח",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001558590#utm_source=RSS",
+   "summary": "יום לאחר שמדד ה-S&P 500 נגע בשיא כל הזמנים, המגמה בוול סטריט מתהפכת בחדות • וול סטריט מתנהלת בירידות שערים; מניות הטכנולוגיה סופגות מימושים, מניות התחבורה בדרך לשוק דובי • מדד המניות הקטנות מתקרב לטריטוריה של תיקון • הנפט מתקרב ל-100 דולר; זינוק חסר תקדים במחירי התובלה הימית • מורגן סטנלי מסמן את הזהב • הדולר מזנק לשיא של שנה וחצי",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-10-07T19:07:00+00:00"
   },
   {
-   "title": "Can Artificial Intelligence Learn the Art of Surgery?",
-   "link": "https://www.nytimes.com/2026/10/07/world/canada/surgery-artificial-intelligence-canada.html",
-   "summary": "Canada wants to leverage A.I. to improve its health care system. At a Toronto hospital, surgeons are training a machine to distinguish a safe incision from a catastrophic one.",
-   "source": "NY Times World",
+   "title": "Google rolls out improved SynthID AI content detector, now available globally",
+   "link": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
+   "summary": "The new SynthID website can now identify AI content from Google, OpenAI, and more.",
+   "source": "Ars Technica",
    "lang": "en",
-   "topic": "world",
+   "topic": "tech",
    "rtl": false,
-   "published": "2026-10-07T09:00:09+00:00"
+   "published": "2026-10-07T14:00:08+00:00"
+  },
+  {
+   "title": "Boots sold in £7bn deal to Canadian billionaire family",
+   "link": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
+   "summary": "The sale of the High Street chain was announced on Wednesday.",
+   "source": "BBC Business",
+   "lang": "en",
+   "topic": "business",
+   "rtl": false,
+   "published": "2026-10-07T17:18:30+00:00"
   },
   {
    "title": "המלחמה נגמרת, החשבון רק מתחיל (והוא כבד)",
@@ -183,104 +273,14 @@
    "published": "2026-10-07T05:41:54+00:00"
   },
   {
-   "title": "בתום המיון המוקדם: 19 קבוצות יתמודדו במכרז בהיקף של כ-65 מיליארד שקל",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001558681#utm_source=RSS",
-   "summary": "מכרזי האינפרא 1 של המטרו: נת\"ע הודיעה כי 19 קבוצות בינלאומיות, המורכבות מ-31 חברות, עברו את הליך המיון המקדים • הקבוצות מגיעות מהודו, מסין, מארה\"ב, מיוון, מדרום קוריאה ומצרפת • גם חברות ישראליות ייקחו חלק במכרז, ביניהן אלקטרה, דניה סיבוס, מנרב ועוד",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-10-07T08:24:00+00:00"
-  },
-  {
-   "title": "ההשקעה החדשה של פתאל בבורסה: 24 מיליון שקל בסניף נוסף של ROOMS",
-   "link": "https://www.ynet.co.il/economy/article/rkzkp007jfl",
-   "summary": "רשת חללי העבודה ROOMS תפתח בדצמבר את הסניף ה-15 שלה במגדל עלית ברמת גן, שישתרע על פני שטח של כ-5,000 מ\"ר. בתוכנית: חללי עבודה משותפים ומתחמי וולנס שיכללו סאונות, אמבטיות קרח, חללי אירועים ובר קפה",
+   "title": "הבורסה בתל אביב ננעלה בירידות חדות",
+   "link": "https://www.ynet.co.il/economy/article/hkbj067jzg",
+   "summary": "מניות הביטוח והחברות הביטחוניות הורידו את הבורסה, והמדדים המובילים צנחו ביותר מ-2%. נקסט ויז'ן צללה ביומיים ב-23%",
    "source": "Ynet כלכלה",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-10-07T08:29:25+00:00"
-  },
-  {
-   "title": "Spotify expands audiobooks to over 180 markets",
-   "link": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
-   "summary": "Spotify will make 350,000 titles available in over 120 languages for this expansion",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-10-07T07:00:00+00:00"
-  },
-  {
-   "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-   "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-   "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-10-06T20:00:30+00:00"
-  },
-  {
-   "title": "לא מצדיקה את הבאזז? איילון מגייסת במרץ אך שוב מתקשה לבלוט בתשואות",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001558691#utm_source=RSS",
-   "summary": "לאחר שגייסה עוד 1.5 מיליארד שקל בספטמבר, ביצועי קרנות ההשתלמות של איילון ממקמים אותה במרכז ואף בחלק התחתון של דירוג התשואות בחודש שעבר • הערכות: אלטשולר שחם שוב למטה, למרות התשואה העודפת של וול סטריט",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-10-07T09:51:00+00:00"
-  },
-  {
-   "title": "OpenAI drops another batch of mathematical breakthroughs",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
-   "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that have both impressed and unsettled parts of the mathematical community while raising questions about research ethics and […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-10-06T23:26:38+00:00"
-  },
-  {
-   "title": "What does a year-long ceasefire in Gaza look like?",
-   "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/7/what-does-a-year-long-ceasefire-in-gaza-look-like?traffic_source=rss",
-   "summary": "Israel attacked Gaza nine days out of 10 during a so-called ceasefire.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-07T08:55:12+00:00"
-  },
-  {
-   "title": "Rainmakers: The drones used to seed clouds",
-   "link": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss",
-   "summary": "Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?",
-   "source": "BBC Business",
-   "lang": "en",
-   "topic": "business",
-   "rtl": false,
-   "published": "2026-10-07T07:09:32+00:00"
-  },
-  {
-   "title": "Myanmar’s Min Aung Hlaing visits Malaysia amid concerns over repatriations",
-   "link": "https://www.aljazeera.com/news/2026/10/7/myanmars-min-aung-hlaing-visits-malaysia-amid-concerns-over-repatriations?traffic_source=rss",
-   "summary": "Myanmar leader Min Aung Hlaing arrives in Malaysia on his first visit since the 2021 coup.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-07T07:49:52+00:00"
-  },
-  {
-   "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
-   "link": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
-   "summary": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-10-06T20:50:32+00:00"
+   "published": "2026-10-07T14:40:48+00:00"
   }
  ]
 }
