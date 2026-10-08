@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-08T10:48:42.500583+00:00",
- "generated_display": "Thursday, 08 October 2026 · 13:48",
+ "generated_at": "2026-10-08T19:33:07.377174+00:00",
+ "generated_display": "Thursday, 08 October 2026 · 22:33",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,24 +23,74 @@
  },
  "stories": [
   {
-   "title": "Israel Police preparing for mass haredi anti-draft protests across Jerusalem, Tel Aviv regions",
-   "link": "https://www.jpost.com/israel-news/article-911018",
-   "summary": "The combination of the anti-draft protests and a Ramat Gan concert has raised concerns about heavy traffic congestion and the blocking of major roads throughout the Tel Aviv metropolitan area.",
-   "source": "Jerusalem Post",
+   "title": "Anthropic changes usage policy to ban model abuse and election interference",
+   "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+   "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.",
+   "source": "TechCrunch",
    "lang": "en",
-   "topic": "israel",
+   "topic": "tech",
    "rtl": false,
-   "published": "2026-10-08T11:27:09+00:00"
+   "published": "2026-10-08T18:16:24+00:00"
   },
   {
-   "title": "FIDF releases video library of October 7 testimonials, incl. ex-hostages, IDF soldiers",
-   "link": "https://www.jpost.com/israel-news/article-911024",
-   "summary": "FIDF said that the library was intended to be accessible to supporters of Israel in the United States, including both Jews and Christians.",
+   "title": "As UK consulate closes, Sa'ar vows Israel will enact consequences on hostile countries - exclusive",
+   "link": "https://www.jpost.com/israel-news/article-911092",
+   "summary": "Foreign Minister Gideon Sa'ar told The Jerusalem Post that Israel will retaliate against countries taking hostile diplomatic action, warning Britain it risks losing influence in Gaza and Jerusalem.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-10-08T12:01:23+00:00"
+   "published": "2026-10-08T18:37:31+00:00"
+  },
+  {
+   "title": "Israel’s downgrading of UK consulate aims to tighten its hold on Jerusalem",
+   "link": "https://www.theguardian.com/world/2026/oct/08/israel-downgrading-uk-consulate-tighten-hold-jerusalem",
+   "summary": "Consulate targeted in sanctions spat has unusual diplomatic status that clashes with Israel’s ambitions to fully annex the city Israel’s attempt to close the British consulate general in Jerusalem was primarily designed to deter London from imposing sanctions on settlements in occupied Palestine. But it also served the current government’s ambitions to fully annex Jerusalem as a national capital, ",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-08T17:16:03+00:00"
+  },
+  {
+   "title": "Top US Embassy aide in Jerusalem suppressed reports on Israeli actions, NYT alleges - report",
+   "link": "https://www.jpost.com/israel-news/article-911088",
+   "summary": "The NYT report accuses Milstein of enabling an alleged annexation effort of the West Bank by assisting in the acceleration of Israeli settlements in the region by suppressing negative reports.",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-10-08T22:06:38+00:00"
+  },
+  {
+   "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
+   "link": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
+   "summary": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-08T19:10:06+00:00"
+  },
+  {
+   "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+   "summary": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons development, surveillance, and health and financial uses. But one of the most significant changes prohibits \"sustained and needless abusive or cruel behavior\" toward Claude. Last August, […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-10-08T17:00:00+00:00"
+  },
+  {
+   "title": "הרמטכ\"ל לאמריקנים: הסלמה מול איראן יכולה להוביל לדחיית הבחירות בישראל",
+   "link": "https://www.ynet.co.il/news/article/bj0ty8himl",
+   "summary": "זמיר אמר את הדברים בשיחות עם צמרת הממשל והצבא בארה\"ב, והעלה חששות כבדים מהשלכות פוליטיות וביטחוניות של עימות חזיתי נוסף מול הרפובליקה האיסלאמית. למרות שטארמפ טען שלא תתרחש תקיפה לפני בחירות האמצע בארה\"ב בנובמבר, חיל האוויר ואמ\"ן בכוננות למקרה של הסלמה",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-08T18:57:46+00:00"
   },
   {
    "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
@@ -50,37 +100,37 @@
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-10-08T08:18:36+00:00"
+   "published": "2026-10-08T15:21:46+00:00"
   },
   {
-   "title": "Polls open in Holborn and St Pancras byelection – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/oct/08/holborn-st-pancras-byelection-labour-greens-zack-polanski-uk-politics-live-news-updates",
-   "summary": "Voters choosing replacement for Keir Starmer, who announced he was standing down last month Ed Miliband is in Kyiv this morning. There’s scant information about what he’s actually doing there, other than “make clear the UK’s unwavering support for Ukraine”, as the Foreign Office says. We shall, as ever, bring you more when we get it. Away from the byelection, research has found Brexit, Liz Truss’s",
-   "source": "The Guardian",
+   "title": "A startup founder who served time in prison is looking to court an untapped market: ex-cons",
+   "link": "https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/",
+   "summary": "Richard Bronson, a former Stratton Oakmont partner who served time in federal prison for securities violations, has launched Commissary Club, a startup that uses AI to help people leaving prison find jobs, housing, community, and even dates.",
+   "source": "TechCrunch",
    "lang": "en",
-   "topic": "world",
+   "topic": "tech",
    "rtl": false,
-   "published": "2026-10-08T10:07:04+00:00"
+   "published": "2026-10-08T16:45:00+00:00"
   },
   {
-   "title": "Israel and U.K. Cut Last-Minute Deal to Avoid Full Closure of British Consulate in East Jerusalem",
-   "link": "https://www.nytimes.com/2026/10/08/world/europe/uk-israel-consulate-east-jerusalem-palestinians.html",
-   "summary": "The diplomatic facility, in East Jerusalem, was under threat of being shut but will remain under a new name, the British foreign secretary said.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-08T08:01:51+00:00"
-  },
-  {
-   "title": "סוף לחגיגת ה-AI: המערכת שתחסום סטודנטים מלהעתיק עבודות",
-   "link": "https://www.israelhayom.co.il/news/education/article/21578891",
-   "summary": "לקראת פתיחת שנת הלימודים האקדמית, פיתוח ישראלי חדש מבקש לעצור את השימוש הלא אתי בבינה מלאכותית • המערכת שיזם בכיר לשעבר במערכת הביטחון עוקבת אחר תהליך הכתיבה ומונעת הגשת טקסטים מועתקים • \"המנגנון מונע מהסטודנט לעשות שטויות\", מסביר המפתח • כך זה יעבוד",
-   "source": "ישראל היום",
+   "title": "טראמפ: לא נתקוף את איראן לפני בחירות האמצע בנובמבר",
+   "link": "https://www.ynet.co.il/news/article/h1lbxshome",
+   "summary": "נשיא ארה\"ב מסמן את הכיוון: לתקוף? אולי אחרי 3 בנובמבר, גם אחרי הבחירות בישראל. בינתיים הוא מתגאה ב\"שיחות פרודוקטיביות עם איראן\", וטוען: \"הנפט זורם דרך מצר הורמוז\". רק אמש טען: \"הסכם נוסף הוא לא באמת משהו שאני רוצה לעשות\"",
+   "source": "Ynet חדשות",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-10-08T09:13:14+00:00"
+   "published": "2026-10-08T16:29:00+00:00"
+  },
+  {
+   "title": "Paramount is making a Cyberpunk 2077 film",
+   "link": "https://www.theverge.com/games/1008327/paramount-pictures-cyberpunk-2077-film-movie",
+   "summary": "Cyberpunk 2077 is heading to the big screen. Deadline reports that CD Projekt Red's popular sci-fi video game franchise is being adapted into a live-action film by Paramount Pictures. There's no details just yet on when the film might premiere. But Deadline says that Lorenzo di Bonaventura, who is known for producing the Transformers films, […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-10-08T19:14:03+00:00"
   },
   {
    "title": "British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband",
@@ -90,17 +140,27 @@
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-10-08T09:20:59+00:00"
+   "published": "2026-10-08T16:43:39+00:00"
   },
   {
-   "title": "אישום נגד \"מומחה סייבר\" ישראלי: שילם להאקרים - והגיש ללקוח חשבון גבוה פי 18",
-   "link": "https://www.ynet.co.il/news/article/h1u11ipeizl",
-   "summary": "בעל חברת MonsterCloud זוהר פנחסי הובא באזיקים לביהמ\"ש בברוקלין והואשם בהונאת חברות - ששכרו את שירותיו דווקא כדי להימנע מתשלום להאקרים שנעלו את קבציהם ודרשו כופר. לפי האישום, בחברה הבטיחו שימוש ב\"שיטות פענוח מתקדמות\", אך במקום זאת פנו לתוקפים, שילמו להם וקיבלו את המפתח לקבצים",
-   "source": "Ynet חדשות",
+   "title": "הנאסד\"ק וה-S&P נופלים, אך המדד השוויוני של ה-S&P עובר לירוק",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001558814#utm_source=RSS",
+   "summary": "ענקיות ה-AI ומניות ה\"מופלאות\" מובילות את הירידות בוול סטריט • מדד השווי השווה ב-S&P 500 דווקא נסחר בירוק • קצב ההכנסות השנתי של OpenAI עומד על 50 מיליארד דולר בלבד • סקטור האנרגיה מזנק, הנשיא טראמפ מצנן את שוק הנפט • תביעות האבטלה הראשוניות ירדו מתחת לתחזיות והפד מאותת על העלאות ריבית נוספות • פאלאנטיר נגדית למגמה בטכנולוגיה ומזנקת בעקבות שדרוג יוקרתי מגולדמן סאקס",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-10-08T18:52:00+00:00"
+  },
+  {
+   "title": "\"היתה בגידה?\": התשובה שהיממה את חילי טרופר - והתגובה שלו",
+   "link": "https://www.israelhayom.co.il/news/politics/article/21583546",
+   "summary": "יו\"ר מפלגת \"הבית ציוני\" וחבר הכנסת מ\"ישר!\" הופתע לגלות במהלך שיחה במכינה קדם-צבאית כי שבעה מהחניכים האמינו שהיה סיוע ישראלי לחמאס ב-7 באוקטובר • טרופר הדף את הקונספירציה והזהיר: \"הדבר הראשון שמפרק אותנו מבפנים היא המחשבה שיש בתוכנו בוגדים שעובדים עם חמאס\"",
+   "source": "ישראל היום",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-10-08T08:58:18+00:00"
+   "published": "2026-10-08T15:53:24+00:00"
   },
   {
    "title": "‘Maricarmen,’ Whose Eviction Enraged Spaniards, Dies at 87",
@@ -110,107 +170,87 @@
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-10-08T06:37:05+00:00"
+   "published": "2026-10-08T14:11:21+00:00"
   },
   {
-   "title": "בג\"ץ ביקש מהיועמ\"שית למסור את עמדתה בהליך הבחירה למבקר המדינה",
-   "link": "https://www.haaretz.co.il/news/law/2026-10-08/ty-article/.premium/000001a1-1a55-dbc0-adfb-dbd56bad0000",
-   "summary": "בית המשפט הורה ליו\"ר הכנסת, אמיר אוחנה, להתייחס תוך שבוע לאפשרויות השונות לקיום הליך הבחירה. זאת, במסגרת עתירה שהוגשה בחודש שעבר נגד אוחנה, בעקבות אי־קיום הפסיקה שהורתה לערוך בחירות חוזרות לתפקיד",
-   "source": "הארץ",
+   "title": "הותר לפרסום: סרן אליאב חיים צפלמוס נפל בקרב בדרום לבנון",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001558825#utm_source=RSS",
+   "summary": "שלושה לוחמי צה\"ל נפצעו קל באותה תקרית. הלוחמים פונו לקבלת טיפול רפואי בבית חולים ומשפחותיהם עודכנו • הרמטכ\"ל עודכן: ארה\"ב נערכת לחידוש הלחימה באיראן בשבועות הקרובים – והזהיר מדחיית הבחירות בישראל • נשיא ארה\"ב הודיע כי מתנהלות \"שיחות פרודוקטיביות\" עם איראן, אך הבהיר שהמצור יישאר בתוקף • לדבריו, ארה\"ב לא תתקוף את איראן לפני בחירות האמצע ב-3 בנובמבר • עדכונים שוטפים",
+   "source": "גלובס",
    "lang": "he",
-   "topic": "israel",
+   "topic": "business",
    "rtl": true,
-   "published": "2026-10-08T09:17:25+00:00"
+   "published": "2026-10-08T19:15:00+00:00"
   },
   {
-   "title": "ה\"חפרפרת\" של נתניהו בשגרירות: היועץ הבכיר שבלם ושכתב דוחות נגד ישראל",
-   "link": "https://www.ynet.co.il/news/article/rkxz11ysjzg",
-   "summary": "תחקיר \"ניו יורק טיימס\": 15 גורמים שונים העידו שדיוויד מילשטיין, ראש המטה של השגריר מייק האקבי, ריכך ומנע את שליחתם של דוחות ביקורתיים נגד הממשלה. הודעה חריפה נגד תוכנית הבנייה ביו\"ש לא הגיעה לבית הלבן. במקום אזהרות מאלימות יהודים - שבחים לרה\"מ. הקשר שלו למגיש הרדיו שאירח את נתניהו, והחשש בקרב דיפלומטים: \"השגרירות צריכה לספר הכל - הטוב, הרע והמכוער\"",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-08T10:42:52+00:00"
-  },
-  {
-   "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
-   "link": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
-   "summary": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
-   "source": "BBC World",
+   "title": "2 Latvians Arrested after Breaching Perimeter of RAF Molesworth, UK Air Base Used by US",
+   "link": "https://www.nytimes.com/2026/10/08/world/europe/latvian-men-arrested-raf-molesworth-uk.html",
+   "summary": "Counterterrorism police said the men were found inside the perimeter of R.A.F. Molesworth, a base used by the United States, raising concerns about security.",
+   "source": "NY Times World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-10-08T08:13:52+00:00"
+   "published": "2026-10-08T18:37:58+00:00"
   },
   {
-   "title": "סמוטריץ' שילב ילדים בתעמולת בחירות - ונקנס ב-10,000 שקלים",
-   "link": "https://www.israelhayom.co.il/news/politics/article/21579147",
-   "summary": "השופט נעם סולברג הורה לשר להסיר תמונות תעמולה מחנוכת יישוב שבהן מופיעים ילדים, תוך חיובו ב-10,000 שקלים • יו\"ר ועדת הבחירות דחה את טענותיו של סמוטריץ' ושיגר עקיצה: \"המעוניין לשנות את החוק יפנה למחוקק\" • ומהו הפסוק התנ\"כי ששולב בהחלטה",
+   "title": "נפתלי בנט עולה להתקפה: \"יאיר נתניהו אדם בזוי\"",
+   "link": "https://www.israelhayom.co.il/culture/tv/article/21583038",
+   "summary": "רגע לפני מערכת בחירות גורלית, בנט הגיע ל\"פגישה עם רוני קובן\" בכאן 11 וסיפר מה דעתו על מכונת הרעל • \"היא מפרקת את ישראל ולא תבחל בשום דבר, קבוצה קטנה של אנשים שמקבלים משכורות מקטאר\"",
    "source": "ישראל היום",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-10-08T08:53:50+00:00"
+   "published": "2026-10-08T15:44:48+00:00"
   },
   {
-   "title": "India rejects Elon Musk’s claim of discrimination over Starlink launch",
-   "link": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
-   "summary": "Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-10-08T06:14:11+00:00"
-  },
-  {
-   "title": "\"לא תכננתי להיות פייטר, רק רציתי לחזור בשלום\": גיבור הקרב על גבעת התחמושת מת בגיל 80",
-   "link": "https://www.haaretz.co.il/magazine/obit/2026-10-08/ty-article/000001a1-1aeb-da49-a5e9-1bebaab40000",
-   "summary": "בגיל 21 פוצץ יקי חץ בונקר ירדני בקרב שהונצח בשירו של יורם טהרלב וזכה בעיטור העוז. כמה שנים אח\"כ, במלחמת יום כיפור, חילץ פצוע תחת אש בחווה הסינית וקיבל תעודה נוספת. ב-1982 קיבל את פרס ביטחון ישראל על עבודתו ברפא\"ל",
+   "title": "גבר כבן 30 נהרג בפיצוץ מכונית בכביש 4 ליד אור עקיבא",
+   "link": "https://www.haaretz.co.il/news/law/2026-10-08/ty-article/000001a1-1ce2-d90c-a7bd-9de66d260000",
+   "summary": "המשטרה מסרה כי החלה בחקירת נסיבות הפיצוץ. לפי מעקב \"הארץ\", מתחילת השנה נרצחו בישראל 210 בני אדם",
    "source": "הארץ",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-10-08T10:14:48+00:00"
+   "published": "2026-10-08T18:59:46+00:00"
   },
   {
-   "title": "רגע לפני הבחירות: הגירעון נותר ללא שינוי - 3.2% מהתוצר",
-   "link": "https://www.ynet.co.il/economy/article/gyzas5vt1",
-   "summary": "הגירעון בתקציב המדינה בספטמבר עמד על 10.1 מיליארד שקל, לעומת 9.5 מיליארד שקל בספטמבר אשתקד. עם זאת, הגירעון המצטבר ב-12 החודשים האחרונים נותר ללא שינוי על 3.2% מהתוצר. גידול משמעותי בהכנסות",
+   "title": "בהמלצת בג\"ץ, החברה להגנת הטבע משכה את עתירתה נגד החוק להקמת חוות בודדים ביערות",
+   "link": "https://www.haaretz.co.il/nature/2026-10-08/ty-article/.premium/000001a1-1c81-d10a-a5b1-bd8d7f910000",
+   "summary": "השופטים הבהירו שאין בכוונתם להפוך את החלטת הכנסת בנושא. החברה להגנת הטבע וקק\"ל, המתנגדות לחוק, טענו כי החוק גורם לפגיעה בשטחים פתוחים ואושר תוך עקיפת כל הליכי התכנון",
+   "source": "הארץ",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-08T17:56:04+00:00"
+  },
+  {
+   "title": "FIFA President Infantino’s crisis: UEFA details new candidate criteria",
+   "link": "https://www.aljazeera.com/sports/2026/10/8/uefa-details-fifa-presidential-candidate-criteria-in-bid-to-oust-infantino?traffic_source=rss",
+   "summary": "UEFA draws up qualities required for a candidate to run against FIFA President Gianni Infantino in March's election.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-08T16:53:25+00:00"
+  },
+  {
+   "title": "QQQ בפסגה והשבבים במרכז: מהם 10 ניירות הערך הסחירים ביותר באינטראקטיב ישראל בספטמבר?",
+   "link": "https://www.ynet.co.il/economy/interactive/wallstreet/article/j88o8hmwb",
+   "summary": "קרן הסל QQQ תופסת את המקום הראשון בדירוג ניירות הערך הסחירים ביותר בקרב לקוחות אינטראקטיב ישראל בחודש ספטמבר, בעוד מניות מתחומי השבבים, הזיכרונות ותשתיות ה-AI תופסות חלק גדול מהעשירייה. SNDK ומיקרון מדורגות מיד אחריה, טסלה ואנבידיה שומרות על נוכחות גבוהה, וגם SOXL נכנסת לרשימה. הדירוג מספק הצצה לתחומים ולחברות שריכזו את עיקר פעילות המסחר של המשקיעים הישראלים במהלך החודש.",
    "source": "Ynet כלכלה",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-10-08T10:32:26+00:00"
+   "published": "2026-10-08T13:34:10+00:00"
   },
   {
-   "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-   "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-   "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-10-07T18:00:19+00:00"
-  },
-  {
-   "title": "Syrian general accused of atrocities is protected by U.S. and Lebanon, NPR and BBC find",
-   "link": "https://www.npr.org/2026/10/08/nx-s1-5993637/syrian-general-lebanon-fbi-austin-tice",
-   "summary": "A former Syrian general wanted for crimes against humanity is living quietly in Lebanon, bankrolled and protected by American and Lebanese authorities, a BBC/NPR investigation has found.",
-   "source": "NPR News",
+   "title": "Colombian embassy to open in Jerusalem, Israeli FM says",
+   "link": "https://www.aljazeera.com/news/2026/10/8/colombian-embassy-to-open-in-jerusalem-israeli-fm-says?traffic_source=rss",
+   "summary": "Colombian President Abelardo De la Espriella had promised closer ties with Israel on the campaign trail.",
+   "source": "Al Jazeera",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-10-08T09:00:00+00:00"
-  },
-  {
-   "title": "Former ambassador on NATO's meeting in Ukraine and the ongoing war",
-   "link": "https://www.npr.org/2026/10/08/nx-s1-5993774/former-ambassador-on-natos-meeting-in-ukraine-and-the-ongoing-war",
-   "summary": "Military representatives from all 32 NATO member states met in Kyiv. NPR's Steve Inskeep speaks with Kurt Volker, former U.S. ambassador to NATO, about the meeting and the ongoing war.",
-   "source": "NPR News",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-08T08:44:37+00:00"
+   "published": "2026-10-08T18:07:06+00:00"
   },
   {
    "title": "Asos hackers took more personal details than first revealed, BBC finds",
@@ -220,67 +260,27 @@
    "lang": "en",
    "topic": "business",
    "rtl": false,
-   "published": "2026-10-08T10:24:26+00:00"
+   "published": "2026-10-08T16:29:33+00:00"
   },
   {
-   "title": "הגירעון בספטמבר עדיין נמוך מהיעד, אבל באוצר לא ממהרים לחגוג",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001558856#utm_source=RSS",
-   "summary": "הגירעון התקציבי נותר ללא שינוי ועמד גם בספטמבר על 3.2% תוצר, לעומת יעד של 4.9% תוצר • הכנסות המדינה ממסים הסתכמו בספטמבר בכ-47 מיליארד שקל, עלייה ריאלית של 6% לעומת אשתקד • אך באוצר מזהירים: המחצית השנייה של השנה מתאפיינת בקצב גידול גבוה יותר בהוצאות",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-10-08T10:36:00+00:00"
-  },
-  {
-   "title": "כפי שפורסם בגלובס: הדד-ליין לעובדי דן נדחה, מיליונים על הפרק",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001558850#utm_source=RSS",
-   "summary": "בעקבות פניות של עובדי דן שביקשו זמן נוסף להתייעצות, נדחה המועד האחרון להחלטה על מכירת מניות דן • בעוד שחלק מהחברים מבקשים לנצל את ההזדמנות לממש עד 1.2 מיליון שקל לפני מס, אחרים מתלבטים בין שיקולי מס וירושה לבין האמונה כי שווי החברה עוד עשוי להמשיך ולעלות בעתיד",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-10-08T09:36:00+00:00"
-  },
-  {
-   "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
-   "summary": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more. In a blog post explaining the […]",
-   "source": "The Verge",
+   "title": "Bid to run new trains on West Coast Mainline refused",
+   "link": "https://www.bbc.co.uk/news/articles/cm3wve9l057vo?at_medium=RSS&at_campaign=rss",
+   "summary": "Plans for more trains would “likely increase delays and cancelled trains\", the rail regulator says.",
+   "source": "BBC Business",
    "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-10-07T19:10:42+00:00"
-  },
-  {
-   "title": "הפיתוח שמסייע ליישובי העוטף: מערכת השקיה חסינה משיבושי תקשורת",
-   "link": "https://www.ynet.co.il/economy/article/yokra14920109",
-   "summary": "מערכת ההשקיה היא חסינה מפני שיבושי תקשורת של לוחמה אלקטרונית, ונולדה מלקחי המלחמה. עד היום, כשהתקשורת שובשה, נאלצו אנשי הגד\"ש לרוץ לשדות, לעיתים תחת אש, ולהפעיל ידנית את ההשקיה. את המערכת, בשווי 5 מיליון שקל, פיתחה החברה הישראלית DMR",
-   "source": "Ynet כלכלה",
-   "lang": "he",
    "topic": "business",
-   "rtl": true,
-   "published": "2026-10-08T06:42:48+00:00"
-  },
-  {
-   "title": "Everything announced at Microsoft’s Surface Laptop Ultra event",
-   "link": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
-   "summary": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that’s powered by Nvidia’s RTX Spark Arm-based chip. The machine will start at $2,599 for a configuration with an 8-core CPU, 24GB of RAM, and 512GB […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
    "rtl": false,
-   "published": "2026-10-07T18:42:22+00:00"
+   "published": "2026-10-08T15:15:14+00:00"
   },
   {
-   "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-   "link": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
-   "summary": "Get ready for more AI in your Windows and more AI on the desktop.",
+   "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+   "link": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+   "summary": "Full-stack safety solution for physical AI is being used by robotics companies.",
    "source": "Ars Technica",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-10-08T00:00:24+00:00"
+   "published": "2026-10-08T11:15:33+00:00"
   }
  ]
 }
