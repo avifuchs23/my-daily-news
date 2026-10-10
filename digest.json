@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-09T19:07:46.516517+00:00",
- "generated_display": "Friday, 09 October 2026 · 22:07",
+ "generated_at": "2026-10-10T10:02:24.661657+00:00",
+ "generated_display": "Saturday, 10 October 2026 · 13:02",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,234 +23,254 @@
  },
  "stories": [
   {
-   "title": "Two Arab Israelis, one PA resident indicted for stealing IDF shoulder-fired MATADOR missile",
-   "link": "https://www.jpost.com/israel-news/crime-in-israel/article-911162",
-   "summary": "Police and Border Police have confiscated over 700 deadly weapons in 2026; however, police noted that the MATADOR shoulder missile was a highly unusual case.",
-   "source": "Jerusalem Post",
-   "lang": "en",
-   "topic": "israel",
-   "rtl": false,
-   "published": "2026-10-09T17:44:49+00:00"
-  },
-  {
-   "title": "תקיפה חריגה בעומק לבנון: היעד - מחבל סורי שפעל בהכוונת איראן",
-   "link": "https://www.ynet.co.il/news/article/rys6hsisgl",
-   "summary": "בלבנון דיווחו על 6 נפגעים בתקיפה בחוש א-סייד עלי שבגבול סוריה-לבנון. היעד - יוסף עלי אלחסון, שקידם שיגור רחפני נפץ ורקטות לעבר הכוחות בסוריה. צה\"ל לא עדכן אם הוא חוסל, והבהיר למרות התקיפה החריגה: \"מחויבים להסכם בין ישראל ללבנון\". דיווח: שני מחבלי חיזבאללה ניסו להבריח 500 ק\"ג חומר נפץ",
+   "title": "קבצנית עם תינוק מרוויחה אלפי שקלים - ומעבירה ל\"קבלן\" שהכניס אותה לישראל",
+   "link": "https://www.ynet.co.il/news/article/hjgviipoze",
+   "summary": "בני 4 ישנים בזולות בחורשות, ונשלחים לצמתים. פלסטיניות בנות 21 עומדות שעות ב-40 מעלות עם תינוק בן כמה חודשים, ומנסות לעורר רחמים. אחרי פשיטת הענק, מספר קצין ממשטרת נצרת שהקבצניות יכולות להרוויח לפעמים 3,000 שקלים ביום, כשאת חלק מהסכום הן מעבירות ל\"קבלנים\" ישראלים",
    "source": "Ynet חדשות",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-10-09T18:37:29+00:00"
+   "published": "2026-10-10T07:28:46+00:00"
   },
   {
-   "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-   "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-   "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents a",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-10-09T16:56:42+00:00"
-  },
-  {
-   "title": "Café Basimta: The Jerusalem café where Shabbat, religious freedom, and evangelism collide - opinion",
-   "link": "https://www.jpost.com/opinion/article-911047",
-   "summary": "Secular Israelis began showing up, buying coffee not because they wanted to hear about Jesus, but because they wanted to make a point about religious coercion.",
+   "title": "Paraguay will not renounce friendship with Israel despite political costs, VP tells 'Post'",
+   "link": "https://www.jpost.com/israel-news/article-911105",
+   "summary": "DIPLOMATIC AFFAIRS: In an exclusive interview, Paraguay's vice president pledged to preserve his country's alliance with Israel, and expand cooperation against Iranian threats.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-10-09T18:49:53+00:00"
+   "published": "2026-10-10T11:00:06+00:00"
   },
   {
-   "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-   "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-   "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
-   "source": "BBC World",
+   "title": "'Excuse Me, Is This Yours?': Before you boycott settlers, meet them - review",
+   "link": "https://www.jpost.com/israel-news/article-911031",
+   "summary": "Twelve Western countries announced plans to boycott trade with Israeli settlements, once again turning “the settlers” into an international political category. Who, exactly, are these settlers?",
+   "source": "Jerusalem Post",
    "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-09T18:40:10+00:00"
-  },
-  {
-   "title": "Navi Pillay, South African Jurist, Is Awarded the Nobel Peace Prize",
-   "link": "https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-navi-pillay.html",
-   "summary": "The choice drew condemnation from Israel over Ms. Pillay’s role leading a U.N. commission that said the country had committed genocide against Palestinians.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-09T18:26:04+00:00"
-  },
-  {
-   "title": "צה\"ל: תקפנו מהאוויר בדרום סוריה מחבל שקידם פעולות טרור בהכוונת איראן",
-   "link": "https://www.haaretz.co.il/news/politics/2026-10-09/ty-article/000001a1-21d8-d10a-a5b1-a1dcc1ac0000",
-   "summary": "לפי הצבא יוסף עלי אלחסון, אזרח סורי, ניסה להוציא לפועל פעולות טרור \"אשר כללו שיגורי רחפני נפץ ורקטות נגד כוחותינו בדרום סוריה\" וגם נגד אזרחים ישראלים",
-   "source": "הארץ",
-   "lang": "he",
    "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-09T18:15:37+00:00"
-  },
-  {
-   "title": "Two Latvians arrested at RAF base in Cambridgeshire released on bail",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/09/two-latvians-arrested-at-raf-molesworth-base-in-cambridgeshire-released-on-bail",
-   "summary": "Men found inside RAF Molesworth, used by US and Nato for intelligence, freed on strict conditions as police continue investigation Two Latvian men have been released on bail after being arrested at an RAF base in Cambridgeshire used by the US military and Nato. The two men, aged 32 and 26, were arrested at 2am on Thursday after they were discovered inside RAF Molesworth in Cambridgeshire, which is",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
    "rtl": false,
-   "published": "2026-10-09T17:46:16+00:00"
+   "published": "2026-10-10T10:03:02+00:00"
   },
   {
-   "title": "Israel Denounces the Decision to Award the Nobel Peace Prize to Navi Pillay",
-   "link": "https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-navi-pillay-un-genocide-report-israel.html",
-   "summary": "Ms. Pillay, a human rights lawyer, was drawn into the international spotlight last year as chair of a commission that found that Israel had committed genocide in Gaza.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-09T16:40:26+00:00"
-  },
-  {
-   "title": "Labour byelection win shows party starting to win back voters on left",
-   "link": "https://www.theguardian.com/politics/2026/oct/09/labour-byelection-winning-back-voters-on-left-greens",
-   "summary": "Party now polling 15 points above Greens, who had been ahead of Labour before Keir Starmer resigned as PM Labour is starting to win back voters on the left who became disillusioned under Keir Starmer’s leadership, the party’s deputy leader has claimed after it saw off Zack Polanski and the Greens to win the Holborn and St Pancras byelection. Labour’s Sagal Abdi-Wali took 45% of a relatively low tu",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-09T17:08:19+00:00"
-  },
-  {
-   "title": "בלי ענן ובלי אינטרנט: גוגל משיקה כלי מיוחד - בחינם",
-   "link": "https://www.israelhayom.co.il/tech/tech-news/article/21589792",
-   "summary": "Google AI Edge Foresight מתמללת ומסכמת פגישות ישירות על המחשב, בלי לשלוח בייט אחד לשרתים חיצוניים • היא מבוססת על מודלי Gemma ומעתיקה את הנוסחה של גרנולה • אבל יש כמה אותיות קטנות, במיוחד למשתמשים בישראל",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-09T17:59:03+00:00"
-  },
-  {
-   "title": "LumenUs helps automate tedious paperwork in times of grief",
-   "link": "https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/",
-   "summary": "\"The day your loved one passes away, you also get this honorary badge of a project manager for a project you had no idea about,\" said founder Sara Tashakorinia.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-10-09T17:00:00+00:00"
-  },
-  {
-   "title": "עובדים בצרפת ופרו-פלסטינים מנסים למנוע הטסת מטען צבאי לישראל",
-   "link": "https://www.ynet.co.il/news/article/hycx9sismg",
-   "summary": "לפי איגודי עובדים בצרפת וארגונים פרו-פלסטינים, הם סיכלו הטסת משלוח באייר פראנס לאלביט. עובדים בחברת מטענים סירבו להעמיס במקום זאת את המשלוח בטיסת אל על מחר. גורמי ביטחון ישראליים מעורבים בניסיון לפתרון המשבר",
+   "title": "היעד החדש של הקרן ש\"צדה\" חיילי צה\"ל: רופאים ישראלים בכירים",
+   "link": "https://www.ynet.co.il/news/article/rytx1tdomg",
+   "summary": "קרן הינד רג'אב, הפועלת ברחבי העולם להגשת תלונות נגד אנשי מערכת הביטחון, הגישה תלונה לבית הדין הבינלאומי בהאג נגד ההסתדרות הרפואית ושורת רופאים ישראלים בכירים. הטענה: היו מעורבים ב\"התעללות בעצירים פלסטינים במתקן שדה תימן\"",
    "source": "Ynet חדשות",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-10-09T18:27:37+00:00"
+   "published": "2026-10-10T09:18:42+00:00"
   },
   {
-   "title": "Commentator Katie Zacharia picked as new White House press secretary",
-   "link": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
-   "summary": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-09T18:52:06+00:00"
-  },
-  {
-   "title": "בכיר הימין הקיצוני רצה להיכנס לבית הכנסת - הסטודנטים היהודים התערבו",
-   "link": "https://www.israelhayom.co.il/news/world-news/europe/article/21589828",
-   "summary": "הנס-תומאס טילשניידר, סגן יו\"ר מפלגת \"אלטרנטיבה לגרמניה\" במדינת סקסוניה-אנהלט, ביקש להשתתף בטקס לציון שבע שנים לפיגוע האנטישמי שנערך במקום ביום כיפור 2019 • פעילים של איגוד הסטודנטים היהודים בגרמניה יצרו שרשרת אנושית ומנעו ממנו להיכנס - עד שעזב את המקום",
+   "title": "הערכות בתעשייה: אירוע קטסטרופלי צפוי בתוך חודשים",
+   "link": "https://www.israelhayom.co.il/tech/tech-news/article/21590589",
+   "summary": "בכירים בענף ה-AI מעריכים כי מתקפת סייבר קטסטרופלית על תשתיות מים, חשמל או מוסדות פיננסים תתרחש בתוך חצי שנה עד שנה • לפי דיווח ב-Axios, הנהלות OpenAI ואנתרופיק מקיימות סימולציות חירום ומגבשות אסטרטגיה להגבלת הרגולציה וההשלכות הפוליטיות לאחר האסון הגדול הראשון",
    "source": "ישראל היום",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-10-09T18:28:03+00:00"
+   "published": "2026-10-10T09:25:39+00:00"
   },
   {
-   "title": "‘Rogue court’: US sanctions ICC hours after ex-judge wins Nobel Prize",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/rogue-court-us-sanctions-icc-hours-after-ex-judge-wins-nobel-prize?traffic_source=rss",
-   "summary": "US Secretary of State Marco Rubio announced sanctions against the International Criminal Court on Friday.",
-   "source": "Al Jazeera",
+   "title": "Hurricane Isaias downgraded after making landfall in Florida",
+   "link": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+   "summary": "Hundreds of thousands of households are without power in Florida and Alabama as Isaias continues its path across south-eastern US.",
+   "source": "BBC World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-10-09T15:59:04+00:00"
+   "published": "2026-10-10T08:29:59+00:00"
   },
   {
-   "title": "Jerusalem Daily: US charity to use AI to monitor Gaza classrooms",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/jerusalem-daily-us-charity-to-use-ai-to-monitor-gaza-classrooms?traffic_source=rss",
-   "summary": "A US charity announced it will use an AI-software to monitor Gaza classrooms for ‘anti-Semitism’ and ‘hate speech’.",
-   "source": "Al Jazeera",
+   "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+   "link": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+   "summary": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
+   "source": "BBC World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-10-09T17:37:05+00:00"
+   "published": "2026-10-10T04:34:55+00:00"
   },
   {
-   "title": "איחוד האמירויות: הטייס העומאני הודה שתכנן להתרסק עם הטיסה בנמל התעופה בן גוריון",
-   "link": "https://www.haaretz.co.il/news/politics/2026-10-09/ty-article/000001a1-216f-da33-a1bb-a97f8ba00000",
-   "summary": "לפי משרד התובע הכללי של האמירויות, טייס המשנה שניסה לחטוף את טיסת פליי דובאי לתל אביב בשבוע שעבר, ביקר לפחות פעמיים בישראל כדי ללמוד את מסלול הטיסה ואת נמל התעופה. בחקירתו טען כי פעל לבד ולא קיבל סיוע",
+   "title": "India cracks down on youth protests as anger grows against Modi and election chief",
+   "link": "https://www.npr.org/2026/10/10/g-s1-147603/india-cracks-down-on-youth-protests-as-anger-grows-against-modi-and-election-chief",
+   "summary": "Indian authorities have launched a major security crackdown in New Delhi, detaining thousands of protesters who intended to hold a mass demonstration against Prime Minister Narendra Modi's government.",
+   "source": "NPR News",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-10T08:31:28+00:00"
+  },
+  {
+   "title": "זה מה ש-10 דקות עם ChatGPT עושה למוח שלכם",
+   "link": "https://www.israelhayom.co.il/tech/research/article/21590591",
+   "summary": "מחקר חדש מאוניברסיטת ברקלי מציג את המחיר הסמוי של הנוחות • ניסוי מבוקר בקרב 1,222 נבדקים חשף צניחה חדה בדיוק ובמוטיבציה • ברגע שבינה מלאכותית פותרת לנו בעיות, היכולת שלנו להתמודד עם אתגרים בכוחות עצמנו מתפוגגת כמעט מיד • החוקרים מזהירים: \"תהיה שחיקה של הידע האנושי מקצה לקצה\"",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-10T08:57:53+00:00"
+  },
+  {
+   "title": "A year of ceasefire in Gaza through the lens of NPR's reporter",
+   "link": "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life",
+   "summary": "It has been one year since Hamas released the remaining Israeli hostages and President Trump promised an end to the war, but Palestinians say the past 12 months have been a ceasefire in name only.",
+   "source": "NPR News",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-10T09:00:00+00:00"
+  },
+  {
+   "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+   "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+   "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-10-10T00:18:32+00:00"
+  },
+  {
+   "title": "‘We’re not asking for luxury’: school protesters in Paris suburb feel abandoned by French state",
+   "link": "https://www.theguardian.com/world/2026/oct/10/school-protesters-sevran-paris-suburb-france",
+   "summary": "Students say they are desperate to get back to class but conditions are so bad that the protests must continue On a normal school day, Mohammed, 17, wakes at 6am, cares for his younger siblings to help his single mother who works as a security guard, then takes two crowded buses and a local train to get to his high school in Sevran, a low-income banlieue town in the suburbs north-east of Paris. “T",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-10T09:00:53+00:00"
+  },
+  {
+   "title": "תלונה לבית הדין הפלילי בהאג: לחקור רופאים ישראלים ששירתו בשדה תימן",
+   "link": "https://www.haaretz.co.il/news/politics/2026-10-10/ty-article/.premium/000001a1-24cc-d90c-a7bd-adcc2d080000",
+   "summary": "קרן הינד רג'אב תיארה את מחנה המעצר כ\"מערכת של עינויים\", וקראה לחקור את שרי הבריאות לשעבר משה ארבל ואוריאל בוסו, יו\"ר הסתדרות הרפואית פרופ' ציון חגי ובכירים נוספים בחשד למעורבות בפשעים נגד האנושות",
    "source": "הארץ",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-10-09T16:17:18+00:00"
+   "published": "2026-10-10T08:11:09+00:00"
   },
   {
-   "title": "AI disqualification yields new Nikon Small World in Motion winner",
-   "link": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
-   "summary": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.",
+   "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+   "link": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+   "summary": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-10-10T03:10:06+00:00"
+  },
+  {
+   "title": "דיווח: מדינה ערבית במו״מ לרכישת מערכת הגנה במיליארדים מישראל",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001559020#utm_source=RSS",
+   "summary": "בצל ההתקרבות הביטחונית בין ירושלים לרבאט, מרוקו מנהלת מו\"מ לרכישת מערכת ההגנה האווירית \"קלע דוד\" מרפאל בעסקה שעשויה להגיע למיליארדי שקלים • אם תיחתם, תצטרף המערכת לשורת מערכות ישראליות שכבר משרתות את צבא מרוקו, ובהן ספיידר, ברק MX ו-PULS",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-10-10T07:20:00+00:00"
+  },
+  {
+   "title": "India protest live: ‘Cockroach’ leaders detained; New Delhi in lockdown",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/10/10/india-protest-live-police-detain-cockroach-leaders-new-delhi-in-lockdown?traffic_source=rss",
+   "summary": "Cockroach Janta ​Party founder Abhijeet Dipke and other leaders detained before ​protest to demand election chief quit.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-10T05:54:36+00:00"
+  },
+  {
+   "title": "Recruitment boss accused of being behind ‘doxxing’ campaign against RNLI and anti-racism activists",
+   "link": "https://www.theguardian.com/uk-news/2026/oct/10/recruitment-boss-accused-of-being-behind-doxxing-campaign-against-rnli-and-anti-racism-activists",
+   "summary": "Tom Watson, of Worcester, alleged to be behind Big Time Charlie X account that created so-called Traitorbase The owner of a recruitment firm has been accused of being at the centre of a so-called “doxxing” campaign against the Royal National Lifeboat Institution (RNLI), anti-racism activists and business executives who recruit black, Asian and minority ethnic workers. Tom Watson, from Worcester, i",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-10T07:00:50+00:00"
+  },
+  {
+   "title": "My brief romance with an AI bird feeder",
+   "link": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
+   "summary": "It started off promising enough. Dozens of tiny, colorful birds were drawn to my garden just a few weeks after I mounted a $350 $269 Kiwibit Bird Feeder 2 Pro. \"Looks like Great Tit!\" read the first AI-driven alert sent to my phone. \"Looks like Eurasian Blue Tit!\" read another. I chuckled, still waiting for […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-10-10T07:00:00+00:00"
+  },
+  {
+   "title": "Attacker in FlyDubai Flight Meant to Crash Into Israeli Airport, Emiratis Say",
+   "link": "https://www.nytimes.com/2026/10/09/world/middleeast/flydubai-pilot-attack.html",
+   "summary": "The attorney general of the United Arab Emirates said that the co-pilot had been inspired by the Sept. 11 attacks after years of developing extreme Islamist views.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-10T00:10:22+00:00"
+  },
+  {
+   "title": "מתחת לרדאר: החזרה הגנרלית של ישראל וארה\"ב לתקיפה - בשמי איראן | דיווח",
+   "link": "https://www.maariv.co.il/breaking-news/article-1375472",
+   "summary": "",
+   "source": "מעריב",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-10T07:50:54+00:00"
+  },
+  {
+   "title": "ב-7 באוקטובר הוא פגש את הגיהנום. אחרי שנתיים כבר הקים סטארט-אפ שמכניס מיליוני דולרים",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001558644#utm_source=RSS",
+   "summary": "\"אי-אפשר לפספס עליי שלא הייתי ב-8200, אי-אפשר גם לפספס שאני ישראלי. היה מקרה שזה ביטל את ההשקעה בנו במקום. העוינות לישראל נוכחת\" • שיחה קצרה עם אביב שמני, מנכ\"ל הסטארט-אפ Limy, שמודד ומשפר את ההשפעה של AI על מכירות",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-10-10T07:30:00+00:00"
+  },
+  {
+   "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+   "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-10-09T21:15:38+00:00"
+  },
+  {
+   "title": "\"קנינו לפני 19 שנה מגרש ב-130 אלף שקל, היום בית כמו שלנו נמכר ב-3.5 מיליון\"",
+   "link": "https://www.ynet.co.il/economy/article/qcigx940j",
+   "summary": "עדי מרצה ויזמית בתחום הטיפול, אביב חוקר ב-IBM שעשה כבר מאות ימי מילואים מאז תחילת המלחמה (״הוא יכול היה להקים סטארטאפ אבל זה עצר אותו\"). הם גרים עם ילדיהם במושב קלחים בצפון-מערב הנגב ונהנים מהקהילה (\"אין פה מכולת, אבל יש פה חנות יד שנייה שהכל קורה בה\"). משפחת לנדאוֿ–רון על הספה",
+   "source": "Ynet כלכלה",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-10-10T04:21:55+00:00"
+  },
+  {
+   "title": "Neanderthal wooden tools from Spain found preserved in stone",
+   "link": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
+   "summary": "Dissolved rock precipitated around the tools, which then decayed.",
    "source": "Ars Technica",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-10-09T18:44:06+00:00"
+   "published": "2026-10-09T22:34:03+00:00"
   },
   {
-   "title": "YouTube, Meta, and Twitch won’t say if they’ll allow the US government to livestream an execution",
-   "link": "https://www.theverge.com/streaming/1008722/youtube-meta-twitch-government-execution-livestream",
-   "summary": "YouTube, Twitch, Meta, and X aren't saying whether they'll allow the US government to livestream an execution on their platforms. The four companies didn't respond to The Verge's requests for comment after an unnamed Pentagon official said yesterday that the execution of Nidal Hasan, who was convicted of a mass shooting at a Texas military […]",
-   "source": "The Verge",
+   "title": "Boots has a new owner: Three ways it could affect you",
+   "link": "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss",
+   "summary": "The stalwart of Britain's High Street has been sold to a Canadian billionaire family. What will that mean for you?",
+   "source": "BBC Business",
    "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-10-09T15:15:30+00:00"
-  },
-  {
-   "title": "The AI is in the computer",
-   "link": "https://www.theverge.com/podcast/1008707/amazon-alexa-tablet-googlebooks-apple-vergecast",
-   "summary": "It's gadget season, and a lot of companies are launching a lot of new products. But whether it's Microsoft dropping a high-end laptop, Amazon shipping a fancy Android tablet, or Apple diving headlong into the smart home, the actual strategy appears to be almost always the same. All these companies believe AI assistants and agents […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-10-09T15:10:12+00:00"
-  },
-  {
-   "title": "עסקת ענק במתחם הבורסה: חברת הנדל\"ן שזכתה במכרז של מעל מיליארד שקל",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001559011#utm_source=RSS",
-   "summary": "חברת הנדל\"ן בסט של משפחת טנוס זכתה במכרז הגדול שלה מאז הנפקת בסט, להקמת שניים מהמגדלים בפרויקט ורטיקל סיטי ברמת גן, בין הגבוהים בישראל • המתחם צפוי לכלול יחידות דיור וכן שטחי מסחר ותעסוקה • העבודות צפויות להסתיים בשנת 2031",
-   "source": "גלובס",
-   "lang": "he",
    "topic": "business",
-   "rtl": true,
-   "published": "2026-10-09T07:24:00+00:00"
-  },
-  {
-   "title": "התובע הכללי באיחוד האמירויות: טייס המשנה של טיסת פליי-דובאי תכנן להתרסק בנתב\"ג",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001559007#utm_source=RSS",
-   "summary": "חרם על ישראל בפריז: עובדים בנמל התעופה מסרבים להעמיס מטען ביטחוני לטיסת אל על • טראמפ על המלחמה עם איראן: \"תיגמר במהירות - בדרך זו או אחרת\" • בניו יורק טיימס דווח כי בכירים אמריקאיים דנו באפשרות למערכה קצרה שתתמקד במאגרי הטילים והכטב\"מים של איראן • ארה\"ב הזהירה את אזרחיה במזרח התיכון מפעולות של החות'ים ואיראן",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-10-09T18:55:00+00:00"
+   "rtl": false,
+   "published": "2026-10-09T23:01:14+00:00"
   },
   {
    "title": "Anthropic bans users from being 'cruel' to its AI systems",
@@ -261,26 +281,6 @@
    "topic": "business",
    "rtl": false,
    "published": "2026-10-09T12:34:27+00:00"
-  },
-  {
-   "title": "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
-   "link": "https://www.bbc.co.uk/news/articles/cqgkvj10k6lno?at_medium=RSS&at_campaign=rss",
-   "summary": "The Court of Appeal quashes the conviction of Christian Bittar, a former Deutsche Bank trader jailed in 2018.",
-   "source": "BBC Business",
-   "lang": "en",
-   "topic": "business",
-   "rtl": false,
-   "published": "2026-10-09T14:36:35+00:00"
-  },
-  {
-   "title": "מפגינים שרפו דגל ישראל: מחאות נגד השתתפות אלביט וחברות ביטחוניות בסלון האווירי במרוקו",
-   "link": "https://www.ynet.co.il/economy/article/b18f8wiozl",
-   "summary": "הנוכחות הישראלית בתערוכת התעופה במרקש מעוררת התנגדות בקרב פעילים מקומיים, שמאשימים את ‏החברות הביטחוניות במעורבות במלחמה בעזה. בהפגנה בעיר בתחילת החודש הונפו דגלי פלסטין והובערה אש, וברבאט ‏תועד פעיל נגד הנורמליזציה שורף את דגל ישראל. למרות זאת, הסרטונים מהתערוכה מציגים אווירה ‏ידידותית בביתנים הישראליים",
-   "source": "Ynet כלכלה",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-10-09T13:21:53+00:00"
   }
  ]
 }
