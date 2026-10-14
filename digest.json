@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-13T19:59:00.040430+00:00",
- "generated_display": "Tuesday, 13 October 2026 · 22:59",
+ "generated_at": "2026-10-14T08:55:06.701845+00:00",
+ "generated_display": "Wednesday, 14 October 2026 · 11:55",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,164 +23,254 @@
  },
  "stories": [
   {
-   "title": "On This Day: Final living hostages return from Gaza, as Trump addresses Knesset following ceasefire",
-   "link": "https://www.jpost.com/history/article-911580",
-   "summary": "Additionally, the remains of four murdered hostages, Yossi Sharabi, Guy Illouz, Bipin Joshi, and Captain Daniel Peretz, were returned to Israel that evening for burial.",
+   "title": "Israel returns 22 artifacts to Greece in first antiquities repatriation between Jerusalem, Athens",
+   "link": "https://www.jpost.com/israel-news/article-911632",
+   "summary": "The antiquities had been seized during an operation conducted by the IAA's Theft Prevention Unit, before being identified as those belonging to Greece.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-10-13T17:11:28+00:00"
+   "published": "2026-10-14T08:34:07+00:00"
   },
   {
-   "title": "שבועיים לבחירות, נתניהו שוב מזהיר מהיפוך קנים: \"אויבינו חושבים לנסות אותנו\"",
-   "link": "https://www.ynet.co.il/news/article/rjzlyajogg",
-   "summary": "נתניהו סייר בקו התפר, הזהיר מ\"התרעות\" באזור ואמר שישראל ערוכה גם לתרחיש של \"היפוך קנים\" של הרשות הפלסטינית: \"לא מציע לאויבינו לנסות אותנו\". למרות שבצה\"ל לא הכירו התרעה מודיעינית על אפשרות כזו, בדיון שנערך לפני חודש וחצי אמר הרמטכ\"ל כי בצבא לא לוקחים סיכונים ונערכים גם לתרחיש הקיצוני",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-13T16:41:13+00:00"
-  },
-  {
-   "title": "J7 global task force convenes in London to discuss combating global antisemitism",
-   "link": "https://www.jpost.com/diaspora/antisemitism/article-911608",
-   "summary": "The multi-day summit comes as the J7’s latest annual report found that 2025 was the deadliest year for Jews living outside Israel since 1994.",
+   "title": "Building under construction collapses in Tel Aviv, none injured as workers escape unharmed",
+   "link": "https://www.jpost.com/israel-news/article-911639",
+   "summary": "The Tel Aviv-Jaffa Municipality said the building was slated for demolition prior to its unexpected collapse, and instructed residents to stay away from the scene.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-10-13T21:37:30+00:00"
+   "published": "2026-10-14T09:55:18+00:00"
   },
   {
-   "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-   "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-   "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-10-13T17:30:00+00:00"
-  },
-  {
-   "title": "Niobia takes the guesswork out of some of tech’s most expensive mistakes",
-   "link": "https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/",
-   "summary": "The San Francisco startup aims to help battery and chip manufacturers identify defects on production lines, reducing downtime and costly mistakes.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-10-13T19:00:00+00:00"
-  },
-  {
-   "title": "רחפן התרסק בחי בר, וגל הברחות לכיוון השני: \"ישראלים מציפים את ירדן בסמים\"",
-   "link": "https://www.ynet.co.il/news/article/ryjxptojmg",
-   "summary": "כוח צה\"ל וחבלנים הוזעקו לזירת נפילת רחפן בחי בר שביטבתה - שנשא לפי החשד סמים. במקביל, ב\"טלגרף\" דווח כי כנופיות מבריחות סמים לירדן תוך ניצול עלייה חדה במחירים, בין היתר עקב נפילת משטר אסד. גורם ביטחוני בירדן טען שבישראל מסתירים את היקף הפשיעה: \"יוצרים אשליה שירדן היא המערב הפרוע\"",
+   "title": "באיחוד האירופי מסמנים הרכב ממשלה מפתיע אחרי הבחירות: \"הזדמנות ליציבות\"",
+   "link": "https://www.ynet.co.il/news/elections2026/article/r1glz3njfg",
+   "summary": "שגרירויות אירופיות בישראל עוקבות באדיקות אחר הנעשה במגזר החרדי ופועלות לקדם שילוב של מפלגות חרדיות בקואליציה בראשות איזנקוט, אותו סימנו כרה\"מ הבא. המטרה: ממשלה יציבה ב\"יום שאחרי\" נתניהו, ללא תלות במפלגות ערביות",
    "source": "Ynet חדשות",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-10-13T16:28:10+00:00"
+   "published": "2026-10-14T08:25:51+00:00"
   },
   {
-   "title": "הכלכלנים מעריכים: מה צפוי בנתוני האינפלציה בישראל?",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001559348#utm_source=RSS",
-   "summary": "מדד המחירים לצרכן צפוי לרדת בספטמבר ב-0.3%-0.4%, בעיקר בשל הוזלת הטיסות והדלק, אך קצב האינפלציה השנתי דווקא צפוי לעלות • הפחתת מס הבלו על הדלק צפויה לפוג ימים ספורים לאחר הבחירות, ומחירי הדלק עלולים לשוב ולהתייקר • למרות הירידה הצפויה במדד, בנק ישראל צפוי להותיר את הריבית ללא שינוי בהחלטתו בשבוע הבא",
+   "title": "הקרב על ראשות הממשלה: מאחורי המסרים והרטוריקה של המועמדים המובילים",
+   "link": "https://www.ynet.co.il/news/theheadline/article/nmc6gh5ao",
+   "summary": "פחות משבועיים לפני הבחירות לכנסת ה-26, המועמדים לראשות הממשלה ממשיכים בהפצת המסרים שאמורים להכריע את הכף. קוה שפרן, מחבר רב המכר \"סודות נתניהו\", יועץ למנהיגים ולמנהלים, לשעבר מפקד בית הספר הצבאי לתקשורת בדובר צה\"ל ולשעבר הכתב והפרשן המדיני של גלי צה\"ל, מסביר על \"הטלאי השמאלני\" שיצר נתניהו, למה החיבה לאיזנקוט דווקא תקשה עליו בבחירות - וגם האם התדמית הצעירה שבנט מציג תורמת למיצובו כראש ממשלה",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-14T02:00:00+00:00"
+  },
+  {
+   "title": "Russia showing ‘ostentatious disrespect’ towards US with latest attacks on Ukraine, Zelenskyy says – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/oct/14/russia-ukraine-war-latest-updates-zelenskyy-europe",
+   "summary": "Zelenskyy says Russia attacked ‘infrastructure covered by the ceasefire announced by the American president’ Ukrainian soldiers have access to Starlink satellite internet restricted Poland’s foreign minister Radosław Sikorski has taken to X to confront the platform’s billionaire owner Elon Musk over reported restrictions to Starlink in Ukraine. Poland helps Ukraine to foot the bill for Starlink, w",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-14T08:22:56+00:00"
+  },
+  {
+   "title": "Video recording device found in cabin of HMAS Leeuwin navy ship in Cairns",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/14/video-recording-device-found-in-cabin-of-hmas-leeuwin-navy-ship-in-cairns",
+   "summary": "Defence announcement comes after Jacqui Lambie tells parliament a camera had been found concealed in a women’s shower on board Get our breaking news email , free app or daily news podcast A “video recording device” was found in the cabin of a Royal Australian Navy ship in Cairns, the defence department has revealed, just hours after senator Jacqui Lambie alleged in parliament that a camera had bee",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-14T07:19:06+00:00"
+  },
+  {
+   "title": "Turkish police raid opposition TV station, halting live broadcasts",
+   "link": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+   "summary": "Halk TV says its staff are unable to enter the building in Istanbul and a new manager has been appointed.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-14T08:17:43+00:00"
+  },
+  {
+   "title": "12 מלונות חדשים ויותר מ־2,000 חדרים: תוכנית הענק של פתאל בישראל",
+   "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21621252",
+   "summary": "רשת המלונות חשפה את תוכניות ההתרחבות שלה עד 2030, הכוללות מלונות חדשים באילת, בירושלים, בתל אביב ובים המלח, לצד השקעות של מאות מיליוני שקלים בשדרוג מלונות קיימים • במקביל, הרשת מרחיבה את פעילותה בתחום מלונות היוקרה והבוטיק • דוד פתאל: \"הפכנו לאחת מקבוצות המלונאות המובילות באירופה\"",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-14T08:11:31+00:00"
+  },
+  {
+   "title": "ועדת הבחירות נערכת לאפשרות של ירי מאיראן עם פתיחת הקלפיות",
+   "link": "https://www.israelhayom.co.il/news/defense/article/21621381",
+   "summary": "אחד מתרחישי הקיצון אליהם מתכונננים בוועדה הוא ירי שיחל כבר בבוקר יום הבחירות, במטרה לייצר פחד ולפגוע בהליך הדמוקרטי • יו\"ר ועדת הבחירות השופט נועם סולברג כבר קיים פגישות בנושא • ראש הממשלה ושר הביטחון הזהירו בשבועות האחרונים מהאפשרות שאויביה של ישראל ינסו לאתגר אותה סביב מערכת הבחירות",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-14T08:04:08+00:00"
+  },
+  {
+   "title": "Russia arrests Japanese journalist on spying charges",
+   "link": "https://www.bbc.co.uk/news/articles/cwp9g1el7x9zo?at_medium=RSS&at_campaign=rss",
+   "summary": "The Hokkaido Shimbun journalist is accused of collecting information on Moscow's defence capabilities for Tokyo.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-14T08:00:03+00:00"
+  },
+  {
+   "title": "עליות בתל אביב; מניות טאואר ודוראל מזנקות ב-5%",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001559389#utm_source=RSS",
+   "summary": "מדד ת\"א 35 עולה בכ-0.5% • טאואר עולה לאחר שדיווחה אתמול על הסכם ארוך־טווח מול חברת השבבים סמטק • דריכות בארה\"ב לקראת פרסום מדד המחירים - שעשוי להשפיע על ציפיות הריבית בשווקים • מניות השבבים בוול סטריט המשיכו לספוג לחצים אמש; הבוקר החוזים בניו יורק ירוקים • וגם: בג'פריס ממליצים על מניית הבורסה ומעלים לה מחיר יעד",
    "source": "גלובס",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-10-13T14:05:00+00:00"
+   "published": "2026-10-14T08:14:00+00:00"
   },
   {
-   "title": "Pope's surgery to remove lump on lung 'concluded successfully', Vatican says",
-   "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-   "summary": "Pope Leo has said the growth is \"contained\" and had been found \"at a very early stage\".",
-   "source": "BBC World",
+   "title": "וול סטריט ג'ורנל: החותים בתימן מפתחים טיל בליסטי מתקדם באמצעות רכיבים מסין",
+   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-10-14/ty-article/.premium/000001a1-3979-dc6f-abbd-3b7fd2470000",
+   "summary": "לפי דו\"ח חדש של ארגון שפועל באזורי סכסוך, המורדים שנתמכים על ידי איראן מנסים לייצר בעצמם גרסה של אחד הטילים החזקים ביותר בארסנל האיראני, חייבר שכן בעל הטווח של כ־1,900 ק\"מ, שמסוגל להגיע לכל שטחן של סעודיה וישראל",
+   "source": "הארץ",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-14T08:26:04+00:00"
+  },
+  {
+   "title": "‘Like we don’t exist’: Palestinians in West Bank denied say in Israel vote",
+   "link": "https://www.aljazeera.com/features/2026/10/14/like-we-dont-exist-palestinians-in-west-bank-denied-say-in-israel-vote?traffic_source=rss",
+   "summary": "Palestinians in the occupied West Bank see little prospect Israel’s election will change their lives under occupation.",
+   "source": "Al Jazeera",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-10-13T18:24:03+00:00"
+   "published": "2026-10-14T07:05:31+00:00"
   },
   {
-   "title": "Zelenskyy tells NPR Ukraine wants peace but will hit Russia until it follows ceasefire",
-   "link": "https://www.npr.org/2026/10/13/nx-s1-6000051/ukraine-zelenskyy-npr-interview-russia-war",
-   "summary": "In an interview with NPR, Ukrainian President Volodymyr Zelenskyy said he was informed the U.S. warned it could cut off access to U.S. weapons and intelligence, but that it hasn't happened yet.",
-   "source": "NPR News",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-13T18:51:55+00:00"
+   "title": "איש התקשורת מוטי שקלאר: דרושה ממשלה רחבה",
+   "link": "https://www.inn.co.il/flashes/1135981",
+   "summary": "מוטי שקלאר קורא במאמר בעיתון ידיעות אחרונות לשבור את החלוקה לגושים ולהקים ממשלת אחדות רחבה. לדבריו, הציבור הישראלי מבקש אחדות, אך הפחד מפשרות משמר את הפילוג: \"ניצחון של צד אחד יהיה ניצחון פירוס\".",
+   "source": "ערוץ 7",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-14T08:32:20+00:00"
   },
   {
-   "title": "Argentina targets UK in legal claim over Falklands oil exploration",
-   "link": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
-   "summary": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-13T17:36:43+00:00"
-  },
-  {
-   "title": "Russia Detains Japanese Journalist for Alleged Espionage",
-   "link": "https://www.nytimes.com/2026/10/13/world/europe/russia-detains-japanese-journalist.html",
-   "summary": "The main security service said it had detained a reporter for the Hokkaido Shimbun newspaper in Russia’s far east, where he had been reporting on military recruitment.",
+   "title": "Senators Urge Trump to Reverse Diesel Deal With Putin",
+   "link": "https://www.nytimes.com/2026/10/13/us/politics/trump-putin-russia-diesel-senate.html",
+   "summary": "A bipartisan group of 12 senators called on the president to drop his decision to ease sanctions on Russia’s exports of diesel fuel, saying the deal would help Moscow continue the war in Ukraine.",
    "source": "NY Times World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-10-13T19:55:42+00:00"
+   "published": "2026-10-14T00:12:23+00:00"
   },
   {
-   "title": "המפלגה החרדית שרוצה לגייס חרדים לצה\"ל",
-   "link": "https://www.israelhayom.co.il/news/geopolitics/article/21616359",
-   "summary": "מפלגת \"הציבור החרדי\" מבקשת להציע אלטרנטיבה לש\"ס ויהדות התורה עם תמיכה בגיוס חרדים, חיזוק לימודי מתמטיקה ואנגלית וגם שתי נשים ברשימה לכנסת • שמענו ממוטי לייטנר, יו\"ר המפלגה, למה הוא מאמין שיש בציבור החרדי קהל שמחפש הנהגה אחרת • צפו בסרטון",
-   "source": "ישראל היום",
+   "title": "שר האוצר סמוטריץ': \"העסקה לרכישת מסוקי אפאצ'י היא שגיאה\"",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001559471#utm_source=RSS",
+   "summary": "לדברי שר האוצר, \"יש עסקה לרכישת 12 מסוקי אפאצ'י שצריך לחתום עליה היום. אני חושב שהעסקה הזו היא שגיאה\" • דבריו של סמוטריץ' מגיעים לאחר שהממשלה אישרה היום רכש ביטחוני דחוף בהיקף של מיליארד שקל לרכישת מסוקי אפאצ'י לצה\"ל, כשמרבית הכסף יוקצה מתוכנית החומש של החברה הערבית",
+   "source": "גלובס",
    "lang": "he",
-   "topic": "israel",
+   "topic": "business",
    "rtl": true,
-   "published": "2026-10-13T15:53:29+00:00"
+   "published": "2026-10-14T07:51:00+00:00"
   },
   {
-   "title": "Pope Leo Undergoes Successful Surgery to Remove Lung Nodule, Vatican Says",
-   "link": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html",
-   "summary": "The Vatican has said that the pontiff is expected to spend about a week recovering in the hospital.",
+   "title": "How Israel’s ‘Yellow Line’ is reshaping southern Lebanon",
+   "link": "https://www.aljazeera.com/news/2026/10/14/how-israels-yellow-line-is-reshaping-southern-lebanon?traffic_source=rss",
+   "summary": "Demolished homes, shifting military lines, stalled withdrawals leave Lebanese uncertain if they can return.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-14T07:38:09+00:00"
+  },
+  {
+   "title": "Macron Dreamed of Reviving France, but His Term Is Ending in Crisis",
+   "link": "https://www.nytimes.com/2026/10/13/world/europe/macron-france-protests.html",
+   "summary": "Nearly a decade after his first election as president, Emmanuel Macron is presiding over a tense country sliding toward the fiscal brink.",
    "source": "NY Times World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-10-13T19:27:43+00:00"
+   "published": "2026-10-14T02:57:36+00:00"
   },
   {
-   "title": "Zelenskyy says Russia ‘did not heed’ Trump’s call for ceasefire and Ukraine had ‘no early warning’ before strikes on Kyiv – as it happened",
-   "link": "https://www.theguardian.com/world/live/2026/oct/13/ships-hit-sunk-drones-bulgaria-black-sea-ukraine-russia-war-france-spains-sweden-pope-leo-europe-latest-news-updates",
-   "summary": "Ukraine’s president says his country has halted strikes on Russian oil refineries for two days after Trump’s energy ceasefire announcement On frozen Russian assets, Poland’s Sikorski says the use of frozen Russian assets is “a complicated issue,” but takes a very clear stance in response to any suggestion of releasing them back to Russia. “We are working on it, but there is also some rumours that ",
-   "source": "The Guardian",
+   "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
+   "link": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
+   "summary": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company’s super intelligence technology.\"",
+   "source": "TechCrunch",
    "lang": "en",
-   "topic": "world",
+   "topic": "tech",
    "rtl": false,
-   "published": "2026-10-13T15:54:55+00:00"
+   "published": "2026-10-13T20:59:11+00:00"
   },
   {
-   "title": "טראמפ על האם ימליץ על מועמד בבחירות בישראל: \"ייתכן ואעשה משהו\"",
-   "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21617623",
-   "summary": "נשיא ארה\"ב התייחס למלחמה עם איראן, טען כי ארה\"ב שולטת במצרי הורמוז והזהיר את החות'ים בתימן: \"הם מתנהגים רע מאוד\" • טראמפ הוסיף כי ייתכן שיבקש מנשיא טורקיה להתערב ולסייע לערב הסעודית",
-   "source": "ישראל היום",
+   "title": "\"מכפיל כוח שלא ראינו מאז המצאת הגלגל\": בכיר אנבידיה חושף את העתיד",
+   "link": "https://www.ynet.co.il/digital/technews/article/symus32sml",
+   "summary": "סמנכ\"ל הטכנולוגיות של אנבידיה, מיכאל כגן, מאמין שבינה מלאכותית תשנה לחלוטין את עולם הרפואה: מבדיקות גנטיות שיאפשרו לחזות מחלות, דרך רובוטים שיסייעו לצוותים הרפואיים ועד לבתי חולים וירטואליים. בריאיון מיוחד בוועידת Rambam Tomorrow של ynet ורמב\"ם הוא מספר על המחקר שמובילה החברה בישראל ועל האתגרים שבדרך",
+   "source": "Ynet טכנולוגיה",
    "lang": "he",
-   "topic": "israel",
+   "topic": "tech",
    "rtl": true,
-   "published": "2026-10-13T15:42:03+00:00"
+   "published": "2026-10-14T08:36:09+00:00"
   },
   {
-   "title": "Australian politics live: Chalmers urges against mocking, cancelling or talking down to One Nation supporters",
-   "link": "https://www.theguardian.com/australia-news/live/2026/oct/14/treasurer-jim-chalmers-labor-one-nation-pauline-hanson-one-nation-gas-reservation-scheme-ntwnfb",
-   "summary": "Follow the day’s news live. Get our breaking news email , free app or daily news podcast Mark Dreyfus has fired off a warning to social media platforms about the livestream of US military execution planned for December. The former attorney, who is now the special envoy for international human rights, said Australia held longstanding opposition to the death penalty and had raised it with the United",
-   "source": "The Guardian",
+   "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+   "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+   "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+   "source": "TechCrunch",
    "lang": "en",
-   "topic": "world",
+   "topic": "tech",
    "rtl": false,
-   "published": "2026-10-13T19:53:05+00:00"
+   "published": "2026-10-13T23:13:31+00:00"
+  },
+  {
+   "title": "פרדוקס מדד ספטמבר: המחירים יירדו אבל האינפלציה תעלה",
+   "link": "https://www.ynet.co.il/economy/article/sjcwdfsimg",
+   "summary": "מדד המחירים לצרכן שיפורסם מחר צפוי להיות שלילי, אך מדד נמוך יותר בשנה שעברה יגרום לכך שהאינפלציה השנתית תעלה ל-1.8% לעומת 1.5% כיום. בשל כך, לא צפויה הורדת ריבית נוספת, רביעית ברציפות, בשבוע הבא",
+   "source": "Ynet כלכלה",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-10-14T03:56:04+00:00"
+  },
+  {
+   "title": "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
+   "link": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
+   "summary": "The CWU says more posties are leaving since a new delivery system was brought in that it claims is not working in hundreds of offices.",
+   "source": "BBC Business",
+   "lang": "en",
+   "topic": "business",
+   "rtl": false,
+   "published": "2026-10-14T07:18:08+00:00"
+  },
+  {
+   "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+   "summary": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral communications, according to a press release from the Department […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-10-13T20:45:25+00:00"
+  },
+  {
+   "title": "תוספות שכר, מענקי חתימה ומסלולי קידום חדשים: נחתם הסכם קיבוצי חדש במקורות",
+   "link": "https://www.ynet.co.il/economy/article/hyzsb3nsmx",
+   "summary": "ההסכם נחתם שלושה חדשים בלבד מאז נכנס משה שמעוני לתפקיד יו\"ר החברה. תוספות השכר עומדות על כ-20% לאורך 5 שנות ההסכם. השכר הממוצע בחברה כיום עומד על 27 אלף שקל, גבוה בהרבה מהשכר הממוצע במשק, אך במרכז הטבלה ביחס לשאר החברות הממשלתיות",
+   "source": "Ynet כלכלה",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-10-14T07:59:23+00:00"
   },
   {
    "title": "Shopify opens its catalog up to more AI agents",
@@ -191,96 +281,6 @@
    "topic": "tech",
    "rtl": false,
    "published": "2026-10-13T19:42:42+00:00"
-  },
-  {
-   "title": "The Nothing Headphone A are half off for the first time",
-   "link": "https://www.theverge.com/gadgets/1010384/nothing-headphone-a-charli-xcx-deal-sale",
-   "summary": "One of the best deals we’ve seen today bundles together a great pair of headphones with a solid album. When you add the Nothing Headphone A in black or white and the CD version of the Charli XCX album Music, Fashion, Film to your Amazon cart, you’ll save 33 percent on your order, bringing the […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-10-13T18:33:14+00:00"
-  },
-  {
-   "title": "הפערים בין הגדולות ליתר הקבוצות והיכולת של הישראלים: סיכום המחזור בליגת העל",
-   "link": "https://www.haaretz.co.il/sport/basketball/2026-10-13/ty-article-magazine/.premium/000001a1-3623-d610-a5bb-373b62d30000",
-   "summary": "מכבי תל אביב, הפועל תל אביב והפועל ירושלים הביסו בהפרשים דו-ספרתיים והעלו שאלה: האם ליגת העל תהפוך העונה לשתי ליגות נפרדות? ■ ממוצע הנקודות של השחקנים הישראלים המחזור היה 31.8, אבל רק שלוש קבוצות עברו אותו",
-   "source": "הארץ",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-13T17:00:42+00:00"
-  },
-  {
-   "title": "נתניהו הציע לטראמפ לחדש את המלחמה נגד איראן - עוד לפני הבחירות",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001559299#utm_source=RSS",
-   "summary": "הבכיר הביטחוני בבריטניה חשף: איראן מגבירה את הניסיונות לפגוע ביעדים רגישים ומתקנים צבאיים • סקר דעת קהל שנערך בקרב בני העדה השיעית בלבנון מצביע על ביקורת כלפי חיזבאללה: כשני שלישים תומכים בהעברת נשקו למדינה • כ-6% בלבד תומכים בהמשך הנהגת חיזבאללה הנוכחית • בטהרן מגבירים את ההיערכות לעימות נוסף • התעלומה בגבול לבנון: צה\"ל קובע שלא מדובר ברחפן או בכטב\"ם • דיווח: חיזבאללה הצליח להאריך את טווח הרחפנים",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-10-13T19:17:00+00:00"
-  },
-  {
-   "title": "הברית נסדקת: המדינה המוסלמית שמעדיפה את ישראל על ארדואן",
-   "link": "https://www.maariv.co.il/breaking-news/article-1376871",
-   "summary": "",
-   "source": "מעריב",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-13T17:47:26+00:00"
-  },
-  {
-   "title": "DR Congo Ebola cases pass 9,000 as efforts to curb transmission falter",
-   "link": "https://www.aljazeera.com/news/2026/10/13/dr-congo-ebola-cases-pass-9000-as-efforts-to-curb-transmission-falter?traffic_source=rss",
-   "summary": "The Bundibugyo strain fuels deadliest Ebola outbreak in DRC’s history as health workers face mistrust from communities.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-13T19:39:01+00:00"
-  },
-  {
-   "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
-   "link": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
-   "summary": "Developers will get 50 percent discounted API rates through November.",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-10-13T16:00:02+00:00"
-  },
-  {
-   "title": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim",
-   "link": "https://www.bbc.co.uk/news/articles/cwly38gjkejko?at_medium=RSS&at_campaign=rss",
-   "summary": "TFG London has apologised to customers for disruption after it identified a \"cybersecurity incident\" on Sunday.",
-   "source": "BBC Business",
-   "lang": "en",
-   "topic": "business",
-   "rtl": false,
-   "published": "2026-10-13T09:34:43+00:00"
-  },
-  {
-   "title": "בהשקעה של 20 מיליון שקלים: המיזם החדש של עידן עמדי וארומה",
-   "link": "https://www.ynet.co.il/economy/article/b1how9ojmx",
-   "summary": "הרשת נכנסת לשוק הקפה השחור, ומשיקה את \"קפה ירושלמי\". הזמר והשחקן יהיה הפנים של המותג, ואף שותף בפרויקט ובפיתוחו",
-   "source": "Ynet כלכלה",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-10-13T11:14:15+00:00"
-  },
-  {
-   "title": "Poundland in rescue talks as owners seek buyer",
-   "link": "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss",
-   "summary": "The leadership team is attempting a buyout, but a union has warned the retailer could fall into administration instead.",
-   "source": "BBC Business",
-   "lang": "en",
-   "topic": "business",
-   "rtl": false,
-   "published": "2026-10-13T12:17:17+00:00"
   }
  ]
 }
