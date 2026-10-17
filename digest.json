@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-17T07:57:19.308067+00:00",
- "generated_display": "Saturday, 17 October 2026 · 10:57",
+ "generated_at": "2026-10-17T16:43:44.767134+00:00",
+ "generated_display": "Saturday, 17 October 2026 · 19:43",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,24 +23,194 @@
  },
  "stories": [
   {
-   "title": "Israeli startup 'Ciconia' lands California helicopter safety deal to prevent midair collisions",
-   "link": "https://www.jpost.com/business-and-innovation/article-911958",
-   "summary": "As airspace becomes increasingly crowded with helicopters, drones, and other unmanned aircraft operating in confined areas, aviation safety has become a growing concern for emergency services.",
-   "source": "Jerusalem Post",
-   "lang": "en",
+   "title": "\"בזה תם הסיפור\": המהלך של ליברמן ליום שאחרי הבחירות",
+   "link": "https://www.israelhayom.co.il/news/politics/article/21644932",
+   "summary": "יו\"ר ישראל ביתנו הצהיר כי יפעל להחלפת אמיר אוחנה מיד עם השבעת הכנסת ה־26, ולאחר מכן להעברת \"חוק הנאשם\" בשלוש קריאות • הדברים מגיעים יום לאחר שהאשים את איזנקוט כי הוא חותר להקמת ממשלה עם נתניהו",
+   "source": "ישראל היום",
+   "lang": "he",
    "topic": "israel",
-   "rtl": false,
-   "published": "2026-10-17T08:43:42+00:00"
+   "rtl": true,
+   "published": "2026-10-17T15:51:44+00:00"
   },
   {
-   "title": "US, Israeli business groups unite to strengthen economic ties amid growing anti-Israel backlash",
-   "link": "https://www.jpost.com/diaspora/article-911955",
-   "summary": "Regional economic development groups from across the US united at a Michigan summit to promote Israeli investment, strengthen commercial partnerships and counter growing opposition to business ties.",
+   "title": "השייח’ טריף הרעיף שבחים על נתניהו – ונאלץ להבהיר: “אינני תומך באף מפלגה\"",
+   "link": "https://www.walla.co.il/news/israel/383957787",
+   "summary": "שבוע וחצי לפני הבחירות לכנסת, ויממה בלבד לאחר שראש הממשלה בנימין נתניהו ופמלייתו נפגשו עם בכירי העדה הדרוזית בכנס בחירות בכפר ירכא, פרסם אתמול (שישי) השייח’ מוופק טריף, המנהיג הרוחני של העדה הדרוזית בישראל, סרטון שבו הרעיף שבחים על נתניהו, על מנהיגותו ועל פעולותיו להצלת הדרוזים בסוריה.",
+   "source": "וואלה",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-17T15:02:02+00:00"
+  },
+  {
+   "title": "ליברמן מכוון לבחירות חוזרות בלי נתניהו: \"נדיח את אוחנה ונעביר את חוק הנאשם\"",
+   "link": "https://www.ynet.co.il/news/elections2026/article/rjlxogzhmx",
+   "summary": "יו\"ר ישראל ביתנו, שמתנגד לממשלת מיעוט, טוען שיש להוציא לפועל את המהלכים כדי למנוע מנתניהו להתמודד שוב על ראשות הממשלה. שלשום טען כי הליכוד ללא נתניהו \"יכול להיות שותף משמעותי\"",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-17T16:08:29+00:00"
+  },
+  {
+   "title": "Indian Gen Z Protest Leader Is Released on Bail After Arrest",
+   "link": "https://www.nytimes.com/2026/10/17/world/asia/india-abhijeet-dipke-cockroach-janta-party.html",
+   "summary": "Abhijeet Dipke, the founder of the Cockroach Janta Party, was detained on his way to a protest called to demand the resignation of India’s top election official.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-17T15:50:19+00:00"
+  },
+  {
+   "title": "Britain’s lesson for Israel: The West Bank settlement policy has consequences - opinion",
+   "link": "https://www.jpost.com/opinion/article-911770",
+   "summary": "Israel can view the British move as a warning: a signal of what may happen in its relations with other countries if it continues to treat the West Bank as though it is free to do whatever it wants.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-10-17T06:48:47+00:00"
+   "published": "2026-10-17T14:29:55+00:00"
+  },
+  {
+   "title": "Trump’s pause on Russia sanctions is ‘reward’ for Putin, Zelenskyy says",
+   "link": "https://www.theguardian.com/world/2026/oct/17/volodymyr-zelenskyy-donald-trump-lift-sanctions-russia-intensify-war-ukraine",
+   "summary": "Ukrainian president warns it will embolden Russian leader and intensify war as Moscow hits country’s power plants Power plant attacks reflect Russian blueprint to make Ukrainian cities unlivable Volodymyr Zelenskyy has described Donald Trump’s decision to roll back sanctions on Russia as a “reward” for Vladimir Putin and warned it will embolden the Russian leader and intensify the Kremlin’s war, a",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-17T15:38:17+00:00"
+  },
+  {
+   "title": "Washington Post photojournalist undergoes surgery after settler attack, demands arrests - interview",
+   "link": "https://www.jpost.com/israel-news/crime-in-israel/article-911976",
+   "summary": "Washington Post photojournalist Heidi Levine says settlers beat her as IDF soldiers stood by. After surgery, she is demanding an investigation and arrests.",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-10-17T18:12:41+00:00"
+  },
+  {
+   "title": "\"הדמוקרטים גמורים, קשה להיות יהודי בארה\"ב\": הפילנתרופ שתרם מאות מיליונים לצה\"ל שובר שתיקה",
+   "link": "https://www.walla.co.il/news/israel/383957534",
+   "summary": "\"המפלגה הדמוקרטית גמורה. היא כבר לא המפלגה של הארי טרומן וג'ון קנדי\", אומר אלברט (אל) פרנק, הפילנתרופ האמריקאי־יהודי שיחגוג החודש את יום הולדתו ה־99. \"הם סוציאליסטים, נמצאים בצד הלא נכון של כל סוגיה באמריקה - וגם ביחס לישראל. אני חושב שטראמפ והרפובליקנים ינצחו בגדול בבחירות האמצע\".",
+   "source": "וואלה",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-17T10:49:14+00:00"
+  },
+  {
+   "title": "תקיפת הדיפלומטים מסכנת את ישראל בסנקציות נרחבות: \"פיגוע אסטרטגי, כולנו נשלם את המחיר\"",
+   "link": "https://www.ynet.co.il/news/article/ryxcizbnfl",
+   "summary": "תקיפת הדיפלומטים האירופיים באזור הכפר טייבה ביו\"ש, יממה אחרי תקיפת צלמת העיתונות, עוררה זעם בקרב נציגי ישראל ברחבי העולם. לדברי כמה מהם, \"בעולם נורמלי כל הפורעים היו נעצרים. הממשלה נותנת להשתולל - וכולנו נשלם את המחיר\". בבלגיה מדברים על סנקציות, איזנקוט: \"טרור יהודי בחסות הממשלה\". הנשיא הרצוג לצלמת שהותקפה: \"מגנה אלימות, יש למצות את הדין עם הפורעים\"",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-17T16:14:35+00:00"
+  },
+  {
+   "title": "קניתם לאחרונה מקרר? פספסתם את הדבר הכי טוב בשוק",
+   "link": "https://www.israelhayom.co.il/tech/gadget-review/article/21643927",
+   "summary": "אחרי שבישרנו לכם על חזרתו לישראל של מותג המקררים האייקוני משנות ה-80, לקחנו לבדיקה את דגם המקפיא התחתון של Frigidaire • המסקנה? מאחורי השם הנוסטלגי מסתתרת מכונת עבודה מודרנית ששמה סוף למשחק ה\"טטריס\" של סידור הקניות • סקירה",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-17T14:04:06+00:00"
+  },
+  {
+   "title": "Yemen Fighting Rages as Civilian Toll From Houthi-Saudi Conflict Worsens",
+   "link": "https://www.nytimes.com/2026/10/17/world/middleeast/houthi-saudi-clashes-in-yemen.html",
+   "summary": "New clashes were reported as the Houthis put more pressure on Taiz, a city connecting the government-held south of the country and the Red Sea.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-17T15:42:35+00:00"
+  },
+  {
+   "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+   "link": "https://www.npr.org/2026/10/17/nx-s1-6006745/us-sanctions-russia",
+   "summary": "Zelenskyy described the move as unfortunate, adding it would encourage Russia to continue its assault. Trump told Congress that the pause was in the national interest but gave no further details.",
+   "source": "NPR News",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-17T14:25:10+00:00"
+  },
+  {
+   "title": "Nursery owner in China jailed for life after hundreds of children poisoned",
+   "link": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
+   "summary": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-17T12:11:58+00:00"
+  },
+  {
+   "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+   "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+   "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-17T11:56:06+00:00"
+  },
+  {
+   "title": "Revealed: French police used UK-funded 4x4 vehicles to charge student protesters",
+   "link": "https://www.theguardian.com/world/2026/oct/17/french-police-uk-funded-4x4-vehicle-ram-student-protesters",
+   "summary": "French government launches investigation into why cars funded by UK to prevent asylum seekers crossing Channel were used in school protests French police have used 4x4 vehicles paid for by British taxpayers to charge at student protesters during the school protests that have swept the country. The French government has confirmed that an investigation has been launched into why the cars, funded by ",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-17T16:00:34+00:00"
+  },
+  {
+   "title": "Websites are closing their doors to AI agents",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+   "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-10-17T13:00:00+00:00"
+  },
+  {
+   "title": "האם דווקא הבינה המלאכותית תהיה זו שתחזיר את היוקרה לאוניברסיטאות?",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001559747#utm_source=RSS",
+   "summary": "החשש מהחלפה על ידי בינה מלאכותית והשפעות המלחמה מייצרים שינוי טקטוני במפת ההרשמה לאקדמיה • הסטודנטים נוטשים את מדעי המחשב ומחפשים תארים שנותנים ידע בסיסי עמוק, כישורים רכים או עבודה פיזית \"עם הידיים והנשמה\" • כך הופכת מהפכת ה־AI מהאיום הגדול על השכלה גבוהה - לגורם שמחזיר למרכז הבמה את הערך של ידע, חשיבה וסקרנות",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-10-17T16:00:00+00:00"
+  },
+  {
+   "title": "'Vast majority' of Iran's attempted attacks on Strait of Hormuz are unsuccessful, CENTCOM spokesman says",
+   "link": "https://www.foxnews.com/world/vast-majority-irans-attempted-attacks-strait-hormuz-unsuccessful-centcom-spokesman-says",
+   "summary": "U.S. Central Command Spokesperson U.S. Navy Capt. Tim Hawkins tells Fox News Digital that the Strait of Hormuz remains \"open\" for commercial shipping.",
+   "source": "Fox News World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-17T15:46:37+00:00"
+  },
+  {
+   "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
+   "link": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
+   "summary": "In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew lawsuits from two Arizona residents claiming the lottery was a fraud. Musk has now agreed to settle the two lawsuits filed in […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-10-17T16:39:44+00:00"
   },
   {
    "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
@@ -53,154 +223,44 @@
    "published": "2026-10-17T02:36:18+00:00"
   },
   {
-   "title": "Brazil sees record fall in Amazon deforestation as key election looms",
-   "link": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
-   "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-17T02:33:09+00:00"
+   "title": "הטרנד שמשגע את ילדי ישראל הוא כבר תעשייה שמגלגלת מיליונים",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001559439#utm_source=RSS",
+   "summary": "הן מוכרות בטיקטוק בתור \"שילת מלכת הסקווישים\" ו\"קיקי\", והן גם יבואניות שמטיסות כל אחת עשרות אלפי יחידות מסין • מה עומד מאחורי להיט הצעצועים שמגלגל קרוב ל-100 מיליון שקל בשנה ופרץ בישראל דווקא בתקופת מלחמה, ואיך צעירות ללא ניסיון קמעונאי מכתיבות את הטון לרשתות הוותיקות",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-10-17T10:25:00+00:00"
   },
   {
-   "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-   "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-   "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-17T07:41:01+00:00"
-  },
-  {
-   "title": "Replit is no longer working with Anthropic, CEO says",
-   "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-   "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+   "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
+   "link": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
+   "summary": "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.",
    "source": "TechCrunch",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-10-16T21:22:28+00:00"
+   "published": "2026-10-17T15:30:00+00:00"
   },
   {
-   "title": "דיווח: \"היורש של סינוואר\" היה בדירה שצה\"ל תקף בעזה לפני שבועיים - אבל רק נפצע",
-   "link": "https://www.ynet.co.il/news/article/sk6dtcx2mx",
-   "summary": "עלי אל-עמודי, שנחשב למנהיג חמאס ברצועה, הותקף בדירה לפני שבועיים. בכיר בארגון הטרור אמר ל\"א-שרק אל-אווסט\" הסעודי כי הוא אכן היה שם, אבל באזור צדדי - וניצל",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-17T06:48:37+00:00"
-  },
-  {
-   "title": "בבחירות האלו אין לנו זמן לטעות",
-   "link": "https://www.ynet.co.il/news/article/yokra14927920",
-   "summary": "החלטתי: הפעם אני מצביע להנדל. למה? כי לאף אחד מהצדדים לא יהיו 61 מנדטים, כי כולם מבטיחים דברים שלא יוכלו לקיים - וכי הגיע הזמן שהנושאים בנטל ישתפו פעולה",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-17T06:33:00+00:00"
-  },
-  {
-   "title": "האם AI באמת יכול להשמיד את האנושות?",
-   "link": "https://www.israelhayom.co.il/tech/article/21634089",
-   "summary": "רואי שחורות מזהירים מבינה מלאכותית כבר זמן רב – אבל כעת מצטרפים אליהם גם האנשים שיוצרים אותה • הסכנה המרכזית היא לא מה שסרטים דחפו לנו לראש",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-17T05:54:23+00:00"
-  },
-  {
-   "title": "Not cool: who hacked France’s supermarket fridges?",
-   "link": "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges",
-   "summary": "Whether it was youngsters proving their skills or state sabotage, Europe’s most hacked country was left with a mountain of waste after food began cooking in freezers Shortly before midnight last Sunday, the digital thermostats controlling hundreds of supermarket cold aisles across France began to flicker and rise. In a “bizarre and unprecedented” cyber-attack, hackers had remotely overridden the t",
-   "source": "The Guardian",
+   "title": "Low-cost clinic helps pet owners with vet bills",
+   "link": "https://www.bbc.co.uk/news/articles/c6kgl39rnnvzo?at_medium=RSS&at_campaign=rss",
+   "summary": "RSPCA Medway West launches its clinic for the pets of people with low incomes.",
+   "source": "BBC Business",
    "lang": "en",
-   "topic": "world",
+   "topic": "business",
    "rtl": false,
-   "published": "2026-10-17T04:00:20+00:00"
+   "published": "2026-10-17T14:12:02+00:00"
   },
   {
-   "title": "בשליחות איראן: תכננו לפגוע בבכירים יהודים בגרמניה ונשלחו למאסר",
-   "link": "https://www.walla.co.il/news/israel/383957712",
-   "summary": "בית המשפט המחוזי הגבוה בהמבורג שבגרמניה גזר אתמול (חמישי) שמונה שנות מאסר וחצי על עלי ס', אזרח דנמרק - בגין תכנון התנקשויות ופיגועי הצתה נגד יעדים יהודיים ופרו-ישראליים בגרמניה בשליחות איראן. שותפו, תוואב מ', אזרח אפגניסטן, נידון לארבע שנות מאסר וחצי.",
-   "source": "וואלה",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-17T07:01:24+00:00"
-  },
-  {
-   "title": "\"הישראלים של הפועל תל אביב? הם מקבלים כסף כדי לסתום את הפה\"",
-   "link": "https://www.israelhayom.co.il/sport/israeli-basketball/article/21642159",
-   "summary": "פיני גרשון התייחס לסוגיית אי רישום הישראלים לצמד משחקי היורוליג האחרונים של האדומים וטען כי מדובר במהלך תקין: \"כשלא משחקים עם תעודות זהות או חוזה ביד, ככה צריך להתנהל, אתה רוצה את השחקנים הכי טובים\" • וגם: הישראלי שצריך להירשם",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-17T06:43:07+00:00"
-  },
-  {
-   "title": "‘I cannot carry all of this alone’: the couples kept apart by the war in Gaza",
-   "link": "https://www.theguardian.com/world/2026/oct/17/couples-families-separated-war-in-gaza",
-   "summary": "Families have been scattered, fathers separated from their children, and couples unable to reunite and marry Wijdan Abu Matar, 43, was forced to leave Gaza in November 2023 with her eight children for medical treatment, while her injured husband, Hatem, remained behind. Wijdan and her family were living in the Nuseirat refugee camp when the Gaza war began with the 7 October 2023 Hamas attack on Is",
-   "source": "The Guardian",
+   "title": "Science says your boss should talk less in meetings",
+   "link": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+   "summary": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
+   "source": "Ars Technica",
    "lang": "en",
-   "topic": "world",
+   "topic": "tech",
    "rtl": false,
-   "published": "2026-10-17T07:00:24+00:00"
-  },
-  {
-   "title": "Israeli raids and arrests in southern Syria push population to the brink",
-   "link": "https://www.aljazeera.com/features/2026/10/17/israeli-raids-and-arrests-in-southern-syria-push-population-to-the-brink?traffic_source=rss",
-   "summary": "Survivors recount brutal prison conditions, enduring beatings, restraints and psychological abuse by Israeli soldiers.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-17T07:17:06+00:00"
-  },
-  {
-   "title": "טבעת החנק מתהדקת: המאגר שחושף את מפת החרם על ישראל - והתוכנית למתקפת נגד",
-   "link": "https://www.walla.co.il/news/israel/383957585",
-   "summary": "רדאר חדש של המכון למדיניות העם היהודי (JPPI) מציג על מפה את הסנקציות והצעדים המגבילים נגד ישראל ברחבי העולם, ונגיש לכל. עצם הצורך להקים כלי ייעודי כדי לעקוב אחריהם חושף מציאות עגומה: הרבה יותר ממאה צעדים, בעשרות מדינות, הנוגעים כמעט לכל תחום — מהמערכת הפיננסית והסחר ועד לביטחון, לדיפלומטיה ולאקדמיה.",
-   "source": "וואלה",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-17T05:55:47+00:00"
-  },
-  {
-   "title": "Uncertainty Over Pope’s Health Fuels Familiar Debate Over Vatican’s Candor",
-   "link": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-vatican-transparency-cancer.html",
-   "summary": "By announcing his lung condition himself, Leo has been more forthcoming than many popes. But mysteries remain, prompting scrutiny of papal statements for hidden meaning.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-17T04:01:20+00:00"
-  },
-  {
-   "title": "He Was a Top Voice on Palestinian Liberation. Filmgoers Are Listening.",
-   "link": "https://www.nytimes.com/2026/10/17/nyregion/edward-said-documentary-new-york-film-festival.html",
-   "summary": "A new documentary on Edward Said, the Palestinian American literary critic and activist who taught for decades at Columbia, brought New Yorkers together in a fraught political moment.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-17T07:00:07+00:00"
-  },
-  {
-   "title": "Recovering from lung surgery, Pope Leo urges Putin to agree to ceasefire in Russian-held Ukraine city",
-   "link": "https://www.foxnews.com/world/recovering-lung-surgery-pope-leo-urges-putin-agree-ceasefire-russian-held-ukraine-city",
-   "summary": "Pope Leo called Vladimir Putin from his hospital bed to urge a ceasefire in Oleshky, Ukraine, where food deliveries have been blocked since May.",
-   "source": "Fox News World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-16T23:10:21+00:00"
+   "published": "2026-10-17T11:15:11+00:00"
   },
   {
    "title": "Nightclubs are disappearing - and it's affecting young people",
@@ -213,46 +273,6 @@
    "published": "2026-10-17T06:01:55+00:00"
   },
   {
-   "title": "All the news about the iPhone Duo",
-   "link": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
-   "summary": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. Instead of Face ID, it uses Touch ID on the power button. It has two cameras, a main lens and […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-10-16T23:36:26+00:00"
-  },
-  {
-   "title": "Call for more food funding due to high living cost",
-   "link": "https://www.bbc.co.uk/news/articles/cqde8zk6d916o?at_medium=RSS&at_campaign=rss",
-   "summary": "Deputy Louise Doublet does not think the cost of living was considered in the ending of a trial.",
-   "source": "BBC Business",
-   "lang": "en",
-   "topic": "business",
-   "rtl": false,
-   "published": "2026-10-17T06:18:16+00:00"
-  },
-  {
-   "title": "OpenAI models hacked a crypto wallet and breached more websites",
-   "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-   "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-10-16T20:59:01+00:00"
-  },
-  {
-   "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
-   "link": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
-   "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors. Apple didn't pull X or Grok from the App […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-10-16T22:51:22+00:00"
-  },
-  {
    "title": "\"בצבא אמרו לי שאנחנו לבד. הבית ממול נשרף והיינו הבאים בתור\"",
    "link": "https://www.ynet.co.il/economy/article/nu2gfggjf",
    "summary": "אלכס ויוליה מחולית בעוטף עזה מרגישים שהמשפחה ניצלה בנס ב-7 באוקטובר. אחרי 1,000 ימי פינוי הם חזרו הביתה, אבל יודעים שמדובר בשיקום ארוך. ויש להם גם מה להגיד למי שחשוב שקיבלו הרבה כסף מהמדינה: \"זו אגדה. כמות ההוצאות שאליה נדרשנו כמשפחה הייתה עצומה\". משפחת וינטרוב על הספה",
@@ -261,26 +281,6 @@
    "topic": "business",
    "rtl": true,
    "published": "2026-10-17T05:00:00+00:00"
-  },
-  {
-   "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
-   "link": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
-   "summary": "FDA scientists said none of the popular drugs have been proven safe or effective.",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-10-16T17:05:59+00:00"
-  },
-  {
-   "title": "\"כולם יודעים שאני יהודי, מה אכפת לי\": הטייקון שהשקיע בסטארטאפ ישראלי",
-   "link": "https://www.ynet.co.il/economy/article/rjbmqo4sge",
-   "summary": "ריקרדו שטיינברוך, נשיא אימפריית הטקסטיל הברזילאית Vicunha, מסביר בראיון מיוחד למה החליט להשקיע דווקא בסונוביה הישראלית, מספר איך אפשר להמציא מחדש ענף בן 100 שנים, תוקף את הצביעות של ענקיות האופנה ומתאר איך השתנו החיים בקהילות היהודיות מאז 7 באוקטובר",
-   "source": "Ynet כלכלה",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-10-16T04:08:06+00:00"
   }
  ]
 }
