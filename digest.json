@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-21T08:46:13.360746+00:00",
- "generated_display": "Wednesday, 21 October 2026 · 11:46",
+ "generated_at": "2026-10-21T18:17:35.176983+00:00",
+ "generated_display": "Wednesday, 21 October 2026 · 21:17",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,54 +23,224 @@
  },
  "stories": [
   {
-   "title": "IDF soldiers begin voting at over 850 military polling stations as 2026 Knesset elections approach",
-   "link": "https://www.jpost.com/israel-election-2026/article-912376",
-   "summary": "\"The IDF is a national, state-oriented army that will do everything necessary to ensure the elections proceed as planned,\" IDF Elections Officer, Col. Vered Ben Yehuda said.",
+   "title": "Mamdani calls for end to Israeli 'occupation, genocide' after IDF detains volunteers in West Bank",
+   "link": "https://www.jpost.com/israel-news/article-912458",
+   "summary": "Mamdani’s comments come after several other Jewish organizations and world leaders decried the IDF’s decision to detain around 90 volunteers who went to help Palestinian farmers.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-10-21T10:00:27+00:00"
+   "published": "2026-10-21T20:10:04+00:00"
   },
   {
-   "title": "With just six days until Israel's elections, IDF steps up Gaza ops., prepares for Hamas attacks",
-   "link": "https://www.jpost.com/israel-news/defense-news/article-912363",
-   "summary": "IDF Chief of Staff Lt.-Gen. Eyal Zamir, who visited the Gaza Strip on Tuesday, also addressed heightened security tensions ahead of the October 27 election.",
+   "title": "מקרון נגד טראמפ ותיאוריית \"הפורעים המוסלמים\". מלנשון: נתניהו סכנה לבחירות",
+   "link": "https://www.ynet.co.il/news/article/rytxypihgg",
+   "summary": "הנשיא הצרפתי מאשים את נשיא ארה\"ב ומנהיגים זרים אחרים שנמצאים במסע בחירות כי נסחפו אחרי תמונות AI ותרמו למניפולציה של מידע: \"פלשו אלינו המוני מהגרים ואיסלאמיסטים? זה שקר מוחלט\". ברקע: טענת טראמפ שהאיסלאם מנסה להשתלט על צרפת. מנהיג השמאל האנטי-ישראלי מלנשון על הבחירות לנשיאות: \"לא אנחנו סכנה, אלא נתניהו – שמשפיע על ההצבעה בפריז, טולוז ומארסיי\"",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-21T16:25:52+00:00"
+  },
+  {
+   "title": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+   "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+   "summary": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-10-21T17:59:12+00:00"
+  },
+  {
+   "title": "'All the enemies of Israel want me to lose,' Netanyahu tells 'Post' in pre-election day interview",
+   "link": "https://www.jpost.com/israel-election-2026/article-912451",
+   "summary": "PM threatens to respond with force and might if Iran makes a “big mistake,” claims Tehran was “on the verge of atomic bombs” • Full interview to be published Thursday",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-10-21T08:27:26+00:00"
+   "published": "2026-10-21T19:00:20+00:00"
   },
   {
-   "title": "850 קלפיות נפתחו: חיילי צה\"ל החלו להצביע בבחירות לכנסת",
-   "link": "https://www.ynet.co.il/news/elections2026/article/bktpnrs2zg",
-   "summary": "הקלפיות הצבאיות נפרסו בכל הגזרות על מנת לאפשר לכל משרת לממש את זכות ההצבעה. קצינת הבחירות של צה\"ל: \"נדאג לכך שההצבעה תהיה חשאית\"",
+   "title": "למרות הלחצים הכבדים מנתניהו: עופר וינטר ומוטי לייטנר הודיעו - לא פורשים",
+   "link": "https://www.ynet.co.il/news/elections2026/article/rjiibdlhgl",
+   "summary": "6 ימים לבחירות, והלחץ על המפלגות הקטנות בימין גובר: יו\"ר עמך ישראל תיאר \"הטרדות של מועמדים וילדיהם ופולסה דנורא על אם שכולה\", האשים את סמוטריץ' בשקר והבהיר: \"אנחנו בימין, אבל אין צ'ק פתוח. יתנו, יקבלו. לא יתנו, לא יקבלו\". גם יו\"ר הציבור החרדי נשאר במרוץ: \"הם מפחדים, אנחנו לא פורשים\"",
    "source": "Ynet חדשות",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-10-21T07:03:11+00:00"
+   "published": "2026-10-21T17:24:55+00:00"
   },
   {
-   "title": "הבחירות מתקרבות לקו הסיום: מה עוד יכול להשתנות? | עם מורן אזולאי",
-   "link": "https://www.ynet.co.il/news/theheadline/article/pjbiqj1as",
-   "summary": "בעוד פחות משבוע יבחרו אזרחי ישראל את הכנסת ה-26, והגושים כבר התייצבו בסקרים. אבל דווקא במערכת בחירות שמוגדרת גורלית, ברחובות כמעט לא מרגישים אותה, ורבים מהמצביעים צפויים להכריע רק ביממות האחרונות. הכתבת הפוליטית של ynet מסבירה מה עשתה התמיכה של טראמפ לנתניהו, למה הקמפיין של איזנקוט שקט, מה רצה ליברמן בשבוע האחרון ואיפה עומדות המפלגות הקטנות",
-   "source": "Ynet חדשות",
+   "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+   "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+   "summary": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-21T17:42:34+00:00"
+  },
+  {
+   "title": "Israeli military detain US and UK volunteers in West Bank including Democratic NY politician Brad Lander",
+   "link": "https://www.theguardian.com/world/2026/oct/21/israeli-military-detains-brad-lander-rabbis-west-bank-olive-harvest",
+   "summary": "About 80 US, Israeli and British volunteers held near Nahalin in West Bank and taken to police station The Israeli military has detained about 80 US, Israeli and British volunteers helping Palestinians harvest olives near Bethlehem, including the New York Democratic congressional nominee Brad Lander, several rabbis and Israel’s former deputy attorney general. “I’ve been detained by the IDF, along ",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-21T14:08:28+00:00"
+  },
+  {
+   "title": "המחלוקות בין נתניהו לצה\"ל וההפרזה של רה\"מ: על התקיפה באיראן שטראמפ בלם",
+   "link": "https://www.haaretz.co.il/news/politics/2026-10-21/ty-article/.highlight/000001a1-5eff-d05a-abe9-7fff85d00000",
+   "summary": "מקורות בישראל אישרו את הדיווח ב\"פייננשל טיימס\" שנתניהו ביקש לתקוף החודש באיראן. נראה שבשיחות עם צה\"ל התגלעו מחלוקות על עיתוי התקיפה ומידת הדחיפות שבה בהתחשב במידע המודיעיני, ושרה\"מ יצר במתכוון את הרושם שטראמפ החליט לתקוף",
+   "source": "הארץ",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-10-21T02:00:00+00:00"
+   "published": "2026-10-21T15:56:17+00:00"
   },
   {
-   "title": "הבחירות לכנסת ה-26: ההצבעה בצה\"ל החלה בכ-850 קלפיות ברחבי הארץ",
-   "link": "https://www.maariv.co.il/breaking-news/article-1379609",
-   "summary": "",
-   "source": "מעריב",
+   "title": "Heidi Levine recounts how Palestinian youths helped save her in settler attack",
+   "link": "https://www.theguardian.com/world/2026/oct/21/heidi-levine-palestinians-israeli-settler-attack-west-bank",
+   "summary": "US photojournalist describes ‘protective shield’, vows to return to work in West Bank and criticises Netanyahu comments on incident The Washington Post photojournalist who was attacked and seriously injured by Israeli settlers on the West Bank on Friday has described how she was saved with the help of local Palestinians. Heidi Levine sustained four fractured vertebrae, two broken ribs and four pun",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-21T17:59:14+00:00"
+  },
+  {
+   "title": "ביום שלישי נכריע בין \"שיר לשלום\" ל\"חרבו דרבו\"",
+   "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21680196",
+   "summary": "תמונות חוגגי אינדינגב רוקדים לצלילי \"שיר לשלום\" עוררו רגש עז • הסיפור מאחורי הקלעים מלמד שלא מדובר בעוד שיר של תקווה תמימה, אלא כזה שמבטא מרידה בפקודות, בחוקים ובעיקר במפקדי צה\"ל • בבחירות האלה הוא מתמודד מול \"חרבו דרבו\"",
+   "source": "ישראל היום",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-10-21T06:58:48+00:00"
+   "published": "2026-10-21T17:25:29+00:00"
+  },
+  {
+   "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+   "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+   "summary": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-10-21T17:18:27+00:00"
+  },
+  {
+   "title": "\"ערוץ כזה בדיחה\": הפדיחה של ערוץ 14 - והעקיצה של חיים לוינסון",
+   "link": "https://www.israelhayom.co.il/news/trending-online/article/21680513",
+   "summary": "ערוץ 14 השקיע בפרומו חגיגי לקראת משדר הבחירות, אבל פספס פרט קטן: בכנסת יש רק 120 מנדטים • חיים לוינסון הבחין בטעות בסרטון שפרסם ינון מגל ברשת X ומיהר לעקוץ • עוד פרק ביריבות המתמשכת בין השניים",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-21T17:08:44+00:00"
+  },
+  {
+   "title": "China’s Free A.I. Models Are Thrown Into Uncertainty",
+   "link": "https://www.nytimes.com/2026/10/21/world/asia/china-exports-ai-controls.html",
+   "summary": "Draft rules on the export of artificial intelligence technology show how China is trying to balance national security risks with its desire to outpace the United States.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-21T14:43:43+00:00"
+  },
+  {
+   "title": "Palestinians Hope Israeli Election Will Oust Netanyahu",
+   "link": "https://www.nytimes.com/2026/10/21/world/middleeast/stakes-for-palestinians-of-israel-election.html",
+   "summary": "Many in Gaza and the West Bank are desperate to avoid more years of Prime Minister Benjamin Netanyahu’s right-wing government, which has made life close to unbearable.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-21T13:10:32+00:00"
+  },
+  {
+   "title": "\"אם היא הייתה בלונדינית?\": הסרטון החדש במאבק להשבת היימנוט קסאו",
+   "link": "https://www.walla.co.il/news/israel/383958395",
+   "summary": "סרטון חדש שפרסם מטה המאבק להשבת היימנוט קסאו ברשתות החברתיות מעלה את הטענה כי היחס להיעלמותה היה שונה אילו הייתה ילדה בלונדינית. בסרטון מוצגת דמות של ילדה בלונדינית עם צמות, שנוצרה באמצעות בינה מלאכותית (AI), ובסיומו מופיעה דמותה של היימנוט. \"אומרים אם ואם ואם! אם זו הייתה ילדה בלונדינית, אם היא לא הייתה ממרכז קליטה, אם לא הייתה ממוצא כזה או אחר, אם להורים שלה היו משאבים או קשרים, איפה היימנוט היי",
+   "source": "וואלה",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-21T17:59:33+00:00"
+  },
+  {
+   "title": "אחרי שלוש הפחתות רצופות: בנק ישראל הותיר את הריבית ללא שינוי",
+   "link": "https://www.ynet.co.il/economy/article/pbyb2htqw",
+   "summary": "הוועדה המוניטארית החליטה להשאיר את הריבית במשק על 3.25%, על פי הערכות החזאים, וזאת בשל חוסר הוודאות מהבחירות בשבוע הבא, ההוצאות הביטחוניות הגבוהות והחשש מעימות נוסף עם איראן. בנק ישראל מעריך שיפחית את הריבית פעם אחת בלבד בשנה הקרובה, וכי האינפלציה תעמוד על 2%",
+   "source": "Ynet כלכלה",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-10-21T13:01:33+00:00"
+  },
+  {
+   "title": "בנק ישראל צופה עוד הורדת ריבית אחת - ומה יעד האינפלציה?",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001559909#utm_source=RSS",
+   "summary": "חרף ההפתעה במדד ספטמבר: בנק ישראל מותיר את הריבית על 3.25% - בהתאם לצפי • תחזית בנק ישראל: האינפלציה תעלה ל-2.1% בשנה הבאה, והריבית תעמוד על 3% • הבנק מזהיר כי פעילות ענקיות הטק מעוותת את נתוני הצמיחה",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-10-21T13:30:00+00:00"
+  },
+  {
+   "title": "Will TP-Link really make routers in the US? Here’s what it told us",
+   "link": "https://www.theverge.com/policy/1013807/tp-link-router-us-onshoring-manufacturing-assembly-interview",
+   "summary": "TP-Link, one of the world's leading manufacturers of consumer Wi-Fi routers, is in a precarious position in the US. The company just launched its first Wi-Fi 8 routers, but can't bring them here because of President Donald Trump's foreign router ban. Even though competitors Netgear and Asus make their routers in Asia, they've mysteriously obtained […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-10-21T18:00:00+00:00"
+  },
+  {
+   "title": "GM promises smarter cars, faster updates, and autonomous dry-cleaning runs",
+   "link": "https://www.theverge.com/transportation/1014322/gm-onward-ai-ev-battery-compute-av",
+   "summary": "General Motors is still very much in the business of selling gas-guzzling trucks and massive SUVs. But if you listen to its leadership, the Detroit giant is rapidly transforming into a nimble, software-defined tech player with a tightened grip on AI. That was the pitch today, when GM hosted its tech-focused Onward event to unveil […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-10-21T18:00:00+00:00"
+  },
+  {
+   "title": "נתניהו: \"איראן מנסה שוב לפתח את פצצות המוות\"; גורם ביטחוני: לא מכירים את הדברים",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001560257#utm_source=RSS",
+   "summary": "שר הביטחון כ\"ץ: \"בימים האחרונים אנחנו מזהים ניסיונות של אויבינו, ובראשם איראן ושלוחיה, לקדם פיגועים שישפיעו על תוצאות הבחירות בישראל\" • הכניסה למרחב האווירי של ישראל נאסרה על טייס ממוצא איראני המועסק ביונייטד איירליינס • מפקד צבא פקיסטן ביקר בטהרן והגיע עם הצעת פשרה, אך פריצת הדרך עדיין נראית רחוקה • דיווח: בצל אפשרות של הסלמה ישראלית, חיזבאללה העלה את רמת הכוננות שלו בימים האחרונים • גורם ממשלתי ",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-10-21T17:59:00+00:00"
+  },
+  {
+   "title": "Macron accuses foreign leaders of exploiting French riots",
+   "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
+   "summary": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-21T14:04:28+00:00"
+  },
+  {
+   "title": "The $15 billion ad-powered AI startup your doctor may already be using",
+   "link": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
+   "summary": "OpenEvidence is booming despite questions about accuracy and ads.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-10-21T15:14:07+00:00"
   },
   {
    "title": "לא רוצים שיקראו את השיחות שלכם עם ChatGPT? יש פתרון חדש",
@@ -83,204 +253,34 @@
    "published": "2026-10-21T08:24:19+00:00"
   },
   {
-   "title": "קושנר שיתף מאמר הקורא לישראל לשתף פעולה עם מועצת השלום בעזה עוד לפני הבחירות",
-   "link": "https://www.haaretz.co.il/news/politics/2026-10-21/ty-article/000001a1-5ce9-d99f-a3e5-7def20030000",
-   "summary": "המאמר ששיתף יועצו של טראמפ מונה שלושה \"צעדי ביניים\" שאותם ישראל מתבקשת לנקוט ומזכיר את התמיכה שהביע הנשיא האמריקאי בנתניהו. ועוד נכתב במאמר כי \"המלחמה הנוכחית באיראן ועתיד עזה הן עדיין שאלות פתוחות\"",
-   "source": "הארץ",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-21T08:18:58+00:00"
-  },
-  {
-   "title": "הכוכבים בישראל נמצאים במלכוד בחירות - ואתם אשמים",
-   "link": "https://www.israelhayom.co.il/culture/tv/article/21673932",
-   "summary": "למרות שהם חולקים איתנו כל אספקט בחייהם, מכמות מזרקי הבוטוקס שהזריקו ועד הבגדים שהם לובשים, ידוענים מקומיים מתקשים להתייחס לסוגייה אחת בוערת - הבחירות • כשרואים את התגובות שהם מקבלים, ההימנעות שלהם יותר ממובנת • מזל שמוריה וברקו מצאו דרך לשבור את המעגל",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-21T08:04:19+00:00"
-  },
-  {
-   "title": "לראשונה בישראל: המותג הבינלאומי משיק מחלקת גברים",
-   "link": "https://www.israelhayom.co.il/lifestyle/fashion/article/21674164",
-   "summary": "ריזרבד מתרחבת בארץ משיק מחלקת גברים בסניף הירושלמי ובאתר האונליין, עם בלייזרים החל מ־229.90 שקל וג'ינסים החל מ־159.99 שקל",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-21T07:35:16+00:00"
-  },
-  {
-   "title": "Australian Politicians Were Already on Edge Before One of Their Own Was Attacked",
-   "link": "https://www.nytimes.com/2026/10/21/world/asia/helen-haines-attack-australian-politicians.html",
-   "summary": "Much remains unclear about why a driver ran a car into Helen Haines, a lawmaker. Even so, fellow representatives, especially women, spoke of feeling threatened in a polarized atmosphere.",
-   "source": "NY Times World",
+   "title": "Burnham proposes plan to cut standing charges from gas bills",
+   "link": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
+   "summary": "The prime minister provided little detail, and there are questions over shifting the fees onto unit costs.",
+   "source": "BBC Business",
    "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-21T08:01:58+00:00"
-  },
-  {
-   "title": "AFP warns Australia of ‘tsunami of youth crime’ and radicalisation accelerated by AI",
-   "link": "https://www.theguardian.com/australia-news/2026/oct/21/afp-warns-australia-of-tsunami-of-youth-and-radicalisation-accelerated-by-ai",
-   "summary": "Children as young as 12 among dozens subject to federal police operations since 2020, parliamentary inquiry hears Get our new political email , free app or daily news podcast Australia is facing a “tsunami” of youth crime as artificial intelligence accelerates the pace and scale of radicalisation, a parliamentary inquiry has heard. The Australian federal police acting deputy commissioner Sandra Bo",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-21T05:18:20+00:00"
-  },
-  {
-   "title": "The Mayor of a City in Haiti Warned of a Massacre. No One Listened.",
-   "link": "https://www.nytimes.com/2026/10/20/world/americas/mayor-kenscoff-haiti-gangs-massacre.html",
-   "summary": "The mayor of Kenscoff, a town near Haiti’s capital, wrote government officials hundreds of letters to warn of gang threats. Then dozens of people died, and he did, too.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-21T06:55:45+00:00"
-  },
-  {
-   "title": "ענקיות ה-AI מסתערות על השוק הישראלי. היעד: בנקים, קופות חולים ומשרדי ממשלה",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001560200#utm_source=RSS",
-   "summary": "3 ענקיות הבינה המלאכותית רואות פוטנציאל בשוק הישראלי, ומחפשות דרכים חדשות להיכנס אליו • מ-OpenAI ששכרה שני בכירים ישראלים, ועד שיתוף הפעולה של אילון מאסק עם מלם תים • הדרישות של החברות הישראליות: עמידה בכללי רגולציה מקומיים וכללי סייבר חמורים",
-   "source": "גלובס",
-   "lang": "he",
    "topic": "business",
-   "rtl": true,
-   "published": "2026-10-21T02:45:00+00:00"
+   "rtl": false,
+   "published": "2026-10-21T17:06:16+00:00"
   },
   {
-   "title": "הערכת השווי חושפת: גיוס ההון שעלה למוסדיים בהפסד של כ-400 מיליון שקל",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001560186#utm_source=RSS",
-   "summary": "יצרנית המרעומים ארית פרסמה הערכת שווי לפיה צנח שווייה של החברה הבת רשף טכנולוגיות במעל 40%, מאז גיוס ההון הפרטי שביצעה מגופים מוסדיים ובהם כלל, הפניקס, מיטב ומור • הערכת השווי החדשה התבססה בעיקר על השחיקה במחיר מניית ארית בבורסה בת\"א",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-10-21T07:05:00+00:00"
-  },
-  {
-   "title": "BBC inside Australian court as man charged with attacking MP stays silent in first hearing",
-   "link": "https://www.bbc.co.uk/news/videos/cq398rg0lnd1o?at_medium=RSS&at_campaign=rss",
-   "summary": "BBC's Katy Watson describes what unfolded in Wangaratta as 43-year-old Brendan Nugent appeared before court over the alleged attack of Helen Haines.",
-   "source": "BBC World",
+   "title": "Ukraine's Zelenskyy open to freezing front lines in ceasefire with Russia",
+   "link": "https://www.foxnews.com/world/ukraines-zelenskyy-open-freezing-front-lines-ceasefire-russia",
+   "summary": "Ukrainian President Volodymyr Zelenskyy says he's open to freezing the front lines of the Ukraine-Russia war as a real path to end the conflict.",
+   "source": "Fox News World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-10-21T03:58:16+00:00"
+   "published": "2026-10-21T14:11:52+00:00"
   },
   {
-   "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-   "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-   "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-10-20T23:01:23+00:00"
-  },
-  {
-   "title": "US envoy Witkoff lands in Russia for talks with Vladimir Putin about Ukraine – Europe live",
-   "link": "https://www.theguardian.com/world/live/2026/oct/21/us-russia-ukraine-putin-witkoff-zelenskyy-france-italy-protests-europe-latest-news-updates",
-   "summary": "The meeting comes after the US official held ‘constructive’ talks with Zelenskyy in Norway Overnight, a handful of Republicans have spoken out against Donald Trump ’s softening stance on Russia , threatening to pull financial support for his agenda over his “embarrassing” handling of the Ukraine war. Don Bacon, an outgoing congressman in Nebraska, condemned Trump’s actions – which include a stunni",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-21T08:25:02+00:00"
-  },
-  {
-   "title": "For India's disenfranchised, voter roll cuts is about more than elections",
-   "link": "https://www.npr.org/2026/10/21/nx-s1-5997960/for-indias-disenfranchised-voter-roll-cuts-is-about-more-than-elections",
-   "summary": "India is plunged into political crisis after 130 million names were struck off voter rolls during a massive revision.",
-   "source": "NPR News",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-21T08:42:10+00:00"
-  },
-  {
-   "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-   "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-   "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-10-20T22:24:02+00:00"
-  },
-  {
-   "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
-   "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
-   "summary": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-21T06:50:40+00:00"
-  },
-  {
-   "title": "Zelenskyy says early warning system for Russian missile attacks resumes",
-   "link": "https://www.npr.org/2026/10/21/g-s1-149026/zelenskyy-russian-missiles-warning",
-   "summary": "Ukrainian President Volodymyr Zelenskyy said the change happened after talks with his American counterparts, including a phone call with U.S. Secretary of State Marco Rubio.",
-   "source": "NPR News",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-21T05:43:24+00:00"
-  },
-  {
-   "title": "יקר בזארה ישראל? ככה תקנו בזול יותר",
-   "link": "https://www.ynet.co.il/economy/article/r1q3uae2fe",
-   "summary": "זארה החלה לגבות 14.90 שקל דמי משלוח להזמנה מהאונליין, מה שמקפיץ עוד יותר את המחירים שגם ככה גבוהים בארץ. אפשר לעבור באפליקציה לזארה יוון ולגלות מחירים מדהימים ונמוכים בחצי. אפילו בתוספת משלוח לארץ תחסכו עשרות ומאות שקלים להזמנה. ככה תעשו את זה",
+   "title": "אזור: 80 דירות ב-198 מיליון שקל",
+   "link": "https://www.ynet.co.il/economy/article/hki4p118nfx",
+   "summary": "עסקה גדולה בפרויקט בנייה באזור. חברת צבי צרפתי מכרה לאזורים ליויניג 80 דירות בפרויקט התחדשות עירונית. על פי הדיווח לבורסה הדירות נרכשו בהנחה ממחיר השוק. העסקה כוללת 17 דירות בנות 3 חדרים ו-63 דירות בנות 4 חדרים",
    "source": "Ynet כלכלה",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-10-21T04:00:46+00:00"
-  },
-  {
-   "title": "What is happening to UK prices?",
-   "link": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
-   "summary": "UK inflation rose in September, pushed up by higher petrol and diesel prices.",
-   "source": "BBC Business",
-   "lang": "en",
-   "topic": "business",
-   "rtl": false,
-   "published": "2026-10-21T08:35:47+00:00"
-  },
-  {
-   "title": "Surging fuel prices push UK inflation rate to 3.5% ahead of Budget",
-   "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
-   "summary": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
-   "source": "BBC Business",
-   "lang": "en",
-   "topic": "business",
-   "rtl": false,
-   "published": "2026-10-21T08:07:09+00:00"
-  },
-  {
-   "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
-   "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-10-20T23:04:19+00:00"
-  },
-  {
-   "title": "750 מיליארד דולר הוצאות וסיכון לסחיטה מצד AI: התוכניות של אנת'רופיק נחשפות",
-   "link": "https://www.ynet.co.il/digital/technews/article/sjsfe18hgx",
-   "summary": "טיוטת תשקיף ההנפקה של מפתחת קלוד חושפת הסכמי מחשוב בכ-450 מיליארד דולר, רובם ללא אפשרות ביטול. במקביל, החברה רשמה הפסד של 80.7 מיליארד דולר בחצי שנה. ברשימת הסיכונים למשקיעים: מודלים שעלולים לנסות למנוע את כיבוים והתנגדות להקמת מרכזי נתונים",
-   "source": "Ynet טכנולוגיה",
-   "lang": "he",
-   "topic": "tech",
-   "rtl": true,
-   "published": "2026-10-21T07:20:46+00:00"
+   "published": "2026-10-21T10:31:00+00:00"
   }
  ]
 }
