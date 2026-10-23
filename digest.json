@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-22T18:11:46.761618+00:00",
- "generated_display": "Thursday, 22 October 2026 · 21:11",
+ "generated_at": "2026-10-23T08:43:53.604852+00:00",
+ "generated_display": "Friday, 23 October 2026 · 11:43",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,134 +23,44 @@
  },
  "stories": [
   {
-   "title": "בכירים בצה\"ל: אין סיבה לתקוף באיראן לפני הבחירות - אלא אם נראה היערכות לירי",
-   "link": "https://www.ynet.co.il/news/elections2026/article/byene3d3fl",
-   "summary": "בצה\"ל אומרים כי טראמפ לא בלם תקיפה ישראלית באיראן. \"הייתה העלאת כוננות, אבל תקיפה לא הייתה על הפרק\", הם מבהירים - ומותחים ביקורת על הדרג המדיני והציטוטים שיכולים להביא למיסקלקולציה. בטהרן טענו כי הלילה נפגעו בהורמוז 7 מכליות, טראמפ טוען כי הם \"ממציאים פגיעות\", ולא מאיים לתקוף",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-22T16:21:27+00:00"
-  },
-  {
-   "title": "חוזרים מחו\"ל להצביע? מנכ\"ל ארקיע: \"אני לא רואה נהירה לקלפי\"",
-   "link": "https://www.walla.co.il/news/israel/383958550",
-   "summary": "לקראת הבחירות לכנסת ה-26 שיערכו בשבוע הבא, אזרחים רבים שחיים או שוהים זמנית בחו\"ל טסים לארץ במטרה לממש את זכותם ולהצביע. על פי נתוני הלשכה המרכזית לסטטיסטיקה, כ-550 אלף ישראלים חיים כיום בחו\"ל - ציבור שמשקלו האלקטורלי התיאורטי נאמד בכ-15 מנדטים - אך על פי החוק הישראלי הם אינם זכאים להצביע אלא אם יגיעו במיוחד לישראל ביום הבחירות.",
+   "title": "בנט מתחזק, הקואליציה נחלשת, ווינטר הפעם לא עובר | סקר מעריב",
+   "link": "https://www.walla.co.il/news/israel/383958572",
+   "summary": "לפי סקר מעריב שפורסם היום (שישי) אחוז הישראלים שבטוחים שילכו להצביע בבחירות לכנסת ביום שלישי הקרוב ממשיך לעלות ומגיע ל-81%. נתון שמלמש על גידול צפוי באחוזי ההצבעה בהשוואה לבחירות 2022. בגוש האופוזיציה מפלגת \"ביחד\" בראשות בנט רושמת התחזקות משמעותית עם עליה בשני מנדטים ל-15, גם \"הדמוקרטים\" מתחזקת ועולה ל-10 מנדטים. מפלגת \"ישר!\" בראשות גדי איזנקוט ומפלגת \"ישראל ביתנו\" נשארות כשהיו עם 21 ו-8 מנדטים בה",
    "source": "וואלה",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-10-22T15:30:04+00:00"
+   "published": "2026-10-23T07:27:26+00:00"
   },
   {
-   "title": "Defense Ministry sanctions UK registered company after transfer of fuel to Hezbollah-owned company",
-   "link": "https://www.jpost.com/israel-news/article-912601",
-   "summary": "Supplying fuel to Hezbollah directly provides it with capabilities that sustain its terrorist activity against Israel, the ministry said.",
-   "source": "Jerusalem Post",
-   "lang": "en",
-   "topic": "israel",
-   "rtl": false,
-   "published": "2026-10-22T19:09:42+00:00"
-  },
-  {
-   "title": "Race to update services' computer systems after cyber-security flaw found",
-   "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
-   "summary": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-22T17:12:51+00:00"
-  },
-  {
-   "title": "As Typhoon Champi Nears, Taiwan’s Mayors Bet on a Popular Day Off",
-   "link": "https://www.nytimes.com/2026/10/22/world/asia/taiwan-typhoon-champi-mayors.html",
-   "summary": "One expert said the likelihood that a mayor announces closure of work and school because of a typhoon increases 31 percent during an election year.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-22T17:39:10+00:00"
-  },
-  {
-   "title": "השנתיים שיכריעו את גורל ישראל - ואת מורשת נתניהו",
-   "link": "https://www.israelhayom.co.il/magazine/hashavua/article/21688751",
-   "summary": "שני יעדי־על משותפים לנתניהו ולטראמפ: הפלת המשטר האיראני וצירוף סעודיה להסכמי אברהם • בשביל להגשים אותם יש לממשל בוושינגטון תוכנית ליום שאחרי הבחירות בישראל • ואב גאה לקצין צעיר תוהה: למה מה שעובד מעולה בטנק לא יכול לעבוד בכנסת?",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-22T15:26:50+00:00"
-  },
-  {
-   "title": "אירוע חריג בסוריה: \"גבר לא חמוש עם תסמונת דאון נורה למוות בידי צה\"ל\"",
-   "link": "https://www.ynet.co.il/news/article/hyfusqp3zl",
-   "summary": "צה\"ל מסר כי מעאז סלאמה אל-בעיר התקרב לכוחות גם לאחר שבוצע נוהל מעצר חשוד, ו\"נורה כדי להסיר איום\" - אך התיעודים מהלווייתו צוברים תהודה ומבעירים את הרחוב הסורי. ההמונים בהלוויה קראו \"נתניהו אויב אללה, וישראל אויבת אללה\", משרד החוץ הסורי קרא: \"לכפות על ישראל לכבד את הדין הבינלאומי\"",
+   "title": "לאחוז בדמיון כמו בחבל שנזרק כששוקעים בחול טובעני",
+   "link": "https://www.ynet.co.il/news/article/syap5kpnfl",
+   "summary": "על מה הבחירות האלה? על פני השטח, על האחריות על 7 באוקטובר ועל דמותה של ישראל. ובעומק, הן מאבק על היכולת לדמיין עתיד טוב יותר, דרמטית | הטור המלא - היום במוסף לשבת של \"ידיעות אחרונות\"",
    "source": "Ynet חדשות",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-10-22T16:43:50+00:00"
+   "published": "2026-10-23T08:30:00+00:00"
   },
   {
-   "title": "Claude Duet app is Anthropic’s bet on agents",
-   "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-   "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
-   "source": "TechCrunch",
+   "title": "EU leaders to press Burnham to pay more towards Ukraine’s defence",
+   "link": "https://www.theguardian.com/world/2026/oct/23/eu-uk-summit-burnham-ukraine-defence",
+   "summary": "Officials will call on UK to ‘step up’ financial support at Brussels summit – with post-Brexit issues also on agenda EU leaders will press Andy Burnham at a summit in Brussels to contribute more to Ukraine’s defence effort in 2027. EU officials argue that the UK, Canada and Japan should do more to support Ukraine, but entreaties to these G7 countries for extra financial aid at recent international",
+   "source": "The Guardian",
    "lang": "en",
-   "topic": "tech",
+   "topic": "world",
    "rtl": false,
-   "published": "2026-10-22T13:53:26+00:00"
+   "published": "2026-10-23T06:00:03+00:00"
   },
   {
-   "title": "Israeli intelligence helps Saudi Arabia target Houthis as IDF prepares for potential escalation",
-   "link": "https://www.jpost.com/middle-east/article-912598",
-   "summary": "A defense official confirmed the IDF continues to assist Saudi Arabia, while Saudi strikes weaken Houthi military capabilities and provide Israel with valuable intelligence.",
+   "title": "Jared Kushner had access to billions in UAE, Saudi funds, including Israeli bank account - report",
+   "link": "https://www.jpost.com/middle-east/article-912644",
+   "summary": "According to one source familiar with the deal between Kushner and the UAE, “Jared was looking for shortcuts in his diplomacy,” and had promised MBZ and MBS he would push their agenda with Trump.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-10-22T18:12:21+00:00"
-  },
-  {
-   "title": "צה\"ל ושב\"כ חיסלו את ראש ארגון הטרור בח'אן יונס: \"שיתף פעולה עם החמאס\"",
-   "link": "https://www.israelhayom.co.il/news/defense/article/21689854",
-   "summary": "רמדאן מחמד אשחאדה דיאב, שעמד בראש ועדת ההתנגדות העממית בח'אן יונס, חוסל בתקיפה אווירית ברצועת עזה • לפי צה\"ל ושב\"כ, הוא קידם פיגועים נגד כוחות הביטחון ואזרחי ישראל ופעל לשיקום יכולות חמאס תוך הפרת הפסקת האש",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-22T17:40:22+00:00"
-  },
-  {
-   "title": "Someone hacked the Switch 2 by using an old game and AI",
-   "link": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
-   "summary": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft. OpenAI's Codex helped make this \"ns2jb\" jailbreak, according to Sammy Hajhamid, aka \"pepsipu.\" It's a […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-10-22T17:21:31+00:00"
-  },
-  {
-   "title": "Tesla is prepping a Cybercab onslaught",
-   "link": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/",
-   "summary": "The company is looking to roll out the gold two-seater robotaxis to other U.S. cities this year, even as it goes mum on the number of paid rides.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-10-22T15:44:39+00:00"
-  },
-  {
-   "title": "Serbian Election Underscores the Region’s Long Political Limbo",
-   "link": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html",
-   "summary": "Aleksandar Vucic, Serbia’s dominant political figure since 2012, may extend his grip, using the Balkans’ unresolved nationalist resentments.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-22T17:03:13+00:00"
+   "published": "2026-10-23T10:49:20+00:00"
   },
   {
    "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
@@ -160,127 +70,217 @@
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-10-22T14:33:06+00:00"
+   "published": "2026-10-23T06:26:25+00:00"
   },
   {
-   "title": "Rocky campaign nears end as Serbia prepares for watershed election – as it happened",
-   "link": "https://www.theguardian.com/world/live/2026/oct/22/france-protests-emmanuel-macron-ukraine-energy-attacks-latest-europe-news-updates",
-   "summary": "It’s the last day of the electoral campaign in Serbia today ahead of this Sunday’s closely contested parliamentary election As we are waiting for Macron , first details of the planned police response to this weekend’s protests are emerging. Junior interior minister, Jean-Didier Berger , said that the police presence will be “20% higher” than last weekend, with reinforcements from the army, elite p",
+   "title": "Jordon Steele-John’s position remains in limbo as Greens prepare for moment in spotlight",
+   "link": "https://www.theguardian.com/australia-news/2026/oct/23/jordan-steele-john-in-limbo-greens-misconduct-allegations-ntwnfb",
+   "summary": "David Shoebridge’s newly-minted leadership under pressure over handling of misconduct allegations as Senate estimates looms Get our new political email , free app or daily news podcast More than a week after allegations that Greens senator Jordon Steele-John had behaved inappropriately towards women made headlines, his position in the party remains in limbo and its new leader’s handling of the iss",
    "source": "The Guardian",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-10-22T15:01:35+00:00"
+   "published": "2026-10-23T06:22:10+00:00"
   },
   {
-   "title": "\"נוהרים לקלפיות\" במדור פרידה. עכשיו תורכם להיפרד מהממשלה",
-   "link": "https://www.haaretz.co.il/news/elections/noharim/2026-10-22/ty-article-magazine/000001a1-63c9-d46d-a1fd-e3c9dff10000",
-   "summary": "חמישה ימים לבחירות, וישראל כץ כבר מעביר את האחריות לאופוזיציה ■ סמוטריץ' מזהיר מהימורים. איתו בטוח שלא תרוויחו ■ עבאס עושה ספוילר לליכוד ■ בנט מבטיח שרים לא מטומטמים ■ וזהירות, תוכן מרגש: יש ישראלים שמוכנים לחזור לארץ מרצונם ■ נוהרים לקלפיות",
-   "source": "הארץ",
+   "title": "משרב לשיטפונות: גוברים הסיכויים לגשם ביום הבחירות",
+   "link": "https://www.walla.co.il/news/israel/383958597",
+   "summary": "השירות המטאורולוגי עדכן הבוקר (שישי) כי גוברים הסיכויים לגשמים ביום שלישי הקרוב, יום הבחירות לכנסת. על פי התחזית, משעות הצהריים צפויים גשמים בנגב, בערבה ובאזור ים המלח, וקיים חשש לשיטפונות בנחלי הדרום. גשמים צפויים גם באזורים נוספים במרכז הארץ ובצפונה, אך בשלב זה לא קיים צפי להצפות או לשיטפונות באזורים אלה.",
+   "source": "וואלה",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-10-22T15:42:43+00:00"
+   "published": "2026-10-23T07:05:32+00:00"
   },
   {
-   "title": "דיווח: ירי באזור חומש שבשומרון, כוחות צה\"ל הוזנקו למקום",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001560410#utm_source=RSS",
-   "summary": "בכיר ביטחוני איראני: אם יחוסלו בכירים - יעדים פוליטיים אמריקאים ייחשבו למטרות לגיטימיות • דיווח: מאגרי הנפט הצפים של איראן התרוקנו לחלוטין • מתקפה באיראן לפני הבחירות? ההתנגדות בצמרת מערכת הביטחון • מקורות בארה\"ב: מטוסי קרב ישראלים התקרבו לגבול איראן • דיווח: משרד החוץ של ארה\"ב נערך להורות לעובדי השגרירויות במדינות המפרץ לעזוב על רקע חשש מחידוש העימות עם החות'ים • עדכונים שוטפים",
+   "title": "אחרי שאיתר את מלי וליאל בארגנטינה: וולטר סייע במעצר עבריין נמלט בבוליביה",
+   "link": "https://www.ynet.co.il/news/article/byk6htunzg",
+   "summary": "\"מגיעים גם לבוליביה\": חודשיים אחרי שסגן-ניצב וולטר קוגן עלה לכותרות בעקבות איתור האם והבת שיצאו למסע מסתורי חובק עולם, שותף נספח המשטרה בדרום אמריקה במעצר ישראלי שחשוד בייבוא קוקאין לארץ ב-2017",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-23T08:15:44+00:00"
+  },
+  {
+   "title": "Editor's Notes: Israel's election exposes deep political divisions after Gantz withdrawal - comment",
+   "link": "https://www.jpost.com/opinion/article-912621",
+   "summary": "Here is my request, the only one I’ll make before the polls open. Give yourself permission to notice one thing that complicates your choice.",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-10-23T05:59:19+00:00"
+  },
+  {
+   "title": "Gadi Eisenkot Couldn’t Be More Unlike Netanyahu. Can He Beat Him?",
+   "link": "https://www.nytimes.com/2026/10/23/world/middleeast/gadi-eisenkot-israel-election.html",
+   "summary": "Mr. Eisenkot, an ex-military chief leading in the polls, calls the Israeli prime minister an “anti-leader.” But his low-key campaigning style is worrying supporters.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-23T04:01:13+00:00"
+  },
+  {
+   "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+   "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+   "summary": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-10-23T04:00:00+00:00"
+  },
+  {
+   "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
+   "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+   "summary": "The quake hit a mountainous, sparsely-populated area in what China calls the Tibet Autonomous Region.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-23T05:16:37+00:00"
+  },
+  {
+   "title": "Two suspected gunmen killed after shooting wounds 5 Israelis in West Bank",
+   "link": "https://www.foxnews.com/world/two-suspected-gunmen-killed-shooting-wounds-5-israelis-west-bank",
+   "summary": "Two suspected gunmen were killed by the IDF after a shooting near Judea Junction in the southern West Bank left five Israelis wounded on Friday.",
+   "source": "Fox News World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-23T08:05:06+00:00"
+  },
+  {
+   "title": "המחבלים תכננו פיגוע גדול נגד אזרחים - עמדת בידוק של הגדוד החדש מנעה אותו",
+   "link": "https://www.israelhayom.co.il/news/defense/article/21692196",
+   "summary": "שני מחבלים יצאו מחברון ברכב עמוס תחמושת ונתקלו בעמדת בידוק של גדוד \"ארי\" החדש, 300 מטר מכביש 35 • ההיתקלות נמשכה יותר מ־20 דקות, עד שכוחות נוספים איגפו את המחבלים וחיסלו אותם • בצה\"ל מעריכים: \"הכוח עשה את עבודתו נאמנה, וכנראה מנע פיגוע חמור יותר\"",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-23T07:53:24+00:00"
+  },
+  {
+   "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+   "link": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+   "summary": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-10-22T18:38:47+00:00"
+  },
+  {
+   "title": "אבינתן אור ממשיך להוביל: 10 רבי-המכר של השבוע בישראל",
+   "link": "https://www.israelhayom.co.il/culture/books/article/21684047",
+   "summary": "אחרי שבוע של חימום מנועים: החדש של נעה ידלין מטפס, אבל נבלם בדרכו לצמרת על ידי להיט רומנטי • דוד גרוסמן ואשכול נבו שומרים על הגחלת • הקוראים הישראלים ממשיכים לבחור בספרים מאת חטופים • שני ספרים חוזרים למצעד ובסוף השבוע האחרון לקראת הבחירות בנט, נשאר איתנו",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-23T03:30:00+00:00"
+  },
+  {
+   "title": "דריכות שיא במערכת הביטחון: צה\"ל מכתר את חברון",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001560602#utm_source=RSS",
+   "summary": "פיגוע ירי בצומת יהודה: 5 פצועים בזירה - 2 מהם במצב אנוש, 2 מחבלים נוטרלו • במערכת הביטחון בישראל מזהירים מהצהרות שיובילו לקריאה שגויה של המציאות, בעוד בטהרן מעריכים כי עימות הוא ודאי ועשוי לפרוץ עוד לפני פתיחת הקלפיות • פיגוע ירי סמוך לצומת יהודה • במקביל: המתיחות במזרח התיכון גולשת לזירות נוספות עם שורת יירוטים של טילים וכטב\"מים חות'יים בסעודיה • עדכונים שוטפים",
    "source": "גלובס",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-10-22T16:37:00+00:00"
+   "published": "2026-10-23T08:43:00+00:00"
   },
   {
-   "title": "Andy Burnham vows UK will hit net zero target despite Jackdaw gasfield approval",
-   "link": "https://www.theguardian.com/environment/2026/oct/22/andy-burnham-vows-uk-will-hit-net-zero-targets-despite-jackdaw-gasfield-approval",
-   "summary": "Prime minister pledges his government’s commitment to address climate crisis saying ‘our determination is unwavering’ Andy Burnham: We will make the net-zero transition work for Britain Andy Burnham has said he will not “abandon the responsibility” of fighting the climate crisis after the government approved the Jackdaw gasfield, saying he would not approve any new North Sea licences and that he w",
-   "source": "The Guardian",
+   "title": "How Pastors Mobilize Communities in Congo’s Fight Against Ebola",
+   "link": "https://www.nytimes.com/2026/10/23/world/africa/congo-ebola-catholic-church-rumors.html",
+   "summary": "As health care workers fought to control the latest outbreak this year, they got crucial aid from churches in beating back fear and misinformation.",
+   "source": "NY Times World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-10-22T17:22:52+00:00"
+   "published": "2026-10-23T04:01:16+00:00"
   },
   {
-   "title": "Arc browser is shutting down",
-   "link": "https://www.theverge.com/tech/1016832/arc-browser-shutting-down",
-   "summary": "The Browser Company plans to \"sunset\" its Arc browser on December 22nd, according to a post on the Arc website. The company moved on to developing its AI-focused Dia browser last year, but it had continued to maintain Arc. Now, the innovative browser will be going away for good. The shutdown is happening in a […]",
+   "title": "Europe's heat claims 50,000 lives. Climate change blamed for two-thirds of deaths",
+   "link": "https://www.npr.org/2026/10/23/g-s1-149498/europe-heat-deaths",
+   "summary": "Blistering record heat in Europe this summer helped kill more than 50,000 people, with nearly two-thirds of that death toll blamed on human-caused climate change, a new study found.",
+   "source": "NPR News",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-23T08:17:06+00:00"
+  },
+  {
+   "title": "המסחר עובר להתנהל במגמה מעורבת: מניב חו\"ל מוביל בירוק; הביטחוניות מעיבות",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001560528#utm_source=RSS",
+   "summary": "הסנטימנט השלילי מוול סטריט גולש לאחוזת בית: מניות הטכנולוגיה מאבדות גובה • המסחר בתל אביב מתנהל במגמה מעורבת: מדד נדל\"ן מניב חו\"ל בולט בירוק • מניית טאואר מאבדת את המקום השישי בטבלת שווי השוק לטובת בנק מזרחי טפחות • ב-200 מיליון שקל: ישי דוידי משתלט על החברה הקורסת של קיבוץ יזרעאל • בוול סטריט נרשם אתמול יום המסחר הגרוע ביותר מאז חודש יולי • מחירי הנפט מזנקים בצל אזהרות הפינוי של ארה\"ב בסעודיה",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-10-23T08:31:00+00:00"
+  },
+  {
+   "title": "Canva’s first AI image model plans designs before generating them",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+   "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to an […]",
    "source": "The Verge",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-10-22T17:03:37+00:00"
+   "published": "2026-10-22T21:51:25+00:00"
   },
   {
-   "title": "המיליארדר ביל אקמן: \"ישראל תהיה אחת הכלכלות הטובות בעולם\"",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001560519#utm_source=RSS",
-   "summary": "המשקיע המיליארדר התארח בכנס Summit ARC בבית החולים שיבא, שם אמר כי היתרון של ישראל הוא שיש לה \"הכי הרבה IQ ו-IP לנפש, וזה מה שחשוב לכלכלה\" • אקמן, שהגיע לארץ גם כדי להצביע עם אשתו הישראלית נרי אוקסמן בבחירות, שיתף כיצד האירוע הרפואי שעברה בתו הוביל אותו להקים מכון לבריאות המוח וסיפר מה מדאיג אותו בפוליטיקה האמריקאית",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-10-22T14:16:00+00:00"
-  },
-  {
-   "title": "Jerusalem Daily: Israeli soldier abusing cat goes viral",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/jerusalem-daily-israeli-soldier-abusing-cat-goes-viral?traffic_source=rss",
-   "summary": "A video of an Israeli soldier throwing a cat over a fence has gone viral online.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-22T17:25:29+00:00"
-  },
-  {
-   "title": "Outposts, violence, impunity: The anatomy of Israeli settler land grabs",
-   "link": "https://www.aljazeera.com/features/2026/10/22/outposts-violence-impunity-the-anatomy-of-israeli-settler-land-grabs?traffic_source=rss",
-   "summary": "With government backing and little accountability, an ominous pattern casts a shadow over the Palestinian olive harvest.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-22T13:33:27+00:00"
-  },
-  {
-   "title": "נאס דיילי, אוניברסיטת Harvard ו-TikTok בירושלים: כנס החינוך הבינ\"ל הראשון בישראל ייפתח בבנייני האומה, והקהל מוזמן ללא עלות",
-   "link": "https://www.ynet.co.il/economy/localjerusalem/article/hjqx57d3gx",
-   "summary": "אלפי אנשי חינוך, שרי חינוך, חוקרים ומקבלי החלטות מעשרות מדינות ברחבי העולם יגיעו ב-9 וב-10 בנובמבר לבירה, במסגרת הכנס EDUNATION, וידונו בעתיד החינוך, בינה מלאכותית, משבר המורים, חינוך בחירום ויחסי ישראל והתפוצות. על הבמה: נאס דיילי, מרצה מאוניברסיטת Harvard, בכירי מערכת החינוך, נציג TikTok ישראל, בני נוער ופצועי צה\"ל, ובערב הראשון ייערך גם TEDxJerusalem בנושא \"צמיחה באי-ודאות\"",
+   "title": "זארה סוגרת, לגו פותחת – והישראלים ממשיכים לחפש איפה זול יותר",
+   "link": "https://www.ynet.co.il/economy/article/byhfcupnmx",
+   "summary": "בזארה הישראלים משלמים יותר ומקבלים פחות, ובלגו הם עומדים בתור בזמן שהמתחרים חותכים מחירים. וגם: ביטול שטר ה-200 שקל שוב צץ על שולחן הדיונים, קיבוץ כפר גלעדי קונה זכויות כרייה ל-24 שנה והקשישה שהלוואה לשיפוץ פתחה אצלה תיבת פנדורה בבנק | הצמרת הכלכלית – הכתבות הנצפות של השבוע",
    "source": "Ynet כלכלה",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-10-22T06:38:07+00:00"
+   "published": "2026-10-23T04:15:13+00:00"
   },
   {
-   "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
-   "link": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
-   "summary": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data.",
-   "source": "Ars Technica",
+   "title": "Etsy is cracking down on AI slop listings",
+   "link": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+   "summary": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-generated content\" and that sellers are \"concerned about your work appearing alongside items that use […]",
+   "source": "The Verge",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-10-22T11:30:33+00:00"
+   "published": "2026-10-23T00:09:58+00:00"
   },
   {
-   "title": "'I wasn't thinking straight' says five jobs civil servant",
-   "link": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
-   "summary": "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs.",
+   "title": "הייתה שווה 9 מיליארד שקל בקורונה - היום הציעו עליה 200 מיליון בלבד",
+   "link": "https://www.ynet.co.il/economy/article/bkc34k00nmg",
+   "summary": "קרן פימי הגישה הצעה לא מחייבת להשקיע במיטרוניקס, חברת הרובוטים לניקוי בריכות של קיבוץ יזרעאל, ולקבל 50% מהונה. החברה עברה להפסד של 34 מיליון שקל במחצית הראשונה של 2026, אחרי שרשמה רווח של 30 מיליון בתקופה המקבילה אשתקד",
+   "source": "Ynet כלכלה",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-10-23T07:04:06+00:00"
+  },
+  {
+   "title": "The Indian workers filming their work to train AI",
+   "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+   "summary": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
    "source": "BBC Business",
    "lang": "en",
    "topic": "business",
    "rtl": false,
-   "published": "2026-10-22T15:05:47+00:00"
+   "published": "2026-10-23T08:04:17+00:00"
   },
   {
-   "title": "\"קבלני שיפוצים הפכו לשליחי וולט\": זעקת המחסור בעובדים בענף השיפוצים",
-   "link": "https://www.ynet.co.il/economy/article/hko4gsvngl",
-   "summary": "בכנס השנתי של התאחדות קבלני השיפוצים בים המלח הזהיר יו\"ר ההתאחדות, ערן סיב, מפני החרפת מצוקת כוח האדם בענף: \"הגיעו רק 1,000 עובדים זרים במקום 15 אלף עובדים פלסטינים שהיו לפני המלחמה\". בהסתדרות עובדי הבניין הזהירו מפני כניסת חברות ביצוע זרות לישראל, ובהתאחדות המלאכה והתעשייה העלו את החשש שהגירעון התקציבי יוביל להעלאת מיסים על העסקים הקטנים",
-   "source": "Ynet כלכלה",
+   "title": "\"אנשים יוצרים קשר רגשי עם הבינה המלאכותית, אבל ה–AI לא חי, זו מכונה\"",
+   "link": "https://www.ynet.co.il/digital/article/yokra14933830",
+   "summary": "מה קורה כשענקית ה–AI אנתרופיק מכנסת בחשאי אנשי דת מרחבי העולם כדי לדון בשאלה כיצד לנהוג במערכת שפיתחה תודעה אנושית? • הרב ד\"ר מואיז נבון, מבכירי מובילאיי לשעבר, הציב מול מייסדי החברה את הגבול המוסרי של היהדות: \"אם אתם מאמינים ש'קלוד' הוא אנושי, אתם בעצם מעסיקים עבדים\" • בריאיון ל\"ממון\" הוא מסביר מתי בכל זאת ייחשב מודל AI לאנושי לפי היהדות, מה הוא לעולם לא יבקש מהבינה המלאכותית לעשות, ולמה למרות הס",
+   "source": "Ynet טכנולוגיה",
    "lang": "he",
-   "topic": "business",
+   "topic": "tech",
    "rtl": true,
-   "published": "2026-10-22T14:55:30+00:00"
+   "published": "2026-10-22T21:00:00+00:00"
   }
  ]
 }
