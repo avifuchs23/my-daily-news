@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-24T08:18:50.391560+00:00",
- "generated_display": "Saturday, 24 October 2026 · 11:18",
+ "generated_at": "2026-10-24T17:04:14.497498+00:00",
+ "generated_display": "Saturday, 24 October 2026 · 20:04",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,214 +23,244 @@
  },
  "stories": [
   {
-   "title": "מפנינה רוזנבלום ועד בנט וגלאון: להיות בצד הלא-נכון של אחוז החסימה",
-   "link": "https://www.ynet.co.il/news/elections2026/article/rj9r7t83mg",
-   "summary": "בכנסת הראשונה פחות מ-4,000 קולות הספיקו כדי לקבל מנדט וכיסא במשכן, בכנסת ה-25 מרצ נותרה בחוץ עם 150,793 קולות שנזרקו לפח. עם השנים הרף עלה - עד שאחוז החסימה הגיע לשיא של 3.25% והכריע בחירות. פרופ' ישעיהו לייבוביץ, פנינה רוזנבלום וגם בן גביר: כל אלה מכירים את התחושה הפחות נעימה - ונשארו בעבר בחוץ. והיה גם \"מועמד בודד\" שקיבל שני מנדטים - ומי על הקשקש הפעם?",
+   "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+   "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+   "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-10-24T15:00:00+00:00"
+  },
+  {
+   "title": "Netanyahu switches Israel's position to favor Argentina in dispute over Falklands - report",
+   "link": "https://www.jpost.com/israel-news/article-912697",
+   "summary": "The change does not go so far as to formally back Argentina's claim over the Falklands, but raises fears that Israel could do so if the United Kingdom imposes further sanctions on settlements.",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-10-24T14:35:15+00:00"
+  },
+  {
+   "title": "She made aliyah at 16 - today, she's teaching the next generation about AI",
+   "link": "https://www.jpost.com/aliyah/article-912544",
+   "summary": "Since July 2024, Prof. Claudia V. Goldman has been an associate professor in the Data Science Department at the Hebrew University Business School in Jerusalem.",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-10-24T19:10:04+00:00"
+  },
+  {
+   "title": "נתניהו בסרטון בחירות חדש: \"שבוע גורלי לישראל. איראן רוצה להשמיד אותנו תוך זמן קצר\"",
+   "link": "https://www.ynet.co.il/news/elections2026/article/bkjwk8qhfx",
+   "summary": "רה\"מ הדהד את המסר של נשיא ארה\"ב טראמפ שהביע תמיכה בו, וטען כי \"איראן חידשה את תוכנית הגרעין שלה\". לדבריו, \"מוטל כאן על הכף קיומה של מדינת ישראל ומניעת השמדתה\"",
    "source": "Ynet חדשות",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-10-24T06:29:36+00:00"
+   "published": "2026-10-24T16:32:16+00:00"
   },
   {
-   "title": "הבהלה מהמעטפה הצה\"לית התבררה כתעמולת בחירות: \"יכולה לגרום ללב נמס ופיק ברכיים\"",
-   "link": "https://www.walla.co.il/news/israel/383958664",
-   "summary": "חיילת תושבת חדרה נדהמה אתמול (חמישי) לגלות כי לבית הוריה בעיר הגיע מכתב דחוף, הנחזה להיות מסמך רשמי של צה\"ל. על המעטפה התנוססו הכיתובים \"צבא הגנה לישראל\", \"לשכת הגיוס תל השומר\" ו\"דואר דחוף\", ולצדם סמל המזכיר צו 8. ההורים, שחששו לרגע כי מדובר בזימון צבאי דחוף, מיהרו לברר במה מדובר. אלא שהבהלה התחלפה בתדהמה: מאחורי המעטפה הצבאית למראה עמדה לא אחרת ממפלגת \"ישר\" בראשות הרמטכ\"ל לשעבר, רב-אלוף במילואים ",
+   "title": "המשחק הכפול של העסקנים החרדים: עבדו בפריימריז הליכוד - ושבו למפלגות החרדיות",
+   "link": "https://www.ynet.co.il/news/elections2026/article/hjdjfaw3fg",
+   "summary": "פרסום ראשון: קבלני הקולות החרדים שגייסו מתפקדים רבים לליכוד עובדים כעת רשמית לטובת אגודת ישראל וש”ס. חלקם חברי מרכז הליכוד ואחד מהם אפילו מכהן במקביל גם כחבר מרכז - ובמקביל מופיע ברשימת יהדות התורה לכנסת - למרות שהחוק אוסר על חברות בשתי מפלגות. זו הפרצה שמנצלים העסקנים",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-24T16:26:53+00:00"
+  },
+  {
+   "title": "Why Brazil’s Election Could Come Down to Crime",
+   "link": "https://www.nytimes.com/video/world/americas/100000011222723/why-brazils-election-could-come-down-to-crime.html",
+   "summary": "Ana Ionova examines how the Brazilian presidential candidate Flávio Bolsonaro is making crime and safety the center of his campaign, following a right-wing playbook from other Latin American countries.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-24T14:32:25+00:00"
+  },
+  {
+   "title": "11 תיירים זרים הורחקו מישראל לאחר שעוכבו באזור חברון",
+   "link": "https://www.walla.co.il/news/israel/383958721",
+   "summary": "11 אזרחים זרים ששהו בישראל באשרת תייר הורחקו מהארץ במהלך סוף השבוע, לאחר שעוכבו בידי כוחות הביטחון באזור חברון בחשד להפרת צו שטח צבאי סגור ולהפרעה לחיילי צה\"ל. לפי רשות האוכלוסין וההגירה, התיירים סירבו להזדהות בפני הכוחות והפרו את תנאי רישיון השהייה שלהם בישראל.",
    "source": "וואלה",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-10-24T04:55:33+00:00"
+   "published": "2026-10-24T16:12:26+00:00"
   },
   {
-   "title": "Gadi Eisenkot Couldn’t Be More Unlike Netanyahu. Can He Beat Him?",
-   "link": "https://www.nytimes.com/2026/10/23/world/middleeast/gadi-eisenkot-israel-election.html",
-   "summary": "Mr. Eisenkot, an ex-military chief leading in the polls, calls the Israeli prime minister an “anti-leader.” But his low-key campaigning style is worrying supporters.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-24T06:47:09+00:00"
-  },
-  {
-   "title": "Will this election end the battle over drafting haredi men into the Israeli army? - analysis",
-   "link": "https://www.jpost.com/israel-election-2026/article-912687",
-   "summary": "In a recent poll by the Israel Democracy Institute, a proposition that the next government should draft haredim equally received the most support among a series of propositions.",
-   "source": "Jerusalem Post",
-   "lang": "en",
-   "topic": "israel",
-   "rtl": false,
-   "published": "2026-10-24T09:36:58+00:00"
-  },
-  {
-   "title": "Opposition deepfake video of Spanish PM’s wife sparks outrage before election",
-   "link": "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
-   "summary": "Video shows AI likenesses of people linked to Pedro Sánchez’s Socialist party appearing to admit to wrongdoing A political ad from Spain’s main opposition party that used a deepfake video of the prime minister’s wife has sparked outrage and set off a wider debate on AI, as the deeply polarised country gears up for general elections next month. Launched this week across the social media channels of",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-24T06:51:53+00:00"
-  },
-  {
-   "title": "'Not a gradual slide': Menopause can reshape women's bodies in a sudden shift, Israeli study finds",
-   "link": "https://www.jpost.com/health-and-wellness/article-912578",
-   "summary": "Menopause may be less gradual than previously thought, with abrupt changes in bone health, liver function and cholesterol, Weizmann Institute of Science researchers find.",
-   "source": "Jerusalem Post",
-   "lang": "en",
-   "topic": "israel",
-   "rtl": false,
-   "published": "2026-10-24T07:44:29+00:00"
-  },
-  {
-   "title": "How Brazil's changing working class is reshaping the presidential race",
-   "link": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss",
-   "summary": "Calls for change present a challenge to President Lula in the second round of the election on Sunday.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-24T05:05:44+00:00"
-  },
-  {
-   "title": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
-   "link": "https://www.nytimes.com/2026/10/23/world/middleeast/west-bank-shooting-israel.html",
-   "summary": "The Israeli military said two soldiers and two attackers had been killed, and three soldiers wounded. Prime Minister Benjamin Netanyahu vowed to launch a major offensive in the Israeli-occupied territory.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-24T04:42:18+00:00"
-  },
-  {
-   "title": "As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?",
-   "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/24/divided-israel-election-benjamin-netanyahu",
-   "summary": "The prime minister has defined and dominated his country’s politics for three decades and is putting his rivals on the defensive before Tuesday’s general election They chant his name, they cheer and clap – and yet he is not the most dominant person in the room. Looming over the crowd that has gathered to hear Gadi Eisenkot, the former general who is the lead opposition challenger in Tuesday’s Isra",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-24T05:00:24+00:00"
-  },
-  {
-   "title": "האב בכלא, הבן בדרך לנשיאות? הקרב הצמוד על ברזיל מגיע להכרעה",
-   "link": "https://www.israelhayom.co.il/news/world-news/article/21694958",
-   "summary": "אזרחי ברזיל ייצאו מחר לקלפיות בסיבוב השני בבחירות לנשיאות, במרוץ צמוד ומתוח בין הנשיא המכהן לולה דה סילבה לסנאטור פלאביו בולסונארו • סקרים אחרונים מצביעים על שוויון של 50% בין השניים מקרב בעלי הדעה, לקראת עימות טלוויזיוני מכריע הלילה • בישראל עוקבים בדריכות ומקווים להפסד של לולה, שהוכרז כפרסונה נון גרטה, ולניצחון בולסונארו שהתחייב להעביר את השגרירות לירושלים",
+   "title": "סקרי המנדטים האחרונים בהחלט, צה\"ל במבצע נרחב בחברון - וגאווה ישראלית על הפודיום",
+   "link": "https://www.israelhayom.co.il/news/article/21696186",
+   "summary": "רגע לפני ההכרעה בקלפי: איזנקוט מוביל במרבית הסקרים, אבל אף גוש לא מצליח להשיג 61 מנדטים • צה\"ל פתח במבצע נרחב בחברון בעקבות הפיגוע הקטלני • החשש מהסלמה אזורית גובר: ארה\"ב מצמצמת את נוכחותה הדיפלומטית במזרח התיכון • וגם: נתניהו נערך לחרם בנקאי, טבח בכנסייה בירדן, רצח אישה בחיפה ומדליית ארד מרגשת לישראל באליפות העולם",
    "source": "ישראל היום",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-10-24T05:12:57+00:00"
+   "published": "2026-10-24T15:31:04+00:00"
   },
   {
-   "title": "עובד CIA חשוד בהדלפת מידע על ישראל לבת זוגו העיתונאית - והמידע הרגיש שפרסמה",
-   "link": "https://www.ynet.co.il/news/article/bjvypjthfx",
-   "summary": "עובד קבלן של סוכנות הביון האמריקנית, שהחזיק בסיווג ביטחוני ברמת \"סודי ביותר\", חשוד שהעביר מידע על ישראל והמזרח התיכון לבת זוגו, שהפעילה בלוג חדשות עצמאי. בין פרסומיה: דוח מודיעין אמריקני שהזהיר מפני מלחמת אזרחים בישראל, הערכה שלפיה ירושלים לחצה על ממשל טראמפ לחסל בכיר איראני",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-24T06:38:32+00:00"
-  },
-  {
-   "title": "The rise of AI election ads in US midterms campaign",
-   "link": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
-   "summary": "BBC Verify has tracked dozens of AI ads to assess how they are being used by campaigns in the midterms.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-24T05:03:44+00:00"
-  },
-  {
-   "title": "Startups don’t need to go viral to win customers",
-   "link": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
-   "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-10-23T23:07:45+00:00"
-  },
-  {
-   "title": "בנגקוק: ישראלי נעצר בחשד להחזקת סמים ולתיעוד נשים ללא ידיעתן",
-   "link": "https://www.israelhayom.co.il/travel/israelisabroad/article/21695371",
-   "summary": "המשטרה בבנגקוק פשטה על דירתו של אזרח ישראלי, בחשד שהזמין נשים מאפליקציית היכרויות, סימם אותן באמצעות עוגות ותיעד יחסי מין עמן ללא ידיעתן • בדירתו נתפסו סמים מסוג \"אייס\", עוגות חשודות ומכשיר נייד עם סרטונים • עוד התברר כי שהה במדינה ללא אשרה תקפה כמעט שש שנים",
+   "title": "יותר מ-70% מהאינטרנט בסכנה: מי יושפע ואיך להתמודד? כל מה שצריך לדעת",
+   "link": "https://www.israelhayom.co.il/tech/tech-news/article/21696432",
+   "summary": "פרצת אבטחה קריטית שהסתתרה מעל עשור ב-PHP, שפת הפיתוח שמניעה כ-70% מאתרי האינטרנט בעולם, נחשפה באמצעות כלי AI מתקדמים של OpenAI והובילה לכוננות סייבר גלובלית • מממשלות שהורידו אתרים ועד השבתת מערכות התרעה לרעידות אדמה ביפן • כל מה שצריך לדעת על php2shell",
    "source": "ישראל היום",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-10-24T07:56:24+00:00"
+   "published": "2026-10-24T14:18:47+00:00"
   },
   {
-   "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-   "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-   "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.",
+   "title": "Israel Cracks Down in West Bank City After Deadly Attack",
+   "link": "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html",
+   "summary": "Hundreds of Palestinian families fled their homes as the Israeli military raided Hebron. The operation came a day after Palestinian gunmen killed two soldiers.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-24T14:52:05+00:00"
+  },
+  {
+   "title": "\"נתגעגע לתקופת הצנע\": בנט ואיזנקוט תקפו את נתניהו - וגם בנק ישראל",
+   "link": "https://www.walla.co.il/news/israel/383958724",
+   "summary": "יו\"ר מפלגת ביחד נפתלי בנט, ויו\"ר מפלגת ישר! גדי איזנקוט, תקפו היום (שבת) את ראש הממשלה בנימין נתניהו, בעקבות דבריו על האפשרות שישראל תידרש להתמודד עם בידוד כלכלי בינלאומי. השניים הזהירו מפני ההשלכות הכלכליות והביטחוניות של התרחיש, וקראו להחלפת הממשלה בבחירות שייערכו ביום שלישי הקרוב.",
+   "source": "וואלה",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-24T16:36:25+00:00"
+  },
+  {
+   "title": "Block’s new voice model sounds eerily human",
+   "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+   "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
    "source": "TechCrunch",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-10-23T19:06:23+00:00"
+   "published": "2026-10-24T16:00:00+00:00"
   },
   {
-   "title": "Displaced West Bank Palestinians face growing hunger after UN cuts food aid",
-   "link": "https://www.aljazeera.com/features/2026/10/24/displaced-west-bank-palestinians-face-growing-hunger-after-un-cuts-food-aid?traffic_source=rss",
-   "summary": "Already struggling after losing homes to Israeli military operations, Palestinians face hardship as WFP halves aid.",
+   "title": "Watch as fire engulfs Hitler's mountaintop Eagle's Nest retreat",
+   "link": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
+   "summary": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-24T15:56:48+00:00"
+  },
+  {
+   "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+   "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+   "summary": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-24T15:21:44+00:00"
+  },
+  {
+   "title": "Brazil’s Lula and Bolsonaro about even ahead of election run-off: Poll",
+   "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-about-even-ahead-of-election-run-off-poll?traffic_source=rss",
+   "summary": "The race between Brazil's president and the right-wing senator has tightened in recent days.",
    "source": "Al Jazeera",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-10-24T07:09:55+00:00"
+   "published": "2026-10-24T15:36:38+00:00"
   },
   {
-   "title": "כמה ישראל חריגה בתדירות הבחירות שלה?",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001560334#utm_source=RSS",
-   "summary": "אחת לשבוע המדור \"בודקים את המיתוס\" יעסוק בעיוותים היסטוריים מפורסמים, מדוע נוצרו, וכיצד הם משפיעים עד ימינו • והשבוע: נהוג לחשוב שאנו פוקדים את הקלפי כל שבועיים, אך התמונה המלאה יותר מורכבת",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-10-24T08:00:00+00:00"
-  },
-  {
-   "title": "בטורקיה מזהירים את ישראל: \"הם יפתחו בתקיפה של חיל האוויר - אבל אז יגיעו 30 מיליון טורקים\"",
-   "link": "https://www.maariv.co.il/breaking-news/article-1380631",
-   "summary": "",
-   "source": "מעריב",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-24T08:13:53+00:00"
-  },
-  {
-   "title": "מהו קצב ההתקדמות הממוצע של חילזון הגינה?",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001560226#utm_source=RSS",
-   "summary": "מה היה תפקידו הפיקודי הראשון של בני גנץ בצה\"ל, מה משותף לסרטים \"בחזרה לעתיד 2\" ו\"בלייד ראנר\", ומתי התרחשה הטיסה הראשונה לארץ ישראל? • הטריוויה השבועית",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-10-24T05:17:00+00:00"
-  },
-  {
-   "title": "How Benjamin Netanyahu reshaped Israel’s institutions",
-   "link": "https://www.aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions?traffic_source=rss",
-   "summary": "As Israel heads to the polls on October 27, its polarising and longest-serving prime minister is seeking re-election.",
-   "source": "Al Jazeera",
+   "title": "Israeli soldiers raze neighbourhood in Hebron, driving families from homes",
+   "link": "https://www.theguardian.com/world/2026/oct/24/israel-soldiers-raze-west-bank-neighbourhood-hebron-families-from-homes",
+   "summary": "PM Benjamin Netanyahu vows ‘to destroy this place’ in retaliation for militant attack on army checkpoint Israeli troops have levelled a neighbourhood in Hebron, driving out hundreds of families in collective punishment for a militant attack on an army checkpoint outside the West Bank city, local Palestinian authorities said. The Hebron municipality estimated that 35 hectares (86 acres) had been de",
+   "source": "The Guardian",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-10-24T05:29:07+00:00"
+   "published": "2026-10-24T13:17:13+00:00"
   },
   {
-   "title": "OpenAI now trains its frontier AI models with no internet access",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-   "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier […]",
+   "title": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
+   "link": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions",
+   "summary": "Volodymyr Zelenskyy offers thanks to US allies for restoring system key to air defence and ‘frontline logistics’ Ukraine’s military has a “stable connection to Starlink”, the Ukrainian government has said, 10 days after its ability to use the satellite communications system was suddenly restricted . The Starlink satellite terminals, which are produced by Elon Musk’s SpaceX but managed by the US go",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-24T15:47:20+00:00"
+  },
+  {
+   "title": "European student protests take aim at Serbia's elections",
+   "link": "https://www.npr.org/2026/10/24/nx-s1-6012799/european-student-protests-take-aim-at-serbias-elections",
+   "summary": "Students have been protesting across Europe. In Serbia, they've selected candidates to run for parliament in Sunday's elections. And they're aiming to end 14 years of government by the populist leader Aleksandar Vucic.",
+   "source": "NPR News",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-24T11:42:11+00:00"
+  },
+  {
+   "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
+   "link": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
+   "summary": "Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise project before growing into something closer to R&B. But from moment one, her take on the genre was restless, relentlessly playing with what R&B […]",
    "source": "The Verge",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-10-23T21:11:07+00:00"
+   "published": "2026-10-24T15:00:00+00:00"
+  },
+  {
+   "title": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
+   "link": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
+   "summary": "Black Friday is still over a month away, but if you’re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the LG C6 and various soundbars through November 1st. Right now, for instance, you can snag a 55-inch […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-10-24T15:00:00+00:00"
+  },
+  {
+   "title": "הקריפטו והסנקציות: נתניהו מצית סערה כלכלית רגע לפני הבחירות",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001560614#utm_source=RSS",
+   "summary": "ראש הממשלה אמר בראיון לערוץ 10 כי ביקש להכין תוכנית שתאפשר לישראל להתמודד עם סנקציות בנקאיות, בין היתר באמצעות בלוקצ’יין ומטבעות דיגיטליים • האם ניתן לעקוף סנקציות בדרך הזו, מה עושות מדינות שכבר מנסות להשתמש בקריפטו כדי להתמודד עם סנקציות, ומה יקרה לבנקים בישראל בתרחיש כזה? • גלובס עושה סדר",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-10-24T15:00:00+00:00"
+  },
+  {
+   "title": "בנק ישראל נגד נתניהו: \"קריפטו לא יכול לשמש מסלול עוקף סנקציות\"",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001560619#utm_source=RSS",
+   "summary": "בבנק המרכזי מגיבים באופן חריג לדבריו של ראש הממשלה, לפיהם ישראל צריכה להיערך לכלכלת קריפטו וכי בלוקצ'יין יכול לסייע לעקוף סנקציות, ובפועל סותרים אותם • בבנק הדגישו כי על הדרג המדיני להתמקד במניעת הסנקציות ובהמשך קיום קשרי המסחר עם שותפותיה העיקריות של ישראל",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-10-24T16:14:00+00:00"
+  },
+  {
+   "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
+   "link": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
+   "summary": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-10-24T11:00:09+00:00"
+  },
+  {
+   "title": "ישראל בדרך לשם? כך המדינות החשוכות בעולם עוקפות סנקציות באמצעות קריפטו",
+   "link": "https://www.ynet.co.il/economy/article/s1stmgchzx",
+   "summary": "נתניהו הציע להיערך לסנקציות בנקאיות בעזרת מטבעות דיגיטליים, והצביע על כלי שכבר משמש את המדינות המבודדות בעולם. לרוסיה יש מטבע משלה, שבו עוברים קרוב ל-100 מיליארד דולר בשנה, ומה קורה באיראן ובצפון קוריאה?",
+   "source": "Ynet כלכלה",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-10-24T09:29:54+00:00"
   },
   {
    "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
@@ -243,44 +273,14 @@
    "published": "2026-10-24T00:05:45+00:00"
   },
   {
-   "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-   "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead Ragavan Thurairatnam. The conversation between […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-10-23T19:32:39+00:00"
-  },
-  {
-   "title": "How does the UK state pension compare with other countries?",
-   "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
-   "summary": "Do British pensioners have it better or worse than those in other countries?",
-   "source": "BBC Business",
-   "lang": "en",
-   "topic": "business",
-   "rtl": false,
-   "published": "2026-10-24T00:09:12+00:00"
-  },
-  {
    "title": "\"ניגנתי עם ברי ונינט, זה טירוף. אבל כשאני חוזרת ורוצה שקט - אין. זה בית מוזיקלי\"",
    "link": "https://www.ynet.co.il/economy/article/8p4zniuqa",
-   "summary": "אלכס והילה הכירו דרך חברת ילדות שלה, שהוא בכלל יצא איתה קודם (\"אמרה שתהיה הכי מאושרת בשבילנו\"). הוא היה מנהל השיווק של דיזנגוף סנטר ועכשיו מנכ\"ל ואוצר מוזיאון האדם והחי. היא צ'לנית שניגנה עם הרוקיסטים הגדולים ביותר (\"זה עולם שנראה זוהר, אבל הוא גם מאוד קשה\"). גם שני הילדים שלהם חזק בעולם המוזיקה. משפחת וינטרוב על הספה",
+   "summary": "אלכס והילה הכירו דרך חברת ילדות שלה, שהוא בכלל יצא איתה קודם (\"אמרה שתהיה הכי מאושרת בשבילנו\"). הוא היה מנהל השיווק של דיזנגוף סנטר ועכשיו מנכ\"ל ואוצר מוזיאון האדם והחי. היא צ'לנית שניגנה עם הרוקיסטים הגדולים ביותר (\"זה עולם שנראה זוהר, אבל הוא גם מאוד קשה\"). גם שני הילדים שלהם חזק בעולם המוזיקה. משפחת קפלן על הספה",
    "source": "Ynet כלכלה",
    "lang": "he",
    "topic": "business",
    "rtl": true,
    "published": "2026-10-24T04:56:10+00:00"
-  },
-  {
-   "title": "Everybody panic: A Valve developer said \"HLX\" in public",
-   "link": "https://arstechnica.com/gaming/2026/10/everybody-panic-a-valve-developer-said-hlx-in-public/",
-   "summary": "Sound designer lets Half Life-related codename slip at a conference.",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-10-23T16:35:00+00:00"
   }
  ]
 }
