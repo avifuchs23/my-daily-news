@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-30T10:18:44.974130+00:00",
- "generated_display": "Friday, 30 October 2026 · 12:18",
+ "generated_at": "2026-10-30T18:54:57.484921+00:00",
+ "generated_display": "Friday, 30 October 2026 · 20:54",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,184 +23,244 @@
  },
  "stories": [
   {
-   "title": "Arab Israelis, Palestinians view path to coalition through political clout - analysis",
-   "link": "https://www.jpost.com/israel-election-2026/article-913334",
-   "summary": "With record representation in the Knesset, Arab voters see a chance to influence Israel’s government and improve their daily lives, but opposition leaders remain divided over accepting their support.",
+   "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+   "link": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+   "summary": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-30T18:17:27+00:00"
+  },
+  {
+   "title": "Looking back at Patrick Stewart's Israeli movie, 'Hunting Elephants'",
+   "link": "https://www.jpost.com/international/article-913347",
+   "summary": "In a press conference to promote the movie in Tel Aviv before filming started, Stewart said, “This movie is unlike anything else I’ve ever done.\"",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-10-30T09:30:04+00:00"
+   "published": "2026-10-30T14:51:37+00:00"
   },
   {
-   "title": "IDF, Border Police seize rifles, silencers, 2,300 rounds in West Bank raid near Kalkilya",
-   "link": "https://www.jpost.com/israel-news/defense-news/article-913337",
-   "summary": "Security forces seized a major weapons cache near Kalkilya and arrested four suspects near Jenin on Thursday night. Police dogs also helped find guns and drugs in a fridge in Kafr Manda.",
+   "title": "IDF kills Hamas commander involved in holding Noa Argamani, 11 other hostages",
+   "link": "https://www.jpost.com/israel-news/defense-news/article-913354",
+   "summary": "The IDF said the two terrorists had advanced attacks against Israeli troops and civilians throughout the war, and worked to restore Hamas's military capabilities.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-10-30T11:38:42+00:00"
+   "published": "2026-10-30T17:28:21+00:00"
   },
   {
-   "title": "Israel’s Election Is Unlikely to Change Its Policies and Global Isolation",
-   "link": "https://www.nytimes.com/2026/10/30/world/europe/israel-election-netanyahu-eisenkot.html",
-   "summary": "The leading contenders, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, aren’t substantially different in their approach to Israel’s security or in their opposition to a Palestinian state.",
+   "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+   "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+   "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-30T16:26:11+00:00"
+  },
+  {
+   "title": "\"בכדורגל תמיד היה דו־קיום, לא מבין מה עשינו רע למדינה\"",
+   "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21742421",
+   "summary": "אחמד אבו אלעם קורא לדו־קיום בשם המגזר • זאהי ארמלי כואב: \"הגיע הזמן שיקבלו אותנו, יש לנו 19 ח\"כים\" • עבאס סואן מסביר: \"אנחנו רוצים שקט וביטחון\" • ועלי עותמאן מודה: \"עצוב לי שזה המצב\" • ארבעה אנשי כדורגל ערבים־ישראלים, בעבר ובהווה, מדברים מדם ליבם על תוצאות הבחירות לכנסת",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-30T15:10:05+00:00"
+  },
+  {
+   "title": "Jerusalem Daily: Israel’s siege on Hebron displaces thousands",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/jerusalem-daily-israels-siege-on-hebron-displaces-thousands?traffic_source=rss",
+   "summary": "Israel has announced its final election results, tightened its siege on Hebron, and arrested people returning to Gaza.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-30T15:50:23+00:00"
+  },
+  {
+   "title": "בגלל ישראל? מחריף הקרע בין טורקיה לשותפה האסטרטגית שלה",
+   "link": "https://www.ynet.co.il/news/article/rj0cfqzafx",
+   "summary": "לאחר שבאנקרה נמתחה ביקורת קשה על האיסור לעטיית חיג'אב בבתי הספר באזרבייג'ן ועל מערכת היחסים החמה בין באקו לישראל - הנשיא אלייב נמנע מלהגיע לפסגה אזורית בטורקיה, ועורר גל שמועות על מתח בין המדינות. כך מנסה ארדואן להפיג את המתיחות",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-30T15:31:10+00:00"
+  },
+  {
+   "title": "ועכשיו במנדטים: חפשו וגלו איך הייתה נראית הכנסת ביישוב שלכם",
+   "link": "https://www.ynet.co.il/news/article/bywnsez6gx",
+   "summary": "100 מנדטים לגוש השינוי בתל אביב, רק 24 בירושלים: בואו לראות כיצד הייתה נראית הכנסת ה-26 אם הבחירות היו מתקיימות רק ביישוב שלכם. איפה הליכוד לא עבר אפילו את אחוז החסימה, אילו ערים שכנות מצביעות הפוך לחלוטין ומי ניצח בחיפה ובבאר שבע?",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-30T14:31:23+00:00"
+  },
+  {
+   "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+   "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+   "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-10-30T13:00:00+00:00"
+  },
+  {
+   "title": "יאיר נתניהו בפוסט גזעני: \"הסכנה הגדולה עלינו היא ערביי ישראל\" – והתגובה החריפה של אחמד טיבי",
+   "link": "https://www.israelhayom.co.il/news/politics/article/21742571",
+   "summary": "בנו של ראש הממשלה פרסם פוסט חריף שבו טען כי ערביי ישראל מהווים איום על עתיד המדינה • חבר הכנסת מהרשימה המשותפת לא נשאר חייב ותקף: \"הבטלן ממיאמי שחרר עוד אמירה גזענית\"",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-30T16:15:18+00:00"
+  },
+  {
+   "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+   "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+   "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, plus get a second for free.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-10-30T14:00:00+00:00"
+  },
+  {
+   "title": "No Clear Winner in Israel Election, Final Results Show",
+   "link": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
+   "summary": "Prime Minister Benjamin Netanyahu’s party and its allies won 53 seats in Parliament, falling short of the outright majority needed to form a government. The main opposition bloc, led by Gadi Eisenkot, won 48.",
    "source": "NY Times World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-10-30T09:03:37+00:00"
+   "published": "2026-10-30T15:02:51+00:00"
   },
   {
-   "title": "Britain’s blighted high streets will improve by next election, says Rayner",
-   "link": "https://www.theguardian.com/uk-news/2026/oct/30/britain-blighted-high-streets-angela-rayner-labour",
-   "summary": "Housing secretary says Labour wants to reverse fortunes of towns plagued by boarded-up shops and rogue businesses Angela Rayner has said voters will begin to see a difference in their high street before the next general election as Labour prioritises investment in struggling local communities. The housing secretary said the government had made it a top priority before the country goes to the polls",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-30T10:00:51+00:00"
-  },
-  {
-   "title": "מגמה שלילית בתל אביב: כל הסקטורים באדום; מניות השבבים נופלות במעל 7%",
+   "title": "ירידות חדות בסיום שבוע המסחר: הבורסה איבדה 3.5% מאז הבחירות",
    "link": "https://www.globes.co.il/news/article.aspx?did=1001561388#utm_source=RSS",
-   "summary": "המסחר בבורסה המקומית מתנהל בירידות שערים בהובלת מניות הביטוח • המניות הדואליות נובה, טאואר וקמטק בולטות לשלילה • מנגד, אל על, דוראל ואלוני חץ עולות בניגוד למגמה • הדולר מתחזק מול השקל • מניית אלפא טאו מדיקל תיכנס למדדי ת\"א 90 • טקטונה מדווחת כי נכסי נוסטרו בשווי 1.5 מיליון דולר הוקפאו בבורסת בייננס בעקבות מתקפת סייבר • מניית נופר אנרג'י נופלת למרות התקשרות למימון ענק בטקסס",
+   "summary": "המסחר בבורסה המקומית ננעל בירידות שערים בהובלת מניות טכנולוגיה • ת\"א 35 צלל בכ-2.06% • המניות הדואליות נובה, טאואר וקמטק בולטות לשלילה • מנגד, אל על, דוראל ואלוני חץ עולות בניגוד למגמה • הדולר מתחזק מול השקל • מניית אלפא טאו מדיקל תיכנס למדדי ת\"א 90 • טקטונה מדווחת כי נכסי נוסטרו בשווי 1.5 מיליון דולר הוקפאו בבורסת בייננס בעקבות מתקפת סייבר • מניית נופר אנרג'י נופלת למרות התקשרות למימון ענק בטקסס",
    "source": "גלובס",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-10-30T10:02:00+00:00"
+   "published": "2026-10-30T12:05:00+00:00"
   },
   {
-   "title": "השר שלמה קרעי: \"אי אפשר להשביע כנסת שחבריה קנו את מקומם בכספי טרור\"",
-   "link": "https://www.inn.co.il/flashes/1138662",
-   "summary": "<p>שר התקשורת שלמה קרעי התייחס לתוצאות הבחירות שהתקיימו השבוע וקבע כי נעשו ניסיונות להטות אותן באמצעות שוחד בחירות ומעורבות של מדינות אויב. </p><p>לדבריו, \"שונאי ישראל שהבינו כי במלחמה הם מפסידים לנו, החליטו לערער את יסודות המדינה היהודית ולנסות לכבוש אותנו מבפנים\". קרעי הוסיף: \"אי אפשר להשביע כנסת שחבריה קנו את מקומם בכספי טרור ובמעורבות של מדינות אוייב\".</p><p>קרעי תקף גם את מי שלטענתו מבקשים לה",
-   "source": "ערוץ 7",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-30T09:16:09+00:00"
-  },
-  {
-   "title": "אחרי הבחירות: ליאון רוזנברג מודיע על שינוי",
-   "link": "https://www.israelhayom.co.il/forreal/localy/article/21741169",
-   "summary": "מגיש הטלוויזיה שעזב יחד עם אישתו פאולה רוזנברג ושתי בנותיהם המשותפות את ישראל ועבר להתגורר בקפריסין, מספר על שינוי שהוא חווה בימים האחרונים. \"יש לי הרבה מאוד עבודה\"",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-30T09:25:41+00:00"
-  },
-  {
-   "title": "אינדיאנה ג׳ונס בישראל? מסתרי אוצר הזהב הגרמני",
-   "link": "https://www.ynet.co.il/news/article/bkiggujhme",
-   "summary": "באוקטובר 1964 סיפר לולן מנס ציונה ל\"ידיעות אחרונות\" שיש בידיו מפה לאוצר שהטמין הצבא הגרמני בארץ ישראל בסוף מלחמת העולם הראשונה. שמעון פרס בא לראות, והמפה נשארה במגירה. אבל הלולן לא היה הראשון שחיפש את ארבעת ארגזי הזהב, וגם לא האחרון: בעקבותיהם יצאו ברון נאצי, הרפתקנית צרפתייה, קציני צה\"ל עם גלאי מתכות, ואולי בכלל גם סבתא אחת מיפיע",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-30T04:00:00+00:00"
-  },
-  {
-   "title": "Friday briefing: Israel has a dilemma - can its opposition govern with Palestinian parties?",
-   "link": "https://www.theguardian.com/world/2026/oct/30/friday-briefing-israel-has-a-dilemma-can-its-opposition-govern-with-palestinian-parties",
-   "summary": "In today’s newsletter: Benjamin Netanyahu has been left without a majority, now it is up to the coalition to find out whether the desire for change will prove to be a defining political moment Good morning. It was described by many Israelis as the most consequential election in their country’s history. And, as the final votes were tallied, it has delivered a result that presents Israel with a sign",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-30T06:44:29+00:00"
-  },
-  {
-   "title": "Ukrainians Are Fighting Russians Inside Underground Gas Pipes. I Went in One.",
-   "link": "https://www.nytimes.com/2026/10/30/world/europe/ukraine-russia-natural-gas-pipes.html",
-   "summary": "I experienced war’s subterranean future as drones dominate the skies. I didn’t like it.",
+   "title": "Police Investigate Former Prince Andrew and Epstein’s Time at Balmoral, Royal Estate in Scotland",
+   "link": "https://www.nytimes.com/2026/10/30/world/europe/andrew-epstein-scotland-police-investigation-uk-balmoral.html",
+   "summary": "Andrew Mountbatten-Windsor spent time with Jeffrey Epstein, the convicted sex offender, and his associate Ghislaine Maxwell, at Balmoral, the royal family’s Scottish retreat.",
    "source": "NY Times World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-10-30T09:51:10+00:00"
+   "published": "2026-10-30T18:51:14+00:00"
   },
   {
-   "title": "Israel is in a political deadlock. What comes next?",
-   "link": "https://www.npr.org/2026/10/30/g-s1-150761/israel-election-politics-deadlock-arabs",
-   "summary": "Israel's consequential election has ended in a deadlock, with neither side able to claim a majority, What happens now?",
-   "source": "NPR News",
+   "title": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
+   "link": "https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil",
+   "summary": "Brazilian media ridicule defeated candidate over ‘shameful’ absconsion to US and bizarre letter with wrong coat of arms Flávio Bolsonaro had hoped that by Sunday night people would be calling him the next president of Brazil. Instead, the far-right politician’s decision to flee to the US after losing the election and – for 58 minutes – to declare himself “Brazil’s true president-elect” , has made ",
+   "source": "The Guardian",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-10-30T09:00:00+00:00"
+   "published": "2026-10-30T14:08:41+00:00"
   },
   {
-   "title": "\"אני אוהבת אותך\": יעל שלביה לא מסתירה את רגשותיה ללאנס",
-   "link": "https://www.israelhayom.co.il/forreal/localy/article/21741281",
-   "summary": "לאנס סטרול חגג יומולדת 28 במסיבה בסגנון מקסיקני, וזכה להצהרת האהבה המפורשת מחברתו הדוגמנית הישראלית. כיצד נהג הפורמולה 1 הגיב למילים המרגשות?",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-30T10:06:54+00:00"
+   "title": "Experts warn AI copyright changes could breach Australian constitution and spark huge compensation rights case",
+   "link": "https://www.theguardian.com/law/2026/oct/31/experts-warn-ai-copyright-changes-could-breach-australian-constitution-and-spark-huge-compensation-rights-case",
+   "summary": "Scraping copyrighted material from internet could ‘potentially’ amount to acquisition of property by government, Anne Twomey says Get our daily political email , free app or daily news podcast Altering copyright law to allow AI companies to scrape music, books and journalism could trigger a constitutional breach, Coalition senators and the recording industry have warned, as they raise new fears it",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-10-30T14:00:18+00:00"
   },
   {
-   "title": "התנועות לא מעידות על החלטה לתקוף: ישראל נערכת - ושוב ממתינה לטראמפ",
-   "link": "https://www.ynet.co.il/news/article/rykqnm11pml",
-   "summary": "בישראל עוקבים בדריכות אחר תגבור הכוחות האמריקנים סמוך לחופי איראן, וצה\"ל נערך גם בחזית הצפונית. כולם ממתינים להכרעת טראמפ, כשבינתיים נמשכים הניסיונות לחידוש המשא ומתן עם טהרן. אחרי תוצאות הבחירות, לא ברור כיצד מתקפה קרובה - אם תצא לפועל - תשפיע על המגעים להרכבת ממשלה",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-29T21:50:57+00:00"
-  },
-  {
-   "title": "ירידה של 3% מאז הבחירות: הבורסה בת\"א ממשיכה לאבד גובה",
-   "link": "https://www.ynet.co.il/economy/article/rkquvabpze",
-   "summary": "ת\"א-35 מאבק 1.6% מערכו במסחר הראשונה, וממשיך במגמה מאז הבחירות לכנסת. מדדי הטכנולוגיה והביטוח ירדו יותר מ-2.5%, ונובה וטאואר צנחו בכ-7%",
-   "source": "Ynet כלכלה",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-10-30T08:40:46+00:00"
-  },
-  {
-   "title": "הדמוקרטים הכפילו את כוחם בכנסת, אך נכשלו בשכנוע המצביעים הערבים",
-   "link": "https://www.haaretz.co.il/news/elections/2026-10-30/ty-article/.premium/000001a1-8804-def7-adad-8afc37ec0000",
-   "summary": "אחרי נתון השפל מהבחירות הקודמות, האיחוד של העבודה ומרצ הפיח בהן חיים חדשים – גם אם הציפיות היו גבוהות יותר. \"צריך להסתכל פנימה\", אומר המזכ\"ל לשעבר איתן כבל, \"ולחשוב למה אחרי החיבורים קיבלנו רק שמונה\"",
-   "source": "הארץ",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-10-30T05:42:01+00:00"
-  },
-  {
-   "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-   "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-   "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger […]",
+   "title": "Google’s satellite AI server transmits its first response to Earth",
+   "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+   "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in […]",
    "source": "The Verge",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-10-30T09:00:00+00:00"
+   "published": "2026-10-30T18:21:38+00:00"
   },
   {
-   "title": "Helicopter carrying six people crashes in northern Indian state",
-   "link": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
-   "summary": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
-   "source": "BBC World",
+   "title": "ירידות חדות בוול סטריט: נאסד\"ק צולל יותר מ-3; מניית אינטל מתרסקת",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001561446#utm_source=RSS",
+   "summary": "טלטלת השבבים וה-AI בוול סטריט גוררת את שווקי העולם לירידות • הדולר מזנק בחדות מול השקל, ונסחר כעת מעל 3.14 שקלים - שיא של חצי שנה • הנפט מזנק • בגזרת הסחורות: מחירי הנפט והגז באירופה עולים, הביטקוין צולל מתחת ל-78 אלף דולר",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-10-30T17:55:00+00:00"
+  },
+  {
+   "title": "The delightfully messy state of Apple gadgets",
+   "link": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets",
+   "summary": "The iPhone has more screens! The MacBook has a touchscreen! The HomeView does CarPlay apps! For the first time in a long time, Apple is in a period of unabashed gadget experimentation, and while the final results aren't always perfect, it's fun to watch the most successful product maker try some new things again. Even […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-10-30T17:25:20+00:00"
+  },
+  {
+   "title": "ענקית דירוג האשראי מעריכה: זה המועד לבחירות הבאות בישראל",
+   "link": "https://www.maariv.co.il/breaking-news/article-1383015",
+   "summary": "",
+   "source": "מעריב",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-30T12:18:59+00:00"
+  },
+  {
+   "title": "מכות מהאוויר לחמאס: מפקד ומחבל נוח'בה חוסלו בעזה",
+   "link": "https://www.inn.co.il/flashes/1138691",
+   "summary": "<p>צה\"ל ושב\"כ חיסלו השבוע ארבעה מחבלים מארגון חמאס בשתי תקיפות אוויריות בדרום רצועת עזה, בהם מפקד בארגון ומחבל נוח'בה.</p><p>על פי הודעת כוחות הביטחון, המחבלים פעלו לקידום פיגועים נגד כוחות צה\"ל ואזרחי ישראל ולשיקום יכולותיו הצבאיות של חמאס, תוך הפרה שיטתית של הפסקת האש.</p><p>בתקיפה שבוצעה ביום רביעי במרחב ח'אן יונס חוסל מחמד עליאן ביוק, מחבל נוח'בה בזרוע הצבאית של חמאס. בתקיפה נוספת באותו יום במ",
+   "source": "ערוץ 7",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-10-30T12:32:00+00:00"
+  },
+  {
+   "title": "Police in Scotland launch Andrew and Epstein royal castle investigation",
+   "link": "https://www.aljazeera.com/news/2026/10/30/police-in-scotland-launch-andrew-and-epstein-royal-castle-investigation?traffic_source=rss",
+   "summary": "Media reports say the inquiries are related to claims that women were trafficked to the king’s Balmoral estate.",
+   "source": "Al Jazeera",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-10-30T10:07:58+00:00"
+   "published": "2026-10-30T16:27:39+00:00"
   },
   {
-   "title": "New York police will now investigate Cornell sex complaints, governor says",
-   "link": "https://www.bbc.co.uk/news/articles/cmwy42j9wewlo?at_medium=RSS&at_campaign=rss",
-   "summary": "The change was announced amid backlash over the school's handling of gang rape allegations involving a fraternity on campus.",
-   "source": "BBC World",
+   "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+   "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+   "summary": "Low costs and offline security mean magnetic tape still has a job.",
+   "source": "Ars Technica",
    "lang": "en",
-   "topic": "world",
+   "topic": "tech",
    "rtl": false,
-   "published": "2026-10-30T03:32:44+00:00"
+   "published": "2026-10-30T17:38:19+00:00"
+  },
+  {
+   "title": "הבורסה בת\"א המשיכה לאבד גובה; מניית אל על דווקא זינקה",
+   "link": "https://www.ynet.co.il/economy/article/rkquvabpze",
+   "summary": "מדד ת\"א-35 ירד ב-2.06%, ובמעל 3% מאז הבחירות. ת\"א ביטוח ב-2.82% ות\"א טכנולוגיה ב-2.98%. וגם: הסיבות לזינוק המשמעותי במניית חברת התעופה",
+   "source": "Ynet כלכלה",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-10-30T12:05:54+00:00"
   },
   {
    "title": "חג הדמוקרטיה הישראלי לא בא טוב למשקיעים",
@@ -213,74 +273,14 @@
    "published": "2026-10-30T06:00:00+00:00"
   },
   {
-   "title": "הגירעון מעמיק, המסים על הפרק: החשבון הכלכלי שמחכה לממשלה הבאה",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001561374#utm_source=RSS",
-   "summary": "תוצאות הבחירות השאירו את המערכת הפוליטית בלתי מוכרעת, אך הכלכלה הישראלית לא יכולה להמתין • הזינוק בדרישות הצבאיות, הקופה המדוללת של מס רכוש ורפורמות המיסוי הנדרשות יעמדו במרכז סדר היום • המומחים כבר מזהירים: \"המשימה הראשונה תהיה ריסון תקציב הביטחון, כי ההוצאה כרגע בלתי נשלטת\"",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-10-30T09:00:00+00:00"
-  },
-  {
-   "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-   "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-   "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-10-30T01:20:48+00:00"
-  },
-  {
-   "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
-   "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-   "summary": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
+   "title": "Yorkshire Water boss resigns after firm downgraded",
+   "link": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
+   "summary": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
    "source": "BBC Business",
    "lang": "en",
    "topic": "business",
    "rtl": false,
-   "published": "2026-10-30T09:33:51+00:00"
-  },
-  {
-   "title": "NBA: Cameron Boozer tallies first triple-double, Grizzlies remain unbeaten",
-   "link": "https://www.aljazeera.com/sports/2026/10/30/nba-cameron-boozer-tallies-first-triple-double-grizzlies-remain-unbeaten?traffic_source=rss",
-   "summary": "Pelicans earn first victory over still-winless Kings as Hawks withstand late push to hold off Cavaliers.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-10-30T08:24:43+00:00"
-  },
-  {
-   "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
-   "link": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
-   "summary": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-10-30T07:01:00+00:00"
-  },
-  {
-   "title": "The director of Obsession put a new horror short on YouTube",
-   "link": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
-   "summary": "Curry Barker, the director behind the hit horror film Obsession, just published a new horror short on YouTube. The short, titled \"Mama Bear,\" is nearly five minutes long. The video is pretty unnerving, and fair warning that it gets a little graphic, but it's a fun one to watch if you're looking for something scary […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-10-29T23:57:18+00:00"
-  },
-  {
-   "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
-   "link": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
-   "summary": "Inspector general rejected request from Democratic and Republican senators.",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-10-29T20:08:10+00:00"
+   "published": "2026-10-30T16:04:55+00:00"
   }
  ]
 }
