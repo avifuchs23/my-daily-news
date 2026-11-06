@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-05T20:52:11.836421+00:00",
- "generated_display": "Thursday, 05 November 2026 · 22:52",
+ "generated_at": "2026-11-06T11:16:37.619099+00:00",
+ "generated_display": "Friday, 06 November 2026 · 13:16",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,44 +23,24 @@
  },
  "stories": [
   {
-   "title": "\"אי אפשר לחזות מה טראמפ יחליט\": צה\"ל נערך לאפשרות של חידוש הלחימה באיראן",
-   "link": "https://www.ynet.co.il/news/article/hjdyqfq6fx",
-   "summary": "גורמים בישראל מזהירים מפני הניסיון לפענח את כוונותיו של נשיא ארה\"ב לאחר המפלה בבחירות האמצע, אך צה\"ל נערך בכל זאת למלחמה. בעוד שהפוסט החריף של ואנס הוא תמרור אזהרה לירושלים, בכיר ישראלי אמר: \"טראמפ יכול להתעלם מהם ולתקוף גם כדי להראות שהוא חזק ושלא אכפת לו מתוצאות הבחירות\"",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-05T18:11:57+00:00"
-  },
-  {
-   "title": "IDF raids outpost, arrests two after Jewish rioters torch Palestinian cars - report",
-   "link": "https://www.jpost.com/israel-news/defense-news/article-914020",
-   "summary": "Shortly after the raid was reported, SSF claimed that Arab terrorists from Beit Ummar had driven to the nearby settler farm Gafan Ami and set an Israeli vehicle on fire.",
+   "title": "Musical unity from Radiohead’s Jonny Greenwood, Israeli artist Dudu Tassa at Jerusalem concert",
+   "link": "https://www.jpost.com/israel-news/culture/article-914049",
+   "summary": "While Boy George dominated headlines, Radiohead guitarist Jonny Greenwood quietly returned to Israel for a sold-out Jerusalem concert that spoke louder than politics.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-11-05T22:23:25+00:00"
+   "published": "2026-11-06T11:21:44+00:00"
   },
   {
-   "title": "OpenAI released a new cybersecurity model. Is that enough?",
-   "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-   "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-11-05T19:06:12+00:00"
-  },
-  {
-   "title": "Vance, Trump and the midterms: Is US support for Israel ending?",
-   "link": "https://www.jpost.com/podcast/article-914011",
-   "summary": "JD Vance says voters want a new US-Israel relationship, and Trump is ending aid early. Jacob Laznik and Shir Perets unpack what the midterms really mean for Israel and the Iran war.",
+   "title": "After America's midterms, the clock is ticking for Israel to bridge its political divides",
+   "link": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914017",
+   "summary": "NATIONAL AFFAIRS: As hostility grows on the American Left and Right, prolonged coalition negotiations and the prospect of another election carry a strategic cost.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-11-05T21:09:41+00:00"
+   "published": "2026-11-06T11:47:22+00:00"
   },
   {
    "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
@@ -70,22 +50,202 @@
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-11-05T19:08:08+00:00"
+   "published": "2026-11-06T07:56:19+00:00"
   },
   {
-   "title": "Claude AI can plug directly into your bank account",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
-   "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create an overview […]",
+   "title": "תכריע את הבחירות בניו זילנד? המפלגה החדשה שקוראת להכרה במדינה פלסטינית",
+   "link": "https://www.israelhayom.co.il/news/world-news/other/article/21792913",
+   "summary": "צ'יולה וונג מנהיגת מפלגת המרכז \"הזדמנות\", מסתמנת כלשון המאזניים בבחירות הצמודות במדינה • מפלגתה תומכת בהכרה מיידית וללא תנאים במדינה פלסטינית, • וונג דורשת מישראל לאפשר הכנסת סיוע לעזה ולהפסיק פעילות צבאית נגד אוכלוסייה אזרחית - ועשויה להעניק את תמיכתה לכל אחד מהגושים כדי להקים ממשלה",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-11-06T07:39:32+00:00"
+  },
+  {
+   "title": "אחרי הנפילות: הבורסה מתאוששת קלות, הדולר מזנק ל-3.22 שקלים",
+   "link": "https://www.israelhayom.co.il/business/article/21793416",
+   "summary": "מדדי ת\"א 35 ות\"א 125 עולים בכ-0.3%, בעוד מדד ת\"א 90 נותר ללא שינוי • המטבע האמריקני מתחזק ביותר מאחוז על רקע הירידות בחוזים העתידיים על S&P 500 • גורם בכיר באחד הגופים המוסדיים הגדולים מעריך כי השילוב בין רמות המחירים הגבוהות בשווקים לבין המשבר הפוליטי בישראל מעורר תגובה חריפה",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-11-06T08:45:06+00:00"
+  },
+  {
+   "title": "Tesla is ‘winding down’ production of the Cybertruck next year",
+   "link": "https://www.theverge.com/transportation/1028542/tesla-cybertruck-winding-down-production-2027",
+   "summary": "Tesla is getting the Cybertruck ready for retirement in an effort to ramp up its robotaxi output. In an X post on Friday, Tesla CEO Elon Musk said that the company will be \"winding down\" Cybertruck production at its Texas Gigafactory sometime around the middle of next year, \"to make room for increased Cybercab production.\" […]",
    "source": "The Verge",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-11-05T18:00:00+00:00"
+   "published": "2026-11-06T10:42:52+00:00"
+  },
+  {
+   "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+   "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
+   "summary": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-06T10:57:30+00:00"
+  },
+  {
+   "title": "איראן עוד על הפרק: צה\"ל ממתין לראות לאן נושבת הרוח בוושינגטון",
+   "link": "https://www.ynet.co.il/news/article/yokra14950309",
+   "summary": "ברקע מערכות הבחירות שטלטלו את ארה\"ב וישראל, במערכת הביטחון אומרים כי המצב מול איראן עלול להשתנות במהירות - וממתינים להכרעה אמריקנית. במקביל, נערכים להתחממות בזירה הלבנונית ומזהירים מפני התגברות הפשיעה הלאומנית ביו\"ש בגלל ההתפתחויות הפוליטיות: \"התופעה הולכת ומתעצמת\"",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-11-06T01:08:02+00:00"
+  },
+  {
+   "title": "האפשרויות של איזנקוט הולכות ומצטמצמות: ממשלה עם חרדים - או בחירות | פרשנות",
+   "link": "https://www.ynet.co.il/news/article/byn1hqo6fl",
+   "summary": "יו\"ר ישר! הבטיח כי יממש את המנדט אם יקבל אותו - אך מחלוקות בתוך הגוש כבר קובעות עובדות בשטח. ליברמן הטיל וטו על ממשלת מיעוט שנשענת על המפלגות הערביות, ונראה כי גם בנט שותף לדעתו. מתוך ההבנה כי בחירות נוספות היא אופציה רעה עבורו - המפתח נמצא ב-13 המנדטים של המפלגות החרדיות",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-11-06T10:53:08+00:00"
+  },
+  {
+   "title": "ליברמן: אפשר להתפשר על הגיוס בהקמת ממשלה, לא נתמוך בממשלת מיעוט בתמיכת הערבים",
+   "link": "https://www.haaretz.co.il/news/elections/2026-11-06/ty-article/000001a1-affd-defa-a7f7-afff85c60000",
+   "summary": "בהודעה שפרסם הבהיר יו\"ר ישראל ביתנו כי הוא מתנגד לקיום בחירות חוזרות ולרוטציה על ראשות הממשלה: \"חייבים למנוע חורבן בית שלישי, יש לשים סוף לעידן נתניהו\". מקורות ביהדות התורה: התנהלו מגעים עם ליברמן, יש חיבור טוב",
+   "source": "הארץ",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-11-06T08:35:35+00:00"
+  },
+  {
+   "title": "A Summit in China With Trump and Putin? That Might be Awkward for Xi.",
+   "link": "https://www.nytimes.com/2026/11/06/world/asia/china-trump-putin-xi-summit.html",
+   "summary": "A summit could bolster Xi Jinping’s stature. But talks about Ukraine’s future and limits on nuclear weapons pose uncomfortable choices for China.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-06T05:01:11+00:00"
+  },
+  {
+   "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+   "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+   "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-11-06T06:28:32+00:00"
+  },
+  {
+   "title": "European Countries Push, Again, To Deport Migrants to Rwanda",
+   "link": "https://www.nytimes.com/2026/11/06/world/europe/europe-migrants-rwanda.html",
+   "summary": "Five European nations are closing in on a plan to send rejected migrants to Rwanda following a failed U.K. deal with the country.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-06T10:00:58+00:00"
+  },
+  {
+   "title": "Perplexity launches its own take on AI agents for work",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+   "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-11-05T22:26:50+00:00"
+  },
+  {
+   "title": "ברקע הטלטלה הפוליטית בישראל: עליות חדות נרשמות בבורסה בתל אביב",
+   "link": "https://www.maariv.co.il/breaking-news/article-1385597",
+   "summary": "",
+   "source": "מעריב",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-11-06T09:12:54+00:00"
+  },
+  {
+   "title": "European skies on high alert after hoax bomb threats this week – Europe live",
+   "link": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live",
+   "summary": "Hoax bomb threats targeted commercial flights this week leaving at least 35 planes searched or diverted We are now getting a line from the French PM’s office that four new bomb threats against aircraft flying over the French territory were received today. All of ‌the planes landed safely and bomb dispersal units ‌are conducting inspections, with a ​probe underway to determine ⁠the origin of the ​t",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-06T11:04:09+00:00"
+  },
+  {
+   "title": "‘Everything is so out of whack’: UK trees experience spring six months early",
+   "link": "https://www.theguardian.com/environment/2026/nov/06/uk-trees-early-spring-mild-autumn",
+   "summary": "Mild autumn temperatures causing premature flowering and raising concerns for pollinators, say experts Trees are experiencing an “early spring” because of mild UK temperatures this autumn, with experts warning this could cause long-term harm to pollinators. Last month was warmer than average across all parts of the UK, with October marking the ninth consecutive month with above-average mean temper",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-06T11:00:51+00:00"
+  },
+  {
+   "title": "Oil-rich UAE makes massive AI bet as Sam Altman unveils ambitious plan to transform energy industry",
+   "link": "https://www.foxnews.com/world/oil-rich-uae-makes-massive-ai-bet-sam-altman-unveils-ambitious-plan-transform-energy-industry",
+   "summary": "OpenAI's Sam Altman named energy as his biggest challenge at ADIPEC 2026, where Abu Dhabi unveiled ambitious AI partnerships with ADNOC and G42.",
+   "source": "Fox News World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-06T09:00:17+00:00"
+  },
+  {
+   "title": "בצל האפשרות להקמת ממשלה: בורסת ת\"א מזנקת בצורה משמעותית",
+   "link": "https://www.ynet.co.il/economy/article/syixvejamg",
+   "summary": "אחרי הצהרת ליברמן שצריך להתפשר עם החרדים על חוק הגיוס, ודברי ראשי גוש השינוי שיש התקדמות ממשית להקמת ממשלה, המדדים המובילים בבורסה מגיבים בעליות של עד כ-3%. במט\"ח, הדולר כבר טיפס ל-3.22 שקל אבל ירד בהמשך, ושערו היציג נקבע על 3.194 שקלים",
+   "source": "Ynet כלכלה",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-11-06T11:02:24+00:00"
+  },
+  {
+   "title": "מה מניע את שער הדולר-שקל שזינק לשיא של כמעט שנה, ומתי תתהפך המגמה?",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001562358#utm_source=RSS",
+   "summary": "הדולר התחזק הבוקר מול השקל בכ-2% והגיע לרמה של 3.22 שקלים, על רקע טלטלות בשווקים הבינלאומיים וירידות חדות בוול סטריט, אך בהמשך העלייה התמתנה • להתחזקות תרמו גם אי-הוודאות הפוליטית בישראל, החששות מפגיעה ביחסים עם ארה\"ב ועלייה בפרמיית הסיכון של המדינה",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-11-06T09:35:00+00:00"
+  },
+  {
+   "title": "Global tech stocks plunge over fears of AI curbs in US",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/global-tech-stocks-plunge-over-fears-of-ai-curbs-in-us?traffic_source=rss",
+   "summary": "Asian markets plunged Friday, tracking a sell-off in Western stocks following the US midterm elections.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-06T07:24:20+00:00"
+  },
+  {
+   "title": "הסגרה מפורטוגל, רצח בנצרת ותעלומה אחת: לאן נעלמו 200 מיליון שקל?",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001562309#utm_source=RSS",
+   "summary": "הסגרתו של אייל רוזן, לשעבר מנהל בחברת האשראי גיבוי אחזקות, הזכירה כי אחת מהקריסות הגדולות שידע הסקטור הפיננסי בישראל עדיין רחוקה מסיומה • יותר מארבע שנים לאחר התפוצצות הפרשה, מעל 200 מיליון שקל טרם אותרו ובשוק חוששים כי רוב הכספים אבודים: \"חלק מהלווים נרצחו או ברחו\"",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-11-06T04:06:00+00:00"
   },
   {
    "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
    "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-   "summary": "OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.",
+   "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
    "source": "TechCrunch",
    "lang": "en",
    "topic": "tech",
@@ -93,194 +253,34 @@
    "published": "2026-11-05T18:02:27+00:00"
   },
   {
-   "title": "How Did Flávio Bolsonaro Flee Brazil? ‘I’ll Take That to the Grave,’ He Says",
-   "link": "https://www.nytimes.com/2026/11/05/world/americas/flavio-bolsonaro-florida-brazil.html",
-   "summary": "From Miami, Flávio Bolsonaro is making unfounded claims of a stolen election and plotting to sway his nation’s politics from afar, even though his party is not challenging the results.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-05T19:56:52+00:00"
-  },
-  {
-   "title": "Bank of England raises interest rates to 4%, the first increase for more than three years",
-   "link": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
-   "summary": "Base rate increases from 3.75% and Bank governor signals another rise in near future to combat rising inflation Analysis: Interest rate rise in midst of cost of living crisis will leave many incredulous The Bank of England has raised interest rates for the first time in three years and warned of another increase to combat inflationary pressure unleashed by the Iran war. Eight members of the Bank’s",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-05T18:00:28+00:00"
-  },
-  {
-   "title": "בתוך שעות: שני נרצחים ושמונה פצועים מירי ברחבי הארץ",
-   "link": "https://www.haaretz.co.il/news/law/2026-11-05/ty-article/000001a1-ad0d-defa-a7f7-ad7f0ea80000",
-   "summary": "מעשי הירי אירעו בטמרה, בבאקה אל-גרבייה, בנצרת, בחולון, בקלנסווה ובכפר קאסם. לפי מעקב \"הארץ\", מתחילת השנה נרצחו בישראל 232 בני אדם, מהם 191 ערבים",
-   "source": "הארץ",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-05T19:04:27+00:00"
-  },
-  {
-   "title": "כבר לא צריך פוטושופ: השדרוג הכי מסקרן של ChatGPT",
-   "link": "https://www.israelhayom.co.il/tech/tech-news/article/21791157",
-   "summary": "OpenAI השיקה את מודל Images 2.6 ב-ChatGPT וב-API, המאפשר להפוך כל תמונה ל-GIF, להאיץ את קצב היצירה ב-50% ולשלוף תמונות מקור קבועות בעזרת תיוג @ • אלא שבזמן שמשתמשים חוגגים, מעצבים ומשווקים נאלצים להתמודד עם שאלת האמינות והזיופים • כל הפרטים",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-05T17:31:19+00:00"
-  },
-  {
-   "title": "25 איומים על פצצות במטוסים, סיגל הייתה באחד מהם: \"4 פעמים ירדנו לנחיתה וחזרנו\"",
-   "link": "https://www.ynet.co.il/news/article/sky4z8cpgx",
-   "summary": "סיגל הייתה הישראלית היחידה על הטיסה של אייר לינגוס מדבלין לרומא, שנאלצה לנחות בשדה תעופה צבאי בצרפת לאחר ששודר קוד מצוקה. היא סיפרה: \"הייתי בהלם, אמרתי לדיילת 'את צוחקת עליי?'. נוסעים נדהמו לראות בחלון מטוסי קרב\"",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-05T20:45:56+00:00"
-  },
-  {
-   "title": "אחרי בחירות האמצע: הבכירה הפרו-ישראלית התפטרה",
-   "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21791407",
-   "summary": "הרמיט דילון, ראש מחלקת זכויות האזרח במשרד המשפטים האמריקני שהייתה מהדמויות המרכזיות במאבק באנטישמיות סיימה את תפקידה • בתקופתה קודמו תביעות והסדרים עם אוניברסיטאות • בוועידת ״ישראל היום״ התחייבה להילחם בשנאה כלפי היהודים בכל מקום",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-05T18:12:08+00:00"
-  },
-  {
-   "title": "EU presses UK to guarantee discounted university tuition fees for European students",
-   "link": "https://www.theguardian.com/world/2026/nov/05/eu-seeks-firmer-pledge-from-uk-discounted-university-tuition-fees",
-   "summary": "Failure to agree lower fees for EU citizens studying in UK should delay prized food and drink deal, members say UK politics live – latest updates The EU is seeking a firmer pledge from the British government to guarantee European students discounted rates on university tuition fees before a much-anticipated summit this month. At a meeting of senior EU diplomats on Wednesday, at least six member st",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-05T16:58:54+00:00"
-  },
-  {
-   "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
+   "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
    "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-   "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-05T17:57:57+00:00"
-  },
-  {
-   "title": "Israel’s Election Ended With No Clear Winner. These Parties Are Trying to Form a Coalition.",
-   "link": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-herzog-prime-minister-meetings.html",
-   "summary": "Israeli party leaders held discussions with President Isaac Herzog on Thursday about who should get the first chance to form a governing coalition.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-05T20:16:52+00:00"
-  },
-  {
-   "title": "‘Total repudiation’: The blue wave is about to hit AI",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
-   "summary": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman governor elected in Georgia, the country's first Native American woman governor elected in New Mexico, and a Maine Senator ceding to […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-11-05T17:51:52+00:00"
-  },
-  {
-   "title": "רבים הזהירו שיהודי ארה\"ב ינטשו את הדמוקרטים, אך הם שמרו על דפוס ההצבעה",
-   "link": "https://www.haaretz.co.il/news/world/america/2026-11-05/ty-article/.premium/000001a1-a9f8-defa-a7f7-adffaf8b0000",
-   "summary": "לפי מדגמים ראשוניים, 67% עד 72% מהמצביעים היהודים תמכו במועמדים הדמוקרטים, בדומה לבחירות קודמות. עם זאת, הביקורת על ישראל מצד מועמדים במפלגה עוררה חשש בקרב חלק מהבוחרים",
-   "source": "הארץ",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-05T17:13:46+00:00"
-  },
-  {
-   "title": "AI stocks plunge after US election, driving down markets",
-   "link": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets?traffic_source=rss",
-   "summary": "Tech stocks lead US market slide as investors weigh impact of midterm election results on AI industry.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-05T17:56:17+00:00"
-  },
-  {
-   "title": "מסכים אדומים בשווקים: הבורסות צוללות, הדולר מטפס לשיא שנתי מול השקל",
-   "link": "https://www.ynet.co.il/economy/article/s1vh00oy6fl",
-   "summary": "בוול סטריט הנאסד\"ק צולל ב-5.2% על רקע חשש מרגולציה על תעשיית הבינה המלאכותית, ומדד הפחד מזנק בצורה חריגה. הבורסה בת\"א ננעלה בירידות חדות זה היום השני ברציפות: ת\"א 35 איבד 3.69% ומדד הביטחוניות צנח ב-7.09%. במקביל, הדולר הגיע לשיא של 2026 במסחר הרציף, והאירו מתחזק אף הוא",
-   "source": "Ynet כלכלה",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-11-05T19:37:34+00:00"
-  },
-  {
-   "title": "יום חריג: הבורסה עם מחזור של 19.4 מיליארד שקל – השני בגובהו בעשור האחרון. זו הסיבה",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001562184#utm_source=RSS",
-   "summary": "עדכון מדדי המניות החצי שנתי התרחש הערב בבורסה בתל אביב • בעקבות זאת, קרנות הסל והקרנות המחקות שינו את אחזקותיהן בהיקף של 14 מיליארד שקל • מחזור המסחר היה שווה ערך ליותר מארבעה ימי מסחר רגילים • טבע ספגה את היצע המכר הגדול ביותר, בעוד פאלו אלטו הובילה את הביקושים כחלק מהמשך כניסתה המדורגת למדד ת\"א-35",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-11-05T16:51:00+00:00"
-  },
-  {
-   "title": "\"סערה מושלמת בשווקים\": מה עומד מאחורי הקריסה בוול סטריט והירידות החדות בת\"א?",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001562330#utm_source=RSS",
-   "summary": "המסחר בוול סטריט מתנהל בירידות חדות, לאחר שהמסחר בבורסה המקומית ננעל באדום בוהק • מושיק יוספוביץ, מנהל מניות ישראל ב\"מגדל ביטוח ופיננסים\", מסביר מה עומד מאחורי הירידות ואיפה מסתתרת נקודת האור למשקיעים",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-11-05T16:33:00+00:00"
-  },
-  {
-   "title": "Why are wealthy countries failing developing nations?",
-   "link": "https://www.aljazeera.com/video/inside-story/2026/11/5/why-are-wealthy-countries-failing-developing-nations?traffic_source=rss",
-   "summary": "UN report warns climate adaptation funding is falling far short of needs.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-05T20:45:47+00:00"
-  },
-  {
-   "title": "Gamers go to ridiculous lengths to \"improve\" GTA VI with Nvidia's DLSS 5",
-   "link": "https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/",
-   "summary": "Using a capture card and open source software to run PS5 video through a PC GPU.",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-11-05T17:40:27+00:00"
-  },
-  {
-   "title": "לראשונה זה שלוש שנים: הריבית באנגליה עלתה - וזה לא הסוף",
-   "link": "https://www.ynet.co.il/economy/article/b1p64xctze",
-   "summary": "הבנק המרכזי בממלכה העלה את הריבית ב-0.25 נקודת אחוז ל-4%, ההעלאה הראשונה מאז אוגוסט 2023, כדי לבלום את האינפלציה שהאיצה בעקבות המלחמה באיראן ומחירי הנפט הגבוהים. האינפלציה הגיעה ל-3.5% והבנק צופה שתזנק לכ-5% באמצע השנה הבאה",
-   "source": "Ynet כלכלה",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-11-05T12:23:26+00:00"
-  },
-  {
-   "title": "Faisal Islam: How high will interest rates go?",
-   "link": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
-   "summary": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
+   "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
    "source": "BBC Business",
    "lang": "en",
    "topic": "business",
    "rtl": false,
-   "published": "2026-11-05T13:17:10+00:00"
+   "published": "2026-11-06T07:27:26+00:00"
+  },
+  {
+   "title": "בישראל המשפיענים מוכרים תוספי תזונה, באוסטרליה חוסכים בהוצאות על מזון",
+   "link": "https://www.ynet.co.il/economy/article/sjktvb96fg",
+   "summary": "תוספי התזונה הופכים בישראל ממוצר בריאות לטרנד לייף-סטייל נוצץ, ובאוסטרליה יוקר המחיה כבר שולח משפחות לקצץ במוצרי יסוד. וגם: מחירי הנפט נופלים בעקבות הבחירות בארה\"ב, שופינג איי אל חוזר ואייל וולדמן מספר על פעילותו בזירה האזורית | הצמרת הכלכלית – הכתבות הנצפות של השבוע",
+   "source": "Ynet כלכלה",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-11-06T05:50:50+00:00"
+  },
+  {
+   "title": "\"אנחנו מעדיפים לעשות את זה נכון\": דייסון עונה למתחרות הסיניות",
+   "link": "https://www.ynet.co.il/digital/technology/article/s1wd5zs6fg",
+   "summary": "היצרניות הסיניות דוהרות קדימה, ודייסון, פעם \"מלכת השואבים\", מוצאת את עצמה מתמודדת עם שוק שמשתנה במהירות. בראיון ל-ynet מסביר גיא טרנר, מהנדס בכיר בחברה, מדוע היא מעדיפה איכות ואמינות על פני מהירות, ומה השתבש בהשקת מברשת השיניים שעולה 500 דולר",
+   "source": "Ynet טכנולוגיה",
+   "lang": "he",
+   "topic": "tech",
+   "rtl": true,
+   "published": "2026-11-06T10:38:21+00:00"
   }
  ]
 }
