@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-07T10:31:23.590578+00:00",
- "generated_display": "Saturday, 07 November 2026 · 12:31",
+ "generated_at": "2026-11-07T18:22:38.871464+00:00",
+ "generated_display": "Saturday, 07 November 2026 · 20:22",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,214 +23,244 @@
  },
  "stories": [
   {
-   "title": "Israel or Judea, democracy or religion: What the 2026 election was really about - opinion",
-   "link": "https://www.jpost.com/opinion/article-913964",
-   "summary": "The 2026 elections raised a fundamental question about whether Israel can reconcile its Jewish national identity with equal political citizenship.",
+   "title": "Netanyahu calls for unity government in first since election, warns of 'coalitions with Islamists'",
+   "link": "https://www.jpost.com/israel-election-2026/article-914144",
+   "summary": "Netanyahu called for a unity government on Saturday, warning that an opposition coalition backed by Islamists would threaten Israel's future and security.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-11-07T09:52:25+00:00"
+   "published": "2026-11-07T19:41:46+00:00"
   },
   {
-   "title": "Israelis in emotional distress are turning to ChatGPT for help, study finds",
-   "link": "https://www.jpost.com/health-and-wellness/mind-and-spirit/article-913917",
-   "summary": "Unlike psychologists or dedicated digital therapeutics, consumer AI systems carry no clinical mandate and have no recognized safeguards for managing psychological crises.",
+   "title": "‘Not particularly prudent’: Trump’s Israel aid cutoff draws criticism from Republicans",
+   "link": "https://www.jpost.com/international/article-914127",
+   "summary": "The US president’s announcement targeted Michigan Democrat Abdul El-Sayed, but Israeli observers question whether the election-day timing served Republican interests.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-11-07T07:48:38+00:00"
+   "published": "2026-11-07T14:12:29+00:00"
   },
   {
-   "title": "הבנק הממשלתי קרס, הנשיא הפרו-ישראלי הודח ונעצר",
-   "link": "https://www.ynet.co.il/news/article/rkh7a113pge",
-   "summary": "חברי הסנאט הצביעו פה אחד בעד הדחת נשיא פרגוואי סנטיאגו פניה, שהעביר את שגרירות ארצו לירושלים ואף נשא נאום בכנסת. הוא נעצר בחשד להפרת אמונים וניצול כוחו לרעה, אחרי ש-60% מאוכלוסיית המדינה איבדו חסכונות עקב קריסת הבנק. המונים הריעו מחוץ לקונגרס: \"דיקטטורה - לעולם לא עוד!\"",
+   "title": "ההצפות במערכה החורפית, הטלטלה בבית הלבן - והנשיא הפרו-ישראלי שהודח | כותרות השבת",
+   "link": "https://www.ynet.co.il/news/article/bk6akhhpfg",
+   "summary": "הגשם הביא להצפות בשרון: מכוניות שקעו באבן יהודה, תושבים הונחו להסתגר בקדימה צורן | אחרי התבוסה בבחירות האמצע, טראמפ הדיח את ראש הסגל בבית הלבן סוזי וויילס - ומינה במקומה את יועצו הבכיר והיהודי סטיבן מילר | דיווחים על פריצת דרך אפשרית במו\"מ מול איראן | פרגוואי: בנק ממשלתי קרס, הנשיא פניה הודח ונעצר",
    "source": "Ynet חדשות",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-11-07T06:45:38+00:00"
+   "published": "2026-11-07T15:23:00+00:00"
   },
   {
-   "title": "הבכיר ברשות הפלסטינית מתייחס לבחירות בישראל: \"אולי יהיה שינוי\"",
-   "link": "https://www.israelhayom.co.il/news/world-news/middle-east/article/21796859",
-   "summary": "סגן יו\"ר הרשות הפלסטינית, חוסיין א-שייח', התייחס בראיון לערוץ הסעודי \"אל-ערביה\" לבחירות בישראל ובארה\"ב • אף שהגדיר את הבחירות כ\"עניין פנימי ישראלי\", ציין כי יש להן השלכות על האזור וקיווה להקמת ממשלה שתאמין בשותפות ובסיום הכיבוש • בתשובה לשאלה על ההבדל בין נתניהו לאיזנקוט, אמר כי רוב הציבור הישראלי הצביע נגד הממשלה הנוכחית, אך הדגיש את הקונצנזוס בישראל נגד הקמת מדינה פלסטינית • א-שייח' האשים את ישר",
+   "title": "יעלה בידו? איזנקוט נחוש להשביע ממשלה השבוע - יש מכשול אחד בדרך",
+   "link": "https://www.israelhayom.co.il/news/politics/article/21798158",
+   "summary": "נשיא המדינה יצחק הרצוג צפוי להטיל מחר על יו\"ר מפלגת \"ישר!\" את המנדט • אלא שהדרך לקואליציה עוברת דרך יו\"ר ישראל ביתנו, שמסרב להישען על המפלגות הערביות ואינו ממהר להתחייב • איזנקוט עשוי להעמיד אותו למבחן כבר בהצבעה הראשונה בכנסת",
    "source": "ישראל היום",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-11-07T09:39:45+00:00"
+   "published": "2026-11-07T16:43:09+00:00"
   },
   {
-   "title": "בין בחירות למלחמה: כך מתייחסות סוכנויות הדירוג לכלכלת ישראל",
-   "link": "https://www.israelhayom.co.il/business/article/21796907",
-   "summary": "שלוש חברות הדירוג מציגות תמונות שונות של המשק, מהסיכונים הביטחוניים והפיסקליים ועד לחוסן המוסדי • התנאים להעלאת הדירוג או להורדתו נותרו בעינם, והיעדר ממשלה ותקציב מקשה על שינוי ההערכה",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-07T09:22:15+00:00"
-  },
-  {
-   "title": "Will New Zealand Join Voters’ Global Revolt Over Soaring Costs?",
-   "link": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html",
-   "summary": "Preliminary results showed no clear front-runner after an election that was dominated by economic concerns.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-07T09:44:35+00:00"
-  },
-  {
-   "title": "בדואים נטשו את בתיהם ליד ההתנחלות החדשה ביריחו. צה\"ל: נמנע פלישת יהודים",
-   "link": "https://www.ynet.co.il/news/article/b1ylbd3tge",
-   "summary": "ברקע ההתיישבות בשמונה בתים שנרכשו בפאתי העיר, עזבו שתי משפחות פלסטיניות את האזור. הצבא יידרש למנוע השתלטות על בתיהן. צה\"ל מתעקש שהמהלך לא היה תואם, והסיט כוחות ממשימות אחרות כדי לשמור על המתנחלים",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-07T09:35:32+00:00"
-  },
-  {
-   "title": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life",
-   "link": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
-   "summary": "A cyberattack on supermarket fridges, bomb threats to planes and software vulnerabilities have Europe on edge as government officials encourage resilience and stockpiling.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-07T10:02:18+00:00"
-  },
-  {
-   "title": "New Zealand election 2026 live results: National and Labour neck-and-neck as minor party eyes kingmaker role",
-   "link": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
-   "summary": "Polls show no coalition is expected to secure a majority of seats, in one of the closest elections in recent history New Zealand heads for election cliffhanger with minor party cast as kingmaker In New Zealand’s bellwether seat, what are locals thinking as a knife-edge poll looms? Another update here with 8% of the vote counted . National on 31.2%, Labour 28.4%, the Greens 12.9%, Act 11.2%, NZ Fir",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-07T10:21:42+00:00"
-  },
-  {
-   "title": "האם איראן וחיזבאללה יכולות להפתיע את ישראל במתקפת \"קורי עכביש\" מרוממה?",
-   "link": "https://www.haaretz.co.il/news/security/2026-11-07/ty-article-magazine/000001a1-9c6e-df63-ade5-fe7feb330000",
-   "summary": "שנה אחרי שאוקראינה הדהימה את רוסיה, הזהיר נתניהו ממתקפת רחפנים שישוגרו מתוך ישראל ויפגעו בצמרת השלטון ובמטרות אסטרטגיות. בכירים בצבא ובתעשייה מתריעים: ישראל אינה ערוכה",
+   "title": "בחירות האמצע בארה\"ב מבשרות שינוי כיוון רדיקלי, וישראל אינה ערוכה לכך",
+   "link": "https://www.haaretz.co.il/opinions/2026-11-07/ty-article-opinion/.premium/000001a1-acca-defa-a7f7-acff6f850000",
+   "summary": "",
    "source": "הארץ",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-11-07T10:02:00+00:00"
+   "published": "2026-11-07T18:00:00+00:00"
   },
   {
-   "title": "US Senator Abdul El-Sayed launches ‘Habibi’ political action committee",
-   "link": "https://www.aljazeera.com/news/2026/11/7/el-sayed-launches-habibi-pac-days-after-historic-michigan-senate-win?traffic_source=rss",
-   "summary": "The first Muslim senator's new committee will let him raise money for other candidates.",
-   "source": "Al Jazeera",
+   "title": "יממה לפני הטלת המנדט - נתניהו קורא לממשלת אחדות | צפו",
+   "link": "https://www.israelhayom.co.il/news/politics/article/21798640",
+   "summary": "בהופעתו השנייה מאז יום הבחירות ולקראת הטלת המנדט, ראש הממשלה קורא לכל מפלגות המחנה הלאומי והציוני להתאחד: \"זהו צורך השעה\" • \"יש רק ברירה אחת, לא התאבדות לאומית - אחדות לאומית\" • רק כך \"נסיר את האיום הגרעיני ונשמור על ישראל כמדינה יהודית\", אמר • איזנקוט: אם הליכוד רוצה להצטרף, שיסכים לארבעת העקרונות",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-11-07T17:25:30+00:00"
+  },
+  {
+   "title": "הגשמים הציפו את ערי האוהלים בעזה: \"יום קשה. אנשים איבדו את כל מה שהיה להם\"",
+   "link": "https://www.ynet.co.il/news/article/bytayo36fg",
+   "summary": "הסערה פגעה במפונים העזתים, בעיקר במרכז הרצועה. \"הנזקים עצומים\", סיפר ל-ynet תושב העיר עזה. \"מזרנים, אוכל, חפצים אישיים - הכול אבד\". בישראל טוענים שחמאס מונע את שיקום הרצועה: \"כל עוד הוא חמוש, הם ימשיכו לחיות באוהלים. לא נאפשר הכנסת ציוד שינוצל לייצור אמל\"ח\"",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-11-07T13:05:14+00:00"
+  },
+  {
+   "title": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains",
+   "link": "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html",
+   "summary": "After months of secrecy, Ukrainian commanders let New York Times journalists join them in bunkers and training grounds used to reverse some Russian territorial gains.",
+   "source": "NY Times World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-11-07T09:18:53+00:00"
+   "published": "2026-11-07T18:17:34+00:00"
   },
   {
-   "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-   "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal […]",
+   "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+   "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+   "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-07T15:19:35+00:00"
+  },
+  {
+   "title": "New Zealand faces weeks of uncertainty with election ‘too close to call’",
+   "link": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
+   "summary": "National party will be largest in parliament but ultimate shape of next government won’t be settled for some time New Zealand could be facing a weeks-long wait to know the shape of its next government, after its nail-biting election failed to hand a decisive victory to either the incumbent rightwing coalition or opposition left bloc. On preliminary results, the centre-right National party, led by ",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-07T13:48:18+00:00"
+  },
+  {
+   "title": "Another Day of France’s Protests Unfurl During an Autumn of Discontent",
+   "link": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
+   "summary": "Two days after a general strike and huge demonstrations, students and workers took to the streets again on Saturday.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-07T17:06:40+00:00"
+  },
+  {
+   "title": "What we know about Krakow mass shooting so far",
+   "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+   "summary": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-07T18:22:11+00:00"
+  },
+  {
+   "title": "אלון עידן טועה. בלי תשתית יהודית, הישראליות תהיה קלושה ותלושה אף יותר",
+   "link": "https://www.haaretz.co.il/opinions/2026-11-07/ty-article-opinion/.premium/000001a1-ac93-d041-a5f9-edb38e650000",
+   "summary": "",
+   "source": "הארץ",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-11-07T18:00:00+00:00"
+  },
+  {
+   "title": "הנתון שישפיע על כיוון השווקים השבוע, והפרט החריג שמסתתר בו",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001562365#utm_source=RSS",
+   "summary": "אחרי שבוע של ירידות חדות במניות הטכנולוגיה, המשקיעים ממתינים לפרסום מדד המחירים לצרכן בארה\"ב ביום שלישי • דוח התעסוקה החזק הגביר את החשש מהעלאת ריבית נוספת, ונתון אינפלציה גבוה מהצפוי עלול להחריף את הלחץ בשווקים • אלא שהפעם יחסר בדוח אחד המספרים החשובים ביותר",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-11-07T16:36:00+00:00"
+  },
+  {
+   "title": "The US let Nvidia sell chips to an empty office in China",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+   "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell […]",
    "source": "The Verge",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-11-06T23:46:18+00:00"
+   "published": "2026-11-07T15:43:45+00:00"
   },
   {
-   "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-   "link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-   "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-11-07T04:16:43+00:00"
-  },
-  {
-   "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-   "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-   "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-11-06T22:53:46+00:00"
-  },
-  {
-   "title": "Paraguay's president impeached and under house arrest after bank collapse",
-   "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-   "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-07T07:20:00+00:00"
-  },
-  {
-   "title": "טראמפ אישר שארה\"ב תקפה באי קשם באיראן: \"פעולה מינורית\"",
-   "link": "https://www.haaretz.co.il/news/world/middle-east/2026-11-07/ty-article/000001a1-b4db-d041-a5f9-f5fbcd370000",
-   "summary": "מוקדם יותר דווח על פיצוצים באי. זו הפעם הראשונה שבה ארה\"ב תוקפת באיראן מאז בחירות האמצע. ראש ממשלת קטאר: \"לא יכולים להרשות לעצמנו סבב לחימה נוסף\"",
-   "source": "הארץ",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-07T08:45:45+00:00"
-  },
-  {
-   "title": "Pope in 'pretty good health' as he starts Latin America tour",
-   "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
-   "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-07T06:59:48+00:00"
-  },
-  {
-   "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
-   "link": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
-   "summary": "Campaign group the3million lodges court papers after EU citizens told pre-settled status was an ‘error’ The Home Office is being sued for alleged breach of the Brexit withdrawal agreement after stripping almost 1,500 EU citizens of their full rights to live in the UK. Campaign group the3million lodged papers at the high court on Friday after several cases emerged of EU citizens who were granted pr",
+   "title": "Rise in NHS birth centre closures ‘shocking’ denial of women’s rights, experts say",
+   "link": "https://www.theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights",
+   "summary": "Twelve midwife-led maternity units have closed in England since 2019 with six closing since Labour came to power in 2024 NHS officials are shutting growing numbers of birth centres in a “shocking” denial of a woman’s right to have a midwife rather than a doctor oversee their baby’s birth, say campaigners. Twelve birth centres – midwife-led maternity units – have closed in England since 2019. Birth",
    "source": "The Guardian",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-11-07T09:15:35+00:00"
+   "published": "2026-11-07T17:00:16+00:00"
   },
   {
-   "title": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
-   "link": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties?traffic_source=rss",
-   "summary": "US Treasury claims firms helped sanctioned Iranian entities and handled funds linked to alleged drug trafficking boss.",
+   "title": "AI broke the cybersecurity world. What’s next?",
+   "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+   "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-11-07T15:00:00+00:00"
+  },
+  {
+   "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+   "link": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+   "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-11-07T17:24:07+00:00"
+  },
+  {
+   "title": "Gunman opens fire from moving car in European tourist hotspot, leaving 6 dead and at least 11 wounded",
+   "link": "https://www.foxnews.com/world/gunman-opens-fire-moving-car-european-tourist-hotspot-leaving-5-dead-12-wounded",
+   "summary": "A gunman, reportedly wearing military-style fatigues, allegedly opened fire from a moving vehicle on Kraków, Poland's Main Square, killing five and injuring at least 12.",
+   "source": "Fox News World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-07T17:37:33+00:00"
+  },
+  {
+   "title": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
+   "link": "https://www.aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza?traffic_source=rss",
+   "summary": "Floods have swept through Gaza after heavy rain, endangering families and putting war-damaged buildings at risk.",
    "source": "Al Jazeera",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-11-07T04:50:46+00:00"
+   "published": "2026-11-07T13:07:23+00:00"
   },
   {
-   "title": "האוזניות שמאיימות על המותגים החזקים בשוק",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001562253#utm_source=RSS",
-   "summary": "חברת Nothing הבריטית השיקה את Headphone (1) Pro, היקרות ביותר שלה בסגמנט \"אוזניות קשת\", בניסיון להציע חוויית פרימיום של ממש • תג המחיר נמוך במאות שקלים מחלק מהמתחרות בקטגוריה, אבל יש כמה חסרונות",
+   "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+   "link": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+   "summary": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-11-07T17:18:00+00:00"
+  },
+  {
+   "title": "החוקר שחוזה: כך ייראה שבוע העבודה בעידן ה-AI",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001561915#utm_source=RSS",
+   "summary": "שיחה עם: פרופ' אודי ניסן מהאוניברסיטה העברית, לשעבר ראש אגף התקציבים באוצר • על גודל הפער בתשלום למדינה בין חרדים ללא-חרדים, האדישות בציבור ליוקר המחיה והתחזית לקיצור שבוע העבודה - בגלל ה-AI",
    "source": "גלובס",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-11-07T10:00:00+00:00"
+   "published": "2026-11-07T17:00:00+00:00"
   },
   {
-   "title": "הורידו 130 אלף שקל מהמחיר, והדירה בת\"א נמכרה בשבועיים",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001561845#utm_source=RSS",
-   "summary": "בשכונת פארק TLV (לשעבר הארגזים) בתל אביב, נמכרה דירת 3 חדרים בשטח של 75 מ\"ר בקומה 12 מתוך 18, תמורת 2.55 מיליון שקל • \"אפשר להרגיש שינוי גם באוכלוסייה של השכונה - מגיעות אליה ממרכז העיר משפחות צעירות שלא יכולות לממן קנייה של דירה באזור שבו חיו\" • ועוד עסקאות נדל\"ן מהשבוע האחרון",
-   "source": "גלובס",
+   "title": "מסמך מודיעיני סודי חושף: מנכ\"ל אנבידיה ניהל רומן עם מרגלת סינית",
+   "link": "https://www.ynet.co.il/digital/technews/article/rjvieahtmx",
+   "summary": "לפי דיווחים בארה\"ב, המודיעין האמריקאי חושד כי סין גייסה אשת עסקים שניהלה לכאורה קשר רומנטי עם ג'נסן הואנג, במטרה להשיג מידע על שבבי ה-AI של אנבידיה ולעקוף את מגבלות הייצוא האמריקאיות. הפרשה, שנמצאת תחת מעקב כבר יותר משנה, הגיעה עד לבית הלבן ולקונגרס",
+   "source": "Ynet טכנולוגיה",
+   "lang": "he",
+   "topic": "tech",
+   "rtl": true,
+   "published": "2026-11-07T16:52:04+00:00"
+  },
+  {
+   "title": "נזקי הגשמים העזים: מי יפצה אתכם על פגיעה ברכוש ומה חשוב שתעשו | מדריך",
+   "link": "https://www.ynet.co.il/economy/article/0v1m08qj3",
+   "summary": "מערכת חורפית סוערת פקדה את ישראל ביממה האחרונה וגרמה להצפות כבדות. מי אחראי אם השיטפון הציף את הבית, באילו מקרים ניתן לתבוע את הרשות המקומית - ומה כדאי לשמור ולתעד במקרה של נזק? | שאלות ותשובות",
+   "source": "Ynet כלכלה",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-11-07T07:00:00+00:00"
+   "published": "2026-11-07T15:48:44+00:00"
   },
   {
    "title": "אין שינוי: ‎S&P‎ בחנה את דירוג ישראל, והותירה אותו על כנו",
@@ -243,44 +273,14 @@
    "published": "2026-11-07T09:39:44+00:00"
   },
   {
-   "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-   "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-   "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-11-06T23:00:44+00:00"
-  },
-  {
-   "title": "\"חנוכה זה הסיוט. הייתי בוכה מול אלפי סופגניות אבל ידעתי שאסור להישבר\"",
-   "link": "https://www.ynet.co.il/economy/article/h4o2kf945",
-   "summary": "לבנת ומקסים עברו הרבה תהפוכות עד שהצליחו לתפעל את עסק הקונדיטוריה שלהם ביקנעם ולהתחיל להרוויח יפה. דווקא ברגע הזה הם חזרו 15 שנה אחורה והשקיעו שני מיליון שקל בבייקרי חדש בחדרה, והם שוב מתמודדים: \"מרגישה שאנשים קצת חוששים להיכנס כי אף אחד לא מבין מה זה הדבר הזה שנפל עליו\". וגם: למה הם לא מתחברים לעיר בה הם מתגוררים? משפחת פרץ-גורוחוד על הספה",
-   "source": "Ynet כלכלה",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-11-07T03:57:39+00:00"
-  },
-  {
-   "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-   "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
-   "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-11-06T20:56:41+00:00"
-  },
-  {
-   "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
-   "link": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss",
-   "summary": "A post-Brexit deal on food standards has raised questions over the future naming of the classic British snack.",
+   "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+   "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+   "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
    "source": "BBC Business",
    "lang": "en",
    "topic": "business",
    "rtl": false,
-   "published": "2026-11-06T17:19:38+00:00"
+   "published": "2026-11-06T21:49:50+00:00"
   }
  ]
 }
