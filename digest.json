@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-09T23:12:10.148482+00:00",
- "generated_display": "Tuesday, 10 November 2026 · 01:12",
+ "generated_at": "2026-11-10T11:28:48.105135+00:00",
+ "generated_display": "Tuesday, 10 November 2026 · 13:28",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,94 +23,44 @@
  },
  "stories": [
   {
-   "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-   "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-   "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-11-09T20:09:06+00:00"
-  },
-  {
-   "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-   "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-11-09T19:00:00+00:00"
-  },
-  {
-   "title": "Around 78% of Britons view Israel as a serious threat to world peace, survey finds",
-   "link": "https://www.jpost.com/international/article-914381",
-   "summary": "A total of 78% of respondents said they view Israel as a serious threat, compared with 48% 20 years ago. The percentage has also increased a full 10% in the last year.",
+   "title": "WATCH: Six injured after extremist Israeli settlers attack peace activist rabbis in West Bank",
+   "link": "https://www.jpost.com/israel-news/article-914444",
+   "summary": "The settlers, who the activists said were armed with clubs, descended the hill and began their attack once IDF soldiers arrived on the scene.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-11-09T21:22:39+00:00"
+   "published": "2026-11-10T12:35:06+00:00"
   },
   {
-   "title": "From Tel Aviv to Riyadh: How US firm Greenberg Traurig navigates Israel, Gulf relations - interview",
-   "link": "https://www.jpost.com/diaspora/article-914369",
-   "summary": "Greenberg Traurig chairman Richard Rosenbaum discusses the firm's ties to Israel and the Gulf, its Jewish roots, and efforts to combat antisemitism.",
+   "title": "Eisenkot-led bloc taps Yashar's Kahana for Knesset speaker, Liberman to head key defense panel",
+   "link": "https://www.jpost.com/israel-election-2026/article-914426",
+   "summary": "Liberman to chair Foreign Affairs and Defense Committee, which oversees legislation related to IDF conscription • B'Yachad's Liran Avisar Ben-Horin to become first female head of Finance Committee",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-11-09T19:27:24+00:00"
+   "published": "2026-11-10T10:05:07+00:00"
   },
   {
-   "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
-   "link": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
-   "summary": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-11-09T19:21:46+00:00"
-  },
-  {
-   "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-   "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-   "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-09T19:58:01+00:00"
-  },
-  {
-   "title": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
-   "link": "https://www.theguardian.com/world/2026/nov/09/france-blames-irans-revolutionary-guards-for-cyber-attacks-on-supermarket-fridges",
-   "summary": "French foreign minister vows European sanctions against Tehran over ‘unprecedented’ hacks last month France has said Iran was responsible for a massive cyber-attack on supermarket freezers and chiller cabinets that was described by its foreign minister as being an act of “unprecedented scale and unprecedented aggression”. Jean-Noël Barrot said “Europe-wide sanctions” would be imposed against those",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-09T17:54:40+00:00"
-  },
-  {
-   "title": "Dana White declines Trump’s offer to be White House press secretary",
-   "link": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
-   "summary": "In a social media post over the weekend, the president asked the UFC boss to take over the role, but later said he was \"having a little fun\".",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-09T22:46:27+00:00"
-  },
-  {
-   "title": "עדיין בלי ממשלה, הכנסת ה-26 תצא לדרך: 120 ח\"כים יישבעו אמונים",
-   "link": "https://www.ynet.co.il/news/article/r168aiyczx",
-   "summary": "120 ח\"כים נרגשים יושבעו לכנסת בנוכחות בני משפחותיהם, נשיא המדינה וגם שני רובוטים. עם 46 חברים חדשים שכבר הגיעו לסיור היכרות, תהיה זו הכנסת עם הייצוג הגדול ביותר לנשים אי פעם - רק 33 - ויכהנו בה לא מעט בני משפחות שכולות. מהרמטכ\"ל לשעבר ועד בן ה-24: השיאים שתשבור הכנסת ה-26",
+   "title": "\"לפוצץ את תל אביב\" והגנה על בני חמולת פשע מחאן יונס: שערוריות השמאל הקיצוני בברלין",
+   "link": "https://www.ynet.co.il/news/article/h1lirelrmx",
+   "summary": "מפלגת די לינקה ניצחה בבחירות בבירת גרמניה, אחרי שהניפה בקמפיין את דגל המאבק הפלסטיני, אך מאז מתקשה לעלות לשלטון - ובדרך מצטברות עדויות רבות על קשריה לתומכי חמאס ולחמולות פשע. מנהיגת המפלגה \"מפחדת\" מהם, חברת פרלמנט שחזרה בה מהכרה בזכות הקיום של ישראל מסרבת לפרוש - וראש שבט רמו שאחראי למקרי שוד חמורים העיד: \"סוף-סוף מצאתי מפלגה שמייצגת אותי\"",
    "source": "Ynet חדשות",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-11-09T22:56:30+00:00"
+   "published": "2026-11-10T09:10:15+00:00"
+  },
+  {
+   "title": "Australia Unveils New A.I. Regulator After OpenAI Breach",
+   "link": "https://www.nytimes.com/2026/11/10/world/australia/ai-regulator-openai-hack-medicare.html",
+   "summary": "The government is also considering changes to criminal law to penalize companies that develop models that “engage in harmful conduct.”",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-10T11:01:06+00:00"
   },
   {
    "title": "France Blames Iran for Cyberattack on Refrigeration Systems",
@@ -120,167 +70,217 @@
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-11-09T19:29:39+00:00"
+   "published": "2026-11-10T10:08:24+00:00"
   },
   {
-   "title": "ישראל כבר הסכימה, אך תיקון מתקן טיהור השפכים בעזה לא החל",
-   "link": "https://www.haaretz.co.il/news/politics/2026-11-09/ty-article/.premium/000001a1-c186-df80-a9e3-e7be3d980000",
-   "summary": "הממשלה נמנעת ממתן אור ירוק לכל פעולת שיקום ברצועה, ולכך מצטרף החשש מהכנסת חומרים המוגדרים דו־שימושיים. השיקום ממילא אמור היה להסתיים ב־2029. מועצת השלום: דרשנו כבר לפני חודשים מישראל להכניס סיוע לקראת החורף",
-   "source": "הארץ",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-09T19:19:42+00:00"
-  },
-  {
-   "title": "88 שנים אחרי ליל הבדולח, האור חזר לבית הכנסת הנטוש בפולין",
-   "link": "https://www.haaretz.co.il/news/world/europe/2026-11-09/ty-article/.premium/000001a1-c13c-d9d2-adbb-d7bf27770000",
-   "summary": "לפני שנשלחו יהודי טשביניה למחנות, הם כונסו בבית הכנסת בעיירה. מאז מלחה\"ע ה־2 המבנה עמד זנוח, ובאחרונה נרכש בידי קבוצת משקיעים ישראלית־פולנית שמתכוונת לשקמו: \"האש היחידה שתבער כאן תהיה של זיכרון, כבוד ותחייה\"",
-   "source": "הארץ",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-09T19:18:23+00:00"
-  },
-  {
-   "title": "ההסכמות, המחלוקות - ומה יעשו החרדים: כל מה שצריך לדעת לפני השבעת הכנסת",
-   "link": "https://www.ynet.co.il/news/article/bj5o4ojagx",
-   "summary": "הכנסת ה-26 תושבע היום, ורגע לפני איזנקוט רשם ניצחון נוסף: יו\"ר הכנסת הבא כנראה יהיה ממפלגתו. בינתיים, בזמן שבנט שותק, החתירה של ליברמן לממשלה עם חרדים ש\"מלחיצה את נתניהו\" נמשכת - וכך גם קמפיין ה\"אחדות\" של רה\"מ. השאלות הפתוחות לפני ההשבעה - בזמן שהמערכת הפוליטית רותחת",
+   "title": "צה\"ל ירה לעבר זורקי אבנים באזור שכם, הפלסטינים: בן 14 נהרג",
+   "link": "https://www.ynet.co.il/news/article/hkaryelcge",
+   "summary": "כוחות פתחו באש לאחר שזיהו \"מחבלים שהתכוונו לזרוק אבנים לעבר כביש שמהיר שבו נסעו ישראלים\", כך לפי צה\"ל. הפלסטינים טענו כי מהירי נהרג נער בכפר בורקה שבאזור שכם",
    "source": "Ynet חדשות",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-11-09T22:23:32+00:00"
+   "published": "2026-11-10T06:12:05+00:00"
   },
   {
-   "title": "הישראלים מאושרים מהחיים, אבל מתוסכלים מתוצאות הבחירות",
-   "link": "https://www.israelhayom.co.il/opinions/article/21817280",
-   "summary": "סקר מדד החברה הישראלית של המכון למדיניות העם היהודי (JPPI) מגלה: 62% מהישראלים אינם מרוצים מתוצאות הבחירות • לעם היושב בציון, יהודים וערבים, נמאס מסחטנות • ומה התרחיש המקובל על רוב בציבור?",
+   "title": "לא יקבל שקל: דרעי שוב פרש מהכנסת - והפעם ללא מענק הסתגלות",
+   "link": "https://www.israelhayom.co.il/news/politics/article/21820178",
+   "summary": "על כהונתו האחרונה היה דרעי אמור לקבל כ-156 אלף שקל, אבל הוא כבר מיצה את התקרה שקבעה הכנסת - תשע משכורות במצטבר לאורך חייו • הוא ימשיך לעמוד בראש ש״ס, שירדה מ-11 לשישה מנדטים",
    "source": "ישראל היום",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-11-09T20:39:13+00:00"
+   "published": "2026-11-10T10:06:02+00:00"
   },
   {
-   "title": "די למלחמת הגושים: ישראל זקוקה לממשלה מאחדת",
-   "link": "https://www.israelhayom.co.il/news/politics/article/21816999",
-   "summary": "לאחר קבלת המנדט, על איזנקוט להוביל מהלך להקמת ממשלה ציונית רחבה, בשיתוף הליכוד, הציונות הדתית ומפלגות המרכז • נתניהו ושותפיו נדרשים להכיר בהפסדם בבחירות, להציג דרישות הגיוניות ולספק ערבויות שיבטיחו את יציבות הממשלה",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-09T19:56:18+00:00"
-  },
-  {
-   "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
-   "link": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
-   "summary": "France says Iranian military hackers took over refrigeration controllers at around 700 different retail sites last month, turning up temperatures in the middle of the night and spoiling millions of dollars' worth of food.",
-   "source": "NPR News",
+   "title": "Trump says more US attacks on Iran 'highly unlikely'",
+   "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+   "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
+   "source": "BBC World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-11-09T22:30:49+00:00"
+   "published": "2026-11-10T09:40:31+00:00"
   },
   {
-   "title": "Cyber-attack on French supermarket freezers has geopolitical context",
-   "link": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe",
-   "summary": "‘Not particularly complex’ defrosting hack has been attributed to Iran, with presumption it is linked to others across Europe Iranian hackers like to send a message. In 2023 a state-backed group interrupted TV streaming services in the United Arab Emirates to broadcast a deepfake report on the war in Gaza. In the same year, hackers affiliated with Iran displayed the slogan “down with Israel” on th",
+   "title": "ה-AI יענה לילדים שלכם על הכול. אתם רק צריכים ללמד אותם איך לשאול",
+   "link": "https://www.haaretz.co.il/family/2026-11-10/ty-article-magazine/.premium/000001a1-2fd4-d7b2-a1a3-7ffd4c2c0000",
+   "summary": "אנחנו מלמדים את ילדינו להגיע לתשובה הנכונה, אך בעולם שבו בינה מלאכותית יכולה לספק תשובה בתוך שניות, שאילת שאלות עשויה להיות מיומנות חשובה במיוחד. כך תסייעו לילדיכם לפתח אותה",
+   "source": "הארץ",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-11-10T11:09:09+00:00"
+  },
+  {
+   "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+   "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+   "summary": "Kyiv, Washington and Moscow have all sent delegations to the United Arab Emirates for the first trilateral talks since February.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-10T09:07:00+00:00"
+  },
+  {
+   "title": "Cop31 live: host Turkey celebrates new oilfields as climate summit enters second day",
+   "link": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
+   "summary": "UN climate summit prepares to host world leaders from more than 90 countries as scientists find global carbon emissions flatlined this year We’ve just heard from Patricia Espinosa , the former UN climate boss (succeeded by Simon Stiell) and now we are hearing from former US secretary of state and climate ambassador, John Kerry. Kerry has congratulated Brazil for keeping the fossil fuel transition ",
    "source": "The Guardian",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-11-09T19:40:45+00:00"
+   "published": "2026-11-10T10:58:28+00:00"
   },
   {
-   "title": "The Nvidia Affair",
-   "link": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
-   "summary": "An illicit relationship between the C.E.O. and an alleged Chinese spy is putting the spotlight on a murky ecosystem of companies smuggling A.I. chips into China.",
-   "source": "NY Times World",
+   "title": "\"יוסי בניון היה בדאון רציני, דחה הצעות בארץ ובחו\"ל\"",
+   "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21820685",
+   "summary": "מאז שנפרד מתפקידו בנבחרות ישראל ב־2024, כוכב העבר ממשיך לברוח מאור הזרקורים • הוא דחה הצעות רבות מקבוצות בארץ, ומכוון למשרה בחו\"ל • כשנתיים וחצי אחרי ששם את הקריירה שלו בצד - אחד הכדורגלנים הגדולים שלנו בכל הזמנים מחשב את עתידו",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-11-10T11:00:27+00:00"
+  },
+  {
+   "title": "‘Double amputees run marathons,’ says Badenoch as she proposes £36bn cuts to disability and other benefits – UK politics live",
+   "link": "https://www.theguardian.com/politics/live/2026/nov/10/badenoch-conservative-welfare-cuts-disability-benefits-burnham-politics-latest-news-updates",
+   "summary": "Conservative leader launches Welfare That Works policy document Badenoch and Whately are now taking questions. Q: [From Rob Powell from Sky News] We are running a report on the Netherlands, where youth unemployment is much lower than in the UK, but the amount they spend on getting people into work is much higher. Do you want to spend more on job training and support?",
+   "source": "The Guardian",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-11-09T22:05:19+00:00"
+   "published": "2026-11-10T11:18:25+00:00"
   },
   {
-   "title": "US agencies unite to combat rogue drone threats nationwide",
-   "link": "https://www.aljazeera.com/news/2026/11/9/us-agencies-unite-to-combat-rogue-drone-threats-nationwide?traffic_source=rss",
-   "summary": "More than $40bn allocated by NATO for counter-drone technologies as US agencies ramp up measures against aerial threats.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-09T19:07:56+00:00"
+   "title": "בפוליטיקה, בהוליווד, במוזיקה, בסלנג: התרבות האיסלאמית נהפכה למיינסטרים באמריקה",
+   "link": "https://www.haaretz.co.il/gallery/galleryfriday/badculture/2026-11-10/ty-article-magazine/.premium/000001a1-c4dd-df80-a9e3-e6fd6c070000",
+   "summary": "ומי שילם את המחיר? אנחנו, הישראלים",
+   "source": "הארץ",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-11-10T10:34:48+00:00"
   },
   {
-   "title": "A Sam Altman parody offers an amusing lesson in memory management",
-   "link": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
-   "summary": "We verified the RAM numbers are real without sending any emails to OpenAI.",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-11-09T20:49:09+00:00"
-  },
-  {
-   "title": "Instagram’s Effect Builder makes new filters from AI prompts",
-   "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
-   "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to attach style […]",
+   "title": "Real Motors’ Project Ares is a cyberpunk fantasy made real",
+   "link": "https://www.theverge.com/transportation/1029837/real-motors-project-ares-electric-motorcycle-first-ride",
+   "summary": "Electrification has done wonderful things for motorcycle design. By getting rid of the engine and the fuel tank that supports it, designers have the freedom to do whatever they want, and the results have been occasionally brilliant. I'm a big fan of the vaguely retrofuturistic stylings of the Maeving RM2 and the quirky minimalism of […]",
    "source": "The Verge",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-11-09T18:07:23+00:00"
+   "published": "2026-11-10T11:00:00+00:00"
   },
   {
-   "title": "יבואנית דרימי בדרך לבורסה לפי שווי של עד מיליארד שקל",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001562635#utm_source=RSS",
-   "summary": "קריסטלינו, המציגה הכנסות של כ־600 מיליון שקל בשנה ורווחיות גבוהה, פועלת ביבוא ושיווק מוצרי חשמל לבית, כלי תחבורה חשמליים ועוד • אשתקד רכשה קרן רקיע שמוביל יוסי בן שלום מחצית ממניות החברה מידי מייסדיה, משפחת אלבז, לפי שווי של כחצי מיליארד שקל",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-11-09T15:42:00+00:00"
+   "title": "France summons Iran’s ambassador over supermarket fridge ‘sabotage’",
+   "link": "https://www.aljazeera.com/news/2026/11/10/france-summons-irans-ambassador-over-supermarket-fridge-sabotage?traffic_source=rss",
+   "summary": "The French government said it is seeking tough sanctions to deter further cyberattacks across Europe.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-10T10:51:02+00:00"
   },
   {
-   "title": "הכרטיסים להצגות חנוכה התייקרו? כך תרכשו אותם בהנחות משמעותיות",
-   "link": "https://www.ynet.co.il/economy/article/yokra14952856",
-   "summary": "מחירי הכרטיסים הרשמיים למופעי הילדים מתייקרים, ומגיעים עד 199 שקלים לפסטיגל וכ-300 שקלים למופעי חו\"ל. במועדוני הצרכנות תמצאו את אותם כרטיסים החל מ-24 שקל. כך נמנעים מתשלום של מאות שקלים למשפחה",
-   "source": "Ynet כלכלה",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-11-09T22:00:00+00:00"
+   "title": "California’s proposed ‘billionaire tax’ fails to pass",
+   "link": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
+   "summary": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists TechCrunch interviewed before the vote were split on whether it would have driven out wealthy residents or just trimmed their fortunes.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-11-10T05:18:43+00:00"
   },
   {
-   "title": "דיווח באיראן: \"המנהיג העליון הורה לסיים את מצב \"לא מלחמה ולא שלום\"",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001562506#utm_source=RSS",
-   "summary": "סוכנות הידיעות IRNA פרסמה את דבריו של נשיא איראן מסעוד פזשכיאן שהכריז: \"אנו יכולים לנהל דיאלוג בכבוד ולסיים את הנושא בכבוד\" • נשיא ארה\"ב דונלד טראמפ ייפגש היום עם ראש ממשלת קטאר; הבהיר כי הוא לא מתכוון להסלים את המלחמה עם איראן: \"אני לא חושב שיש סיבה. הגרעין? הוא קבור מתחת לאלפי טונות של סלעים\" • \"קמפיין החורף\" של חמאס נגד ישראל – ודיון החירום שכינס הרמטכ\"ל",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-11-09T20:52:00+00:00"
+   "title": "Otter AI can now follow conversations across 30+ languages",
+   "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
+   "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-11-10T07:00:00+00:00"
   },
   {
-   "title": "אנבידיה צנחה על רקע פרשת הבגידה של המנכ\"ל; וול סטריט דווקא זינקה",
-   "link": "https://www.ynet.co.il/economy/article/h100dzmkazg",
-   "summary": "הבורסה האמריקנית התאוששה מהירידות של השבוע שעבר, למרות שענקית השבבים ירדה ב-4.3% בסגירה. נאסד\"ק עלה ב-2.7%, S&P500 ב-2.3% ודאו ג'ונס ב-2.2%, מדד הפחד ירד ב-22.5% ומדד השבבים זינק ב-6.9%. מחירי הנפט צללו אחרי שטראמפ אמר שחידוש תקיפות באיראן \"הוא בלתי סביר מאוד\" אם השיחות יתקדמו",
-   "source": "Ynet כלכלה",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-11-09T21:11:56+00:00"
+   "title": "Australia tightens AI oversight rules after OpenAI government breach",
+   "link": "https://www.aljazeera.com/news/2026/11/10/australia-tightens-ai-oversight-rules-after-openai-government-breach?traffic_source=rss",
+   "summary": "The decision comes after ​an OpenAI agent breached ​an Australian government website in June.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-10T07:05:11+00:00"
   },
   {
-   "title": "Poundland unable to buy new stock as fears over collapse grow",
-   "link": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss",
-   "summary": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
+   "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+   "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
+   "summary": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
    "source": "BBC Business",
    "lang": "en",
    "topic": "business",
    "rtl": false,
-   "published": "2026-11-09T16:46:40+00:00"
+   "published": "2026-11-10T09:57:49+00:00"
+  },
+  {
+   "title": "ב-110 מיליון שקל: ארי נדל\"ן בוחנה רכישת הקרקע של אדמה בבאר שבע ב-110 מיליון שקל",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001562727#utm_source=RSS",
+   "summary": "המתחם, ששימש במשך שנים לפעילות התעשייתית של אדמה, מוגדר כקרקע מזוהמת, כאשר סוגיית הזיהום נותרת חלק מהותי בעסקה • מכירת המתחם הייתה חלק מתוכנית רחבה יותר של אדמה לשנות את פעילותה",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-11-10T10:15:00+00:00"
+  },
+  {
+   "title": "אושר הסכם פשרה בפרשת ההשקעות במאות מיליוני שקלים בנכסים בגרמניה",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001562719#utm_source=RSS",
+   "summary": "ביהמ\"ש הכלכלי בת\"א נתן תוקף להסכם הפשרה בין משקיעי חברת MHR1 • ההסכם מסיים את המחלוקות העיקריות בין הצדדים ומסדיר מנגנון משותף למימוש נכסי הנדל\"ן בגרמניה בהיקף של כ-100 מיליון אירו",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-11-10T09:58:00+00:00"
+  },
+  {
+   "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
+   "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+   "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
+   "source": "BBC Business",
+   "lang": "en",
+   "topic": "business",
+   "rtl": false,
+   "published": "2026-11-10T09:23:55+00:00"
+  },
+  {
+   "title": "Here’s what Trump said he knew about Jensen Huang",
+   "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+   "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"​​unfaithful\" to his wife, and the company has opened an investigation into Huang. Recent articles from The New […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-11-09T23:47:46+00:00"
+  },
+  {
+   "title": "למרות הסתבכויותיו באירופה: בנק חדש הוקם בישראל",
+   "link": "https://www.ynet.co.il/economy/article/s1y75ol0ze",
+   "summary": "בנק ישראל אישר את הקמת רבולוט - הבנק השלישי בלבד שקיבל היתר ב-40 שנים האחרונות. קבוצות Revolut נמצאת תחת מגבלות מחמירות של הבנק המרכזי האירופי, שדרש ממנה למנות גורם בלתי תלוי שיבחן את ניהול הסיכונים שלה. בנוסף, אישרה לאחרונה שמידע רגיש של לקוחות, כולל העתקי דרכונים, נחשף בעקבות הונאה",
+   "source": "Ynet כלכלה",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-11-10T11:21:57+00:00"
+  },
+  {
+   "title": "אנת'רופיק השיקה שני מודלים חדשים שמדאיגים גם את המפתחים שלהם",
+   "link": "https://www.ynet.co.il/digital/technews/article/sjgbs4xazg",
+   "summary": "ענקית ה-AI חשפה שני מודלים חדשים של קלוד, שלטענתה מסוגלים לפתח מערכות הפעלה, לתכנן מכשירים אלקטרוניים ולפתור בעיות מורכבות בפיזיקה. אלא שלצד ההישגים המרשימים, גם בחברה מודים שהיכולות החדשות מציבות אתגרי בטיחות",
+   "source": "Ynet טכנולוגיה",
+   "lang": "he",
+   "topic": "tech",
+   "rtl": true,
+   "published": "2026-11-10T08:53:21+00:00"
   }
  ]
 }
