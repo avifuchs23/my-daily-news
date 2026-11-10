@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-10T11:28:48.105135+00:00",
- "generated_display": "Tuesday, 10 November 2026 · 13:28",
+ "generated_at": "2026-11-10T20:38:37.876491+00:00",
+ "generated_display": "Tuesday, 10 November 2026 · 22:38",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,264 +23,264 @@
  },
  "stories": [
   {
-   "title": "WATCH: Six injured after extremist Israeli settlers attack peace activist rabbis in West Bank",
-   "link": "https://www.jpost.com/israel-news/article-914444",
-   "summary": "The settlers, who the activists said were armed with clubs, descended the hill and began their attack once IDF soldiers arrived on the scene.",
+   "title": "A single social media hack could cost millions, Spikerz warns at TAU Cyber Week - interview",
+   "link": "https://www.jpost.com/business-and-innovation/article-914506",
+   "summary": "Speaking to The Jerusalem Post, Ben Dor said social media accounts have become one of the most overlooked vulnerabilities in corporate cybersecurity.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-11-10T12:35:06+00:00"
+   "published": "2026-11-10T20:48:51+00:00"
   },
   {
-   "title": "Eisenkot-led bloc taps Yashar's Kahana for Knesset speaker, Liberman to head key defense panel",
-   "link": "https://www.jpost.com/israel-election-2026/article-914426",
-   "summary": "Liberman to chair Foreign Affairs and Defense Committee, which oversees legislation related to IDF conscription • B'Yachad's Liran Avisar Ben-Horin to become first female head of Finance Committee",
+   "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+   "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+   "summary": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-11-10T18:49:52+00:00"
+  },
+  {
+   "title": "נאום בלהות של אדם שלא יודע להפסיד: נתניהו יירד מהבמה כשלהביור בידו",
+   "link": "https://www.israelhayom.co.il/news/politics/article/21824972",
+   "summary": "נאומו של נתניהו בכנסת היה נאומו של אדם שמרגיש את השלטון חומק מבין אצבעותיו • במקום להתמודד עם מחדל שבעה באוקטובר ועם פרשת קטארגייט, הוא דורש לחקור את הבחירות ומסרב להכיר באפשרות שסופו הפוליטי מתקרב • אם ייאלץ להיפרד מהשלטון, הוא עלול להשאיר אחריו מדינה שסועה, רחובות בוערים וחברה ישראלית שהשנאה אוכלת בה כל חלקה טובה",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-11-10T19:40:36+00:00"
+  },
+  {
+   "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+   "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+   "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-11-10T19:23:34+00:00"
+  },
+  {
+   "title": "Maldives moves to enact permanent ban on Israeli passport holders, blocks Israeli investment",
+   "link": "https://www.jpost.com/international/article-914500",
+   "summary": "President Muizzu explained that earlier proposals sought to prohibit entry \"until Israel halted the genocide that began following 7 October 2023.\"",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-11-10T10:05:07+00:00"
+   "published": "2026-11-10T19:46:26+00:00"
   },
   {
-   "title": "\"לפוצץ את תל אביב\" והגנה על בני חמולת פשע מחאן יונס: שערוריות השמאל הקיצוני בברלין",
-   "link": "https://www.ynet.co.il/news/article/h1lirelrmx",
-   "summary": "מפלגת די לינקה ניצחה בבחירות בבירת גרמניה, אחרי שהניפה בקמפיין את דגל המאבק הפלסטיני, אך מאז מתקשה לעלות לשלטון - ובדרך מצטברות עדויות רבות על קשריה לתומכי חמאס ולחמולות פשע. מנהיגת המפלגה \"מפחדת\" מהם, חברת פרלמנט שחזרה בה מהכרה בזכות הקיום של ישראל מסרבת לפרוש - וראש שבט רמו שאחראי למקרי שוד חמורים העיד: \"סוף-סוף מצאתי מפלגה שמייצגת אותי\"",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-10T09:10:15+00:00"
-  },
-  {
-   "title": "Australia Unveils New A.I. Regulator After OpenAI Breach",
-   "link": "https://www.nytimes.com/2026/11/10/world/australia/ai-regulator-openai-hack-medicare.html",
-   "summary": "The government is also considering changes to criminal law to penalize companies that develop models that “engage in harmful conduct.”",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-10T11:01:06+00:00"
-  },
-  {
-   "title": "France Blames Iran for Cyberattack on Refrigeration Systems",
-   "link": "https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html",
-   "summary": "The French foreign minister said he had summoned the Iranian ambassador to France after a cyberattack on hundreds of supermarkets last month. Iran did not immediately respond.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-10T10:08:24+00:00"
-  },
-  {
-   "title": "צה\"ל ירה לעבר זורקי אבנים באזור שכם, הפלסטינים: בן 14 נהרג",
-   "link": "https://www.ynet.co.il/news/article/hkaryelcge",
-   "summary": "כוחות פתחו באש לאחר שזיהו \"מחבלים שהתכוונו לזרוק אבנים לעבר כביש שמהיר שבו נסעו ישראלים\", כך לפי צה\"ל. הפלסטינים טענו כי מהירי נהרג נער בכפר בורקה שבאזור שכם",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-10T06:12:05+00:00"
-  },
-  {
-   "title": "לא יקבל שקל: דרעי שוב פרש מהכנסת - והפעם ללא מענק הסתגלות",
-   "link": "https://www.israelhayom.co.il/news/politics/article/21820178",
-   "summary": "על כהונתו האחרונה היה דרעי אמור לקבל כ-156 אלף שקל, אבל הוא כבר מיצה את התקרה שקבעה הכנסת - תשע משכורות במצטבר לאורך חייו • הוא ימשיך לעמוד בראש ש״ס, שירדה מ-11 לשישה מנדטים",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-10T10:06:02+00:00"
-  },
-  {
-   "title": "Trump says more US attacks on Iran 'highly unlikely'",
-   "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-   "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-10T09:40:31+00:00"
-  },
-  {
-   "title": "ה-AI יענה לילדים שלכם על הכול. אתם רק צריכים ללמד אותם איך לשאול",
-   "link": "https://www.haaretz.co.il/family/2026-11-10/ty-article-magazine/.premium/000001a1-2fd4-d7b2-a1a3-7ffd4c2c0000",
-   "summary": "אנחנו מלמדים את ילדינו להגיע לתשובה הנכונה, אך בעולם שבו בינה מלאכותית יכולה לספק תשובה בתוך שניות, שאילת שאלות עשויה להיות מיומנות חשובה במיוחד. כך תסייעו לילדיכם לפתח אותה",
+   "title": "נתניהו השתלח במפלגות הערביות בהשבעת הכנסת וקרא שוב לממשלת אחדות",
+   "link": "https://www.haaretz.co.il/news/elections/2026-11-10/ty-article/.premium/000001a1-c643-d0f7-adfb-f763f8b00000",
+   "summary": "בנאומו לאחר טקס ההשבעה, קרא רה\"מ לחקור \"עד תום\" את החשדות להשפעה זרה בבחירות. בנט התפרץ: \"מה עם היועצים הקטארים בלשכה שלך?\", גולן וסגלוביץ יצאו במחאה. עבאס: דוגלים בשלום, הגדרנו את עצמנו בתוך מדינת ישראל",
    "source": "הארץ",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-11-10T11:09:09+00:00"
+   "published": "2026-11-10T17:36:39+00:00"
   },
   {
-   "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-   "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-   "summary": "Kyiv, Washington and Moscow have all sent delegations to the United Arab Emirates for the first trilateral talks since February.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-10T09:07:00+00:00"
+   "title": "האינפלציה בארה\"ב הפתיעה לרעה. האם היא תרחיק את הורדת הריבית בישראל?",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001562858#utm_source=RSS",
+   "summary": "מדד המחירים האמריקאי עלה מעבר לתחזיות וחיזק את ההערכות להעלאת ריבית נוספת בדצמבר • במזרחי טפחות מזהירים מפני ההשלכות על החלטת בנק ישראל, ובדיסקונט מצביעים על גורם נוסף שמשפיע על השקל בעוצמה חריגה בהשוואה למטבעות אחרים",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-11-10T15:59:00+00:00"
   },
   {
-   "title": "Cop31 live: host Turkey celebrates new oilfields as climate summit enters second day",
-   "link": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
-   "summary": "UN climate summit prepares to host world leaders from more than 90 countries as scientists find global carbon emissions flatlined this year We’ve just heard from Patricia Espinosa , the former UN climate boss (succeeded by Simon Stiell) and now we are hearing from former US secretary of state and climate ambassador, John Kerry. Kerry has congratulated Brazil for keeping the fossil fuel transition ",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-10T10:58:28+00:00"
-  },
-  {
-   "title": "\"יוסי בניון היה בדאון רציני, דחה הצעות בארץ ובחו\"ל\"",
-   "link": "https://www.israelhayom.co.il/sport/israeli-soccer/article/21820685",
-   "summary": "מאז שנפרד מתפקידו בנבחרות ישראל ב־2024, כוכב העבר ממשיך לברוח מאור הזרקורים • הוא דחה הצעות רבות מקבוצות בארץ, ומכוון למשרה בחו\"ל • כשנתיים וחצי אחרי ששם את הקריירה שלו בצד - אחד הכדורגלנים הגדולים שלנו בכל הזמנים מחשב את עתידו",
-   "source": "ישראל היום",
+   "title": "ליברמן: אזמן את ראש השב\"כ והמפכ\"ל לדיון בכנסת על פרשת הבחירות",
+   "link": "https://www.ynet.co.il/news/article/bjm2cfxczx",
+   "summary": "יו\"ר ישראל ביתנו שעתיד להתמנות ליו\"ר ועדת חוץ וביטחון אמר כי \"יש פער לא סביר\" בין השניים, שלדבריו צריך ליישב",
+   "source": "Ynet חדשות",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-11-10T11:00:27+00:00"
+   "published": "2026-11-10T12:34:21+00:00"
   },
   {
-   "title": "‘Double amputees run marathons,’ says Badenoch as she proposes £36bn cuts to disability and other benefits – UK politics live",
-   "link": "https://www.theguardian.com/politics/live/2026/nov/10/badenoch-conservative-welfare-cuts-disability-benefits-burnham-politics-latest-news-updates",
-   "summary": "Conservative leader launches Welfare That Works policy document Badenoch and Whately are now taking questions. Q: [From Rob Powell from Sky News] We are running a report on the Netherlands, where youth unemployment is much lower than in the UK, but the amount they spend on getting people into work is much higher. Do you want to spend more on job training and support?",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-10T11:18:25+00:00"
-  },
-  {
-   "title": "בפוליטיקה, בהוליווד, במוזיקה, בסלנג: התרבות האיסלאמית נהפכה למיינסטרים באמריקה",
-   "link": "https://www.haaretz.co.il/gallery/galleryfriday/badculture/2026-11-10/ty-article-magazine/.premium/000001a1-c4dd-df80-a9e3-e6fd6c070000",
-   "summary": "ומי שילם את המחיר? אנחנו, הישראלים",
+   "title": "השתוללות נתניהו בכנסת שברה שיאים. הוא יודע שאין לו עוד תחמושת",
+   "link": "https://www.haaretz.co.il/news/elections/2026-11-10/ty-article/.highlight/000001a1-c6b3-d29f-afb5-d7f3ed3d0000",
+   "summary": "הנאום של ראש הממשלה בטרקלין שאגאל מצטרף לפנתאון המתעד את הרס הדמוקרטיה הישראלית בידי ראש ממשלה חסר מעצורים ומסוכן. כשהשלטון נשמט מידיו, לא נותרו לו אלא ההסתה, ההשתלחות והשיסוי כמוצא אחרון",
    "source": "הארץ",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-11-10T10:34:48+00:00"
+   "published": "2026-11-10T19:38:33+00:00"
   },
   {
-   "title": "Real Motors’ Project Ares is a cyberpunk fantasy made real",
-   "link": "https://www.theverge.com/transportation/1029837/real-motors-project-ares-electric-motorcycle-first-ride",
-   "summary": "Electrification has done wonderful things for motorcycle design. By getting rid of the engine and the fuel tank that supports it, designers have the freedom to do whatever they want, and the results have been occasionally brilliant. I'm a big fan of the vaguely retrofuturistic stylings of the Maeving RM2 and the quirky minimalism of […]",
+   "title": "נתניהו תקף את שיתוף הפעולה עם המפלגות הערביות - בנט התפרץ",
+   "link": "https://www.israelhayom.co.il/news/politics/article/21823232",
+   "summary": "ראש הממשלה טען בנאומו בכנסת כי רע\"מ והרשימה המשותפת שוללות את זכות קיומה של ישראל כמדינה יהודית: \"רוצים להקים מדינה על חורבות ישראל\" • נתניהו קרא להסיר את המגבלות על חקירת החשדות למעורבות זרה בבחירות, והזהיר מפני חידוש האיום האיראני: \"הדרך היחידה להסירו לצמיתות היא הפלת משטר האייתוללות\" • איזנקוט: \"נאום מפלג ומלא שנאה\"",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-11-10T15:31:38+00:00"
+  },
+  {
+   "title": "איזנקוט ולפיד בבליץ חקיקה: \"נפעל לתיקון מדינת ישראל\" | אלו ההצעות שהוגשו",
+   "link": "https://www.ynet.co.il/news/article/skg5qhgrzg",
+   "summary": "עם פתיחת הכנסת ה-26, ולפני שהוקמה ממשלה חדשה, הגישה סיעת ישר! שורת הצעות חוק - ובהן הקמת ועדת חקירה ממלכתית ל-7/10, הגבלת כהונת רה\"מ וביטול חוקי המהפכה המשפטית. במקביל, לפיד מקדם את עיגון מגילת העצמאות בחוק יסוד והסדרת ברית זוגיות: \"נמשיך להיות הקול של הציבור הליברלי בכנסת\"",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-11-10T16:14:25+00:00"
+  },
+  {
+   "title": "The US is winning the AI race. Jensen Huang could have blown it",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+   "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people. He also wears a cool leather jacket. Which makes […]",
    "source": "The Verge",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-11-10T11:00:00+00:00"
+   "published": "2026-11-10T19:04:05+00:00"
   },
   {
-   "title": "France summons Iran’s ambassador over supermarket fridge ‘sabotage’",
-   "link": "https://www.aljazeera.com/news/2026/11/10/france-summons-irans-ambassador-over-supermarket-fridge-sabotage?traffic_source=rss",
-   "summary": "The French government said it is seeking tough sanctions to deter further cyberattacks across Europe.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-10T10:51:02+00:00"
-  },
-  {
-   "title": "California’s proposed ‘billionaire tax’ fails to pass",
-   "link": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
-   "summary": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists TechCrunch interviewed before the vote were split on whether it would have driven out wealthy residents or just trimmed their fortunes.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-11-10T05:18:43+00:00"
-  },
-  {
-   "title": "Otter AI can now follow conversations across 30+ languages",
-   "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
-   "summary": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-11-10T07:00:00+00:00"
-  },
-  {
-   "title": "Australia tightens AI oversight rules after OpenAI government breach",
-   "link": "https://www.aljazeera.com/news/2026/11/10/australia-tightens-ai-oversight-rules-after-openai-government-breach?traffic_source=rss",
-   "summary": "The decision comes after ​an OpenAI agent breached ​an Australian government website in June.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-10T07:05:11+00:00"
-  },
-  {
-   "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
-   "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
-   "summary": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
-   "source": "BBC Business",
-   "lang": "en",
-   "topic": "business",
-   "rtl": false,
-   "published": "2026-11-10T09:57:49+00:00"
-  },
-  {
-   "title": "ב-110 מיליון שקל: ארי נדל\"ן בוחנה רכישת הקרקע של אדמה בבאר שבע ב-110 מיליון שקל",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001562727#utm_source=RSS",
-   "summary": "המתחם, ששימש במשך שנים לפעילות התעשייתית של אדמה, מוגדר כקרקע מזוהמת, כאשר סוגיית הזיהום נותרת חלק מהותי בעסקה • מכירת המתחם הייתה חלק מתוכנית רחבה יותר של אדמה לשנות את פעילותה",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-11-10T10:15:00+00:00"
-  },
-  {
-   "title": "אושר הסכם פשרה בפרשת ההשקעות במאות מיליוני שקלים בנכסים בגרמניה",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001562719#utm_source=RSS",
-   "summary": "ביהמ\"ש הכלכלי בת\"א נתן תוקף להסכם הפשרה בין משקיעי חברת MHR1 • ההסכם מסיים את המחלוקות העיקריות בין הצדדים ומסדיר מנגנון משותף למימוש נכסי הנדל\"ן בגרמניה בהיקף של כ-100 מיליון אירו",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-11-10T09:58:00+00:00"
-  },
-  {
-   "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
-   "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
-   "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
-   "source": "BBC Business",
-   "lang": "en",
-   "topic": "business",
-   "rtl": false,
-   "published": "2026-11-10T09:23:55+00:00"
-  },
-  {
-   "title": "Here’s what Trump said he knew about Jensen Huang",
-   "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
-   "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"​​unfaithful\" to his wife, and the company has opened an investigation into Huang. Recent articles from The New […]",
+   "title": "ChatGPT is getting verified AI ‘Business Agents’",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+   "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta. You […]",
    "source": "The Verge",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-11-09T23:47:46+00:00"
+   "published": "2026-11-10T18:00:00+00:00"
   },
   {
-   "title": "למרות הסתבכויותיו באירופה: בנק חדש הוקם בישראל",
-   "link": "https://www.ynet.co.il/economy/article/s1y75ol0ze",
-   "summary": "בנק ישראל אישר את הקמת רבולוט - הבנק השלישי בלבד שקיבל היתר ב-40 שנים האחרונות. קבוצות Revolut נמצאת תחת מגבלות מחמירות של הבנק המרכזי האירופי, שדרש ממנה למנות גורם בלתי תלוי שיבחן את ניהול הסיכונים שלה. בנוסף, אישרה לאחרונה שמידע רגיש של לקוחות, כולל העתקי דרכונים, נחשף בעקבות הונאה",
+   "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
+   "link": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o?at_medium=RSS&at_campaign=rss",
+   "summary": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of it's pre-war population remaining.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-10T18:35:35+00:00"
+  },
+  {
+   "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+   "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+   "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-10T18:33:51+00:00"
+  },
+  {
+   "title": "Gaza Floods Kill 4",
+   "link": "https://www.nytimes.com/2026/11/10/world/middleeast/gaza-flooding-israel.html",
+   "summary": "At least four people from one family died and thousands lost their shelters when a storm battered overcrowded tent camps. Israel says Gaza will not be rebuilt until Hamas disarms.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-10T19:24:50+00:00"
+  },
+  {
+   "title": "Russia-Ukraine talks ‘very productive,’ says US’s Rubio – as it happened",
+   "link": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
+   "summary": "US-led talks in Abu Dhabi break up after four hours but are expected to resume tomorrow as Zelenskyy says humanitarian issues were discussed US officials seek ‘final end’ to Russia-Ukraine war as talks begin The EU has said it stands ready “to come with a swift and united response” after France blamed Iran for a spate of cyber-attacks on supermarket freezers and chillers that caused millions of eu",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-10T17:05:05+00:00"
+  },
+  {
+   "title": "Israeli president warns against repeat election in new Knesset session",
+   "link": "https://www.aljazeera.com/news/2026/11/10/israeli-president-warns-against-repeat-election-in-new-knesset-session?traffic_source=rss",
+   "summary": "Herzog calls for an inquiry into the October 7 attacks during a Knesset session amid political gridlock following elections.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-10T17:16:15+00:00"
+  },
+  {
+   "title": "Israeli Opposition Pushes for Oct. 7 Inquiry at First Session of New Parliament",
+   "link": "https://www.nytimes.com/2026/11/10/world/middleeast/israel-parliament-eisenkot.html",
+   "summary": "Dozens of first-time lawmakers were sworn into the Knesset, where the opposition, led by Gadi Eisenkot, now has a majority.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-10T19:56:08+00:00"
+  },
+  {
+   "title": "Thomas Markle, Meghan’s father, cut off his ankle monitor, DoJ says",
+   "link": "https://www.theguardian.com/us-news/2026/nov/10/thomas-markle-ankle-monitor",
+   "summary": "Estranged father of Duchess of Sussex was arrested for keeping child sexual abuse material, authorities say The 82-year-old estranged father of Meghan, the Duchess of Sussex, cut an electronic monitoring device off his ankle, just days after his arrest for keeping child sexual abuse material in storage units in California, authorities said on Tuesday. Thomas Markle was in custody awaiting a hearin",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-10T20:08:10+00:00"
+  },
+  {
+   "title": "TV anchor found dead with gunshot wound to head, officials arrest husband",
+   "link": "https://www.foxnews.com/world/tv-anchor-found-dead-gunshot-wound-head-officials-arrest-husband",
+   "summary": "The broadcaster’s husband claimed he was playing with a firearm when it discharged inside their home, according to a provincial official",
+   "source": "Fox News World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-10T19:59:04+00:00"
+  },
+  {
+   "title": "עם מנכ\"לית בראש: סטארטאפ הסייבר הישראלי שגייס 50 מיליון דולר",
+   "link": "https://www.ynet.co.il/economy/article/b1qdvgj0me",
+   "summary": "Bay נחשפת תשעה חודשים לאחר שהוקמה כדי למנוע פעולות מסוכנות של סוכני AI בארגונים. בין המשקיעים גם אסף רפפורט. המייסדים: יובל זכריה, ענר מורג ובוריס דנילוביץ'. החברה מעסיקה כ-35 עובדים, רובם בישראל",
    "source": "Ynet כלכלה",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-11-10T11:21:57+00:00"
+   "published": "2026-11-10T13:13:38+00:00"
   },
   {
-   "title": "אנת'רופיק השיקה שני מודלים חדשים שמדאיגים גם את המפתחים שלהם",
-   "link": "https://www.ynet.co.il/digital/technews/article/sjgbs4xazg",
-   "summary": "ענקית ה-AI חשפה שני מודלים חדשים של קלוד, שלטענתה מסוגלים לפתח מערכות הפעלה, לתכנן מכשירים אלקטרוניים ולפתור בעיות מורכבות בפיזיקה. אלא שלצד ההישגים המרשימים, גם בחברה מודים שהיכולות החדשות מציבות אתגרי בטיחות",
-   "source": "Ynet טכנולוגיה",
+   "title": "אחרי פרסום האינפלציה: ירידות בוול סטריט, אנבידיה ממשיכה לצנוח",
+   "link": "https://www.ynet.co.il/economy/article/hjzxzalrze",
+   "summary": "מדד אוקטובר מאכזב משפיע על הירידות, שכן הצפי הוא להעלאת ריבית בקרוב. המדדים המובילים יורדים בעד 1.5%. הבגידה של מנכ\"ל אנבידיה ממשיכה להשפיע לרעה על מניית החברה, שיורדת בכ-6%",
+   "source": "Ynet כלכלה",
    "lang": "he",
-   "topic": "tech",
+   "topic": "business",
    "rtl": true,
-   "published": "2026-11-10T08:53:21+00:00"
+   "published": "2026-11-10T17:46:08+00:00"
+  },
+  {
+   "title": "בלי ישראלים, עם \"דוכן פלסטין\" וחיבוק לסין - כנס ההייטק בפורטוגל שמחולל סערה",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001562899#utm_source=RSS",
+   "summary": "כנס Web Summit בליסבון נפתח ללא השתתפות ישראלית, לאחר החרם שהחל בעקבות התבטאויות מייסדו נגד ישראל אחרי 7 באוקטובר • השנה בלטו בכנס נוכחות סינית משמעותית, תמיכה פומבית במשלחת הפלסטינית ודוכן שהוקדש לחברות פלסטיניות • לצד חזרתן של ענקיות הטכנולוגיה גוגל, מטא ואפל כנותנות חסות, נמשכת המחלוקת סביב עמדותיו וקשריו של מייסד הכנס פאדי קוסגרייב",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-11-10T18:12:00+00:00"
+  },
+  {
+   "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+   "link": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+   "summary": "The new model is up to twice as successful at some tasks.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-11-10T15:00:39+00:00"
+  },
+  {
+   "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+   "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+   "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
+   "source": "BBC Business",
+   "lang": "en",
+   "topic": "business",
+   "rtl": false,
+   "published": "2026-11-10T17:56:12+00:00"
   }
  ]
 }
