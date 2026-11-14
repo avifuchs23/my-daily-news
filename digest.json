@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-14T10:45:02.018287+00:00",
- "generated_display": "Saturday, 14 November 2026 · 12:45",
+ "generated_at": "2026-11-14T18:53:09.718864+00:00",
+ "generated_display": "Saturday, 14 November 2026 · 20:53",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,234 +23,244 @@
  },
  "stories": [
   {
-   "title": "More than meets the eye: Israel Music Showcase Festival brings out the best of the best",
-   "link": "https://www.jpost.com/israel-news/culture/article-914664",
-   "summary": "The 2026 edition takes place November 17-22, at various venues around Jerusalem and Tel Aviv, with a whopping 50 shows lined up for the six-day event, including free admission slots.",
-   "source": "Jerusalem Post",
-   "lang": "en",
-   "topic": "israel",
-   "rtl": false,
-   "published": "2026-11-14T08:44:52+00:00"
-  },
-  {
-   "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-   "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-   "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-14T10:30:38+00:00"
-  },
-  {
-   "title": "Why Washington's efforts to weaken Iran's influence in Iraq may be doomed to fail",
-   "link": "https://www.jpost.com/middle-east/iran-news/article-914729",
-   "summary": "BEHIND THE LINES: The United States seems to be looking for short-term quiet in return for a tacit acknowledgment of Iran’s ascendant position in Iraq.",
-   "source": "Jerusalem Post",
-   "lang": "en",
-   "topic": "israel",
-   "rtl": false,
-   "published": "2026-11-14T11:15:42+00:00"
-  },
-  {
-   "title": "נזק של 7,000,000,000 דולר: הסתיימה תקלת הענק מיקרוסופט",
-   "link": "https://www.israelhayom.co.il/tech/tech-news/article/21848698",
-   "summary": "לאחר יותר מ-24 שעות שבהן שיתקה את הדואר האלקטרוני והתקשורת העסקית ביותר מ-70 מדינות, הודיעה מיקרוסופט על סיום התקלה וחזרה מלאה לפעילות • החברה התנצלה, שללה מתקפת סייבר או כשל AI וחשפה את הסיבה האמיתית לקריסה - שעלולה לעלות לכלכלה העולמית לפחות 7 מיליארד דולר",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-14T10:02:55+00:00"
-  },
-  {
-   "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-   "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-   "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
    "source": "TechCrunch",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-11-13T22:43:00+00:00"
+   "published": "2026-11-14T17:30:00+00:00"
   },
   {
-   "title": "Trump’s Oil Grab in Venezuela Is Testing the Country’s National Identity",
-   "link": "https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html",
-   "summary": "Long-held beliefs in Venezuela about sovereign control over oil are fraying as the U.S. lays claim to the country’s oil reserves.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-14T10:10:01+00:00"
-  },
-  {
-   "title": "What we know about the ground stop and what to do if you're affected",
-   "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-   "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-14T07:42:11+00:00"
-  },
-  {
-   "title": "הופעה כמו של דני אבדיה לא ראינו העונה ב-NBA - מאף שחקן",
-   "link": "https://www.israelhayom.co.il/sport/world-basketball/article/21848324",
-   "summary": "אף שחקן שקלע 30 נקודות ומעלה העונה לא עשה זאת ביעילות גבוהה יותר מ-34 הנקודות של הישראלי ב-107:120 של פורטלנד על סקרמנטו • הפורוורד מרוצה משיתוף הפעולה עם דמיאן לילארד, ובארצות הברית מודים: \"זו עדיין הקבוצה של דני\"",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-14T07:13:17+00:00"
-  },
-  {
-   "title": "סוף עידן הצבר: פרופ' עוז אלמוג קובע שישראל הגיעה לנקודת אל-חזור וממליץ לרדת מהארץ",
-   "link": "https://www.walla.co.il/news/israel/383960980",
-   "summary": "ספרו החדש של פרופ' עוז אלמוג, \"ארץ נעדרת: האם זה הזמן לעזוב את ישראל?\" (הוצאת \"יצירה עברית\", 2026), מנחית מכת גרזן אינטלקטואלית על אחד הטאבואים העמוקים והמקודשים ביותר של האתוס הציוני – שאלת הירידה מן הארץ. אלמוג, מחברם של מחקרי יסוד כמו \"הצבר — דיוקן\" ו\"פרידה משרוליק\" (עם אשתו ד\"ר תמר אלמוג), אם תרצו - על עלייתה ושקיעתה של התרבות הציונית, מעמיד הפעם מניפסט חריף ונוקב, שבו הוא מנתח את קריסתה המערכ",
-   "source": "וואלה",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-14T09:27:32+00:00"
-  },
-  {
-   "title": "Guardian to follow lives of eight young people in their search for work",
-   "link": "https://www.theguardian.com/business/2026/nov/14/guardian-young-people-search-for-work",
-   "summary": "How long will it take? What challenges will they face? Series to shine light on one of biggest crises facing UK ‘The social contract is broken’: young people on feeling shut out of careers Britain is at risk of creating a lost generation. Across the country, almost a million young people – one in eight – are struggling to make the leap from school to the world of work on a lasting basis. Before th",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-14T10:00:42+00:00"
-  },
-  {
-   "title": "Here’s the latest.",
-   "link": "https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa",
-   "summary": "Trump administration officials blamed a telecommunication outage but said they said did not know its cause.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-14T07:15:20+00:00"
-  },
-  {
-   "title": "Immersive show brings Kyffin Williams’ rugged Welsh landscapes to life",
-   "link": "https://www.theguardian.com/artanddesign/2026/nov/14/sir-kyffin-williams-artist-immersive-exhibition-national-library-wales-aberystwyth",
-   "summary": "Paintings by one of country’s most important artists have been animated and set to music at National Library of Wales The paintings of artists such as Vincent van Gogh, Paul Cézanne and David Hockney have been brought to life in all-singing, all-dancing immersive shows in recent years. Now one of Wales’s most important artists, Sir Kyffin Williams , known for capturing the spectacular landscapes o",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-14T09:00:39+00:00"
-  },
-  {
-   "title": "דני אבדיה קלע שיא עונתי של 34 נקודות, פורטלנד ניצחה את סקרמנטו",
-   "link": "https://www.haaretz.co.il/sport/nba/2026-11-14/ty-article/000001a1-d919-ddc9-abb7-dddbd5880000",
-   "summary": "הפורוורד הישראלי סיים עם 11 מ-13 מהשדה והוביל את הבלייזרס לניצחון שלישי ברציפות שהעלה אותם למאזן 3:9. דמיאן לילארד תרם 29 נקודות משלו",
+   "title": "האיחוד האירופי ו־18 מדינות מוסלמיות התריעו מפני אסון הומניטרי ברצועה",
+   "link": "https://www.haaretz.co.il/news/politics/2026-11-14/ty-article/.premium/000001a1-da29-da30-a7fb-dabde26a0000",
+   "summary": "מדינות האיחוד ושורת מדינות מוסלמיות גם גינו, בשתי הודעות נפרדות, את תקיפת צה\"ל על בית החולים נאסר בחאן יונס. הן קראו לישראל להסיר את המגבלות על הכנסת סיוע לרצועה לקראת החורף",
    "source": "הארץ",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-11-14T07:06:00+00:00"
+   "published": "2026-11-14T15:53:05+00:00"
   },
   {
-   "title": "מתחת לרדאר של השוק: \"הלמבורגיני הסינית\" נוחתת בישראל ב-150 אלף שקלים",
-   "link": "https://www.maariv.co.il/breaking-news/article-1388167",
-   "summary": "",
-   "source": "מעריב",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-14T04:42:00+00:00"
-  },
-  {
-   "title": "\"שעה של צרחות שאתה אידיוט\": מאחורי הנפילה של מנכ\"ל אנבידיה | פרטים חדשים",
-   "link": "https://www.ynet.co.il/news/article/r18j3us0ml",
-   "summary": "הטלטלה בענקית השבבים: מחבר הביוגרפיה על ג'נסן הואנג תיאר כיצד המייסד שהתפטר אחרי 33 שנה \"עבד\" בלהיראות צנוע, גם עם טיפ של 1,000 דולר במסעדה פשוטה - ובאותה נשימה מתפוצץ וצורח, לעיתים במשך יותר משעה. ב\"וול סטריט ג'ורנל\" דווח כיצד זלזל במי שנכנסה לנעליו בעקבות הסערה",
+   "title": "נתניהו קורא למו\"מ \"בלי תנאים מוקדמים\". איזנקוט: כבר נקבעה פגישה למחר, זה ספין",
+   "link": "https://www.ynet.co.il/news/article/b19v4mirfe",
+   "summary": "בנאום מוקלט אמר רה\"מ כי איראן \"לא תהסס להשתמש בנשק גרעיני\", וכי שיחת העדכון הביטחוני עם איזנקוט \"חיזקה אצלי את ההבנה כמה הכרחי להקים בעת הזו ממשלת אחדות עם כל המפלגות שתומכות בקיומה של מדינת ישראל כמדינת העם היהודי\". איזנקוט חשף בתגובה שכבר נקבעה למחר פגישת מו\"מ עם הליכוד: \"המבחן - ביום שלישי, שיתמכו בבחירת כהנא כיו\"ר הכנסת ויוכיחו שהם רציניים\"",
    "source": "Ynet חדשות",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-11-14T09:30:34+00:00"
+   "published": "2026-11-14T18:17:52+00:00"
   },
   {
-   "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-   "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card […]",
-   "source": "The Verge",
+   "title": "המסר של הרב הירש מסבך את איזנקוט - ומציב דילמה בפני דרעי",
+   "link": "https://www.israelhayom.co.il/news/politics/article/21850711",
+   "summary": "המנהיג הליטאי התבטא מספר פעמים בשבועיים האחרונים נגד הקמת ממשלה שתישען על תמיכת המפלגות הערביות: \"סכנה לכלל ישראל\" • בגוש השינוי מתקשים להגיע לרוב של 61 חברי כנסת ללא הסיעות הללו, והקמת קואליציה שאינה תלויה בהן מחייבת למעשה את הצטרפותה של ש\"ס • אלא שהמפלגה החרדית ממשיכה להצהיר על נאמנות לנתניהו ולגוש הימין",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-11-14T17:45:11+00:00"
+  },
+  {
+   "title": "האינפלציה לא צפויה לעלות מחר - אז למה בנק ישראל לא יוריד את הריבית?",
+   "link": "https://www.ynet.co.il/economy/article/skstpqs0zl",
+   "summary": "מדד המחירים לצרכן צפוי לעלות מחר בעד 0.5%, אבל האינפלציה השנתית לא תזנק, ויש סיכוי אפילו להאטה בקצב. אבל היחלשות השקל וחוסר הוודאות הפוליטית ימנעו מהוועדה המוניטארית להפחית את הריבית במשק",
+   "source": "Ynet כלכלה",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-11-14T14:58:05+00:00"
+  },
+  {
+   "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+   "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+   "summary": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
+   "source": "BBC World",
    "lang": "en",
-   "topic": "tech",
+   "topic": "world",
    "rtl": false,
-   "published": "2026-11-13T20:45:10+00:00"
+   "published": "2026-11-14T18:00:10+00:00"
   },
   {
-   "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
-   "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-   "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+   "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+   "link": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+   "summary": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
    "source": "TechCrunch",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-11-13T12:52:19+00:00"
+   "published": "2026-11-14T17:45:04+00:00"
   },
   {
-   "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
-   "link": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss",
-   "summary": "'Situation cannot become new normal', says UN's Khaled Khiari, as Iran reports three more vessels hitting mines.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-14T07:46:36+00:00"
-  },
-  {
-   "title": "מה גרם למשקיע בדירה במרכז למכור בהפסד אחרי 4 שנים?",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001562776#utm_source=RSS",
-   "summary": "דירת 2.5 חדרים נמכרה ב-1.62 מיליון שקל, לאחר שהמשקיע רכש אותה ב-1.66 מיליון שקל • \"מי שקנה בשיא ורוצה למכור היום, צריך להבין שבסבירות גבוהה הוא ימכור במחיר נמוך יותר. גם במקרה הזה המוכרים הבינו את זה - והחליטו להתקדם\" • ועוד עסקאות נדל\"ן מהשבוע האחרון",
-   "source": "גלובס",
+   "title": "לא רקסי ולא שוקו: 5 השמות הכי נפוצים לכלבים בישראל",
+   "link": "https://www.israelhayom.co.il/tech/animals/article/21847221",
+   "summary": "הנוסטלגיה של גינות הכלבים פינתה את מקומה לשמות בינלאומיים וקליטים: בפינת \"טופ 5\" של \"היום פלוס\" יצאו יואב אברהמי וצהיי הגוס לפצח את הדירוג המלא של השמות הפופולריים בארץ, וגילו איזה שם כבש את הפסגה",
+   "source": "ישראל היום",
    "lang": "he",
-   "topic": "business",
+   "topic": "israel",
    "rtl": true,
-   "published": "2026-11-14T07:00:00+00:00"
+   "published": "2026-11-14T17:30:00+00:00"
   },
   {
-   "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-   "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
-   "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety.\" More than four hours after the stop was issued, officials announced it was lifted at 8:15PM ET and that flights will resume. It's unclear how […]",
+   "title": "US Embassy in Riyadh warns Americans in Middle East after latest Houthi attack on Saudi Arabia",
+   "link": "https://www.jpost.com/middle-east/article-914872",
+   "summary": "The Saudi-led coalition fighting Yemen's Houthis said it intercepted two drones launched by the Iran-aligned group towards the Saudi capital Riyadh and the kingdom's southern region.",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-11-14T19:15:44+00:00"
+  },
+  {
+   "title": "Ancient Bar Kokhba revolt-era hiding tunnels, Byzantine church reopened to public in Israel",
+   "link": "https://www.jpost.com/archaeology/article-914807",
+   "summary": "Researchers have proposed the settlement is that of Kfar Bish, a 1st century settlement mentioned first in the writings of Flavius Josephus.",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-11-14T16:26:34+00:00"
+  },
+  {
+   "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+   "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+   "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on […]",
    "source": "The Verge",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-11-14T01:53:04+00:00"
+   "published": "2026-11-14T15:00:00+00:00"
   },
   {
-   "title": "Ukraine is running out of options, and Russia knows it",
-   "link": "https://www.aljazeera.com/opinions/2026/11/14/ukraine-is-running-out-of-options-and-russia-knows-it?traffic_source=rss",
-   "summary": "The Abu Dhabi talks reveal Moscow’s growing leverage over Ukraine and a shifting Western approach to peace.",
+   "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+   "link": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
+   "summary": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-14T15:42:54+00:00"
+  },
+  {
+   "title": "מנהלת בית ספר נהרגה בתאונה ליד עכו, בתה נפצעה",
+   "link": "https://www.ynet.co.il/news/article/s1qkmwirfe",
+   "summary": "בהתנגשות בין שני כלי רכב בצומת עכו מזרח נפצעה אנוש דלאל מלחם בת ה-59, מנהלת ביה\"ס אלרחמה בג'דיידה מכר, ומותה נקבע בבית החולים. בתה בת ה-29 ששהתה ברכב נפצעה בינוני, מצבה מוגדר יציב. מתחילת השנה - 391 בני אדם נהרגו בכבישי ישראל",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-11-14T16:29:34+00:00"
+  },
+  {
+   "title": "South Sudan’s National Election, Its First, Will Be Delayed",
+   "link": "https://www.nytimes.com/2026/11/14/world/africa/south-sudan-election.html",
+   "summary": "Analysts had warned that the vote, originally set for December, faced a legitimacy crisis. South Sudan has not held a national election since gaining independence in 2011.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-14T16:51:55+00:00"
+  },
+  {
+   "title": "A rapid interest rate rise seems inevitable – and households are expected to pick up the tab",
+   "link": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy",
+   "summary": "Raising borrowing costs too far risks laying waste to whatever growth there is in the economy A head of steam is building up behind the Bank of England raising interest rates again. With the latest forecasts by the central bank showing inflation rising to 5% next spring, another increase in the cost of borrowing seems inevitable, and may come as soon as next month. A growing number of analysts pre",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-14T16:00:48+00:00"
+  },
+  {
+   "title": "ח\"כ אלישע מדן: אקים אוהל ליד הכנסת בקריאה לאחדות",
+   "link": "https://www.walla.co.il/news/israel/383961396",
+   "summary": "חבר הכנסת החדש אלישע מדן ממפלגת הליכוד, הודיע העררב (שבת) כי בכוונתו להקים אוהל מחוץ לכנסת \"בקריאה לממשלת אחדות לאומית רחבה\", כל על פי סרטון שפרסם ברשתות החברתיות.",
+   "source": "וואלה",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-11-14T17:38:13+00:00"
+  },
+  {
+   "title": "Family of Watford woman set alight ‘desperate for answers’ after attack",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/14/family-of-watford-woman-set-alight-desperate-for-answers-after-attack",
+   "summary": "Appeal for information comes after Brenda Raymond, 80, was set on fire outside her flat on Monday The family of an elderly woman who was set on fire outside a block of flats in Watford have said that they are “desperate for answers”. Brenda Raymond, 80, was found set alight outside her flat on Caractacus Cottage View on Monday. She was taken to a nearby hospital, where she is in critical condition",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-14T17:59:12+00:00"
+  },
+  {
+   "title": "Work to replace old copper wire led to the FAA’s ground stop",
+   "link": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
+   "summary": "At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic line at a \"remote FAA facility.\" The secretary said that this was \"routine maintenance,\" rather than the result of a major modernization effort. He […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-11-14T17:44:28+00:00"
+  },
+  {
+   "title": "A ‘Generational Clash’ Is Fueling Europe’s Protests",
+   "link": "https://www.nytimes.com/2026/11/14/world/europe/student-protests-pensions-generations.html",
+   "summary": "As retirees live longer, governments need to spend more on pensions. That makes it harder to fund other services, spurring protests like those in France.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-14T18:39:59+00:00"
+  },
+  {
+   "title": "EU calls for immediate humanitarian access to Gaza",
+   "link": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
+   "summary": "The EU said that “Israel must enable the work of the UN and its agencies\" after the group was blocked access into Gaza.",
    "source": "Al Jazeera",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-11-14T06:39:09+00:00"
+   "published": "2026-11-14T15:57:22+00:00"
   },
   {
-   "title": "11 אלף טיסות, מיליון וחצי נוסעים ועצירה מוחלטת: מה באמת גרם לתקלה ששיתקה את ארה\"ב?",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001563347#utm_source=RSS",
-   "summary": "במשך יותר מארבע שעות לא המריא אף מטוס משדות התעופה האמריקניים, ו-830 טיסות הוסטו ממסלולן • בממשל שוללים מתקפת סייבר ומצביעים על האשם המפתיע: ציוד אנלוגי ישן שלא עמד בעומס הנתונים • גלובס עושה סדר",
+   "title": "איפה ניתן להרוויח יותר מאשר בקרנות כספיות - ועוד 4 כתבות על המצב בשווקים",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001563173#utm_source=RSS",
+   "summary": "מומחים מסבירים אילו צעדים לבצע כדי לחסוך אלפי שקלים לפני תום שנת המס 2026 • יועצת ההשקעות שמזהה הזדמנות באג\"ח קונצרניות של ענקיות הטכנולוגיה • אישור הקמת בנק רבולוט ישראל מכניס את המערכת הבנקאית לדריכות • וגם: המיליארדר ריי דליו מזהיר מפני טלטלה בשווקים ומסמן שלושה מועדים קריטיים שכדאי לשים אליהם לב",
    "source": "גלובס",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-11-14T07:08:00+00:00"
+   "published": "2026-11-14T13:58:00+00:00"
   },
   {
-   "title": "כמעט 30 שנה אחרי: בדקנו את הרימייק של המשחק ששינה את עולם הגיימינג",
-   "link": "https://www.ynet.co.il/digital/gaming/article/b15769brzg",
-   "summary": "The Legend of Zelda: Ocarina of Time, אחד המשחקים המשפיעים בהיסטוריה, חוזר בגרסה מחודשת לנינטנדו סוויץ' 2, עם גרפיקה עוצרת נשימה, שליטה משופרת ופסקול שהוקלט מחדש. האם הקלאסיקה האהובה עדיין עומדת במבחן הזמן, או שהנוסטלגיה עושה את שלה? בדקנו",
-   "source": "Ynet טכנולוגיה",
+   "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss",
+   "summary": "Israeli forces occupied a Palestinian-American’s home in the occupied West Bank for 17 days.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-14T15:36:37+00:00"
+  },
+  {
+   "title": "מגרמניה ועד אירלנד: הלקחים מהחדירה המהירה של רבולוט לבנקאות האירופית",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001563044#utm_source=RSS",
+   "summary": "מבצעים אגרסיביים, פרסומות בנמלי תעופה ואפס עמלות עו\"ש: ענקית הפינטק האירופית כבר צברה 80 מיליון לקוחות והגיעה לשווי של 100 מיליארד אירו • רגע לפני שהיא מתחילה לפעול בישראל: אילו לקחים ניתן להפיק מההצלחה שנחלה במדינות אירופה",
+   "source": "גלובס",
    "lang": "he",
-   "topic": "tech",
+   "topic": "business",
    "rtl": true,
-   "published": "2026-11-14T09:10:23+00:00"
+   "published": "2026-11-14T16:00:00+00:00"
+  },
+  {
+   "title": "James Webb telescope finds ice older than the star it orbits",
+   "link": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+   "summary": "Radiation and collisions reshape the planetary building materials.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-11-14T12:15:48+00:00"
   },
   {
    "title": "בגידות המנכ\"ל הובילו מחיקה של 1.7 טריליון דולר משווי אנבידיה",
@@ -271,16 +281,6 @@
    "topic": "business",
    "rtl": false,
    "published": "2026-11-13T19:53:57+00:00"
-  },
-  {
-   "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-   "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-   "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-   "source": "BBC Business",
-   "lang": "en",
-   "topic": "business",
-   "rtl": false,
-   "published": "2026-11-13T18:36:57+00:00"
   }
  ]
 }
