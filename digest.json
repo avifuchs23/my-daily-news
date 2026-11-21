@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-21T11:31:30.715762+00:00",
- "generated_display": "Saturday, 21 November 2026 · 13:31",
+ "generated_at": "2026-11-21T20:17:08.753564+00:00",
+ "generated_display": "Saturday, 21 November 2026 · 22:17",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,54 +23,94 @@
  },
  "stories": [
   {
-   "title": "China commits to low-carbon electrification and help for others to improve",
-   "link": "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve",
-   "summary": "Exclusive: Countries at Cop31 are being urged to commit to deriving 35% of their energy from electricity by 2035 Cop31 live – latest updates China is pushing for rapid electrification of its economy using low-carbon energy and will help other countries do the same, a senior member of the Chinese delegation at the Cop31 UN climate summit has said. Wang Yi, a professor of energy and environment poli",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-21T09:47:57+00:00"
-  },
-  {
-   "title": "Thoughts to ponder: The unfinished State of Israel and the need for Esau - opinion",
-   "link": "https://www.jpost.com/opinion/article-915414",
-   "summary": "Esau represents far more than military power. He also represents science, art, culture, music, discovery, and the capacity to shape the material world.",
+   "title": "'Stop building bridges': Lizzy Savetsky calls for new approach to Jewish survival",
+   "link": "https://www.jpost.com/diaspora/antisemitism/article-915533",
+   "summary": "ANTISEMITISM AFFAIRS: Pro-Israel activist Savetsky warns that Jewish communities are investing too much in fighting antisemitism and too little in educating the next generation about Jewish identity.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-11-21T10:09:27+00:00"
+   "published": "2026-11-21T21:54:50+00:00"
   },
   {
-   "title": "Ten-year-old boy shot dead in front of students while walking to school in Shuafat",
-   "link": "https://www.jpost.com/israel-news/crime-in-israel/article-915631",
-   "summary": "Witnesses said the suspect then opened fire, shooting him in the head and abdomen. Al-Joulani was critically wounded, as nearby students witnessed the attack.",
-   "source": "Jerusalem Post",
-   "lang": "en",
-   "topic": "israel",
-   "rtl": false,
-   "published": "2026-11-21T11:31:49+00:00"
-  },
-  {
-   "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-   "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-   "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-21T09:40:55+00:00"
-  },
-  {
-   "title": "ליברמן מגיב לאיזנקוט: הדרך היחידה להקים ממשלה - לפרק את גוש נתניהו",
-   "link": "https://www.ynet.co.il/news/article/rj1ivjyj7l",
-   "summary": "יו\"ר ישראל ביתנו הגיב בביטול להצהרה של גדי איזנקוט, שלפיה \"אם לא תהייה ממשלה רחבה - אקים ממשלת חירום\" צרה, וכתב כי יש צורך ב\"קואליציה עם ש\"ס ויהדות התורה\". ליברמן הוסיף: \"יהיה לזה מחיר פוליטי ואני אשלם אותו\"",
+   "title": "יו\"ר הוועדה לאבטחת אישים על ראשי גוש השינוי: \"גוש הבגידה. כן, הם בוגדים\"",
+   "link": "https://www.ynet.co.il/news/article/h12jd4kkxe",
+   "summary": "אל\"מ במיל' רונן כהן, שעומד בראש הוועדה המייעצת לאבטחת אישים, כינה את חברי גוש איזנקוט \"בוגדים\". הוא טען שחבירה לח\"כים ערבים, שאותם כינה \"האויב הפלסטיני בכנסת\", תמנע מישראל לפעול נגד איראן",
    "source": "Ynet חדשות",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-11-21T09:53:53+00:00"
+   "published": "2026-11-21T17:29:42+00:00"
+  },
+  {
+   "title": "German SPD figures afraid to speak out for Israel, former Bundestag member says - interview",
+   "link": "https://www.jpost.com/diaspora/article-915641",
+   "summary": "Former Bundestag foreign affairs chief Michael Roth discusses Germany's changing attitudes toward Israel, criticism of Netanyahu, and the personal cost of that criticism.",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-11-21T17:31:44+00:00"
+  },
+  {
+   "title": "Can Anthropic afford to put safety first?",
+   "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+   "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-11-21T15:00:00+00:00"
+  },
+  {
+   "title": "Russia-bound ship attacked in Gulf of Finland",
+   "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+   "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-21T19:20:22+00:00"
+  },
+  {
+   "title": "בגוש השינוי חושדים: הבהילות של נתניהו לפעול באיראן - כדי לטרפד ממשלה חלופית",
+   "link": "https://www.israelhayom.co.il/news/defense/article/21901031",
+   "summary": "בתדרוכים הביטחוניים שהעביר השבוע, הדגיש ראש הממשלה את המאמצים של איראן לפתח נשק כימי - שהגיעו בדרך פלא גם לכותרות בארה\"ב • הממשל חלוק עמוקות בסוגיה ובצה\"ל מעדיפים שתקיפה תתבצע רק לצד ארה\"ב, ולא רק בגלל העוצמה הצבאית • המגעים של גוש השינוי עם החרדים יעמדו השבוע על רקע ראשי צה\"ל שצפויים להופיע בוועדות הכנסת בנושא הגיוס",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-11-21T17:20:17+00:00"
+  },
+  {
+   "title": "לקראת הפגישה המכרעת: רשימת הדרישות של הליכוד מישר!",
+   "link": "https://www.israelhayom.co.il/news/politics/article/21900978",
+   "summary": "בליכוד דורשים מאיזנקוט לוותר על הקמת ממשלת מיעוט בתמיכת הסיעות הערביות ולעצור את קידום החקיקה בכנסת • במישור המדיני-ביטחוני דורשים התחייבות שלא תקום מדינה פלסטינית, שצה\"ל לא ייסוג מאזורי הביטחון ושלא ישונו תנאי הכליאה של מחבלי הנוחבה",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-11-21T16:57:14+00:00"
+  },
+  {
+   "title": "אחרי ההסתבכות בקפריסין, שמעון שוחרר מהכלא: \"האתגר הבא - לנצח את הסרטן\"",
+   "link": "https://www.ynet.co.il/news/article/rkw0svyjmg",
+   "summary": "שמעון אייקוט (75) הורשע בהסדר טיעון בגין עסקאות בלתי-חוקיות בקפריסין. אחרי שנשלח ל-5 שנות מאסר באי, הוא הועבר לריצוי יתרת עונשו בישראל. נשיא המדינה הרצוג העניק לו חנינה, אייקוט שוחרר מהכלא. המשפחה: \"אנו מתפללים שעם חירותו, אהבת משפחתו והטיפול הנכון, הוא ימצא את הכוח להחלים\"",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-11-21T19:59:37+00:00"
+  },
+  {
+   "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+   "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+   "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-11-21T16:00:00+00:00"
   },
   {
    "title": "On the Trail With Spain’s Prime Minister, as He Tries to Pull Out a Win",
@@ -80,37 +120,17 @@
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-11-21T05:01:09+00:00"
+   "published": "2026-11-21T12:54:44+00:00"
   },
   {
-   "title": "ה-AI של גוגל עוקב אחריכם: תשנו את ההגדרה הזו ב-Gmail - מיד",
-   "link": "https://www.israelhayom.co.il/tech/how-to/article/21899409",
-   "summary": "מנגנוני בינה מלאכותית של גוגל מנתחים בשקט כל מייל רגיש שמגיע לתיבה שלכם - מהבנק ועד רשות המיסים • כך תכבו את התכונות החכמות באנדרואיד ובאייפון ותחזירו לעצמכם את הפרטיות",
-   "source": "ישראל היום",
+   "title": "משרד הבריאות בעזה: תשעה נהרגו בתקיפות ישראליות ביומיים האחרונים",
+   "link": "https://www.haaretz.co.il/news/politics/2026-11-21/ty-article/.premium/000001a1-fdd1-d175-abf5-fff5d7930000",
+   "summary": "ברצועה דווח כי שלושה נהרגו בתקיפת רכב של \"המטבח המרכזי העולמי\", אך בהמשך מסר ארגון הסיוע כי הוא לא קשור אליו. אתמול הודיע צה\"ל כי התנקש בכמה חמושים מחמאס במרכז הרצועה",
+   "source": "הארץ",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-11-21T09:15:22+00:00"
-  },
-  {
-   "title": "Rejoining EU ‘on the table’ as UK strikes deals on trade and young people",
-   "link": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
-   "summary": "All options open in future talks, says Ed Miliband, while prime minister hails ‘a good day for Britain and Europe’ The UK rejoining the EU could be on the table in informal discussions between Andy Burnham and European leaders in Brussels, Ed Miliband has said. The foreign secretary said “all options” would be examined in the process, after the prime minister agreed deals on trade and young people",
-   "source": "The Guardian",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-21T11:23:52+00:00"
-  },
-  {
-   "title": "ביקר ב-190 מדינות - וחושף: זו המדינה הכי מעצבנת לתיירים",
-   "link": "https://www.israelhayom.co.il/travel/tourism-news/article/21899429",
-   "summary": "לוקה פפרדמנגס הגרמני, כוכב טיקטוק בן 25 שכבר הספיק לבקר בלפחות 190 מדינות, כולל בישראל, עורר סערה ברשת כשדירג את היעדים המאכזבים בעולם • לדבריו, האיים המלדיביים מוערכים יתר על המידה - ובריסל בלילה מרגישה לא בטוחה • וגם: איזו מדינה במזרח התיכון היא הכי מעצבנת עבור תיירים?",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-21T10:02:16+00:00"
+   "published": "2026-11-21T14:01:50+00:00"
   },
   {
    "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
@@ -120,17 +140,107 @@
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-11-21T09:52:11+00:00"
+   "published": "2026-11-21T19:33:49+00:00"
   },
   {
-   "title": "Gianni Infantino’s FIFA re-election backed by South America’s CONMEBOL",
-   "link": "https://www.aljazeera.com/sports/2026/11/21/gianni-infantinos-fifa-re-election-backed-by-south-americas-conmebol?traffic_source=rss",
-   "summary": "Infantino handed huge boost in re-election campaign as FIFA president as CONMEBOL offers unanimous support.",
+   "title": "The UN fails to agree on rules regulating ‘killer robots’",
+   "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+   "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-11-21T20:03:37+00:00"
+  },
+  {
+   "title": "בן גביר נגד ממשלה בתמיכת המפלגות הערביות: \"לא יעזור להם\"",
+   "link": "https://www.inn.co.il/flashes/1141889",
+   "summary": "<p>השר לביטחון לאומי איתמר בן גביר השתתף באירוע שבת ארגון של בני עקיבא בשדרות והתייחס לאפשרות להקמת ממשלה בתמיכת המפלגות הערביות. </p><p>\"מדברים על ממשלה עם מנסור עבאס ואחמד טיבי - לא יעזור להם! עם ישראל ינצח, שדרות תנצח, צה\"ל ינצח והערכים ינצחו\", אמר.</p>",
+   "source": "ערוץ 7",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-11-21T18:32:58+00:00"
+  },
+  {
+   "title": "Man charged with attempted murder after councillor stabbed in Bradford",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/21/man-charged-with-attempted-after-councillor-stabbed-in-bradford",
+   "summary": "Arfan Ali, 31, has also been charged with assault and possession of an offensive weapon in a public place A man has been charged with attempted murder after a local councillor was stabbed while working in the community in Bradford, police have said. Arfan Ali, 32, is accused of attacking Ibrar Ali, 52, at about 11am on Thursday in the West Yorkshire city.",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-21T19:42:42+00:00"
+  },
+  {
+   "title": "‘Six, seven, maybe more preventable deaths’: Queensland’s LNP faces reckoning over broken health system",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/22/queensland-health-ambulance-deaths-lnp-labor-ntwnfb",
+   "summary": "A government in office for more than two years is finally forced to take responsibility and seemingly no longer able to blame its Labor predecessors Get our daily political email , free app or daily news podcast At the beginning of another Queensland parliamentary sitting week, anonymous sources were out in force, this time background briefing against the state’s Labor leader, Steven Miles. It is ",
+   "source": "The Guardian",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-21T19:00:08+00:00"
+  },
+  {
+   "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
+   "link": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
+   "summary": "Attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland and US-led peace efforts face uncertainty.",
    "source": "Al Jazeera",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-11-21T08:33:52+00:00"
+   "published": "2026-11-21T17:20:03+00:00"
+  },
+  {
+   "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+   "link": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
+   "summary": "A mathematician who works for artificial intelligence giant Anthropic claims he has solved a Holy Grail of math problems with the help of the company's AI tool Claude. It marks the second time in recent months that an AI company or someone linked to one claims to have cracked a famed unsolved math problem.",
+   "source": "NPR News",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-21T12:30:16+00:00"
+  },
+  {
+   "title": "Here are the top AI agents that can live in your text messages",
+   "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-11-21T17:00:00+00:00"
+  },
+  {
+   "title": "החששות מבועה וההשוואה ל-2008: האוויר יוצא ממניות ה-AI",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001564221#utm_source=RSS",
+   "summary": "הביקוש לשבבים עדיין בשיא, אבל המשקיעים כבר לא מוכנים לממן הקמת חוות שרתים בחוב עתק • בין החשש מהמינוף של קרנות הגידור לסימני השאלה המרחפים סביב ההתחייבויות של OpenAI - כך הפכה ההבטחה הגדולה של וול סטריט למבחן של רווחיות",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-11-21T19:00:00+00:00"
+  },
+  {
+   "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
+   "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
+   "summary": "The arrest of Fausto Isidro Meza Flores, who is known as El Chapo Isidro and was one of the F.B.I.’s 10 most wanted, was a victory for the Mexican government.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-21T18:57:22+00:00"
+  },
+  {
+   "title": "כשגדי איזנקוט מוחק את החוקים של יריב לוין",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001564233#utm_source=RSS",
+   "summary": "המחנה הפוליטי שמוביל ח\"כ איזנקוט החל לבטל חוקים מרכזיים של הכנסת הקודמת, בסדרת מהלכים שזכו בשיח התקשורתי והפרלמנטרי לכינוי \"חקיקת Undo\" • מה מייחד חקיקה שכזו, מה הן ההשלכות האפשריות על היציבות השלטונית ומה הם התנאים לשימוש בה? • המשרוקית של גלובס",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-11-21T17:00:00+00:00"
   },
   {
    "title": "נגמרה החגיגה: הסיבות לקריסת וול סטריט ומה כדאי לעשות עם תיקי ההשקעות",
@@ -143,114 +253,14 @@
    "published": "2026-11-21T06:13:52+00:00"
   },
   {
-   "title": "Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia",
-   "link": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
-   "summary": "For the first time in over a decade, army and police units were deployed in territory controlled by the group, Kataib Hezbollah. But it was unclear if it would withdraw its forces.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-21T07:11:24+00:00"
-  },
-  {
-   "title": "לייטר אמר שחיילי ארה\"ב ישובו לביתם לאחר שאיראן תובס, ונאלץ לפרסם הבהרה",
-   "link": "https://www.haaretz.co.il/news/politics/2026-11-21/ty-article/.premium/000001a1-fcb2-d175-abf5-feb619050000",
-   "summary": "את הדברים אמר שגריר ישראל בוושינגטון בראיון לערוץ האמריקאי Newsmax. ההתבטאות עוררה זעם ברשתות החברתיות, ושר החוץ האיראני התייחס אליה בלעג ב־X: \"לא ידענו ששגריר ישראל בוושינגטון הוא מפקד צבא ארה\"ב\"",
-   "source": "הארץ",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-21T08:01:27+00:00"
-  },
-  {
-   "title": "Startup sues Apple in India over tap-to-share contacts feature",
-   "link": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
-   "summary": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
-   "source": "TechCrunch",
+   "title": "“Race realism” isn’t realistic—and it isn’t good science",
+   "link": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+   "summary": "Modern genetics does not support claims of innate racial differences in intelligence.",
+   "source": "Ars Technica",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-11-21T04:00:00+00:00"
-  },
-  {
-   "title": "שפירו: תומך בסיום הסיוע הצבאי לישראל, אך יש להבטיח שתוכל להגן על עצמה",
-   "link": "https://www.maariv.co.il/breaking-news/article-1390683",
-   "summary": "",
-   "source": "מעריב",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-21T10:33:53+00:00"
-  },
-  {
-   "title": "אחרי יותר מ-40 נרצחים: הסולחה הגדולה בין החמולות ברמלה | תיעוד",
-   "link": "https://www.ynet.co.il/news/article/s1sorr0azg",
-   "summary": "משפחת ג'רושי ושמאלי התחבקו ולחצו ידיים במעמד שהתקיים בלוד. \"אף אחד לא יכול להחזיר לנו את יקירינו, אבל אנחנו לא רוצים שאחרים יחוו את אותו כאב\", אמר תושב שאיבד קרוב משפחה בשל הסכסוך ארוך השנים. מתחילת השנה נרצחו 202 בני אדם בחברה הערבית",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-21T11:06:22+00:00"
-  },
-  {
-   "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
-   "link": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
-   "summary": "Warsaw accuses Moscow of intentional provocation, but bar for triggering NATO's collective defence clause remains high.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-21T11:02:49+00:00"
-  },
-  {
-   "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-   "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-   "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-11-20T19:53:41+00:00"
-  },
-  {
-   "title": "מנכ\"לית חברת הגיוס: \"אם תיכנסו לתחומים האלה - תהיו שווים יותר כסף\"",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001563873#utm_source=RSS",
-   "summary": "\"ההייטק הפך לשפוי יותר באופן שבו הוא מוציא כסף. יש פחות שואו אוף, משרדים ראוותניים או מסיבות חברה ענקיות. השכר הולך לעובדים ומסתכלים על כל שקל\" • שיחה קצרה עם שירי וקס, מנכ\"לית חברת הגיוס הטכנולוגי גוטפרנדס (Gotfriends)",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-11-21T08:30:00+00:00"
-  },
-  {
-   "title": "באיראן מאותתים: \"לא נסכים להוצאת האורניום המועשר\"",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001564315#utm_source=RSS",
-   "summary": "שר החוץ עראקצ'י: איראן לא תאפשר להוציא את החומר המועשר מהמדינה • וויטקוף וקושנר נועדו בברלין עם ראש ממשלת קטאר ושליחו עלי א-ד'וואדי • דובר צה\"ל בהודעה לפני שבת: \"אין שינוי בהנחיות - אל תיתנו יד לשמועות\" • עדכונים שוטפים",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-11-21T10:02:00+00:00"
-  },
-  {
-   "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-   "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-11-20T16:34:13+00:00"
-  },
-  {
-   "title": "Rockstar says GTA VI made $3.79 billion in its first day",
-   "link": "https://www.theverge.com/games/1036279/gta-vi-sales",
-   "summary": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million preorder copies. \"It is with immense gratitude that we enter a new chapter of Rockstar Games with the release of Grand […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-11-20T19:35:06+00:00"
+   "published": "2026-11-21T12:01:13+00:00"
   },
   {
    "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
@@ -263,24 +273,14 @@
    "published": "2026-11-20T22:53:24+00:00"
   },
   {
-   "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-   "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-   "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-11-20T20:59:08+00:00"
-  },
-  {
-   "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-   "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
-   "summary": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
-   "source": "BBC Business",
-   "lang": "en",
+   "title": "\"בהתחלה הרגשנו שנרתעים מאיתנו. תחושה שבאנו להשתלט להם על היישוב\"",
+   "link": "https://www.ynet.co.il/economy/article/tjuscqbb9",
+   "summary": "ניר היה איש קבע בחיל הים והיום בפנסיה, להילה יש פודקאסט שעוסק בהעצמה נשית - ושניהם מקימים במקביל עסקים משלהם. הם מגדירים את עצמם חב״דניקים אבל בחרו להתגורר ביישוב קהילתי קרוב לאילת שמאופיין ברובו באוכלוסייה חילונית (\"רצינו לחיות עם אנשים שונים\"). משפחת פריזנט, מבאר אורה על הספה",
+   "source": "Ynet כלכלה",
+   "lang": "he",
    "topic": "business",
-   "rtl": false,
-   "published": "2026-11-20T16:41:52+00:00"
+   "rtl": true,
+   "published": "2026-11-21T05:12:29+00:00"
   }
  ]
 }
