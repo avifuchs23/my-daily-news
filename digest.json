@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-24T14:04:16.751905+00:00",
- "generated_display": "Tuesday, 24 November 2026 · 16:04",
+ "generated_at": "2026-11-24T23:17:56.173099+00:00",
+ "generated_display": "Wednesday, 25 November 2026 · 01:17",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,114 +23,254 @@
  },
  "stories": [
   {
-   "title": "IDF suspends haredi paratroopers' operations after Palestinian beaten, military equipment lost",
-   "link": "https://www.jpost.com/israel-news/defense-news/article-915966",
-   "summary": "The haredi (ultra-Orthodox) Paratroopers Brigade company will undergo a week of training to reinforce operational discipline while remaining on full operational alert.",
-   "source": "Jerusalem Post",
-   "lang": "en",
-   "topic": "israel",
-   "rtl": false,
-   "published": "2026-11-24T15:19:48+00:00"
-  },
-  {
-   "title": "Nearly 60% of Palestinians prefer Eisenkot over Netanyahu as Israel's prime minister – poll",
-   "link": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915951",
-   "summary": "While 59% of Palestinians prefer Eisenkot as Israel's prime minister, 37.4% favor neither leader, highlighting persistent uncertainty over prospects for political change and renewed peace talks.",
-   "source": "Jerusalem Post",
-   "lang": "en",
-   "topic": "israel",
-   "rtl": false,
-   "published": "2026-11-24T13:08:17+00:00"
-  },
-  {
-   "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-   "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-   "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-24T10:58:51+00:00"
-  },
-  {
-   "title": "הוא עשה נזק לכנסת, ועכשיו הוא מבקש מחיאות כפיים",
-   "link": "https://www.ynet.co.il/news/article/bjanzgm17x",
-   "summary": "אמיר אוחנה היה אמור להיות יו״ר הכנסת של כולם ובמקום זאת שימש דוגמה קיצונית לכל מה שרע בבית הנבחרים הישראלי",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-24T11:31:57+00:00"
-  },
-  {
-   "title": "Huang reportedly admitted to more than two affairs to Nvidia’s board",
-   "link": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/",
-   "summary": "During a meeting before his reinstatement, Huang admitted to more affairs beyond the two that have been reported in the news, according to The Wall Street Journal.",
+   "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+   "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+   "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
    "source": "TechCrunch",
    "lang": "en",
    "topic": "tech",
    "rtl": false,
-   "published": "2026-11-24T13:29:53+00:00"
+   "published": "2026-11-24T21:48:27+00:00"
   },
   {
-   "title": "קודמו \"נלכד במבצע נועז\": ראש מנגנון ביטחון הפנים בחמאס חוסל בעזה | תיעוד",
-   "link": "https://www.ynet.co.il/news/article/hjzui1xk7l",
-   "summary": "צה\"ל הודיע שתקף בכיר בחמאס, וכעבור זמן קצר אישרו נתניהו וכ\"ץ בהודעה משותפת כי חוסל נעים אבו נחל: \"דמות בכירה עם ותק רב בארגון\". לפני 3 חודשים קודמו נעצר בידי ישראל",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-24T10:50:16+00:00"
-  },
-  {
-   "title": "ליברמן נגד שידור התחקיר של התאגיד: \"עלילת דם בכספי הציבור\"",
-   "link": "https://www.israelhayom.co.il/news/politics/article/21921555",
-   "summary": "יו\"ר ישראל ביתנו פנה למנכ\"ל תאגיד השידור בדרישה לעצור את השידור על \"נוהל יתוש\" ותקף בחריפות: \"שיתוף פעולה ביצירת נרטיב שקרי שמציג את לוחמי צה\"ל כפושעי מלחמה\"",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-24T12:44:20+00:00"
-  },
-  {
-   "title": "10 שנות מאסר לתושב הצפון שריגל עבור חמאס והעביר מידע על מפעל ביטחוני בישראל",
-   "link": "https://www.inn.co.il/flashes/1142343",
-   "summary": "<p>בית המשפט המחוזי בנצרת גזר היום 10 שנות מאסר בפועל על ראמי חביבאללה, תושב עין מאהל, לאחר שהורשע בשורת עבירות ביטחוניות חמורות, במסגרתן העביר מאות אלפי שקלים לגורמים הקשורים לחמאס ומסר לארגון מידע על מפעל ביטחוני חיוני בישראל במטרה להביא לפגיעה בו.</p>",
-   "source": "ערוץ 7",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-24T13:23:00+00:00"
-  },
-  {
-   "title": "השליח של החבילה שהזמנתם במכירות נובמבר איחר? אולי מגיע לכם פיצוי כספי",
-   "link": "https://www.israelhayom.co.il/business/consumers/article/21922081",
-   "summary": "הישראלים מסתערים על אתרי הקניות - אבל לא רבים יודעים ש\"חוק הטכנאים\" תקף גם לאיחור במסירת החבילות שהזמינו • הפיצוי יכול להגיע עד 600 שקלים, אבל כדי להשיג אותו יש כמה צעדים פשוטים שצריך לבצע • המדריך המלא",
-   "source": "ישראל היום",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-24T13:43:31+00:00"
-  },
-  {
-   "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-   "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-   "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-   "source": "BBC World",
+   "title": "Israel unlikely to strike Iran without US coordination, former air defense chief says",
+   "link": "https://www.jpost.com/middle-east/iran-news/article-916023",
+   "summary": "Haimovich criticized Israel’s approach to repeated rounds of fighting with Iran, warning of the potential economic, social, and diplomatic consequences of a prolonged confrontation with Tehran.",
+   "source": "Jerusalem Post",
    "lang": "en",
-   "topic": "world",
+   "topic": "israel",
    "rtl": false,
-   "published": "2026-11-24T10:53:37+00:00"
+   "published": "2026-11-24T22:48:39+00:00"
   },
   {
-   "title": "Death Toll From Indonesia Factory Fire Rises to 26 With Dozens Unaccounted for",
-   "link": "https://www.nytimes.com/2026/11/24/world/asia/indonesia-factory-fire-deaths-missing.html",
-   "summary": "As the death toll rose to 26, one rescue worker said that more victims might be found near a stairwell in the building. The police opened a criminal investigation.",
+   "title": "No withdrawal, no rebuilding in Hamas-controlled Gaza sectors, Katz says in opposition to BoP",
+   "link": "https://www.jpost.com/israel-news/defense-news/article-916000",
+   "summary": "Katz made this statement despite a wave of recent criticism from the Trump administration against the Israeli government for stalling in complying with its obligations under the 2025 ceasefire.",
+   "source": "Jerusalem Post",
+   "lang": "en",
+   "topic": "israel",
+   "rtl": false,
+   "published": "2026-11-24T19:00:57+00:00"
+  },
+  {
+   "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+   "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+   "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+   "source": "TechCrunch",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-11-24T18:30:42+00:00"
+  },
+  {
+   "title": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War",
+   "link": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
+   "summary": "Presidents before him have bailed out companies in times of national crisis. Mr. Trump went further: He staked the fortunes of the United States on those of a favored chief executive.",
    "source": "NY Times World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-11-24T13:12:41+00:00"
+   "published": "2026-11-24T19:54:59+00:00"
+  },
+  {
+   "title": "סכנת המלחמה הפוליטית",
+   "link": "https://www.ynet.co.il/news/article/yokra14968997",
+   "summary": "התקפה על איראן, בניגוד לעמדת ארה\"ב ובניגוד לרצונן של מדינות המפרץ, עלולה לדרדר את ישראל ממפולת מדינית – לקריסה. אנחנו זקוקים להנהגה עם שיקולים יותר אחראיים מזו שלא מנעה את הפיכת ישראל למצורעת",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-11-24T22:24:40+00:00"
+  },
+  {
+   "title": "משבר עם יאיר גולן, ובדרך להסכם קואליציוני ראשון: איזנקוט וליברמן סיכמו על תיקים",
+   "link": "https://www.ynet.co.il/news/article/b16mx00qymg",
+   "summary": "בנט וגולן לא עודכנו: איזנקוט וליברמן נפגשו וסיכמו על חתימת הסכם קואליציוני, שיישאר חסוי בשלב זה. הערכה: אם תוקם ממשלה - ישראל ביתנו תקבל את תיקי הביטחון והקליטה. בפגישה בין הצוות של הדמוקרטים לזה של ישר! אמרו אנשיו של יאיר גולן כי לא יקבלו מו\"מ עם נתניהו במקביל לשיחות איתם. היום צפויים עוד מגעים עם הליכוד",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-11-24T22:21:24+00:00"
+  },
+  {
+   "title": "European leader warns Russian aggression could escalate within weeks or months",
+   "link": "https://www.foxnews.com/world/european-leader-warns-russian-aggression-could-escalate-within-weeks-months",
+   "summary": "Latvian President Edgars Rinkēvičs warns Russia is escalating sabotage, arson and assassination plots against NATO countries that could worsen in weeks.",
+   "source": "Fox News World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-24T20:26:41+00:00"
+  },
+  {
+   "title": "הברית הוותיקה עם וושינגטון מתקרבת לסופה - ופותחת בפנינו דלת חדשה",
+   "link": "https://www.israelhayom.co.il/news/world-news/usa/article/21925031",
+   "summary": "אחרי הניצחון הדמוקרטי בבחירות האמצע ועלייתם של קולות ביקורתיים בקונגרס, הסיוע הביטחוני מארה\"ב, במתכונתו הנוכחית - מתקרב לסיומו • אולם, המצב רחוק מלהיות אבוד • אם ישראל תדע לעבור משיח של תלות ביטחונית לשותפות בנושאים שמעסיקים את האמריקני הממוצע - כמו יוקר המחיה, בריאות ואנרגיה - היא תוכל לשמור על האינטרסים החיוניים שלה גם בעידן החדש",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-11-24T19:14:34+00:00"
+  },
+  {
+   "title": "חייל, יזם ומיליארדר: האם למדינה מגיע חלק מהאקזיט של דקארט?",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001564794#utm_source=RSS",
+   "summary": "האקזיט הענק של דקארט הישראלית יכניס למדינה כ־5.5 מיליארד שקל במסים, אך מייסד ד\"ר אוריאן לייטרסדורף, שעד לאחרונה היה בשירות פעיל, מציף דילמה רחבה יותר • האם נכון לקבוע תנאים מיוחדים לחיילים שמשתלבים במיזמים תוך כדי השירות הצבאי? ומה ראוי שיהיה הדין לגבי מפקד 8200 בזמן טבח 7 באוקטובר שהצטרף לחברה?",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-11-24T18:14:00+00:00"
+  },
+  {
+   "title": "אחרי כ-90 שנה: יצרנית החמוצים הישראלית נכנסת לתחום חדש ומפתיע",
+   "link": "https://www.ynet.co.il/economy/article/yokra14968898",
+   "summary": "בית השיטה מצטרפת לטרנד החלבון ותשיק מותג סלטים חדש שיכלול חומוס, טחינה ומטבוחה. השוק מגלגל בישראל כמיליארד שקל בשנה",
+   "source": "Ynet כלכלה",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-11-24T22:00:00+00:00"
+  },
+  {
+   "title": "מגינים על הדמוקרטיה - אבל מה עם הזכות לחשוב אחרת?",
+   "link": "https://www.israelhayom.co.il/opinions/article/21926151",
+   "summary": "הסערה סביב עלון השבת \"עולם קטן\" והמהלך של ראש עיריית הרצליה יריב פישר נגד הפצתו בבתי הכנסת, מעלים שאלה עקרונית: מי מוסמך להחליט מה מותר לציבור לקרוא? • זו אינה הפעם הראשונה שפישר פועל נגד תכנים שאינם לרוחו, לאחר שבעבר קידם את הוצאתו של ספר אזרחות ממוסדות החינוך בעיר",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-11-24T23:12:06+00:00"
+  },
+  {
+   "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+   "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+   "summary": "The verdict follows a months-long trial in New York.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-24T22:24:23+00:00"
+  },
+  {
+   "title": "הוט מובייל, ברגר קינג וזאפה בדרך לבורסה. זה השווי המבוקש",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001564807#utm_source=RSS",
+   "summary": "יו\"ר ובעל השליטה בלהב אבי לוי חשף בשיחת ועידה כי דלק ישראל תצא להנפקה \"בשבועות הקרובים\" • לגלובס נודע כי בחברה מכוונים לשווי של 1.8-2 מיליארד שקל לפני הכסף",
+   "source": "גלובס",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-11-24T16:28:00+00:00"
+  },
+  {
+   "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
+   "link": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
+   "summary": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
+   "source": "NY Times World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-24T21:12:53+00:00"
+  },
+  {
+   "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
+   "link": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
+   "summary": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-24T17:04:00+00:00"
+  },
+  {
+   "title": "חרדים מפגינים מול בית קצין המשטרה הצבאית הראשי באשקלון",
+   "link": "https://www.inn.co.il/flashes/1142409",
+   "summary": "<p>מפגינים חרדים התאספו סמוך לביתו של קצין המשטרה הצבאית הראשי, תא\"ל יובל יאמין, באשקלון, במחאה על מעצרי עריקים מצה\"ל.</p>",
+   "source": "ערוץ 7",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-11-24T21:19:00+00:00"
+  },
+  {
+   "title": "הדמוקרטים: מפסיקים את השיחות עם ישר על רקע ההתקדמות במגעים עם הליכוד",
+   "link": "https://www.haaretz.co.il/news/elections/2026-11-24/ty-article/.premium/000001a2-0efd-d7ab-afb2-affd29ca0000",
+   "summary": "מקורות בדמוקרטים אמרו ל\"הארץ\" כי הם לא מוכנים שאיזנקוט ינהל מו\"מ איתם ועם הליכוד במקביל ■ מחר צפויה פגישה נוספת בין הצוותים של ישר והליכוד ■ ישר עדכנה כי סיכמה על הסכם קואליציוני עם ישראל ביתנו ■ מקורות ביהדות התורה: הפערים מול גוש איזנקוט הצטמצמו",
+   "source": "הארץ",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-11-24T19:51:21+00:00"
+  },
+  {
+   "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+   "link": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+   "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
+   "source": "BBC Business",
+   "lang": "en",
+   "topic": "business",
+   "rtl": false,
+   "published": "2026-11-24T18:21:43+00:00"
+  },
+  {
+   "title": "NATO fighter jet cleared to shoot down Russian missile over Poland as Warsaw pushes for US troops",
+   "link": "https://www.foxnews.com/world/nato-jet-cleared-shoot-russian-missile-poland-warsaw-pushes-us-troops",
+   "summary": "Poland renewed its push for permanent U.S. troops after a Russian drone entered its airspace Nov. 24, days after three Kh-101 missile violations.",
+   "source": "Fox News World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-24T20:56:51+00:00"
+  },
+  {
+   "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+   "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+   "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film. People have claimed that the movie is chock-full of uncanny, inconsistent visuals that make it […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-11-24T18:15:00+00:00"
+  },
+  {
+   "title": "Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain",
+   "link": "https://www.aljazeera.com/sports/2026/11/24/arsenal-and-dortmund-draw-1-1-as-gyokeres-goes-from-hero-to-villain?traffic_source=rss",
+   "summary": "Arsenal dominate the chances as Borussia Dortmund fight back for a 1-1 draw in football's Champions League.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-24T22:50:16+00:00"
+  },
+  {
+   "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
+   "link": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+   "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-11-24T18:47:57+00:00"
+  },
+  {
+   "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
+   "link": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
+   "summary": "Amazon has hundreds of satellites in storage waiting for rides to space.",
+   "source": "Ars Technica",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-11-24T18:30:36+00:00"
+  },
+  {
+   "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+   "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+   "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-11-24T20:02:03+00:00"
   },
   {
    "title": "עסקת ענק בירושלים: ישראל קנדה מכרה פנטהאוז לתושב ניו יורק ב-44.5 מיליון ש'",
@@ -141,146 +281,6 @@
    "topic": "business",
    "rtl": true,
    "published": "2026-11-24T13:32:37+00:00"
-  },
-  {
-   "title": "ליברמן דרש מתאגיד השידור לעצור את שידור תחקיר \"נוהל יתוש\"",
-   "link": "https://www.inn.co.il/flashes/1142345",
-   "summary": "<p>יו\"ר ועדת החוץ והביטחון, ח\"כ אביגדור ליברמן, פנה למנכ\"ל תאגיד השידור בדרישה לעצור את שידור תחקיר \"נוהל יתוש\" בתוכנית \"זמן אמת\".</p><p>\"לא יעלה על הדעת שתאגיד שידור ציבורי, הממומן מכספי אזרחי ישראל, יהפוך לשופר להפצת עלילות דם נגד לוחמי צה\"ל\", כתב ליברמן. \"במקום לעמוד לצד החיילים והמפקדים המגינים על מדינת ישראל, בחרתם לתת במה לתחקיר המציג אותם כפושעי מלחמה ומספק תחמושת למסע ההסתה נגד ישראל בעולם",
-   "source": "ערוץ 7",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-24T13:26:40+00:00"
-  },
-  {
-   "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
-   "link": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
-   "summary": "Markets have veered wildly for days, pushed and pulled by the drama at Nvidia and the record-breaking trading debut of Anthropic.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-24T13:14:53+00:00"
-  },
-  {
-   "title": "מגמה מעורבת בתל אביב; הדולר מזנק ביותר מ-1%",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001564573#utm_source=RSS",
-   "summary": "סקטור הביטוח מוביל את הירידות, בעוד מדד הנדל\"ן המניב בחו\"ל מוביל את העליות • הבורסה מקדמת שינוי במדדים: מדד ת\"א 35 יורחב ל-50 חברות, ת\"א 90 יהפוך לת\"א 100 • מניות השבבים יורדות לאחר הזינוק אתמול בעקבות העלייה באנבידיה • שווי ההשקעות של קיסטון צמח ב-20% והנפקת אגד מתקדמת ל-2027 • ביג נכנסת לדאטה סנטרס בחו\"ל • בית שמש מתרסקת ברקע הדיווח על צמיחה מתונה בנטרול פיצויי ביטוח • בשוק המט\"ח: הדולר מתחזק ונ",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-11-24T13:53:00+00:00"
-  },
-  {
-   "title": "Uber, Nuro, and Lucid kick off fully driverless robotaxi testing",
-   "link": "https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area",
-   "summary": "Uber's high-stakes robotaxi bet is officially ditching its human safety net. Nuro, Lucid, and Uber are starting fully driverless public road testing in the San Francisco Bay Area, with employee-only rides launching shortly after. First announced in July 2025, this three-way alliance represents Uber's aggressive comeback in autonomous ride-hailing, after having abandoned its own troubled […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-11-24T13:00:00+00:00"
-  },
-  {
-   "title": "מנכ\"ל ענקית התרופות מצנן את ההתלהבות: \"AI לא ירפא סרטן תוך עשור\"",
-   "link": "https://www.ynet.co.il/digital/technews/article/hyvbheq17g",
-   "summary": "בעוד שבכירי עמק הסיליקון מבטיחים פריצות דרך רפואיות בזק בעזרת מודלי שפה ובינה מלאכותית, ואס נאראסימהן – העומד בראש ענקית התרופות השוויצרית נוברטיס וחבר בדירקטוריון אנתרופיק – מציג תמונת מצב מפוכחת בהרבה: \"אנחנו מבינים רק כ-5% ממה שקורה בגוף האדם\"",
-   "source": "Ynet טכנולוגיה",
-   "lang": "he",
-   "topic": "tech",
-   "rtl": true,
-   "published": "2026-11-24T12:41:44+00:00"
-  },
-  {
-   "title": "\"בגלל ישראל\": ארדואן מתכנן להכפיל את תקציב ההגנה של טורקיה",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001564558#utm_source=RSS",
-   "summary": "המתיחות מול ישראל, המחויבות לבעלות בריתה בהן סעודיה ופקיסטן והפקת הלקחים מהמערכה מול איראן דוחפות את טורקיה להגדיל את תקציב משרד ההגנה ב־86% ב־2027 • זאת, בזמן שהאינפלציה במדינה עדיין קרובה ל־30%, והלירה ממשיכה להישחק",
-   "source": "גלובס",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-11-24T11:42:00+00:00"
-  },
-  {
-   "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-   "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-   "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-   "source": "TechCrunch",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-11-23T22:05:50+00:00"
-  },
-  {
-   "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
-   "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
-   "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
-   "source": "Ars Technica",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-11-24T12:30:05+00:00"
-  },
-  {
-   "title": "UK sanctions Yemen’s Houthi group and four of its top officials",
-   "link": "https://www.aljazeera.com/news/2026/11/24/uk-sanctions-yemens-houthi-group-four-senior-officials?traffic_source=rss",
-   "summary": "Group must be held accountable for 'targeting our partners and innocent civilians', says Foreign Secretary Ed Miliband.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-24T12:55:55+00:00"
-  },
-  {
-   "title": "Ten years after its 2016 peace deal, Colombia faces a return to conflict",
-   "link": "https://www.aljazeera.com/news/longform/2026/11/24/ten-years-after-its-2016-peace-deal-colombia-faces-a-return-to-conflict?traffic_source=rss",
-   "summary": "Critics fear that a security crackdown under Abelardo de la Espriella could unravel gains made under the 2016 deal.",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-24T13:35:51+00:00"
-  },
-  {
-   "title": "Bleeding, birth defects: Congo residents sue over alleged mining pollution",
-   "link": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals",
-   "summary": "A landmark lawsuit in Congo sees 27 residents accuse a Chinese-owned copper and cobalt mine of poisoning their community and the government of failing to protect them.",
-   "source": "NPR News",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-24T10:00:00+00:00"
-  },
-  {
-   "title": "Fighting between Russia and Ukraine has expanded geographically, drawing concerns",
-   "link": "https://www.npr.org/2026/11/24/nx-s1-6051564/fighting-between-russia-and-ukraine-has-expanded-geographically-drawing-concerns",
-   "summary": "In recent days, Ukraine has sunk a Russian warship docked in port in Libya, and Russian missiles have landed in Poland. The Kremlin has not commented on the missiles.",
-   "source": "NPR News",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-24T09:52:03+00:00"
-  },
-  {
-   "title": "הרעה בתנאי ישראכרט בייסיק: רוצים 0 דמי כרטיס ועמלת המרת מט\"ח? קנו יותר",
-   "link": "https://www.ynet.co.il/economy/article/h1mfem7kqg",
-   "summary": "הכרטיס שהיה המשתלם ביותר לשופינג אונליין בחו\"ל, עם 0% עמלת המרה וללא דמי כרטיס למי שמוציא שקל ומעלה בחודש בכרטיס, דורש כעת הוצאות של 3,000 שקל בחודש. מה החלופות?",
-   "source": "Ynet כלכלה",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-11-24T13:41:24+00:00"
-  },
-  {
-   "title": "World Cup drove profits surge, says Marston's",
-   "link": "https://www.bbc.co.uk/news/articles/cm7523pyk75lo?at_medium=RSS&at_campaign=rss",
-   "summary": "The company says an \"excellent World Cup\" helped drive strong trading as annual profits rose by 18%.",
-   "source": "BBC Business",
-   "lang": "en",
-   "topic": "business",
-   "rtl": false,
-   "published": "2026-11-24T13:03:20+00:00"
   }
  ]
 }
