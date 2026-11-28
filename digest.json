@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-27T22:24:30.404505+00:00",
- "generated_display": "Saturday, 28 November 2026 · 00:24",
+ "generated_at": "2026-11-28T12:05:41.846094+00:00",
+ "generated_display": "Saturday, 28 November 2026 · 14:05",
  "site_title": "The Morning הבוקר",
  "demo": false,
  "topics": {
@@ -23,184 +23,224 @@
  },
  "stories": [
   {
-   "title": "עוקץ הרכבים הגדול: \"הגיעו אליי אנשים בעשר בלילה\" | כך תיזהרו",
-   "link": "https://www.ynet.co.il/news/article/rk9fune17l",
-   "summary": "3 נאשמים מאזור עפולה יצרו קשר עם 26 ישראלים שרצו למכור את רכבם, הגיעו אליהם במהירות וסגרו עסקה במקום ומבלי להתמקח כמעט - עם צ'קים מזויפים והעברות פיקטיביות. \"הייתי צריך את הכסף דחוף, בדיוק נולדה לי ילדה\", סיפר מקסים שנפל קורבן לתרמית. ויקטוריה איבדה את בעלה - ואז את הרכב: \"הם לקחו 76,000 שקלים, נכנסתי לדיכאון\". הפאזל שהתחבר בחקירה - וטענות הנאשמים",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-27T17:40:39+00:00"
-  },
-  {
-   "title": "Russia’s Big Ambitions for A.I. Are Undercut by Constraints of War",
-   "link": "https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html",
-   "summary": "Russian officials see artificial intelligence as a way to solve the country’s pressing problems. But Russia’s technological development has been held back.",
-   "source": "NY Times World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-27T21:41:12+00:00"
-  },
-  {
-   "title": "הצהרת כוונות: סאות'המפטון ודניאל פרץ ניצחו את מוליכת ליגת המשנה, מידלסברו, 0:2",
-   "link": "https://www.haaretz.co.il/sport/world-soccer/2026-11-28/ty-article/000001a2-1f00-d402-a5b3-9f6e78e30000",
-   "summary": "השוער הישראלי שוב שמר על רשת נקייה, וקבוצתו גברה על מוליכת הצ'מפיונשיפ 0:2 באצטדיון סנט מרי. הקדושים האריכו את רצף משחקי הבית שלהם ללא הפסד לתשעה, וצמצמו את הפער מהפסגה ל-4 נקודות בלבד",
-   "source": "הארץ",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-27T22:11:41+00:00"
-  },
-  {
-   "title": "Over 200 US lawmakers to back sanctions bill over West Bank settler violence, sources say",
-   "link": "https://www.jpost.com/american-politics/article-916343",
-   "summary": "Over 200 US lawmakers reportedly support legislation that could impose personal sanctions on Israeli ministers and officials over West Bank settler violence.",
+   "title": "IDF intercepts smuggling balloons carrying over 100 kg of drugs, 15 Kalashnikov rifles",
+   "link": "https://www.jpost.com/israel-news/article-916375",
+   "summary": "According to the military, IDF soldiers spotted the balloons crossing into Israeli territory from the west. Troops located the balloons and uncovered the smuggled drugs and weapons.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-11-27T22:08:14+00:00"
+   "published": "2026-11-28T12:14:16+00:00"
   },
   {
-   "title": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
-   "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
-   "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, will be sentenced at a later date.",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-27T22:03:46+00:00"
-  },
-  {
-   "title": "Danon demands public correction from UN aid chief over Gaza tent deliveries",
-   "link": "https://www.jpost.com/international/article-916335",
-   "summary": "Israel’s UN ambassador demanded a formal apology from Tom Fletcher over his BBC remarks, citing nearly 65,000 additional tents cleared for entry into Gaza.",
+   "title": "Israeli, Turkish fans clash at Georgia airport following riot during Hapoel Beersheba soccer match",
+   "link": "https://www.jpost.com/israel-news/sports/article-916377",
+   "summary": "Turkish soccer fans chanted anti-Israel slogans as security personnel intervened, while Hapoel Beersheba players and staff remained under heavy security.",
    "source": "Jerusalem Post",
    "lang": "en",
    "topic": "israel",
    "rtl": false,
-   "published": "2026-11-27T18:07:02+00:00"
+   "published": "2026-11-28T12:17:57+00:00"
   },
   {
-   "title": "רגע היסטורי בהייטק הישראלי: \"האקזיט הגדול בעולם בתולדות ענף \"המחשוב הקוונטי\"\"",
-   "link": "https://www.maariv.co.il/breaking-news/article-1392956",
-   "summary": "",
-   "source": "מעריב",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-27T21:49:57+00:00"
-  },
-  {
-   "title": "לא סייבר, לא F-35 וגם לא טיל \"חץ 3\": \"ישראל הולכת להמם את העולם עם נשק חדש\"",
-   "link": "https://www.maariv.co.il/breaking-news/article-1392953",
-   "summary": "",
-   "source": "מעריב",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-27T21:44:51+00:00"
-  },
-  {
-   "title": "עימות סוער לפני הבחירות שיכריעו את גורל רה\"מ האנטי-ישראלי: \"מה את חייבת לחמאס?\"",
-   "link": "https://www.ynet.co.il/news/article/hjvcm1pyqg",
-   "summary": "בעימות טלוויזיוני בין המועמדים המובילים בבחירות בספרד שייערכו בראשון, מנהיגת השמאל הרדיקלי התייחסה לשבחים שהרעיף השר שיקלי על יו\"ר מפלגת ווקס מהימין העמוק: \"מה אתה חייב לנתניהו?\". הוא תקף בחזרה: \"תומכת במהגרים ששונאים נשים והומואים\". רה\"מ סנצ'ס לעג לאנגלית של המועמד המוביל להחליפו, שעורר סערה עם מחוות \"השתקה\" וכינה את מלחמת עזה \"טבח\"",
-   "source": "Ynet חדשות",
-   "lang": "he",
-   "topic": "israel",
-   "rtl": true,
-   "published": "2026-11-27T15:00:17+00:00"
-  },
-  {
-   "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
-   "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
-   "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
-   "source": "BBC World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-27T18:42:50+00:00"
-  },
-  {
-   "title": "2.7 מיליון שקל בלבד: החברה שתרכוש את KFC בישראל",
-   "link": "https://www.israelhayom.co.il/food/food-news/article/21947825",
-   "summary": "אחרי חובות של כ-50 מיליון שקל והליכי חדלות פירעון, נקבע מי ירכוש את רשת המזון המהיר KFC בישראל, תמורת סכום נמוך במיוחד ביחס לחובות • מי עוד התמודדה על הרשת, מה יקרה ל-12 הסניפים ברחבי הארץ ומה הובטח לעובדים",
+   "title": "הביטקוין צונח, הרגולציה מתהדקת: שוק הקריפטו עומד בפני שינוי משמעותי",
+   "link": "https://www.israelhayom.co.il/business/article/21949263",
+   "summary": "מאז בחירות האמצע בארה\"ב והשתלטות הדמוקרטים על שני בתי הקונגרס, שוק המטבעות הדיגיטליים סובל מגל מימושים חריף, כשמתחילת נובמבר איבד הביטקוין כ-23% • דוח הקריפטו של PwC לשנת 2027 מצביע על שינוי מגמה וגם ישראל עושה צעדים משמעותיים בתחום",
    "source": "ישראל היום",
    "lang": "he",
    "topic": "israel",
    "rtl": true,
-   "published": "2026-11-27T17:43:54+00:00"
+   "published": "2026-11-28T11:55:29+00:00"
   },
   {
-   "title": "My favorite MPC beat maker is ready for your vibe-coded firmware and effects",
-   "link": "https://www.theverge.com/gadgets/1044485/mpc-sample-firmware-sdk",
-   "summary": "Akai is continuing to open up its various music-making platforms with the MPC Sample 1.4 firmware. My favorite (and the most affordable) of the MPC samplers has become a popular home for vibe-coded custom firmwares and mods. The company has decided, rather than fight it, to embrace the modding community. The latest update adds several […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-11-27T20:48:04+00:00"
+   "title": "זיהוי לילי בגבול: המטען שהתגלה על הבלונים שחצו לישראל",
+   "link": "https://www.israelhayom.co.il/news/defense/article/21948919",
+   "summary": "כוחות צה\"ל זיהו הלילה כמה בלונים שחצו ממערב לשטח ישראל על גבי בלונים • אותרו עליהם 15 רובי קלשניקוב, שני טלפונים ניידים ושלושה שקים שהכילו יותר מ-100 ק\"ג סמים • כלי הנשק והסמים הועברו להמשך טיפול כוחות הביטחון",
+   "source": "ישראל היום",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-11-28T09:42:13+00:00"
   },
   {
-   "title": "Apple’s latest AirTags have dropped to just $18 a pop for Black Friday",
-   "link": "https://www.theverge.com/gadgets/1042841/apple-airtag-2-black-friday-deal-2026-sale",
-   "summary": "If you’re tired of constantly scrounging around for your lost belongings, Apple’s second-gen AirTags are on sale for an all-time low of $18 at Amazon, Walmart, and Best Buy. The handy location trackers have a list price of $29 each, but have been consistently available for around $24 since Amazon Prime Day in late June. […]",
-   "source": "The Verge",
-   "lang": "en",
-   "topic": "tech",
-   "rtl": false,
-   "published": "2026-11-27T20:30:00+00:00"
+   "title": "פריצות הדרך והחשש הדרמטי: \"מעבדות AI יושבות על פצצה\" שתגרום לכאוס עולמי",
+   "link": "https://www.ynet.co.il/news/article/bk00zjf001ml",
+   "summary": "לפי הגרדיאן הבריטי, ייתכן שבינה מלאכותית פיצחה בעיות מתמטיות בנות עשרות שנים העומדות בבסיס ההצפנה של בנקים וסוכנויות ממשלתיות. מתמטיקאי מוביל הסביר שייתכן ש\"כולם שומרים על שקט\" בגלל ההשלכות העצומות, אחר הוסיף: \"צריכים להיות מוכנים לכך שמשהו יצוץ פתאום\". עד כמה הסכנה מיידית?",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-11-28T08:48:41+00:00"
   },
   {
-   "title": "Spanish Police Find a Vast Marijuana Bunker Beneath a Backyard Playground",
-   "link": "https://www.nytimes.com/2026/11/27/world/europe/marijuana-farm-spain-playground.html",
-   "summary": "Five people were arrested in southern Spain after a large marijuana farm was found under a playhouse on artificial turf.",
+   "title": "\"מה עשינו?\" | תיעוד: פורעים יהודים תקפו עובדי חשמל, 3 נפצעו",
+   "link": "https://www.ynet.co.il/news/article/ry879700yxx",
+   "summary": "לא ברור אם העבודות לתיקון חשמל בכפר באזור בנימין, שהסתיימו בתקיפה חמורה גם באמצעות מוטות, תואמו עם צה\"ל. המשטרה פתחה בחקירה",
+   "source": "Ynet חדשות",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-11-28T10:26:31+00:00"
+  },
+  {
+   "title": "Behind the Story: Canada’s Border Rules Are Splitting Up Haitian Families",
+   "link": "https://www.nytimes.com/2026/11/28/world/canada/us-border-haitian-families-third-safe-country.html",
+   "summary": "Asylum seekers coming from the U.S. must qualify for an exception to the Safe Third Country Agreement to make a refugee claim at a Canadian border crossing.",
    "source": "NY Times World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-11-27T17:45:33+00:00"
+   "published": "2026-11-28T11:00:08+00:00"
   },
   {
-   "title": "OpenAI countersues Apple over trade secrets as AI race heats up",
-   "link": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss",
-   "summary": "Tensions between the two tech companies have escalated as intensifying race to develop AI products fuels competition.",
-   "source": "Al Jazeera",
+   "title": "Abroad, Spain’s Leader Is a Left-Wing Hero. Will He Lose Power at Home?",
+   "link": "https://www.nytimes.com/2026/11/28/world/europe/spain-pedro-sanchez-conservatives-election.html",
+   "summary": "Prime Minister Pedro Sánchez, a staunch critic of President Trump, faces an uphill task to overcome a right-wing challenge in the national election on Sunday.",
+   "source": "NY Times World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-11-27T20:40:51+00:00"
+   "published": "2026-11-28T05:01:10+00:00"
   },
   {
-   "title": "Jerusalem Daily: Kushner calls Gaza rebuilding ‘act of kindness’",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/jerusalem-daily-kushner-calls-gaza-rebuilding-act-of?traffic_source=rss",
-   "summary": "As Gaza remains under Israeli bombardment, US envoy Jared Kushner calls its reconstruction a ‘huge act of kindness'.",
-   "source": "Al Jazeera",
+   "title": "שלושה עובדי חשמל הותקפו ע״י עשרות רעולי פנים בבנימין | תיעוד קשה",
+   "link": "https://www.walla.co.il/news/israel/383963460",
+   "summary": "שלושה עובדי חברת החשמל המזרח ירושלמית נפצעו בתקיפת רעולי פנים בכפר אל-מוע'ייר שבבנימין, בעת שעסקו בתיקון עמוד חשמל - כך נמסר היום (שבת) ממשטרת מחוז ש״י. כוחות צה\"ל ומג\"ב הוזעקו למקום, והמשטרה פתחה בחקירה. חוקרי הזיהוי הפלילי אספו ממצאים וראיות בזירה וגבו עדויות.",
+   "source": "וואלה",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-11-28T11:02:43+00:00"
+  },
+  {
+   "title": "המבצע הלא מאושר והרימונים באלטלנה: העדות הנדירה של עמוס חורב",
+   "link": "https://www.walla.co.il/news/israel/383963300",
+   "summary": "קצין ההנדסה הראשי של צה\"ל, עמנואל שחר, לא הבין מדוע הוא נוסע הלוך ושוב על הכביש שבין מפקדת חזית הדרום בקסטינה לבין באר שבע. לצידו ברכב ישב עמוס חורב, סגן קצין המבצעים של חזית הדרום בסוף 1948, שדאג להאריך את הנסיעות הללו במכוון. הימים היו ימי ההכנות למבצע חורב, המבצע המכריע בחזית הדרום במלחמת העצמאות. ראש אגף המבצעים במטכ\"ל, יגאל ידין, פקפק בהערכת מטה החזית שלפיה ניתן להעביר כוחות בדיונות של ואדי א",
+   "source": "וואלה",
+   "lang": "he",
+   "topic": "israel",
+   "rtl": true,
+   "published": "2026-11-28T10:26:21+00:00"
+  },
+  {
+   "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+   "link": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+   "summary": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
+   "source": "BBC World",
    "lang": "en",
    "topic": "world",
    "rtl": false,
-   "published": "2026-11-27T16:01:44+00:00"
+   "published": "2026-11-28T10:34:58+00:00"
   },
   {
-   "title": "נעילה ירוקה בוול סטריט; נאסד\"ק קפץ ב-2.3%, מניית אנתרופיק זינקה ב-11%",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001565316#utm_source=RSS",
-   "summary": "יום המסחר בשווקים הגלובליים נפתח ברגל ימין, לקראת חזרתה של הבורסה בניו יורק מחופשה לרגל חג ההודיה • המסחר בארה\"ב התנהל היום במתכונת מקוצרת וננעל בשעה 20:00 שעון ישראל",
+   "title": "Explosion at a school in eastern Afghanistan kills 7, wounds more than 90",
+   "link": "https://www.npr.org/2026/11/28/nx-s1-6056284/explosion-school-eastern-afghanistan",
+   "summary": "Local officials said the blast appeared to have originated in a neighboring depot for mining explosives.",
+   "source": "NPR News",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-28T11:32:37+00:00"
+  },
+  {
+   "title": "האם הסמארטפון הסיני מצדיק תג מחיר של 6,500 שקל?",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001565221#utm_source=RSS",
+   "summary": "ה–Find X10 Pro Max של OPPO נחת בישראל בשבועות האחרונים וכולל מפרט מרשים, סוללה בקיבולת גבוהה וערכת צילום מתקדמת • הבעיה היא תג המחיר, שיכול להאמיר ל–8,000 שקל אם תבחרו להוסיף את העדשה החיצונית",
    "source": "גלובס",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-11-27T18:00:00+00:00"
+   "published": "2026-11-28T08:11:00+00:00"
   },
   {
-   "title": "הבורסה ננעלה בעליות חדות; ת\"א 35 הוסיף כ-4% בראלי של יומיים",
-   "link": "https://www.globes.co.il/news/article.aspx?did=1001565247#utm_source=RSS",
-   "summary": "מדד ת\"א 35 קפץ בכ-1.5%, ת\"א 90 הוסיף 2.5% • המסחר התנהל על רקע הסנטימנט החיובי בשווקים בעולם וההתקדמות לעבר הרכבת ממשלה בישראל • מניות הטכנולוגיה קפצו על רקע זינוק של קרוב ל-3% בחוזים על הנאסד\"ק • עליות חדות נרשמו הבוקר גם באסיה • שער הדולר-שקל שבר מתחת לרף ה-3.3 שקלים • וגם: בנק ההשקעות שצופה ל-S&P 500 ראלי של 25%",
+   "title": "ה-AI יוצר לנו תאום דיגיטלי. האם הוא ימשיך לעבוד גם כשנעזוב?",
+   "link": "https://www.globes.co.il/news/article.aspx?did=1001564814#utm_source=RSS",
+   "summary": "עם מי מדברים? ד\"ר תהילה שוורץ אלטשולר, מומחית למשפט, תקשורת, טכנולוגיה, עמיתה בכירה במכון הישראלי לדמוקרטיה • על מה מדברים? איך ה-AI משכפל את דפוסי החשיבה שלנו, מי יגן עלינו כשהמכונות יתחילו לנהל אותנו והמשקפיים החכמים שיהפכו עובדים למרגלים בעבודה • פופקורן",
    "source": "גלובס",
    "lang": "he",
    "topic": "business",
    "rtl": true,
-   "published": "2026-11-27T11:53:00+00:00"
+   "published": "2026-11-28T09:00:00+00:00"
+  },
+  {
+   "title": "Israel unity government talks stall: What happens now?",
+   "link": "https://www.aljazeera.com/news/2026/11/28/israel-unity-government-talks-stall-what-happens-now?traffic_source=rss",
+   "summary": "Eisenkot struggles to form a government as talks with Netanyahu stall over rotation deal and coalition compromises.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-28T11:29:21+00:00"
+  },
+  {
+   "title": "Australian wrestler Bronson Reed dies aged 38, WWE says",
+   "link": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&at_campaign=rss",
+   "summary": "Tributes have flooded in for the 38-year-old Australian who is survived by his pregnant wife, Paige, their daughter.",
+   "source": "BBC World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-28T07:31:14+00:00"
+  },
+  {
+   "title": "Two visions of Spain collide as voters weigh PM Sanchez’s record",
+   "link": "https://www.aljazeera.com/news/2026/11/28/two-visions-of-spain-collide-as-voters-weigh-sanchez-record?traffic_source=rss",
+   "summary": "Socialist PM Sanchez seeks re-election but polls suggest conservative PP and far-right Vox could reach majority.",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-28T10:36:41+00:00"
+  },
+  {
+   "title": "The absolute best Black Friday deals you can still get",
+   "link": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+   "summary": "Black Friday is nearly over, but many of this year’s best deals are still available. You can still find some of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, robot vacuums, and so much more. We can’t guarantee a deal you’ve had your eye on will last through Cyber […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-11-28T03:28:32+00:00"
+  },
+  {
+   "title": "The M5 MacBook Air just got its biggest discount since Apple raised the price",
+   "link": "https://www.theverge.com/gadgets/1044771/m5-macbook-air-black-friday-2026-deal-sale",
+   "summary": "If you’ve been holding off on buying a new MacBook Air since Apple raised prices by $200 in June, you’re in luck. The 13-inch M5 MacBook Air is on sale at Amazon and Best Buy with 16GB of RAM and 512GB of storage starting at $999 ($300 off) for Black Friday, which is the lowest […]",
+   "source": "The Verge",
+   "lang": "en",
+   "topic": "tech",
+   "rtl": false,
+   "published": "2026-11-28T03:30:00+00:00"
+  },
+  {
+   "title": "Butcher blames costs for closure after 127 years",
+   "link": "https://www.bbc.co.uk/news/articles/cqe9k3m9mvexo?at_medium=RSS&at_campaign=rss",
+   "summary": "Bennett Butchers in Spalding says rises in National Insurance and energy have made it \"unviable\".",
+   "source": "BBC Business",
+   "lang": "en",
+   "topic": "business",
+   "rtl": false,
+   "published": "2026-11-28T07:18:47+00:00"
+  },
+  {
+   "title": "Taliban reportedly strips women of their names in Afghan province, now being called 'goat' or 'grandmother'",
+   "link": "https://www.foxnews.com/world/taliban-strips-women-names-afghan-province-called-goat-grandmother",
+   "summary": "The Taliban reportedly banned women's names from official records in an Afghan province, five years after reclaiming power amid Biden's chaotic withdrawal.",
+   "source": "Fox News World",
+   "lang": "en",
+   "topic": "world",
+   "rtl": false,
+   "published": "2026-11-28T01:42:28+00:00"
+  },
+  {
+   "title": "\"אני בונה את הבית בעצמי; זה לא כזה רומנטי. זה כאב ראש\"",
+   "link": "https://www.ynet.co.il/economy/article/l3tp2qxtq",
+   "summary": "משפחת בצר בנו סביב היער בבית לחם הגלילית המון פעילויות - יער מאכל, גידולים, עגלת קפה והם לא מתביישים להפוך את זה לפרנסה: \"לא נהיה עשירים מיער מאכל. אפשר לעשות דברים יותר רווחיים מהשטח אבל אנחנו מתפרנסים בכבוד\". וגם: הבית החדש שהם בונים מצמח המפ",
+   "source": "Ynet כלכלה",
+   "lang": "he",
+   "topic": "business",
+   "rtl": true,
+   "published": "2026-11-28T05:58:42+00:00"
   },
   {
    "title": "לאחר שצברה חובות: KFC ישראל תימכר לאיש העסקים אמיר חמיאס",
@@ -211,36 +251,6 @@
    "topic": "business",
    "rtl": true,
    "published": "2026-11-27T13:18:40+00:00"
-  },
-  {
-   "title": "Tiny English village battles government over migrant housing plan amid crime fears for women",
-   "link": "https://www.foxnews.com/world/tiny-english-village-battles-government-over-migrant-housing-plan-amid-crime-fears-women",
-   "summary": "Piddington villagers voted 285-26 to secede from the UK after learning plans would house over 1,200 male asylum seekers at MoD Bicester nearby.",
-   "source": "Fox News World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-27T19:37:23+00:00"
-  },
-  {
-   "title": "\"יש מחיר להצלחה אבל אין לי זכות להתלונן\": דור קרובינר על החיים אחרי שני אקזיטים",
-   "link": "https://www.ynet.co.il/economy/article/yokra14970027",
-   "summary": "דור קרובינר ושותפיו טסו למיאמי כדי לפגוש מנכ\"ל קוריאני שהבריז להם – ואז תפסו אותו במקרה במסדרון המלון ושכנעו אותו להקשיב להם. בתוך זמן קצר מכרו לו את חברת Mize ב-300 מיליון דולר. בריאיון מספר קרובינר על המחיר האישי והמשפחתי של היזמות, החיים לצד אשתו השחקנית אגם רודברג, היתרון של החוצפה הישראלית ועל ה-AI שעומד לשנות לחלוטין את הדרך שבה נזמין חופשה",
-   "source": "Ynet כלכלה",
-   "lang": "he",
-   "topic": "business",
-   "rtl": true,
-   "published": "2026-11-27T05:11:19+00:00"
-  },
-  {
-   "title": "US military disables tanker ship attempting to slip through Iran blockade on Thanksgiving Day",
-   "link": "https://www.foxnews.com/world/us-military-disables-tanker-ship-attempting-slip-through-iran-blockade-thanksgiving-day",
-   "summary": "CENTCOM video shows a U.S. strike disabling a commercial vessel in the Gulf of Oman after it tried to evade the naval blockade of all Iranian ports.",
-   "source": "Fox News World",
-   "lang": "en",
-   "topic": "world",
-   "rtl": false,
-   "published": "2026-11-27T18:48:07+00:00"
   },
   {
    "title": "The best Black Friday deals Ars could find",
@@ -263,24 +273,14 @@
    "published": "2026-11-27T12:05:01+00:00"
   },
   {
-   "title": "Will new energy fixes cost more in January?",
-   "link": "https://www.bbc.co.uk/news/videos/cwjd7y4jk581o?at_medium=RSS&at_campaign=rss",
-   "summary": "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.",
-   "source": "BBC Business",
-   "lang": "en",
-   "topic": "business",
-   "rtl": false,
-   "published": "2026-11-27T16:05:32+00:00"
-  },
-  {
-   "title": "Is Alice Huang a spy or not?",
-   "link": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
-   "summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
-   "source": "TechCrunch",
-   "lang": "en",
+   "title": "GTA 6 הוא משחק העשור: אז למה לא נתתי לו 10?",
+   "link": "https://www.ynet.co.il/digital/gaming/article/ryobx3ljqg",
+   "summary": "אחרי 13 שנות המתנה ועשרות שעות משחק, רוקסטאר הצליחה להפתיע אותי גם בתור גיימרית ותיקה. עם עולם פתוח ברמת פירוט חסרת תקדים, משחקיות ריאליסטית ועלילה שהתבגרה יחד עם קהל המעריצים שלה, GTA 6 מציב סטנדרט חדש לתעשיית הגיימינג. ולמרות זאת, משהו כן הצליח לעצבן אותי | סקירה בלי ספוילרים",
+   "source": "Ynet טכנולוגיה",
+   "lang": "he",
    "topic": "tech",
-   "rtl": false,
-   "published": "2026-11-26T20:00:00+00:00"
+   "rtl": true,
+   "published": "2026-11-27T10:50:18+00:00"
   }
  ]
 }
